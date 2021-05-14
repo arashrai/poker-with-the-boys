@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from datetime import datetime
 
-CSV_FILE = "poker_night_20210506.csv"
+CSV_FILE = "poker_night_20210513.csv"
 logs = []
 
 with open(CSV_FILE) as file:
@@ -33,15 +33,32 @@ def extract_data_from_stack_row(row):
     return player_to_amount, row[2]
 
 
-def extract_player_from_join_row(row):
+def extract_data_from_approval_row(row):
     r = row[0]
     player_name = r[r.index('"') + 1 : r.index("@") - 1]
-    return player_name
+    amount = int(r[r.index("of") + 3 : r.index(".")])
+    return player_name, amount
+
+
+def extract_data_from_admin_stack_change_row(row):
+    r = row[0]
+    player_name = r[r.index('"') + 1 : r.index("@") - 1]
+    amount = int(r[r.index("adding ") + 7 : r.index("chips") - 1])
+    return player_name, amount
+
+
+def extract_data_from_quit_row(row):
+    r = row[0]
+    player_name = r[r.index('"') + 1 : r.index("@") - 1]
+    amount = int(r[r.index("of") + 3 : r.index(".")])
+    return player_name, amount
 
 
 def extract_stack_history(logs):
     player_to_stack_history = {}
     player_to_buy_ins = {}
+    player_to_is_eliminated = {}
+
     hand_times = []
 
     for row in logs:
@@ -58,13 +75,27 @@ def extract_stack_history(logs):
                     ]
             for p in player_to_stack_history:
                 if p not in player_to_amount:
-                    player_to_stack_history[p].append(0 - player_to_buy_ins[p] * 1000)
+                    if player_to_is_eliminated[p]:
+                        player_to_stack_history[p].append(
+                            0 - player_to_buy_ins[p] * 1000
+                        )
+                    else:
+                        player_to_stack_history[p].append(
+                            player_to_stack_history[p][-1]
+                        )
             hand_times.append(datetime.fromtimestamp(int(unix_time) / 100000))
-        elif "joined the game" in row[0]:
-            player = extract_player_from_join_row(row)
+        elif "The admin approved the player" in row[0]:
+            player, amount = extract_data_from_approval_row(row)
             if player not in player_to_buy_ins:
                 player_to_buy_ins[player] = 0
             player_to_buy_ins[player] += 1
+            player_to_is_eliminated[player] = False
+        elif "WARNING: the admin queued the stack change" in row[0]:
+            player, amount = extract_data_from_admin_stack_change_row(row)
+            player_to_buy_ins[player] += 1
+        elif "quits the game" in row[0]:
+            player, amount = extract_data_from_quit_row(row)
+            player_to_is_eliminated[player] = True
 
     return player_to_stack_history, hand_times
 
