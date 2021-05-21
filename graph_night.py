@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from datetime import datetime
 
-CSV_FILE = "poker_night_20210513.csv"
+CSV_FILE = "poker_night_20210520.csv"
 logs = []
 
 with open(CSV_FILE) as file:
@@ -95,7 +95,8 @@ def extract_stack_history(logs):
             player_to_buy_ins[player] += 1
         elif "quits the game" in row[0]:
             player, amount = extract_data_from_quit_row(row)
-            player_to_is_eliminated[player] = True
+            if amount == 0:
+                player_to_is_eliminated[player] = True
 
     return player_to_stack_history, hand_times
 
