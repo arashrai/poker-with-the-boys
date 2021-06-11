@@ -2807,13 +2807,11 @@ entry,at,order
 "Player stacks: #2 ""Jonah @ KdrqU8EIQ1"" (2317) | #3 ""peelic @ c2JqQCu6sT"" (1719) | #4 ""Stevo @ aL5upxHjBA"" (1313) | #9 ""eorgeg @ G4RdqDSm6Z"" (1000) | #10 ""arash @ huBdniBdCU"" (651)",2021-06-11T00:49:11.274Z,162337255127803
 "-- starting hand #50  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2021-06-11T00:49:11.274Z,162337255127802
 "The player ""eorgeg @ G4RdqDSm6Z"" joined the game with a stack of 1000.",2021-06-11T00:49:11.274Z,162337255127801
-"The player ""Stevo @ aL5upxHjBA"" joined the game with a stack of 1313.",2021-06-11T00:49:11.274Z,162337255127800
 "The admin approved the player ""eorgeg @ G4RdqDSm6Z"" participation with a stack of 1000.",2021-06-11T00:49:08.506Z,162337254850900
 "-- ending hand #49 --",2021-06-11T00:49:08.354Z,162337254835502
 """arash @ huBdniBdCU"" collected 120 from pot",2021-06-11T00:49:08.354Z,162337254835501
 "Uncalled bet of 40 returned to ""arash @ huBdniBdCU""",2021-06-11T00:49:08.354Z,162337254835500
 """peelic @ c2JqQCu6sT"" folds",2021-06-11T00:49:07.549Z,162337254755000
-"The admin approved the player ""Stevo @ aL5upxHjBA"" participation with a stack of 1313.",2021-06-11T00:49:04.350Z,162337254435501
 "The player ""Stevo @ aL5upxHjBA"" requested a seat.",2021-06-11T00:49:04.350Z,162337254435500
 """Jonah @ KdrqU8EIQ1"" folds",2021-06-11T00:49:03.736Z,162337254373600
 """arash @ huBdniBdCU"" bets 40",2021-06-11T00:49:02.037Z,162337254203800
@@ -2831,7 +2829,6 @@ entry,at,order
 "Your hand is 2♣, 3♥",2021-06-11T00:48:16.237Z,162337249624005
 "Player stacks: #2 ""Jonah @ KdrqU8EIQ1"" (2357) | #3 ""peelic @ c2JqQCu6sT"" (1759) | #10 ""arash @ huBdniBdCU"" (571)",2021-06-11T00:48:16.237Z,162337249624002
 "-- starting hand #49  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2021-06-11T00:48:16.237Z,162337249624001
-"The player ""Stevo @ aL5upxHjBA"" quits the game with a stack of 1313.",2021-06-11T00:48:16.237Z,162337249624000
 "-- ending hand #48 --",2021-06-11T00:48:13.314Z,162337249331402
 """arash @ huBdniBdCU"" collected 120 from pot",2021-06-11T00:48:13.314Z,162337249331401
 "Uncalled bet of 20 returned to ""arash @ huBdniBdCU""",2021-06-11T00:48:13.314Z,162337249331400
@@ -4204,11 +4201,9 @@ entry,at,order
 "The player ""eorgeo @ G4RdqDSm6Z"" requested a seat.",2021-06-11T00:09:27.773Z,162337016777300
 "The admin approved the player ""peelic @ c2JqQCu6sT"" participation with a stack of 1000.",2021-06-11T00:03:41.493Z,162336982149500
 "The player ""peelic @ c2JqQCu6sT"" requested a seat.",2021-06-11T00:03:36.120Z,162336981612100
-"The admin updated the player ""Stevo @ aL5upxHjBA"" stack from 201000 to 1000.",2021-06-11T00:02:06.201Z,162336972620501
-"WARNING: the admin queued the stack change for the player ""Stevo @ aL5upxHjBA"" reseting to 1000 chips in the next hand.",2021-06-11T00:02:06.201Z,162336972620500
 "The admin approved the player ""Jonah @ KdrqU8EIQ1"" participation with a stack of 1000.",2021-06-11T00:00:42.759Z,162336964276100
 "The admin approved the player ""arash @ huBdniBdCU"" participation with a stack of 1000.",2021-06-11T00:00:40.659Z,162336964066300
 "The player ""Jonah @ KdrqU8EIQ1"" requested a seat.",2021-06-11T00:00:31.555Z,162336963155600
 "The player ""arash @ huBdniBdCU"" requested a seat.",2021-06-11T00:00:30.849Z,162336963085000
-"The admin approved the player ""Stevo @ aL5upxHjBA"" participation with a stack of 201000.",2021-06-10T23:02:16.794Z,162336613679701
+"The admin approved the player ""Stevo @ aL5upxHjBA"" participation with a stack of 1000.",2021-06-10T23:02:16.794Z,162336613679701
 "The player ""Stevo @ aL5upxHjBA"" requested a seat.",2021-06-10T23:02:16.794Z,162336613679700
