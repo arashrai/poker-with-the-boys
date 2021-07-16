@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from datetime import datetime
 
-CSV_FILE = "poker_night_20210708.csv"
+CSV_FILE = "poker_night_20210715.csv"
 logs = []
 
 with open(CSV_FILE) as file:
