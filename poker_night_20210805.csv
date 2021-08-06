@@ -3194,13 +3194,12 @@ entry,at,order
 """Stevo @ aL5upxHjBA"" calls 20",2021-08-06T00:17:37.658Z,162820905765800
 """Spenny @ cu8vqwqurV"" calls 20",2021-08-06T00:17:35.932Z,162820905593200
 """susan @ mLSzeP848Z"" folds",2021-08-06T00:17:35.029Z,162820905502900
-"WARNING: the admin queued the stack change for the player ""susan @ mLSzeP848Z"" reseting to 1000 chips in the next hand.",2021-08-06T00:17:24.663Z,162820904466300
 """Jonah @ KdrqU8EIQ1"" posts a big blind of 20",2021-08-06T00:17:22.659Z,162820904265911
 """arash @ huBdniBdCU"" posts a small blind of 10",2021-08-06T00:17:22.659Z,162820904265910
 "Your hand is 9♣, 7♥",2021-08-06T00:17:22.659Z,162820904265907
-"Player stacks: #2 ""Spenny @ cu8vqwqurV"" (860) | #3 ""Stevo @ aL5upxHjBA"" (1240) | #4 ""peelic @ c2JqQCu6sT"" (820) | #7 ""egree @ G4RdqDSm6Z"" (940) | #8 ""arash @ huBdniBdCU"" (720) | #9 ""Jonah @ KdrqU8EIQ1"" (1420) | #10 ""susan @ mLSzeP848Z"" (1)",2021-08-06T00:17:22.659Z,162820904265902
+"Player stacks: #2 ""Spenny @ cu8vqwqurV"" (860) | #3 ""Stevo @ aL5upxHjBA"" (1240) | #4 ""peelic @ c2JqQCu6sT"" (820) | #7 ""egree @ G4RdqDSm6Z"" (940) | #8 ""arash @ huBdniBdCU"" (720) | #9 ""Jonah @ KdrqU8EIQ1"" (1420) | #10 ""susan @ mLSzeP848Z"" (1000)",2021-08-06T00:17:22.659Z,162820904265902
 "-- starting hand #8  (No Limit Texas Hold'em) (dealer: ""egree @ G4RdqDSm6Z"") --",2021-08-06T00:17:22.659Z,162820904265901
-"The player ""susan @ mLSzeP848Z"" joined the game with a stack of 1.",2021-08-06T00:17:22.659Z,162820904265900
+"The player ""susan @ mLSzeP848Z"" joined the game with a stack of 1000.",2021-08-06T00:17:22.659Z,162820904265900
 "-- ending hand #7 --",2021-08-06T00:17:16.637Z,162820903663703
 """Jonah @ KdrqU8EIQ1"" shows a Q♣, 10♠.",2021-08-06T00:17:16.637Z,162820903663702
 """Spenny @ cu8vqwqurV"" collected 180 from pot with Two Pair, A's & 6's (combination: A♦, A♣, 6♣, 6♠, 10♦)",2021-08-06T00:17:16.637Z,162820903663701
