@@ -1,0 +1,1655 @@
+entry,at,order
+"""Stevo @ aL5upxHjBA"" posts a big blind of 20",2021-10-15T01:00:48.711Z,163425964871107
+"""gerog @ G4RdqDSm6Z"" posts a small blind of 10",2021-10-15T01:00:48.711Z,163425964871106
+"Your hand is 6♦, 5♠",2021-10-15T01:00:48.711Z,163425964871103
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1210) | #5 ""arash @ huBdniBdCU"" (1970) | #7 ""gerog @ G4RdqDSm6Z"" (580) | #10 ""Stevo @ aL5upxHjBA"" (220)",2021-10-15T01:00:48.711Z,163425964871101
+"-- starting hand #62  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2021-10-15T01:00:48.711Z,163425964871100
+"""Spenny @ cu8vqwqurV"" shows a 2♥, 3♣.",2021-10-15T01:00:42.931Z,163425964293100
+"-- ending hand #61 --",2021-10-15T01:00:42.157Z,163425964215702
+"""gerog @ G4RdqDSm6Z"" collected 230 from pot with Pair, Q's (combination: Q♠, Q♣, A♥, 10♥, 8♥)",2021-10-15T01:00:42.157Z,163425964215701
+"""gerog @ G4RdqDSm6Z"" shows a Q♠, 10♥.",2021-10-15T01:00:42.157Z,163425964215700
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T01:00:41.351Z,163425964135100
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T01:00:39.937Z,163425963993700
+"""gerog @ G4RdqDSm6Z"" bets 20",2021-10-15T01:00:38.827Z,163425963882700
+"River: 8♥, 3♠, A♥, Q♣ [4♥]",2021-10-15T01:00:37.304Z,163425963730400
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T01:00:36.497Z,163425963649700
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T01:00:30.530Z,163425963053000
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T01:00:29.631Z,163425962963100
+"Turn: 8♥, 3♠, A♥ [Q♣]",2021-10-15T01:00:26.141Z,163425962614100
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T01:00:25.295Z,163425962529500
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T01:00:24.388Z,163425962438800
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T01:00:23.335Z,163425962333500
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T01:00:18.905Z,163425961890500
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T01:00:17.829Z,163425961782900
+"Flop:  [8♥, 3♠, A♥]",2021-10-15T01:00:15.643Z,163425961564300
+"""gerog @ G4RdqDSm6Z"" calls 40",2021-10-15T01:00:14.825Z,163425961482500
+"""arash @ huBdniBdCU"" folds",2021-10-15T01:00:13.834Z,163425961383400
+"""Spenny @ cu8vqwqurV"" calls 40",2021-10-15T01:00:12.933Z,163425961293300
+"""Stevo @ aL5upxHjBA"" raises to 40",2021-10-15T01:00:09.726Z,163425960972600
+"""gerog @ G4RdqDSm6Z"" posts a big blind of 20",2021-10-15T01:00:06.269Z,163425960626907
+"""arash @ huBdniBdCU"" posts a small blind of 10",2021-10-15T01:00:06.269Z,163425960626906
+"Your hand is 4♦, 8♣",2021-10-15T01:00:06.269Z,163425960626903
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1290) | #5 ""arash @ huBdniBdCU"" (1980) | #7 ""gerog @ G4RdqDSm6Z"" (430) | #10 ""Stevo @ aL5upxHjBA"" (280)",2021-10-15T01:00:06.269Z,163425960626901
+"-- starting hand #61  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2021-10-15T01:00:06.269Z,163425960626900
+"""arash @ huBdniBdCU"" shows a 4♠, 9♣.",2021-10-15T01:00:02.006Z,163425960200600
+"-- ending hand #60 --",2021-10-15T00:59:59.731Z,163425959973102
+"""Spenny @ cu8vqwqurV"" collected 40 from pot with Pair, 4's (combination: 4♦, 4♣, Q♣, J♥, 10♣)",2021-10-15T00:59:59.731Z,163425959973101
+"""Spenny @ cu8vqwqurV"" shows a 10♣, 4♦.",2021-10-15T00:59:59.731Z,163425959973100
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:59:58.921Z,163425959892100
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:59:57.795Z,163425959779500
+"River: 3♥, 7♠, J♥, 4♣ [Q♣]",2021-10-15T00:59:55.211Z,163425959521100
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:59:54.399Z,163425959439900
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:59:53.161Z,163425959316100
+"Turn: 3♥, 7♠, J♥ [4♣]",2021-10-15T00:59:48.536Z,163425958853600
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:59:47.727Z,163425958772700
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:59:44.145Z,163425958414500
+"Flop:  [3♥, 7♠, J♥]",2021-10-15T00:59:39.244Z,163425957924400
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:59:38.436Z,163425957843600
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:59:36.953Z,163425957695300
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:59:32.927Z,163425957292700
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:59:32.026Z,163425957202600
+"""arash @ huBdniBdCU"" posts a big blind of 20",2021-10-15T00:59:30.277Z,163425957027707
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2021-10-15T00:59:30.277Z,163425957027706
+"Your hand is 4♠, 9♣",2021-10-15T00:59:30.277Z,163425957027703
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1270) | #5 ""arash @ huBdniBdCU"" (2000) | #7 ""gerog @ G4RdqDSm6Z"" (430) | #10 ""Stevo @ aL5upxHjBA"" (280)",2021-10-15T00:59:30.277Z,163425957027701
+"-- starting hand #60  (No Limit Texas Hold'em) (dealer: ""Stevo @ aL5upxHjBA"") --",2021-10-15T00:59:30.277Z,163425957027700
+"-- ending hand #59 --",2021-10-15T00:59:24.235Z,163425956423503
+"""Stevo @ aL5upxHjBA"" shows a Q♥, 7♣.",2021-10-15T00:59:24.235Z,163425956423502
+"""Spenny @ cu8vqwqurV"" collected 380 from pot with Three of a Kind, 10's (combination: 10♠, 10♣, 10♥, K♥, Q♦)",2021-10-15T00:59:24.235Z,163425956423501
+"""Spenny @ cu8vqwqurV"" shows a 10♠, 10♣.",2021-10-15T00:59:24.235Z,163425956423500
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:59:23.424Z,163425956342400
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:59:21.927Z,163425956192700
+"River: 10♥, 7♦, Q♦, 2♦ [K♥]",2021-10-15T00:59:20.610Z,163425956061000
+"""Spenny @ cu8vqwqurV"" calls 100",2021-10-15T00:59:19.801Z,163425955980100
+"""Stevo @ aL5upxHjBA"" bets 100",2021-10-15T00:59:09.514Z,163425954951400
+"Turn: 10♥, 7♦, Q♦ [2♦]",2021-10-15T00:59:07.310Z,163425954731000
+"""Spenny @ cu8vqwqurV"" calls 50",2021-10-15T00:59:06.501Z,163425954650100
+"""Stevo @ aL5upxHjBA"" bets 50",2021-10-15T00:59:04.811Z,163425954481100
+"Flop:  [10♥, 7♦, Q♦]",2021-10-15T00:59:00.755Z,163425954075500
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:58:59.946Z,163425953994600
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:58:59.080Z,163425953908000
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:58:58.129Z,163425953812900
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:58:55.877Z,163425953587700
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2021-10-15T00:58:52.637Z,163425953263707
+"""Stevo @ aL5upxHjBA"" posts a small blind of 10",2021-10-15T00:58:52.637Z,163425953263706
+"Your hand is 8♣, 3♦",2021-10-15T00:58:52.637Z,163425953263703
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1080) | #5 ""arash @ huBdniBdCU"" (2000) | #7 ""gerog @ G4RdqDSm6Z"" (430) | #10 ""Stevo @ aL5upxHjBA"" (470)",2021-10-15T00:58:52.637Z,163425953263701
+"-- starting hand #59  (No Limit Texas Hold'em) (dealer: ""gerog @ G4RdqDSm6Z"") --",2021-10-15T00:58:52.637Z,163425953263700
+"Undealt cards: 6♠, 8♦, 2♥, 9♠ [4♥]",2021-10-15T00:58:48.732Z,163425952873200
+"-- ending hand #58 --",2021-10-15T00:58:46.727Z,163425952672702
+"""Stevo @ aL5upxHjBA"" collected 140 from pot",2021-10-15T00:58:46.727Z,163425952672701
+"Uncalled bet of 80 returned to ""Stevo @ aL5upxHjBA""",2021-10-15T00:58:46.727Z,163425952672700
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:58:45.920Z,163425952592000
+"""Stevo @ aL5upxHjBA"" bets 80",2021-10-15T00:58:44.940Z,163425952494000
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:58:42.665Z,163425952266500
+"Turn: 6♠, 8♦, 2♥ [9♠]",2021-10-15T00:58:41.229Z,163425952122900
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:58:40.413Z,163425952041300
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:58:37.903Z,163425951790300
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:58:35.295Z,163425951529500
+"Flop:  [6♠, 8♦, 2♥]",2021-10-15T00:58:33.470Z,163425951347000
+"""gerog @ G4RdqDSm6Z"" calls 40",2021-10-15T00:58:32.663Z,163425951266300
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:58:31.512Z,163425951151200
+"""Stevo @ aL5upxHjBA"" raises to 40",2021-10-15T00:58:29.385Z,163425950938500
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:58:27.230Z,163425950723000
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:58:25.981Z,163425950598100
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:58:24.711Z,163425950471100
+"""Stevo @ aL5upxHjBA"" posts a big blind of 20",2021-10-15T00:58:20.820Z,163425950082007
+"""gerog @ G4RdqDSm6Z"" posts a small blind of 10",2021-10-15T00:58:20.820Z,163425950082006
+"Your hand is 5♥, 10♠",2021-10-15T00:58:20.820Z,163425950082003
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1080) | #5 ""arash @ huBdniBdCU"" (2020) | #7 ""gerog @ G4RdqDSm6Z"" (490) | #10 ""Stevo @ aL5upxHjBA"" (390)",2021-10-15T00:58:20.820Z,163425950082001
+"-- starting hand #58  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2021-10-15T00:58:20.820Z,163425950082000
+"""arash @ huBdniBdCU"" shows a 3♣, J♦.",2021-10-15T00:58:16.427Z,163425949642700
+"""Stevo @ aL5upxHjBA"" shows a K♦, 2♥.",2021-10-15T00:58:15.481Z,163425949548100
+"-- ending hand #57 --",2021-10-15T00:58:13.806Z,163425949380604
+"""gerog @ G4RdqDSm6Z"" collected 60 from pot with Flush, Ac High (combination: A♣, Q♣, J♣, 9♣, 8♣)",2021-10-15T00:58:13.806Z,163425949380603
+"""gerog @ G4RdqDSm6Z"" shows a 10♦, A♦.",2021-10-15T00:58:13.806Z,163425949380602
+"""Spenny @ cu8vqwqurV"" collected 60 from pot with Flush, Ac High (combination: A♣, Q♣, J♣, 9♣, 8♣)",2021-10-15T00:58:13.806Z,163425949380601
+"""Spenny @ cu8vqwqurV"" shows a 5♠, 7♠.",2021-10-15T00:58:13.806Z,163425949380600
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:58:12.995Z,163425949299500
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:58:12.132Z,163425949213200
+"River: Q♣, A♣, 8♣, J♣ [9♣]",2021-10-15T00:58:06.777Z,163425948677700
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:58:05.969Z,163425948596900
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:58:04.350Z,163425948435000
+"Turn: Q♣, A♣, 8♣ [J♣]",2021-10-15T00:58:02.205Z,163425948220500
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:58:01.398Z,163425948139800
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:58:00.472Z,163425948047200
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:57:49.885Z,163425946988500
+"""gerog @ G4RdqDSm6Z"" bets 20",2021-10-15T00:57:48.985Z,163425946898500
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:57:47.137Z,163425946713700
+"Flop:  [Q♣, A♣, 8♣]",2021-10-15T00:57:44.694Z,163425946469400
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:57:43.880Z,163425946388000
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:57:43.044Z,163425946304400
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:57:41.877Z,163425946187700
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:57:40.617Z,163425946061700
+"""gerog @ G4RdqDSm6Z"" posts a big blind of 20",2021-10-15T00:57:39.598Z,163425945959807
+"""arash @ huBdniBdCU"" posts a small blind of 10",2021-10-15T00:57:39.598Z,163425945959806
+"Your hand is 3♣, J♦",2021-10-15T00:57:39.598Z,163425945959803
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1060) | #5 ""arash @ huBdniBdCU"" (2040) | #7 ""gerog @ G4RdqDSm6Z"" (470) | #10 ""Stevo @ aL5upxHjBA"" (410)",2021-10-15T00:57:39.598Z,163425945959801
+"-- starting hand #57  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2021-10-15T00:57:39.598Z,163425945959800
+"Undealt cards: 7♠, J♠, Q♣ [4♦, Q♠]",2021-10-15T00:57:35.539Z,163425945553900
+"-- ending hand #56 --",2021-10-15T00:57:33.660Z,163425945366002
+"""Spenny @ cu8vqwqurV"" collected 60 from pot",2021-10-15T00:57:33.660Z,163425945366001
+"Uncalled bet of 20 returned to ""Spenny @ cu8vqwqurV""",2021-10-15T00:57:33.660Z,163425945366000
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:57:32.850Z,163425945285000
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:57:31.950Z,163425945195000
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:57:29.725Z,163425944972500
+"Flop:  [7♠, J♠, Q♣]",2021-10-15T00:57:27.057Z,163425944705700
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:57:26.249Z,163425944624900
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:57:24.979Z,163425944497900
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:57:24.116Z,163425944411600
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:57:23.210Z,163425944321000
+"""arash @ huBdniBdCU"" posts a big blind of 20",2021-10-15T00:57:17.720Z,163425943772007
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2021-10-15T00:57:17.720Z,163425943772006
+"Your hand is 3♥, 6♣",2021-10-15T00:57:17.720Z,163425943772003
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1020) | #5 ""arash @ huBdniBdCU"" (2060) | #7 ""gerog @ G4RdqDSm6Z"" (470) | #10 ""Stevo @ aL5upxHjBA"" (430)",2021-10-15T00:57:17.720Z,163425943772001
+"-- starting hand #56  (No Limit Texas Hold'em) (dealer: ""Stevo @ aL5upxHjBA"") --",2021-10-15T00:57:17.720Z,163425943772000
+"""gerog @ G4RdqDSm6Z"" shows a 5♥, 10♦.",2021-10-15T00:57:11.586Z,163425943158600
+"-- ending hand #55 --",2021-10-15T00:57:11.053Z,163425943105302
+"""Spenny @ cu8vqwqurV"" collected 100 from pot with Two Pair, 7's & 5's (combination: 7♣, 7♦, 5♠, 5♣, A♥)",2021-10-15T00:57:11.053Z,163425943105301
+"""Spenny @ cu8vqwqurV"" shows a 7♣, Q♣.",2021-10-15T00:57:11.053Z,163425943105300
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:57:10.246Z,163425943024600
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:57:09.337Z,163425942933700
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:57:07.339Z,163425942733900
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:56:58.447Z,163425941844700
+"River: A♥, J♠, 5♠, 5♣ [7♦]",2021-10-15T00:56:57.537Z,163425941753700
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:56:56.731Z,163425941673100
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:56:55.729Z,163425941572900
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:56:49.682Z,163425940968200
+"Turn: A♥, J♠, 5♠ [5♣]",2021-10-15T00:56:48.531Z,163425940853100
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:56:47.721Z,163425940772100
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:56:46.828Z,163425940682800
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:56:43.562Z,163425940356200
+"Flop:  [A♥, J♠, 5♠]",2021-10-15T00:56:41.847Z,163425940184700
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:56:41.041Z,163425940104100
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:56:37.757Z,163425939775700
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:56:36.856Z,163425939685600
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:56:36.004Z,163425939600400
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2021-10-15T00:56:32.537Z,163425939253707
+"""Stevo @ aL5upxHjBA"" posts a small blind of 10",2021-10-15T00:56:32.537Z,163425939253706
+"Your hand is 3♦, K♣",2021-10-15T00:56:32.537Z,163425939253703
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (960) | #5 ""arash @ huBdniBdCU"" (2100) | #7 ""gerog @ G4RdqDSm6Z"" (470) | #10 ""Stevo @ aL5upxHjBA"" (450)",2021-10-15T00:56:32.537Z,163425939253701
+"-- starting hand #55  (No Limit Texas Hold'em) (dealer: ""gerog @ G4RdqDSm6Z"") --",2021-10-15T00:56:32.537Z,163425939253700
+"-- ending hand #54 --",2021-10-15T00:56:26.529Z,163425938652903
+"""Stevo @ aL5upxHjBA"" shows a 9♦, 5♦.",2021-10-15T00:56:26.529Z,163425938652902
+"""arash @ huBdniBdCU"" collected 380 from pot with Three of a Kind, 5's (combination: 5♠, 5♥, 5♣, J♣, 8♣)",2021-10-15T00:56:26.529Z,163425938652901
+"""arash @ huBdniBdCU"" shows a 5♠, J♣.",2021-10-15T00:56:26.529Z,163425938652900
+"""arash @ huBdniBdCU"" calls 80",2021-10-15T00:56:25.698Z,163425938569800
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:56:17.013Z,163425937701300
+"""Stevo @ aL5upxHjBA"" bets 80",2021-10-15T00:55:59.777Z,163425935977700
+"River: 4♠, 3♥, 5♥, 5♣ [8♣]",2021-10-15T00:55:55.511Z,163425935551100
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:55:54.703Z,163425935470300
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:55:53.865Z,163425935386500
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:55:51.785Z,163425935178500
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:55:46.669Z,163425934666900
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:55:44.977Z,163425934497700
+"Turn: 4♠, 3♥, 5♥ [5♣]",2021-10-15T00:55:43.479Z,163425934347900
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:55:42.673Z,163425934267300
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:55:41.774Z,163425934177400
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:55:35.113Z,163425933511300
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:55:30.998Z,163425933099800
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:55:23.605Z,163425932360500
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:55:22.706Z,163425932270600
+"Flop:  [4♠, 3♥, 5♥]",2021-10-15T00:55:20.752Z,163425932075200
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:55:19.939Z,163425931993900
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:55:19.027Z,163425931902700
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:55:18.186Z,163425931818600
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:55:17.283Z,163425931728300
+"""Stevo @ aL5upxHjBA"" posts a big blind of 20",2021-10-15T00:55:11.123Z,163425931112307
+"""gerog @ G4RdqDSm6Z"" posts a small blind of 10",2021-10-15T00:55:11.123Z,163425931112306
+"Your hand is 5♠, J♣",2021-10-15T00:55:11.123Z,163425931112303
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1020) | #5 ""arash @ huBdniBdCU"" (1860) | #7 ""gerog @ G4RdqDSm6Z"" (510) | #10 ""Stevo @ aL5upxHjBA"" (590)",2021-10-15T00:55:11.123Z,163425931112301
+"-- starting hand #54  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2021-10-15T00:55:11.123Z,163425931112300
+"-- ending hand #53 --",2021-10-15T00:55:05.077Z,163425930507703
+"""arash @ huBdniBdCU"" shows a 10♠, 9♦.",2021-10-15T00:55:05.077Z,163425930507702
+"""Stevo @ aL5upxHjBA"" collected 120 from pot with Two Pair, A's & 7's (combination: A♥, A♣, 7♦, 7♣, 10♥)",2021-10-15T00:55:05.077Z,163425930507701
+"""Stevo @ aL5upxHjBA"" shows a 10♥, 7♦.",2021-10-15T00:55:05.077Z,163425930507700
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:55:04.270Z,163425930427000
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:55:03.370Z,163425930337000
+"River: A♥, 8♣, 7♣, A♣ [2♦]",2021-10-15T00:55:01.801Z,163425930180100
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:55:00.986Z,163425930098600
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:54:59.790Z,163425929979000
+"Turn: A♥, 8♣, 7♣ [A♣]",2021-10-15T00:54:57.900Z,163425929790000
+"""Stevo @ aL5upxHjBA"" calls 30",2021-10-15T00:54:57.091Z,163425929709100
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:54:55.072Z,163425929507200
+"""arash @ huBdniBdCU"" bets 30",2021-10-15T00:54:54.057Z,163425929405700
+"Flop:  [A♥, 8♣, 7♣]",2021-10-15T00:54:47.455Z,163425928745500
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:54:46.649Z,163425928664900
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:54:45.603Z,163425928560300
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:54:44.705Z,163425928470500
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:54:32.920Z,163425927292000
+"""gerog @ G4RdqDSm6Z"" posts a big blind of 20",2021-10-15T00:54:31.172Z,163425927117207
+"""arash @ huBdniBdCU"" posts a small blind of 10",2021-10-15T00:54:31.172Z,163425927117206
+"Your hand is 10♠, 9♦",2021-10-15T00:54:31.172Z,163425927117203
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1020) | #5 ""arash @ huBdniBdCU"" (1910) | #7 ""gerog @ G4RdqDSm6Z"" (530) | #10 ""Stevo @ aL5upxHjBA"" (520)",2021-10-15T00:54:31.172Z,163425927117201
+"-- starting hand #53  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2021-10-15T00:54:31.172Z,163425927117200
+"""Stevo @ aL5upxHjBA"" shows a A♠, 4♥.",2021-10-15T00:54:27.166Z,163425926716600
+"-- ending hand #52 --",2021-10-15T00:54:24.628Z,163425926462802
+"""Spenny @ cu8vqwqurV"" collected 260 from pot with Two Pair, K's & Q's (combination: K♦, K♥, Q♣, Q♥, 3♦)",2021-10-15T00:54:24.628Z,163425926462801
+"""Spenny @ cu8vqwqurV"" shows a K♦, K♥.",2021-10-15T00:54:24.628Z,163425926462800
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:54:23.784Z,163425926378400
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:54:10.213Z,163425925021300
+"River: Q♣, 2♠, 3♦, 3♥ [Q♥]",2021-10-15T00:54:06.220Z,163425924622000
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:54:05.414Z,163425924541400
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:54:03.496Z,163425924349600
+"Turn: Q♣, 2♠, 3♦ [3♥]",2021-10-15T00:54:01.400Z,163425924140000
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:54:00.594Z,163425924059400
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:53:58.629Z,163425923862900
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:53:57.361Z,163425923736100
+"Flop:  [Q♣, 2♠, 3♦]",2021-10-15T00:53:51.040Z,163425923104000
+"""Stevo @ aL5upxHjBA"" calls 40",2021-10-15T00:53:50.231Z,163425923023100
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:53:48.977Z,163425922897700
+"""arash @ huBdniBdCU"" calls 40",2021-10-15T00:53:48.131Z,163425922813100
+"""Spenny @ cu8vqwqurV"" raises to 40",2021-10-15T00:53:44.016Z,163425922401600
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:53:42.040Z,163425922204000
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:53:41.141Z,163425922114100
+"""arash @ huBdniBdCU"" posts a big blind of 20",2021-10-15T00:53:39.920Z,163425921992007
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2021-10-15T00:53:39.920Z,163425921992006
+"Your hand is 8♠, J♠",2021-10-15T00:53:39.920Z,163425921992003
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (860) | #5 ""arash @ huBdniBdCU"" (1950) | #7 ""gerog @ G4RdqDSm6Z"" (550) | #10 ""Stevo @ aL5upxHjBA"" (620)",2021-10-15T00:53:39.920Z,163425921992001
+"-- starting hand #52  (No Limit Texas Hold'em) (dealer: ""Stevo @ aL5upxHjBA"") --",2021-10-15T00:53:39.920Z,163425921992000
+"""Stevo @ aL5upxHjBA"" shows a K♠, 4♦.",2021-10-15T00:53:34.154Z,163425921415400
+"""Spenny @ cu8vqwqurV"" shows a 7♣, 2♦.",2021-10-15T00:53:33.792Z,163425921379200
+"-- ending hand #51 --",2021-10-15T00:53:32.900Z,163425921290002
+"""arash @ huBdniBdCU"" collected 320 from pot with Full House, 10's over 7's (combination: 10♦, 10♣, 10♠, 7♠, 7♥)",2021-10-15T00:53:32.900Z,163425921290001
+"""arash @ huBdniBdCU"" shows a 7♠, 7♥.",2021-10-15T00:53:32.900Z,163425921290000
+"""Spenny @ cu8vqwqurV"" calls 80",2021-10-15T00:53:32.093Z,163425921209300
+"""Stevo @ aL5upxHjBA"" calls 80",2021-10-15T00:53:30.366Z,163425921036600
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:53:28.529Z,163425920852900
+"""arash @ huBdniBdCU"" raises to 80",2021-10-15T00:53:27.688Z,163425920768800
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:53:24.722Z,163425920472200
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:53:21.928Z,163425920192800
+"River: A♠, 10♦, 10♣, 2♥ [10♠]",2021-10-15T00:53:18.848Z,163425919884800
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:53:18.041Z,163425919804100
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:53:17.196Z,163425919719600
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:53:13.992Z,163425919399200
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:53:07.932Z,163425918793200
+"Turn: A♠, 10♦, 10♣ [2♥]",2021-10-15T00:53:06.574Z,163425918657400
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:53:05.766Z,163425918576600
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:53:04.866Z,163425918486600
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:53:03.515Z,163425918351500
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:53:00.618Z,163425918061800
+"Flop:  [A♠, 10♦, 10♣]",2021-10-15T00:52:58.818Z,163425917881800
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:52:58.010Z,163425917801000
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:52:57.150Z,163425917715000
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:52:56.250Z,163425917625000
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:52:54.247Z,163425917424700
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2021-10-15T00:52:52.536Z,163425917253607
+"""Stevo @ aL5upxHjBA"" posts a small blind of 10",2021-10-15T00:52:52.536Z,163425917253606
+"Your hand is 7♠, 7♥",2021-10-15T00:52:52.536Z,163425917253603
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (960) | #5 ""arash @ huBdniBdCU"" (1730) | #7 ""gerog @ G4RdqDSm6Z"" (570) | #10 ""Stevo @ aL5upxHjBA"" (720)",2021-10-15T00:52:52.536Z,163425917253601
+"-- starting hand #51  (No Limit Texas Hold'em) (dealer: ""gerog @ G4RdqDSm6Z"") --",2021-10-15T00:52:52.536Z,163425917253600
+"Undealt cards: 4♣, 8♥, Q♦, 10♣ [6♠]",2021-10-15T00:52:48.374Z,163425916837400
+"""Stevo @ aL5upxHjBA"" shows a 8♠, 8♣.",2021-10-15T00:52:46.568Z,163425916656800
+"-- ending hand #50 --",2021-10-15T00:52:45.916Z,163425916591602
+"""Stevo @ aL5upxHjBA"" collected 60 from pot",2021-10-15T00:52:45.916Z,163425916591601
+"Uncalled bet of 20 returned to ""Stevo @ aL5upxHjBA""",2021-10-15T00:52:45.916Z,163425916591600
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:52:45.110Z,163425916511000
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:52:44.270Z,163425916427000
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:52:41.521Z,163425916152100
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:52:40.253Z,163425916025300
+"Turn: 4♣, 8♥, Q♦ [10♣]",2021-10-15T00:52:38.766Z,163425915876600
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:52:37.960Z,163425915796000
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:52:36.220Z,163425915622000
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:52:34.839Z,163425915483900
+"Flop:  [4♣, 8♥, Q♦]",2021-10-15T00:52:33.350Z,163425915335000
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:52:32.542Z,163425915254200
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:52:31.638Z,163425915163800
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:52:30.556Z,163425915055600
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:52:29.663Z,163425914966300
+"""Stevo @ aL5upxHjBA"" posts a big blind of 20",2021-10-15T00:52:26.141Z,163425914614107
+"""gerog @ G4RdqDSm6Z"" posts a small blind of 10",2021-10-15T00:52:26.141Z,163425914614106
+"Your hand is 6♣, 10♠",2021-10-15T00:52:26.141Z,163425914614103
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (960) | #5 ""arash @ huBdniBdCU"" (1750) | #7 ""gerog @ G4RdqDSm6Z"" (590) | #10 ""Stevo @ aL5upxHjBA"" (680)",2021-10-15T00:52:26.141Z,163425914614101
+"-- starting hand #50  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2021-10-15T00:52:26.141Z,163425914614100
+"-- ending hand #49 --",2021-10-15T00:52:20.118Z,163425914011803
+"""arash @ huBdniBdCU"" shows a 8♦, 6♠.",2021-10-15T00:52:20.118Z,163425914011802
+"""gerog @ G4RdqDSm6Z"" collected 60 from pot with Pair, K's (combination: K♠, K♦, J♥, 10♠, 9♠)",2021-10-15T00:52:20.118Z,163425914011801
+"""gerog @ G4RdqDSm6Z"" shows a 7♦, 10♠.",2021-10-15T00:52:20.118Z,163425914011800
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:52:19.308Z,163425913930800
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:52:15.857Z,163425913585700
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:52:15.011Z,163425913501100
+"River: K♠, 9♠, K♦, 2♥ [J♥]",2021-10-15T00:52:13.012Z,163425913301200
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:52:12.204Z,163425913220400
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:52:08.235Z,163425912823500
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:52:06.592Z,163425912659200
+"Turn: K♠, 9♠, K♦ [2♥]",2021-10-15T00:52:03.050Z,163425912305000
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:52:02.217Z,163425912221700
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:52:01.241Z,163425912124100
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:52:00.203Z,163425912020300
+"Flop:  [K♠, 9♠, K♦]",2021-10-15T00:51:58.209Z,163425911820900
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:51:57.403Z,163425911740300
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:51:56.340Z,163425911634000
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:51:55.441Z,163425911544100
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:51:50.390Z,163425911039000
+"""gerog @ G4RdqDSm6Z"" posts a big blind of 20",2021-10-15T00:51:49.046Z,163425910904607
+"""arash @ huBdniBdCU"" posts a small blind of 10",2021-10-15T00:51:49.046Z,163425910904606
+"Your hand is 8♦, 6♠",2021-10-15T00:51:49.046Z,163425910904603
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (960) | #5 ""arash @ huBdniBdCU"" (1770) | #7 ""gerog @ G4RdqDSm6Z"" (550) | #10 ""Stevo @ aL5upxHjBA"" (700)",2021-10-15T00:51:49.046Z,163425910904601
+"-- starting hand #49  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2021-10-15T00:51:49.046Z,163425910904600
+"""Stevo @ aL5upxHjBA"" shows a 3♥, K♥.",2021-10-15T00:51:45.283Z,163425910528300
+"""gerog @ G4RdqDSm6Z"" shows a K♣, 5♥.",2021-10-15T00:51:44.393Z,163425910439300
+"Undealt cards: 4♥, 4♦, 5♦ [5♣, 9♣]",2021-10-15T00:51:43.654Z,163425910365400
+"-- ending hand #48 --",2021-10-15T00:51:41.708Z,163425910170802
+"""gerog @ G4RdqDSm6Z"" collected 80 from pot",2021-10-15T00:51:41.708Z,163425910170801
+"Uncalled bet of 60 returned to ""gerog @ G4RdqDSm6Z""",2021-10-15T00:51:41.708Z,163425910170800
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:51:40.890Z,163425910089000
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:51:39.997Z,163425909999700
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:51:32.248Z,163425909224800
+"""gerog @ G4RdqDSm6Z"" bets 60",2021-10-15T00:51:30.682Z,163425909068200
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:51:27.185Z,163425908718500
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:51:24.897Z,163425908489700
+"Flop:  [4♥, 4♦, 5♦]",2021-10-15T00:51:07.921Z,163425906792100
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:51:07.113Z,163425906711300
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:51:06.043Z,163425906604300
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:51:05.174Z,163425906517400
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:51:03.954Z,163425906395400
+"""arash @ huBdniBdCU"" posts a big blind of 20",2021-10-15T00:51:02.214Z,163425906221407
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2021-10-15T00:51:02.214Z,163425906221406
+"Your hand is Q♥, 2♥",2021-10-15T00:51:02.214Z,163425906221403
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (980) | #5 ""arash @ huBdniBdCU"" (1790) | #7 ""gerog @ G4RdqDSm6Z"" (490) | #10 ""Stevo @ aL5upxHjBA"" (720)",2021-10-15T00:51:02.214Z,163425906221401
+"-- starting hand #48  (No Limit Texas Hold'em) (dealer: ""Stevo @ aL5upxHjBA"") --",2021-10-15T00:51:02.214Z,163425906221400
+"""gerog @ G4RdqDSm6Z"" shows a 4♦, Q♦.",2021-10-15T00:50:58.517Z,163425905851700
+"""Stevo @ aL5upxHjBA"" shows a 8♦, J♦.",2021-10-15T00:50:58.089Z,163425905808900
+"-- ending hand #47 --",2021-10-15T00:50:55.172Z,163425905517202
+"""arash @ huBdniBdCU"" collected 280 from pot with Pair, Q's (combination: Q♣, Q♥, K♣, J♣, 9♣)",2021-10-15T00:50:55.172Z,163425905517201
+"""arash @ huBdniBdCU"" shows a K♣, Q♣.",2021-10-15T00:50:55.172Z,163425905517200
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:50:54.339Z,163425905433900
+"""arash @ huBdniBdCU"" bets 20",2021-10-15T00:50:53.367Z,163425905336700
+"River: 5♦, 3♥, Q♥, 9♣ [J♣]",2021-10-15T00:50:50.410Z,163425905041000
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:50:49.602Z,163425904960200
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:50:48.453Z,163425904845300
+"Turn: 5♦, 3♥, Q♥ [9♣]",2021-10-15T00:50:45.967Z,163425904596700
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:50:45.158Z,163425904515800
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:50:42.836Z,163425904283600
+"""gerog @ G4RdqDSm6Z"" calls 40",2021-10-15T00:50:39.206Z,163425903920600
+"""arash @ huBdniBdCU"" bets 40",2021-10-15T00:50:37.999Z,163425903799900
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:50:34.361Z,163425903436100
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:50:32.748Z,163425903274800
+"Flop:  [5♦, 3♥, Q♥]",2021-10-15T00:50:30.851Z,163425903085100
+"""Spenny @ cu8vqwqurV"" calls 40",2021-10-15T00:50:30.038Z,163425903003800
+"""Stevo @ aL5upxHjBA"" calls 40",2021-10-15T00:50:29.172Z,163425902917200
+"""gerog @ G4RdqDSm6Z"" calls 40",2021-10-15T00:50:28.125Z,163425902812500
+"""arash @ huBdniBdCU"" raises to 40",2021-10-15T00:50:27.285Z,163425902728500
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2021-10-15T00:50:24.542Z,163425902454207
+"""Stevo @ aL5upxHjBA"" posts a small blind of 10",2021-10-15T00:50:24.542Z,163425902454206
+"Your hand is K♣, Q♣",2021-10-15T00:50:24.542Z,163425902454203
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1020) | #5 ""arash @ huBdniBdCU"" (1610) | #7 ""gerog @ G4RdqDSm6Z"" (590) | #10 ""Stevo @ aL5upxHjBA"" (760)",2021-10-15T00:50:24.542Z,163425902454201
+"-- starting hand #47  (No Limit Texas Hold'em) (dealer: ""gerog @ G4RdqDSm6Z"") --",2021-10-15T00:50:24.542Z,163425902454200
+"-- ending hand #46 --",2021-10-15T00:50:18.512Z,163425901851204
+"""Spenny @ cu8vqwqurV"" shows a 10♣, A♣.",2021-10-15T00:50:18.512Z,163425901851203
+"""Stevo @ aL5upxHjBA"" shows a 3♠, A♦.",2021-10-15T00:50:18.512Z,163425901851202
+"""arash @ huBdniBdCU"" collected 230 from pot with Two Pair, J's & 9's (combination: J♦, J♥, 9♣, 9♦, Q♦)",2021-10-15T00:50:18.512Z,163425901851201
+"""arash @ huBdniBdCU"" shows a J♦, Q♦.",2021-10-15T00:50:18.512Z,163425901851200
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:50:17.706Z,163425901770600
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:50:16.686Z,163425901668600
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:50:12.988Z,163425901298800
+"River: 8♣, J♥, 9♣, 9♦ [2♠]",2021-10-15T00:50:11.420Z,163425901142000
+"""Spenny @ cu8vqwqurV"" calls 30",2021-10-15T00:50:10.611Z,163425901061100
+"""Stevo @ aL5upxHjBA"" calls 30",2021-10-15T00:50:00.250Z,163425900025000
+"""arash @ huBdniBdCU"" bets 30",2021-10-15T00:49:58.205Z,163425899820500
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:49:54.525Z,163425899452500
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:49:50.109Z,163425899010900
+"Turn: 8♣, J♥, 9♣ [9♦]",2021-10-15T00:49:47.529Z,163425898752900
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:49:46.721Z,163425898672100
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:49:44.976Z,163425898497600
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:49:44.133Z,163425898413300
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:49:42.492Z,163425898249200
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:49:33.918Z,163425897391800
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:49:33.016Z,163425897301600
+"Flop:  [8♣, J♥, 9♣]",2021-10-15T00:49:31.108Z,163425897110800
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:49:30.300Z,163425897030000
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:49:29.387Z,163425896938700
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:49:28.546Z,163425896854600
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:49:27.627Z,163425896762700
+"""Stevo @ aL5upxHjBA"" posts a big blind of 20",2021-10-15T00:49:17.481Z,163425895748107
+"""gerog @ G4RdqDSm6Z"" posts a small blind of 10",2021-10-15T00:49:17.481Z,163425895748106
+"Your hand is J♦, Q♦",2021-10-15T00:49:17.481Z,163425895748103
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1090) | #5 ""arash @ huBdniBdCU"" (1450) | #7 ""gerog @ G4RdqDSm6Z"" (610) | #10 ""Stevo @ aL5upxHjBA"" (830)",2021-10-15T00:49:17.481Z,163425895748101
+"-- starting hand #46  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2021-10-15T00:49:17.481Z,163425895748100
+"""Stevo @ aL5upxHjBA"" shows a 9♣, A♥.",2021-10-15T00:49:16.118Z,163425895611800
+"""arash @ huBdniBdCU"" shows a 7♠, 2♠.",2021-10-15T00:49:15.062Z,163425895506200
+"-- ending hand #45 --",2021-10-15T00:49:13.173Z,163425895317302
+"""arash @ huBdniBdCU"" collected 80 from pot",2021-10-15T00:49:13.173Z,163425895317301
+"Uncalled bet of 50 returned to ""arash @ huBdniBdCU""",2021-10-15T00:49:13.173Z,163425895317300
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:49:12.366Z,163425895236600
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:49:02.875Z,163425894287500
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:49:01.377Z,163425894137700
+"""arash @ huBdniBdCU"" bets 50",2021-10-15T00:49:00.378Z,163425894037800
+"River: 2♣, 2♦, 10♠, 10♥ [J♣]",2021-10-15T00:48:57.066Z,163425893706600
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:48:56.256Z,163425893625600
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:48:55.388Z,163425893538800
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:48:54.463Z,163425893446300
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:48:53.621Z,163425893362100
+"Turn: 2♣, 2♦, 10♠ [10♥]",2021-10-15T00:48:51.293Z,163425893129300
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:48:50.485Z,163425893048500
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:48:45.944Z,163425892594400
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:48:43.798Z,163425892379800
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:48:42.960Z,163425892296000
+"Flop:  [2♣, 2♦, 10♠]",2021-10-15T00:48:39.637Z,163425891963700
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:48:38.827Z,163425891882700
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:48:37.679Z,163425891767900
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:48:36.405Z,163425891640500
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:48:31.568Z,163425891156800
+"""gerog @ G4RdqDSm6Z"" posts a big blind of 20",2021-10-15T00:48:28.864Z,163425890886407
+"""arash @ huBdniBdCU"" posts a small blind of 10",2021-10-15T00:48:28.864Z,163425890886406
+"Your hand is 7♠, 2♠",2021-10-15T00:48:28.864Z,163425890886403
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1110) | #5 ""arash @ huBdniBdCU"" (1390) | #7 ""gerog @ G4RdqDSm6Z"" (630) | #10 ""Stevo @ aL5upxHjBA"" (850)",2021-10-15T00:48:28.864Z,163425890886401
+"-- starting hand #45  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2021-10-15T00:48:28.864Z,163425890886400
+"""Stevo @ aL5upxHjBA"" shows a 5♠, 7♥.",2021-10-15T00:48:23.540Z,163425890354000
+"-- ending hand #44 --",2021-10-15T00:48:22.330Z,163425890233002
+"""Spenny @ cu8vqwqurV"" collected 120 from pot with Pair, 8's (combination: 8♣, 8♦, Q♠, 7♠, 6♦)",2021-10-15T00:48:22.330Z,163425890233001
+"""Spenny @ cu8vqwqurV"" shows a 7♠, 8♣.",2021-10-15T00:48:22.330Z,163425890233000
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:48:21.518Z,163425890151800
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:48:20.616Z,163425890061600
+"River: 3♦, 6♦, 5♦, 8♦ [Q♠]",2021-10-15T00:48:14.644Z,163425889464400
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:48:13.837Z,163425889383700
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:48:11.950Z,163425889195000
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:48:11.056Z,163425889105600
+"Turn: 3♦, 6♦, 5♦ [8♦]",2021-10-15T00:48:04.542Z,163425888454200
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:48:03.733Z,163425888373300
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:48:01.626Z,163425888162600
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:47:58.417Z,163425887841700
+"Flop:  [3♦, 6♦, 5♦]",2021-10-15T00:47:54.290Z,163425887429000
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:47:53.482Z,163425887348200
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:47:52.585Z,163425887258500
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:47:46.407Z,163425886640700
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:47:45.507Z,163425886550700
+"""arash @ huBdniBdCU"" posts a big blind of 20",2021-10-15T00:47:42.644Z,163425886264407
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2021-10-15T00:47:42.644Z,163425886264406
+"Your hand is 5♣, 2♥",2021-10-15T00:47:42.644Z,163425886264403
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1030) | #5 ""arash @ huBdniBdCU"" (1430) | #7 ""gerog @ G4RdqDSm6Z"" (630) | #10 ""Stevo @ aL5upxHjBA"" (890)",2021-10-15T00:47:42.644Z,163425886264401
+"-- starting hand #44  (No Limit Texas Hold'em) (dealer: ""Stevo @ aL5upxHjBA"") --",2021-10-15T00:47:42.644Z,163425886264400
+"-- ending hand #43 --",2021-10-15T00:47:36.591Z,163425885659103
+"""Stevo @ aL5upxHjBA"" shows a 2♥, 3♠.",2021-10-15T00:47:36.591Z,163425885659102
+"""Spenny @ cu8vqwqurV"" collected 120 from pot with Two Pair, K's & 9's (combination: K♠, K♦, 9♦, 9♣, A♣)",2021-10-15T00:47:36.591Z,163425885659101
+"""Spenny @ cu8vqwqurV"" shows a 9♦, 9♣.",2021-10-15T00:47:36.591Z,163425885659100
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:47:35.780Z,163425885578000
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:47:34.470Z,163425885447000
+"River: K♠, A♣, 5♦, K♦ [6♦]",2021-10-15T00:47:33.004Z,163425885300400
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:47:32.196Z,163425885219600
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:47:28.492Z,163425884849200
+"Turn: K♠, A♣, 5♦ [K♦]",2021-10-15T00:47:27.275Z,163425884727500
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:47:26.463Z,163425884646300
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:47:25.617Z,163425884561700
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:47:24.708Z,163425884470800
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:47:21.212Z,163425884121200
+"Flop:  [K♠, A♣, 5♦]",2021-10-15T00:47:19.152Z,163425883915200
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:47:18.346Z,163425883834600
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:47:10.418Z,163425883041800
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:47:09.074Z,163425882907400
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:47:08.230Z,163425882823000
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2021-10-15T00:47:06.386Z,163425882638607
+"""Stevo @ aL5upxHjBA"" posts a small blind of 10",2021-10-15T00:47:06.386Z,163425882638606
+"Your hand is 6♥, 8♦",2021-10-15T00:47:06.386Z,163425882638603
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (950) | #5 ""arash @ huBdniBdCU"" (1450) | #7 ""gerog @ G4RdqDSm6Z"" (650) | #10 ""Stevo @ aL5upxHjBA"" (930)",2021-10-15T00:47:06.386Z,163425882638601
+"-- starting hand #43  (No Limit Texas Hold'em) (dealer: ""gerog @ G4RdqDSm6Z"") --",2021-10-15T00:47:06.386Z,163425882638600
+"""Stevo @ aL5upxHjBA"" shows a 9♦, 10♦.",2021-10-15T00:47:03.212Z,163425882321200
+"-- ending hand #42 --",2021-10-15T00:47:02.761Z,163425882276102
+"""Stevo @ aL5upxHjBA"" collected 100 from pot",2021-10-15T00:47:02.761Z,163425882276101
+"Uncalled bet of 70 returned to ""Stevo @ aL5upxHjBA""",2021-10-15T00:47:02.761Z,163425882276100
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:47:01.954Z,163425882195400
+"""Stevo @ aL5upxHjBA"" bets 70",2021-10-15T00:47:01.104Z,163425882110400
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:46:57.932Z,163425881793200
+"River: 10♠, 9♥, 3♥, 4♦ [8♣]",2021-10-15T00:46:56.553Z,163425881655300
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:46:55.746Z,163425881574600
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:46:51.846Z,163425881184600
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:46:50.950Z,163425881095000
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:46:49.705Z,163425880970500
+"Turn: 10♠, 9♥, 3♥ [4♦]",2021-10-15T00:46:47.469Z,163425880746900
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:46:46.661Z,163425880666100
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:46:45.767Z,163425880576700
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:46:44.864Z,163425880486400
+"Flop:  [10♠, 9♥, 3♥]",2021-10-15T00:46:40.595Z,163425880059500
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:46:39.785Z,163425879978500
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:46:38.880Z,163425879888000
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:46:38.032Z,163425879803200
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:46:37.139Z,163425879713900
+"""Stevo @ aL5upxHjBA"" posts a big blind of 20",2021-10-15T00:46:27.609Z,163425878760907
+"""gerog @ G4RdqDSm6Z"" posts a small blind of 10",2021-10-15T00:46:27.609Z,163425878760906
+"Your hand is 8♥, 2♠",2021-10-15T00:46:27.609Z,163425878760903
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (950) | #5 ""arash @ huBdniBdCU"" (1470) | #7 ""gerog @ G4RdqDSm6Z"" (690) | #10 ""Stevo @ aL5upxHjBA"" (870)",2021-10-15T00:46:27.609Z,163425878760901
+"-- starting hand #42  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2021-10-15T00:46:27.609Z,163425878760900
+"""Spenny @ cu8vqwqurV"" shows a 9♣, 10♥.",2021-10-15T00:46:25.898Z,163425878589800
+"-- ending hand #41 --",2021-10-15T00:46:23.989Z,163425878398902
+"""Spenny @ cu8vqwqurV"" collected 80 from pot",2021-10-15T00:46:23.989Z,163425878398901
+"Uncalled bet of 20 returned to ""Spenny @ cu8vqwqurV""",2021-10-15T00:46:23.989Z,163425878398900
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:46:23.182Z,163425878318200
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:46:22.285Z,163425878228500
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:46:21.442Z,163425878144200
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:46:19.821Z,163425877982100
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:46:18.597Z,163425877859700
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:46:17.695Z,163425877769500
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:46:16.854Z,163425877685400
+"River: A♠, 5♦, A♣, 4♦ [9♠]",2021-10-15T00:46:14.962Z,163425877496200
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:46:14.139Z,163425877413900
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:46:12.594Z,163425877259400
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:46:11.675Z,163425877167500
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:46:10.834Z,163425877083400
+"Turn: A♠, 5♦, A♣ [4♦]",2021-10-15T00:46:09.690Z,163425876969000
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:46:08.881Z,163425876888100
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:46:07.752Z,163425876775200
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:46:06.850Z,163425876685000
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:46:05.920Z,163425876592000
+"Flop:  [A♠, 5♦, A♣]",2021-10-15T00:46:03.811Z,163425876381100
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:46:03.003Z,163425876300300
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:46:01.365Z,163425876136500
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:45:58.997Z,163425875899700
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:45:53.789Z,163425875378900
+"""gerog @ G4RdqDSm6Z"" posts a big blind of 20",2021-10-15T00:45:52.789Z,163425875278907
+"""arash @ huBdniBdCU"" posts a small blind of 10",2021-10-15T00:45:52.789Z,163425875278906
+"Your hand is 6♣, J♠",2021-10-15T00:45:52.789Z,163425875278903
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (890) | #5 ""arash @ huBdniBdCU"" (1490) | #7 ""gerog @ G4RdqDSm6Z"" (710) | #10 ""Stevo @ aL5upxHjBA"" (890)",2021-10-15T00:45:52.789Z,163425875278901
+"-- starting hand #41  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2021-10-15T00:45:52.789Z,163425875278900
+"""Stevo @ aL5upxHjBA"" shows a 7♣, 10♦.",2021-10-15T00:45:49.951Z,163425874995100
+"-- ending hand #40 --",2021-10-15T00:45:49.152Z,163425874915202
+"""arash @ huBdniBdCU"" collected 200 from pot",2021-10-15T00:45:49.152Z,163425874915201
+"Uncalled bet of 40 returned to ""arash @ huBdniBdCU""",2021-10-15T00:45:49.152Z,163425874915200
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:45:48.340Z,163425874834000
+"""arash @ huBdniBdCU"" bets 40",2021-10-15T00:45:47.332Z,163425874733200
+"River: 4♠, 8♠, 9♣, Q♥ [A♣]",2021-10-15T00:45:42.741Z,163425874274100
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:45:41.910Z,163425874191000
+"""Stevo @ aL5upxHjBA"" calls 40",2021-10-15T00:45:33.584Z,163425873358400
+"""arash @ huBdniBdCU"" bets 40",2021-10-15T00:45:30.098Z,163425873009800
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:45:27.172Z,163425872717200
+"Turn: 4♠, 8♠, 9♣ [Q♥]",2021-10-15T00:45:19.812Z,163425871981200
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:45:19.004Z,163425871900400
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:45:18.104Z,163425871810400
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:45:16.405Z,163425871640500
+"Flop:  [4♠, 8♠, 9♣]",2021-10-15T00:45:11.494Z,163425871149400
+"""Spenny @ cu8vqwqurV"" calls 40",2021-10-15T00:45:10.680Z,163425871068000
+"""Stevo @ aL5upxHjBA"" calls 40",2021-10-15T00:45:09.200Z,163425870920000
+"""arash @ huBdniBdCU"" raises to 40",2021-10-15T00:45:08.014Z,163425870801400
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:45:06.011Z,163425870601100
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:45:05.137Z,163425870513700
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:45:02.941Z,163425870294100
+"""arash @ huBdniBdCU"" posts a big blind of 20",2021-10-15T00:45:01.535Z,163425870153507
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2021-10-15T00:45:01.535Z,163425870153506
+"Your hand is Q♣, J♣",2021-10-15T00:45:01.535Z,163425870153503
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (930) | #5 ""arash @ huBdniBdCU"" (1370) | #7 ""gerog @ G4RdqDSm6Z"" (710) | #10 ""Stevo @ aL5upxHjBA"" (970)",2021-10-15T00:45:01.535Z,163425870153501
+"-- starting hand #40  (No Limit Texas Hold'em) (dealer: ""Stevo @ aL5upxHjBA"") --",2021-10-15T00:45:01.535Z,163425870153500
+"""arash @ huBdniBdCU"" shows a J♠, J♦.",2021-10-15T00:44:58.120Z,163425869812000
+"""Spenny @ cu8vqwqurV"" shows a 3♠, 2♣.",2021-10-15T00:44:57.742Z,163425869774200
+"""Stevo @ aL5upxHjBA"" shows a 10♦, 6♠.",2021-10-15T00:44:56.507Z,163425869650700
+"Undealt cards:  [3♣, 2♦, 10♣, 4♥, 7♣]",2021-10-15T00:44:55.677Z,163425869567700
+"-- ending hand #39 --",2021-10-15T00:44:53.529Z,163425869352902
+"""arash @ huBdniBdCU"" collected 50 from pot",2021-10-15T00:44:53.529Z,163425869352901
+"Uncalled bet of 20 returned to ""arash @ huBdniBdCU""",2021-10-15T00:44:53.529Z,163425869352900
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:44:52.715Z,163425869271500
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:44:46.502Z,163425868650200
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:44:44.874Z,163425868487400
+"""arash @ huBdniBdCU"" raises to 40",2021-10-15T00:44:42.948Z,163425868294800
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2021-10-15T00:44:40.535Z,163425868053507
+"""Stevo @ aL5upxHjBA"" posts a small blind of 10",2021-10-15T00:44:40.535Z,163425868053506
+"Your hand is J♠, J♦",2021-10-15T00:44:40.535Z,163425868053503
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (950) | #5 ""arash @ huBdniBdCU"" (1340) | #7 ""gerog @ G4RdqDSm6Z"" (710) | #10 ""Stevo @ aL5upxHjBA"" (980)",2021-10-15T00:44:40.535Z,163425868053501
+"-- starting hand #39  (No Limit Texas Hold'em) (dealer: ""gerog @ G4RdqDSm6Z"") --",2021-10-15T00:44:40.535Z,163425868053500
+"""Stevo @ aL5upxHjBA"" shows a 6♥, 9♣.",2021-10-15T00:44:37.053Z,163425867705300
+"""gerog @ G4RdqDSm6Z"" shows a 3♥, 8♣.",2021-10-15T00:44:36.385Z,163425867638500
+"-- ending hand #38 --",2021-10-15T00:44:36.209Z,163425867620902
+"""Stevo @ aL5upxHjBA"" collected 250 from pot",2021-10-15T00:44:36.209Z,163425867620901
+"Uncalled bet of 20 returned to ""Stevo @ aL5upxHjBA""",2021-10-15T00:44:36.209Z,163425867620900
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:44:35.401Z,163425867540100
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:44:34.503Z,163425867450300
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:44:32.488Z,163425867248800
+"River: 10♥, 6♣, 7♠, 9♦ [4♥]",2021-10-15T00:44:30.150Z,163425867015000
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:44:29.342Z,163425866934200
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:44:28.446Z,163425866844600
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:44:27.047Z,163425866704700
+"Turn: 10♥, 6♣, 7♠ [9♦]",2021-10-15T00:44:25.050Z,163425866505000
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:44:24.242Z,163425866424200
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:44:22.486Z,163425866248600
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:44:20.705Z,163425866070500
+"Flop:  [10♥, 6♣, 7♠]",2021-10-15T00:44:18.488Z,163425865848800
+"""Spenny @ cu8vqwqurV"" calls 40",2021-10-15T00:44:17.677Z,163425865767700
+"""Stevo @ aL5upxHjBA"" calls 40",2021-10-15T00:44:11.407Z,163425865140700
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:44:09.278Z,163425864927800
+"""arash @ huBdniBdCU"" raises to 40",2021-10-15T00:44:07.908Z,163425864790800
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:44:04.194Z,163425864419400
+"""Stevo @ aL5upxHjBA"" posts a big blind of 20",2021-10-15T00:44:00.134Z,163425864013407
+"""gerog @ G4RdqDSm6Z"" posts a small blind of 10",2021-10-15T00:44:00.134Z,163425864013406
+"Your hand is 5♦, 5♥",2021-10-15T00:44:00.134Z,163425864013403
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1030) | #5 ""arash @ huBdniBdCU"" (1420) | #7 ""gerog @ G4RdqDSm6Z"" (720) | #10 ""Stevo @ aL5upxHjBA"" (810)",2021-10-15T00:44:00.134Z,163425864013401
+"-- starting hand #38  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2021-10-15T00:44:00.134Z,163425864013400
+"""Spenny @ cu8vqwqurV"" shows a 4♦, 6♦.",2021-10-15T00:43:56.819Z,163425863681900
+"""Stevo @ aL5upxHjBA"" shows a J♠, K♣.",2021-10-15T00:43:56.537Z,163425863653700
+"-- ending hand #37 --",2021-10-15T00:43:55.822Z,163425863582202
+"""Spenny @ cu8vqwqurV"" collected 240 from pot",2021-10-15T00:43:55.822Z,163425863582201
+"Uncalled bet of 40 returned to ""Spenny @ cu8vqwqurV""",2021-10-15T00:43:55.822Z,163425863582200
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:43:55.011Z,163425863501100
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:43:53.964Z,163425863396400
+"""Spenny @ cu8vqwqurV"" raises to 60",2021-10-15T00:43:52.141Z,163425863214100
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:43:44.863Z,163425862486300
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:43:43.489Z,163425862348900
+"River: 3♥, 10♦, J♦, 2♠ [9♦]",2021-10-15T00:43:42.294Z,163425862229400
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:43:41.484Z,163425862148400
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:43:39.720Z,163425861972000
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:43:34.444Z,163425861444400
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:43:33.199Z,163425861319900
+"Turn: 3♥, 10♦, J♦ [2♠]",2021-10-15T00:43:31.925Z,163425861192500
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:43:31.119Z,163425861111900
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:43:29.477Z,163425860947700
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:43:28.580Z,163425860858000
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:43:26.124Z,163425860612400
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:43:24.909Z,163425860490900
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:43:22.811Z,163425860281100
+"Flop:  [3♥, 10♦, J♦]",2021-10-15T00:43:21.013Z,163425860101300
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:43:20.204Z,163425860020400
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:43:18.885Z,163425859888500
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:43:17.847Z,163425859784700
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:43:12.155Z,163425859215500
+"""gerog @ G4RdqDSm6Z"" posts a big blind of 20",2021-10-15T00:43:11.110Z,163425859111007
+"""arash @ huBdniBdCU"" posts a small blind of 10",2021-10-15T00:43:11.110Z,163425859111006
+"Your hand is 7♦, 4♣",2021-10-15T00:43:11.110Z,163425859111003
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (870) | #5 ""arash @ huBdniBdCU"" (1440) | #7 ""gerog @ G4RdqDSm6Z"" (780) | #10 ""Stevo @ aL5upxHjBA"" (890)",2021-10-15T00:43:11.110Z,163425859111001
+"-- starting hand #37  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2021-10-15T00:43:11.110Z,163425859111000
+"-- ending hand #36 --",2021-10-15T00:43:08.190Z,163425858819002
+"""gerog @ G4RdqDSm6Z"" collected 70 from pot",2021-10-15T00:43:08.190Z,163425858819001
+"Uncalled bet of 20 returned to ""gerog @ G4RdqDSm6Z""",2021-10-15T00:43:08.190Z,163425858819000
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:43:07.381Z,163425858738100
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:43:04.147Z,163425858414700
+"""gerog @ G4RdqDSm6Z"" bets 20",2021-10-15T00:43:03.245Z,163425858324500
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:43:02.054Z,163425858205400
+"River: 9♠, K♥, Q♣, 4♥ [4♠]",2021-10-15T00:43:00.065Z,163425858006500
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:42:59.255Z,163425857925500
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:42:58.356Z,163425857835600
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:42:57.361Z,163425857736100
+"Turn: 9♠, K♥, Q♣ [4♥]",2021-10-15T00:42:54.314Z,163425857431400
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:42:53.506Z,163425857350600
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:42:52.592Z,163425857259200
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:42:51.704Z,163425857170400
+"Flop:  [9♠, K♥, Q♣]",2021-10-15T00:42:47.058Z,163425856705800
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:42:46.250Z,163425856625000
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:42:45.359Z,163425856535900
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:42:39.796Z,163425855979600
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:42:38.815Z,163425855881500
+"""arash @ huBdniBdCU"" posts a big blind of 20",2021-10-15T00:42:37.660Z,163425855766007
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2021-10-15T00:42:37.660Z,163425855766006
+"Your hand is 6♠, J♦",2021-10-15T00:42:37.660Z,163425855766003
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (880) | #5 ""arash @ huBdniBdCU"" (1460) | #7 ""gerog @ G4RdqDSm6Z"" (730) | #10 ""Stevo @ aL5upxHjBA"" (910)",2021-10-15T00:42:37.660Z,163425855766001
+"-- starting hand #36  (No Limit Texas Hold'em) (dealer: ""Stevo @ aL5upxHjBA"") --",2021-10-15T00:42:37.660Z,163425855766000
+"""Spenny @ cu8vqwqurV"" shows a 2♦, 2♠.",2021-10-15T00:42:32.184Z,163425855218400
+"-- ending hand #35 --",2021-10-15T00:42:31.119Z,163425855111902
+"""arash @ huBdniBdCU"" collected 460 from pot with Flush, 10c High (combination: 10♣, 5♣, 4♣, 3♣, 2♣)",2021-10-15T00:42:31.119Z,163425855111901
+"""arash @ huBdniBdCU"" shows a 10♣, 4♣.",2021-10-15T00:42:31.119Z,163425855111900
+"""Spenny @ cu8vqwqurV"" calls 90",2021-10-15T00:42:30.307Z,163425855030700
+"""arash @ huBdniBdCU"" raises to 90",2021-10-15T00:41:50.087Z,163425851008700
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:41:47.672Z,163425850767200
+"River: 5♣, 3♣, 10♠, 2♣ [6♠]",2021-10-15T00:41:39.780Z,163425849978000
+"""Spenny @ cu8vqwqurV"" calls 80",2021-10-15T00:41:38.962Z,163425849896200
+"""arash @ huBdniBdCU"" raises to 80",2021-10-15T00:41:34.687Z,163425849468700
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:41:29.446Z,163425848944600
+"Turn: 5♣, 3♣, 10♠ [2♣]",2021-10-15T00:41:21.198Z,163425848119800
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:41:20.391Z,163425848039100
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:41:19.252Z,163425847925200
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:41:17.735Z,163425847773500
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:41:15.566Z,163425847556600
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:41:06.457Z,163425846645700
+"Flop:  [5♣, 3♣, 10♠]",2021-10-15T00:41:04.767Z,163425846476700
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:41:03.959Z,163425846395900
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:40:58.361Z,163425845836100
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:40:57.448Z,163425845744800
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:40:56.604Z,163425845660400
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2021-10-15T00:40:55.041Z,163425845504107
+"""Stevo @ aL5upxHjBA"" posts a small blind of 10",2021-10-15T00:40:55.041Z,163425845504106
+"Your hand is 10♣, 4♣",2021-10-15T00:40:55.041Z,163425845504103
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1090) | #5 ""arash @ huBdniBdCU"" (1210) | #7 ""gerog @ G4RdqDSm6Z"" (750) | #10 ""Stevo @ aL5upxHjBA"" (930)",2021-10-15T00:40:55.041Z,163425845504101
+"-- starting hand #35  (No Limit Texas Hold'em) (dealer: ""gerog @ G4RdqDSm6Z"") --",2021-10-15T00:40:55.041Z,163425845504100
+"-- ending hand #34 --",2021-10-15T00:40:48.989Z,163425844898902
+"""Spenny @ cu8vqwqurV"" collected 440 from pot with Straight, K High (combination: K♣, Q♥, J♦, 10♠, 9♥)",2021-10-15T00:40:48.989Z,163425844898901
+"""Spenny @ cu8vqwqurV"" shows a Q♥, 10♠.",2021-10-15T00:40:48.989Z,163425844898900
+"""arash @ huBdniBdCU"" calls 100",2021-10-15T00:40:48.181Z,163425844818100
+"""Spenny @ cu8vqwqurV"" bets 100",2021-10-15T00:40:43.961Z,163425844396100
+"River: J♦, K♣, 4♥, 6♥ [9♥]",2021-10-15T00:40:39.544Z,163425843954400
+"""Spenny @ cu8vqwqurV"" calls 40",2021-10-15T00:40:38.738Z,163425843873800
+"""arash @ huBdniBdCU"" bets 40",2021-10-15T00:40:27.698Z,163425842769800
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:40:21.069Z,163425842106900
+"Turn: J♦, K♣, 4♥ [6♥]",2021-10-15T00:40:12.684Z,163425841268400
+"""Spenny @ cu8vqwqurV"" calls 40",2021-10-15T00:40:11.879Z,163425841187900
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:40:02.352Z,163425840235200
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:40:01.359Z,163425840135900
+"""arash @ huBdniBdCU"" bets 40",2021-10-15T00:40:00.492Z,163425840049200
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:39:56.025Z,163425839602500
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:39:51.260Z,163425839126000
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:39:50.355Z,163425839035500
+"Flop:  [J♦, K♣, 4♥]",2021-10-15T00:39:48.212Z,163425838821200
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:39:47.404Z,163425838740400
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:39:46.499Z,163425838649900
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:39:44.966Z,163425838496600
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:39:44.063Z,163425838406300
+"""Stevo @ aL5upxHjBA"" posts a big blind of 20",2021-10-15T00:39:38.216Z,163425837821607
+"""gerog @ G4RdqDSm6Z"" posts a small blind of 10",2021-10-15T00:39:38.216Z,163425837821606
+"Your hand is 9♣, K♠",2021-10-15T00:39:38.216Z,163425837821603
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (850) | #5 ""arash @ huBdniBdCU"" (1410) | #7 ""gerog @ G4RdqDSm6Z"" (770) | #10 ""Stevo @ aL5upxHjBA"" (950)",2021-10-15T00:39:38.216Z,163425837821601
+"-- starting hand #34  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2021-10-15T00:39:38.216Z,163425837821600
+"""Stevo @ aL5upxHjBA"" shows a K♠, A♥.",2021-10-15T00:39:35.694Z,163425837569400
+"-- ending hand #33 --",2021-10-15T00:39:34.586Z,163425837458602
+"""gerog @ G4RdqDSm6Z"" collected 100 from pot",2021-10-15T00:39:34.586Z,163425837458601
+"Uncalled bet of 20 returned to ""gerog @ G4RdqDSm6Z""",2021-10-15T00:39:34.586Z,163425837458600
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:39:33.780Z,163425837378000
+"""gerog @ G4RdqDSm6Z"" bets 20",2021-10-15T00:39:32.155Z,163425837215500
+"River: J♣, J♦, 3♦, 10♣ [7♥]",2021-10-15T00:39:29.330Z,163425836933000
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:39:28.485Z,163425836848500
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:39:25.994Z,163425836599400
+"""gerog @ G4RdqDSm6Z"" bets 20",2021-10-15T00:39:24.341Z,163425836434100
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:39:23.218Z,163425836321800
+"Turn: J♣, J♦, 3♦ [10♣]",2021-10-15T00:39:20.833Z,163425836083300
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:39:20.026Z,163425836002600
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:39:19.127Z,163425835912700
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:39:18.291Z,163425835829100
+"Flop:  [J♣, J♦, 3♦]",2021-10-15T00:39:15.790Z,163425835579000
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:39:14.980Z,163425835498000
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:39:14.103Z,163425835410300
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:39:12.159Z,163425835215900
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:39:03.981Z,163425834398100
+"""gerog @ G4RdqDSm6Z"" posts a big blind of 20",2021-10-15T00:39:02.691Z,163425834269107
+"""arash @ huBdniBdCU"" posts a small blind of 10",2021-10-15T00:39:02.691Z,163425834269106
+"Your hand is 7♠, 9♣",2021-10-15T00:39:02.691Z,163425834269103
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (850) | #5 ""arash @ huBdniBdCU"" (1430) | #7 ""gerog @ G4RdqDSm6Z"" (710) | #10 ""Stevo @ aL5upxHjBA"" (990)",2021-10-15T00:39:02.691Z,163425834269101
+"-- starting hand #33  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2021-10-15T00:39:02.691Z,163425834269100
+"-- ending hand #32 --",2021-10-15T00:38:56.652Z,163425833665204
+"""arash @ huBdniBdCU"" collected 150 from pot with Straight, 6 High (combination: 6♥, 5♦, 4♣, 3♥, 2♠)",2021-10-15T00:38:56.652Z,163425833665203
+"""arash @ huBdniBdCU"" shows a 3♥, A♦.",2021-10-15T00:38:56.652Z,163425833665202
+"""Spenny @ cu8vqwqurV"" collected 150 from pot with Straight, 6 High (combination: 6♥, 5♣, 4♣, 3♠, 2♠)",2021-10-15T00:38:56.652Z,163425833665201
+"""Spenny @ cu8vqwqurV"" shows a 3♠, 5♣.",2021-10-15T00:38:56.652Z,163425833665200
+"""Spenny @ cu8vqwqurV"" calls 100",2021-10-15T00:38:55.845Z,163425833584500
+"""arash @ huBdniBdCU"" raises to 100",2021-10-15T00:38:52.773Z,163425833277300
+"""Spenny @ cu8vqwqurV"" bets 40",2021-10-15T00:38:48.351Z,163425832835100
+"River: 6♥, 5♦, 2♠, 8♦ [4♣]",2021-10-15T00:38:44.162Z,163425832416200
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:38:43.356Z,163425832335600
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:38:42.456Z,163425832245600
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:38:40.730Z,163425832073000
+"Turn: 6♥, 5♦, 2♠ [8♦]",2021-10-15T00:38:36.501Z,163425831650100
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:38:35.693Z,163425831569300
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:38:34.789Z,163425831478900
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:38:33.316Z,163425831331600
+"Flop:  [6♥, 5♦, 2♠]",2021-10-15T00:38:28.889Z,163425830888900
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:38:28.081Z,163425830808100
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:38:27.163Z,163425830716300
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:38:25.482Z,163425830548200
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:38:24.497Z,163425830449700
+"""arash @ huBdniBdCU"" posts a big blind of 20",2021-10-15T00:38:19.553Z,163425829955307
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2021-10-15T00:38:19.553Z,163425829955306
+"Your hand is 3♥, A♦",2021-10-15T00:38:19.553Z,163425829955303
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (840) | #5 ""arash @ huBdniBdCU"" (1420) | #7 ""gerog @ G4RdqDSm6Z"" (710) | #10 ""Stevo @ aL5upxHjBA"" (1010)",2021-10-15T00:38:19.553Z,163425829955301
+"-- starting hand #32  (No Limit Texas Hold'em) (dealer: ""Stevo @ aL5upxHjBA"") --",2021-10-15T00:38:19.553Z,163425829955300
+"""arash @ huBdniBdCU"" shows a K♦, 4♠.",2021-10-15T00:38:18.243Z,163425829824300
+"-- ending hand #31 --",2021-10-15T00:38:15.931Z,163425829593102
+"""Stevo @ aL5upxHjBA"" collected 180 from pot",2021-10-15T00:38:15.931Z,163425829593101
+"Uncalled bet of 80 returned to ""Stevo @ aL5upxHjBA""",2021-10-15T00:38:15.931Z,163425829593100
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:38:15.124Z,163425829512400
+"""Stevo @ aL5upxHjBA"" bets 80",2021-10-15T00:38:08.799Z,163425828879900
+"River: K♠, 7♥, J♥, 4♥ [J♠]",2021-10-15T00:38:06.067Z,163425828606700
+"""Stevo @ aL5upxHjBA"" calls 40",2021-10-15T00:38:05.258Z,163425828525800
+"""arash @ huBdniBdCU"" bets 40",2021-10-15T00:38:03.275Z,163425828327500
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:37:59.495Z,163425827949500
+"Turn: K♠, 7♥, J♥ [4♥]",2021-10-15T00:37:58.165Z,163425827816500
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:37:57.358Z,163425827735800
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:37:56.465Z,163425827646500
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:37:50.168Z,163425827016800
+"Flop:  [K♠, 7♥, J♥]",2021-10-15T00:37:48.760Z,163425826876000
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:37:47.951Z,163425826795100
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:37:47.078Z,163425826707800
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:37:45.805Z,163425826580500
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:37:44.957Z,163425826495700
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2021-10-15T00:37:42.919Z,163425826291907
+"""Stevo @ aL5upxHjBA"" posts a small blind of 10",2021-10-15T00:37:42.919Z,163425826291906
+"Your hand is K♦, 4♠",2021-10-15T00:37:42.919Z,163425826291903
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (860) | #5 ""arash @ huBdniBdCU"" (1500) | #7 ""gerog @ G4RdqDSm6Z"" (710) | #10 ""Stevo @ aL5upxHjBA"" (910)",2021-10-15T00:37:42.919Z,163425826291901
+"-- starting hand #31  (No Limit Texas Hold'em) (dealer: ""gerog @ G4RdqDSm6Z"") --",2021-10-15T00:37:42.919Z,163425826291900
+"-- ending hand #30 --",2021-10-15T00:37:40.002Z,163425826000202
+"""arash @ huBdniBdCU"" collected 200 from pot",2021-10-15T00:37:40.002Z,163425826000201
+"Uncalled bet of 40 returned to ""arash @ huBdniBdCU""",2021-10-15T00:37:40.002Z,163425826000200
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:37:39.194Z,163425825919400
+"""arash @ huBdniBdCU"" bets 40",2021-10-15T00:37:38.091Z,163425825809100
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:37:34.627Z,163425825462700
+"River: 9♥, 8♣, A♣, 9♦ [Q♥]",2021-10-15T00:37:32.623Z,163425825262300
+"""gerog @ G4RdqDSm6Z"" calls 40",2021-10-15T00:37:31.802Z,163425825180200
+"""arash @ huBdniBdCU"" bets 40",2021-10-15T00:37:30.307Z,163425825030700
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:37:25.858Z,163425824585800
+"Turn: 9♥, 8♣, A♣ [9♦]",2021-10-15T00:37:23.328Z,163425824332800
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:37:22.515Z,163425824251500
+"""gerog @ G4RdqDSm6Z"" calls 30",2021-10-15T00:37:21.614Z,163425824161400
+"""arash @ huBdniBdCU"" bets 30",2021-10-15T00:37:20.574Z,163425824057400
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:37:17.716Z,163425823771600
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:37:16.807Z,163425823680700
+"Flop:  [9♥, 8♣, A♣]",2021-10-15T00:37:12.914Z,163425823291400
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:37:12.107Z,163425823210700
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:37:11.207Z,163425823120700
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:37:10.046Z,163425823004600
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:37:06.727Z,163425822672700
+"""Stevo @ aL5upxHjBA"" posts a big blind of 20",2021-10-15T00:37:01.829Z,163425822182907
+"""gerog @ G4RdqDSm6Z"" posts a small blind of 10",2021-10-15T00:37:01.829Z,163425822182906
+"Your hand is 10♥, A♥",2021-10-15T00:37:01.829Z,163425822182903
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (860) | #5 ""arash @ huBdniBdCU"" (1390) | #7 ""gerog @ G4RdqDSm6Z"" (800) | #10 ""Stevo @ aL5upxHjBA"" (930)",2021-10-15T00:37:01.829Z,163425822182901
+"-- starting hand #30  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2021-10-15T00:37:01.829Z,163425822182900
+"-- ending hand #29 --",2021-10-15T00:36:58.918Z,163425821891802
+"""arash @ huBdniBdCU"" collected 300 from pot",2021-10-15T00:36:58.918Z,163425821891801
+"Uncalled bet of 100 returned to ""arash @ huBdniBdCU""",2021-10-15T00:36:58.918Z,163425821891800
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:36:58.111Z,163425821811100
+"""arash @ huBdniBdCU"" bets 100",2021-10-15T00:36:47.699Z,163425820769900
+"River: Q♣, 4♦, 3♣, 6♥ [3♠]",2021-10-15T00:36:42.553Z,163425820255300
+"""gerog @ G4RdqDSm6Z"" calls 80",2021-10-15T00:36:41.745Z,163425820174500
+"""arash @ huBdniBdCU"" bets 80",2021-10-15T00:36:29.379Z,163425818937900
+"Turn: Q♣, 4♦, 3♣ [6♥]",2021-10-15T00:36:25.348Z,163425818534800
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:36:24.541Z,163425818454100
+"""gerog @ G4RdqDSm6Z"" calls 40",2021-10-15T00:36:23.566Z,163425818356600
+"""arash @ huBdniBdCU"" bets 40",2021-10-15T00:36:22.724Z,163425818272400
+"Flop:  [Q♣, 4♦, 3♣]",2021-10-15T00:36:19.107Z,163425817910700
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:36:18.301Z,163425817830100
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:36:15.803Z,163425817580300
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:36:14.381Z,163425817438100
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:36:12.918Z,163425817291800
+"""gerog @ G4RdqDSm6Z"" posts a big blind of 20",2021-10-15T00:36:11.619Z,163425817161907
+"""arash @ huBdniBdCU"" posts a small blind of 10",2021-10-15T00:36:11.619Z,163425817161906
+"Your hand is Q♥, 6♦",2021-10-15T00:36:11.619Z,163425817161903
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (860) | #5 ""arash @ huBdniBdCU"" (1230) | #7 ""gerog @ G4RdqDSm6Z"" (940) | #10 ""Stevo @ aL5upxHjBA"" (950)",2021-10-15T00:36:11.619Z,163425817161901
+"-- starting hand #29  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2021-10-15T00:36:11.619Z,163425817161900
+"""Stevo @ aL5upxHjBA"" shows a 8♥, A♣.",2021-10-15T00:36:06.727Z,163425816672700
+"""Spenny @ cu8vqwqurV"" shows a A♦, 6♦.",2021-10-15T00:36:05.690Z,163425816569000
+"-- ending hand #28 --",2021-10-15T00:36:04.607Z,163425816460702
+"""arash @ huBdniBdCU"" collected 150 from pot with Two Pair, 9's & 5's (combination: 9♣, 9♠, 5♥, 5♦, K♦)",2021-10-15T00:36:04.607Z,163425816460701
+"""arash @ huBdniBdCU"" shows a K♦, 5♥.",2021-10-15T00:36:04.607Z,163425816460700
+"""Spenny @ cu8vqwqurV"" calls 30",2021-10-15T00:36:03.799Z,163425816379900
+"""Stevo @ aL5upxHjBA"" calls 30",2021-10-15T00:35:46.556Z,163425814655600
+"""arash @ huBdniBdCU"" bets 30",2021-10-15T00:35:44.780Z,163425814478000
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:35:41.905Z,163425814190500
+"River: 5♦, Q♠, 7♠, 9♣ [9♠]",2021-10-15T00:35:38.075Z,163425813807500
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:35:37.265Z,163425813726500
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:35:36.323Z,163425813632300
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:35:35.104Z,163425813510400
+"Turn: 5♦, Q♠, 7♠ [9♣]",2021-10-15T00:35:31.126Z,163425813112600
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:35:30.274Z,163425813027400
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:35:29.373Z,163425812937300
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:35:28.142Z,163425812814200
+"Flop:  [5♦, Q♠, 7♠]",2021-10-15T00:35:20.706Z,163425812070600
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:35:19.899Z,163425811989900
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:35:18.255Z,163425811825500
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:35:12.337Z,163425811233700
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:35:11.434Z,163425811143400
+"""arash @ huBdniBdCU"" posts a big blind of 20",2021-10-15T00:35:07.551Z,163425810755107
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2021-10-15T00:35:07.551Z,163425810755106
+"Your hand is K♦, 5♥",2021-10-15T00:35:07.551Z,163425810755103
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (910) | #5 ""arash @ huBdniBdCU"" (1130) | #7 ""gerog @ G4RdqDSm6Z"" (940) | #10 ""Stevo @ aL5upxHjBA"" (1000)",2021-10-15T00:35:07.551Z,163425810755101
+"-- starting hand #28  (No Limit Texas Hold'em) (dealer: ""Stevo @ aL5upxHjBA"") --",2021-10-15T00:35:07.551Z,163425810755100
+"""Spenny @ cu8vqwqurV"" shows a 4♣, K♣.",2021-10-15T00:35:05.640Z,163425810564000
+"""Stevo @ aL5upxHjBA"" shows a 6♣, 9♣.",2021-10-15T00:35:03.762Z,163425810376200
+"-- ending hand #27 --",2021-10-15T00:35:03.209Z,163425810320902
+"""Spenny @ cu8vqwqurV"" collected 280 from pot",2021-10-15T00:35:03.209Z,163425810320901
+"Uncalled bet of 60 returned to ""Spenny @ cu8vqwqurV""",2021-10-15T00:35:03.209Z,163425810320900
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:35:02.391Z,163425810239100
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:34:50.656Z,163425809065600
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:34:49.811Z,163425808981100
+"""Spenny @ cu8vqwqurV"" raises to 120",2021-10-15T00:34:48.913Z,163425808891300
+"""Stevo @ aL5upxHjBA"" bets 60",2021-10-15T00:34:46.375Z,163425808637500
+"River: 2♣, J♦, J♣, 3♥ [7♣]",2021-10-15T00:34:42.215Z,163425808221500
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:34:41.406Z,163425808140600
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:34:40.297Z,163425808029700
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:34:38.616Z,163425807861600
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:34:36.230Z,163425807623000
+"Turn: 2♣, J♦, J♣ [3♥]",2021-10-15T00:34:34.134Z,163425807413400
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:34:33.329Z,163425807332900
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:34:31.522Z,163425807152200
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:34:26.386Z,163425806638600
+"""gerog @ G4RdqDSm6Z"" bets 20",2021-10-15T00:34:25.311Z,163425806531100
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:34:24.162Z,163425806416200
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:34:22.576Z,163425806257600
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:34:18.749Z,163425805874900
+"Flop:  [2♣, J♦, J♣]",2021-10-15T00:34:16.781Z,163425805678100
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:34:15.973Z,163425805597300
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:34:15.108Z,163425805510800
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:34:13.960Z,163425805396000
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:34:10.526Z,163425805052600
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2021-10-15T00:34:06.330Z,163425804633007
+"""Stevo @ aL5upxHjBA"" posts a small blind of 10",2021-10-15T00:34:06.330Z,163425804633006
+"Your hand is K♥, 5♠",2021-10-15T00:34:06.330Z,163425804633003
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (730) | #5 ""arash @ huBdniBdCU"" (1170) | #7 ""gerog @ G4RdqDSm6Z"" (980) | #10 ""Stevo @ aL5upxHjBA"" (1100)",2021-10-15T00:34:06.330Z,163425804633001
+"-- starting hand #27  (No Limit Texas Hold'em) (dealer: ""gerog @ G4RdqDSm6Z"") --",2021-10-15T00:34:06.330Z,163425804633000
+"""Spenny @ cu8vqwqurV"" shows a 3♠, 7♣.",2021-10-15T00:34:03.765Z,163425804376500
+"""arash @ huBdniBdCU"" shows a 5♦, 4♠.",2021-10-15T00:34:02.707Z,163425804270700
+"-- ending hand #26 --",2021-10-15T00:34:02.004Z,163425804200402
+"""gerog @ G4RdqDSm6Z"" collected 100 from pot",2021-10-15T00:34:02.004Z,163425804200401
+"Uncalled bet of 40 returned to ""gerog @ G4RdqDSm6Z""",2021-10-15T00:34:02.004Z,163425804200400
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:34:01.189Z,163425804118900
+"""gerog @ G4RdqDSm6Z"" bets 40",2021-10-15T00:33:54.671Z,163425803467100
+"River: 7♦, 2♠, 9♠, 5♠ [10♠]",2021-10-15T00:33:50.825Z,163425803082500
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:33:50.018Z,163425803001800
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:33:49.082Z,163425802908200
+"""arash @ huBdniBdCU"" bets 20",2021-10-15T00:33:48.229Z,163425802822900
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:33:46.697Z,163425802669700
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:33:45.797Z,163425802579700
+"Turn: 7♦, 2♠, 9♠ [5♠]",2021-10-15T00:33:44.963Z,163425802496300
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:33:44.157Z,163425802415700
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:33:42.892Z,163425802289200
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:33:41.991Z,163425802199100
+"Flop:  [7♦, 2♠, 9♠]",2021-10-15T00:33:40.057Z,163425802005700
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:33:39.250Z,163425801925000
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:33:35.673Z,163425801567300
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:33:34.382Z,163425801438200
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:33:32.470Z,163425801247000
+"""Stevo @ aL5upxHjBA"" posts a big blind of 20",2021-10-15T00:33:24.142Z,163425800414207
+"""gerog @ G4RdqDSm6Z"" posts a small blind of 10",2021-10-15T00:33:24.142Z,163425800414206
+"Your hand is 5♦, 4♠",2021-10-15T00:33:24.142Z,163425800414203
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (730) | #5 ""arash @ huBdniBdCU"" (1210) | #7 ""gerog @ G4RdqDSm6Z"" (920) | #10 ""Stevo @ aL5upxHjBA"" (1120)",2021-10-15T00:33:24.142Z,163425800414201
+"-- starting hand #26  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2021-10-15T00:33:24.142Z,163425800414200
+"""gerog @ G4RdqDSm6Z"" shows a 4♣, J♠.",2021-10-15T00:33:18.072Z,163425799807200
+"-- ending hand #25 --",2021-10-15T00:33:17.635Z,163425799763502
+"""arash @ huBdniBdCU"" collected 140 from pot with Pair, 10's (combination: 10♠, 10♣, Q♠, J♦, 5♥)",2021-10-15T00:33:17.635Z,163425799763501
+"""arash @ huBdniBdCU"" shows a 3♣, 10♠.",2021-10-15T00:33:17.635Z,163425799763500
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:33:16.670Z,163425799667000
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:33:12.874Z,163425799287400
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:33:11.973Z,163425799197300
+"River: Q♠, J♦, 10♣, 5♥ [4♦]",2021-10-15T00:33:10.319Z,163425799031900
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:33:09.510Z,163425798951000
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:33:03.699Z,163425798369900
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:33:02.797Z,163425798279700
+"Turn: Q♠, J♦, 10♣ [5♥]",2021-10-15T00:32:59.783Z,163425797978300
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:32:58.974Z,163425797897400
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:32:49.840Z,163425796984000
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:32:48.931Z,163425796893100
+"""arash @ huBdniBdCU"" bets 20",2021-10-15T00:32:45.075Z,163425796507500
+"Flop:  [Q♠, J♦, 10♣]",2021-10-15T00:32:41.370Z,163425796137000
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:32:40.556Z,163425796055600
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:32:39.169Z,163425795916900
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:32:38.278Z,163425795827800
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:32:34.418Z,163425795441800
+"""gerog @ G4RdqDSm6Z"" posts a big blind of 20",2021-10-15T00:32:33.468Z,163425795346807
+"""arash @ huBdniBdCU"" posts a small blind of 10",2021-10-15T00:32:33.468Z,163425795346806
+"Your hand is 3♣, 10♠",2021-10-15T00:32:33.468Z,163425795346803
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (770) | #5 ""arash @ huBdniBdCU"" (1110) | #7 ""gerog @ G4RdqDSm6Z"" (940) | #10 ""Stevo @ aL5upxHjBA"" (1160)",2021-10-15T00:32:33.468Z,163425795346801
+"-- starting hand #25  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2021-10-15T00:32:33.468Z,163425795346800
+"""gerog @ G4RdqDSm6Z"" shows a A♦, 8♦.",2021-10-15T00:32:29.636Z,163425794963600
+"Undealt cards: 4♦, 8♠, 7♠, 3♠ [9♦]",2021-10-15T00:32:28.645Z,163425794864500
+"-- ending hand #24 --",2021-10-15T00:32:26.824Z,163425794682402
+"""arash @ huBdniBdCU"" collected 200 from pot",2021-10-15T00:32:26.824Z,163425794682401
+"Uncalled bet of 60 returned to ""arash @ huBdniBdCU""",2021-10-15T00:32:26.824Z,163425794682400
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:32:26.015Z,163425794601500
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:32:20.645Z,163425794064500
+"""arash @ huBdniBdCU"" bets 60",2021-10-15T00:32:19.804Z,163425793980400
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:32:15.489Z,163425793548900
+"Turn: 4♦, 8♠, 7♠ [3♠]",2021-10-15T00:32:09.003Z,163425792900300
+"""Spenny @ cu8vqwqurV"" calls 40",2021-10-15T00:32:08.194Z,163425792819400
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:32:07.324Z,163425792732400
+"""gerog @ G4RdqDSm6Z"" calls 40",2021-10-15T00:32:04.885Z,163425792488500
+"""arash @ huBdniBdCU"" bets 40",2021-10-15T00:32:02.146Z,163425792214600
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:31:57.303Z,163425791730300
+"Flop:  [4♦, 8♠, 7♠]",2021-10-15T00:31:46.056Z,163425790605600
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:31:45.250Z,163425790525000
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:31:44.167Z,163425790416700
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:31:43.299Z,163425790329900
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:31:32.081Z,163425789208100
+"""arash @ huBdniBdCU"" posts a big blind of 20",2021-10-15T00:31:27.616Z,163425788761608
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2021-10-15T00:31:27.616Z,163425788761607
+"Your hand is 2♠, Q♠",2021-10-15T00:31:27.616Z,163425788761604
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (830) | #5 ""arash @ huBdniBdCU"" (970) | #7 ""gerog @ G4RdqDSm6Z"" (1000) | #10 ""Stevo @ aL5upxHjBA"" (1180)",2021-10-15T00:31:27.616Z,163425788761602
+"-- starting hand #24  (No Limit Texas Hold'em) (dealer: ""Stevo @ aL5upxHjBA"") --",2021-10-15T00:31:27.616Z,163425788761601
+"The player ""peelic @ c2JqQCu6sT"" quits the game with a stack of 1020.",2021-10-15T00:31:27.616Z,163425788761600
+"-- ending hand #23 --",2021-10-15T00:31:24.700Z,163425788470002
+"""Stevo @ aL5upxHjBA"" collected 100 from pot",2021-10-15T00:31:24.700Z,163425788470001
+"Uncalled bet of 20 returned to ""Stevo @ aL5upxHjBA""",2021-10-15T00:31:24.700Z,163425788470000
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:31:23.890Z,163425788389000
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:31:22.822Z,163425788282200
+"River: 3♦, 9♥, A♠, 7♥ [K♣]",2021-10-15T00:31:21.365Z,163425788136500
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:31:20.556Z,163425788055600
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:31:19.565Z,163425787956500
+"Turn: 3♦, 9♥, A♠ [7♥]",2021-10-15T00:31:17.360Z,163425787736000
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:31:16.550Z,163425787655000
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:31:12.092Z,163425787209200
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:31:03.322Z,163425786332200
+"Flop:  [3♦, 9♥, A♠]",2021-10-15T00:31:01.760Z,163425786176000
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:31:00.946Z,163425786094600
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:31:00.074Z,163425786007400
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:30:59.054Z,163425785905400
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:30:45.600Z,163425784560000
+"""peelic @ c2JqQCu6sT"" folds",2021-10-15T00:30:44.703Z,163425784470300
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2021-10-15T00:30:38.013Z,163425783801308
+"""Stevo @ aL5upxHjBA"" posts a small blind of 10",2021-10-15T00:30:38.013Z,163425783801307
+"Your hand is Q♦, 10♥",2021-10-15T00:30:38.013Z,163425783801304
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (850) | #2 ""peelic @ c2JqQCu6sT"" (1020) | #5 ""arash @ huBdniBdCU"" (1010) | #7 ""gerog @ G4RdqDSm6Z"" (1000) | #10 ""Stevo @ aL5upxHjBA"" (1120)",2021-10-15T00:30:38.013Z,163425783801301
+"-- starting hand #23  (No Limit Texas Hold'em) (dealer: ""gerog @ G4RdqDSm6Z"") --",2021-10-15T00:30:38.013Z,163425783801300
+"""Stevo @ aL5upxHjBA"" shows a 4♦, 7♥.",2021-10-15T00:30:35.496Z,163425783549600
+"""peelic @ c2JqQCu6sT"" shows a 9♣, K♦.",2021-10-15T00:30:34.562Z,163425783456200
+"-- ending hand #22 --",2021-10-15T00:30:33.705Z,163425783370502
+"""peelic @ c2JqQCu6sT"" collected 260 from pot",2021-10-15T00:30:33.705Z,163425783370501
+"Uncalled bet of 760 returned to ""peelic @ c2JqQCu6sT""",2021-10-15T00:30:33.705Z,163425783370500
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:30:32.897Z,163425783289700
+"""peelic @ c2JqQCu6sT"" bets 760 and go all in",2021-10-15T00:30:12.769Z,163425781276900
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:30:10.402Z,163425781040200
+"River: Q♦, J♠, 10♦, 8♥ [7♦]",2021-10-15T00:30:04.495Z,163425780449500
+"""Spenny @ cu8vqwqurV"" calls 40",2021-10-15T00:30:03.687Z,163425780368700
+"""peelic @ c2JqQCu6sT"" bets 40",2021-10-15T00:30:00.984Z,163425780098400
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:29:57.884Z,163425779788400
+"Turn: Q♦, J♠, 10♦ [8♥]",2021-10-15T00:29:54.222Z,163425779422200
+"""Spenny @ cu8vqwqurV"" calls 40",2021-10-15T00:29:53.415Z,163425779341500
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:29:44.729Z,163425778472900
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:29:43.812Z,163425778381200
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:29:42.772Z,163425778277200
+"""peelic @ c2JqQCu6sT"" bets 40",2021-10-15T00:29:40.777Z,163425778077700
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:29:37.466Z,163425777746600
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:29:33.700Z,163425777370000
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:29:32.785Z,163425777278500
+"Flop:  [Q♦, J♠, 10♦]",2021-10-15T00:29:29.691Z,163425776969100
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:29:28.882Z,163425776888200
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:29:27.979Z,163425776797900
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:29:27.096Z,163425776709600
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:29:26.201Z,163425776620100
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:29:25.307Z,163425776530700
+"""Stevo @ aL5upxHjBA"" posts a big blind of 20",2021-10-15T00:29:21.257Z,163425776125708
+"""gerog @ G4RdqDSm6Z"" posts a small blind of 10",2021-10-15T00:29:21.257Z,163425776125707
+"Your hand is 3♥, J♣",2021-10-15T00:29:21.257Z,163425776125704
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (950) | #2 ""peelic @ c2JqQCu6sT"" (860) | #5 ""arash @ huBdniBdCU"" (1030) | #7 ""gerog @ G4RdqDSm6Z"" (1020) | #10 ""Stevo @ aL5upxHjBA"" (1140)",2021-10-15T00:29:21.257Z,163425776125701
+"-- starting hand #22  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2021-10-15T00:29:21.257Z,163425776125700
+"-- ending hand #21 --",2021-10-15T00:29:15.222Z,163425775522202
+"""gerog @ G4RdqDSm6Z"" collected 320 from pot with Two Pair, A's & 5's (combination: A♦, A♣, 5♣, 5♦, J♦)",2021-10-15T00:29:15.222Z,163425775522201
+"""gerog @ G4RdqDSm6Z"" shows a A♦, 8♦.",2021-10-15T00:29:15.222Z,163425775522200
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:29:14.415Z,163425775441500
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:29:13.367Z,163425775336700
+"River: J♦, 5♣, A♣, 5♦ [2♠]",2021-10-15T00:29:11.625Z,163425775162500
+"""gerog @ G4RdqDSm6Z"" calls 100",2021-10-15T00:29:10.818Z,163425775081800
+"""peelic @ c2JqQCu6sT"" raises to 100",2021-10-15T00:29:09.971Z,163425774997100
+"""gerog @ G4RdqDSm6Z"" bets 40",2021-10-15T00:29:07.777Z,163425774777700
+"Turn: J♦, 5♣, A♣ [5♦]",2021-10-15T00:29:03.733Z,163425774373300
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:29:02.922Z,163425774292200
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:29:02.026Z,163425774202600
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:29:01.043Z,163425774104300
+"""gerog @ G4RdqDSm6Z"" bets 20",2021-10-15T00:28:59.220Z,163425773922000
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:28:58.000Z,163425773800000
+"Flop:  [J♦, 5♣, A♣]",2021-10-15T00:28:54.891Z,163425773489100
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:28:54.084Z,163425773408400
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:28:53.240Z,163425773324000
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:28:52.330Z,163425773233000
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:28:51.437Z,163425773143700
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:28:46.052Z,163425772605200
+"""gerog @ G4RdqDSm6Z"" posts a big blind of 20",2021-10-15T00:28:44.190Z,163425772419008
+"""arash @ huBdniBdCU"" posts a small blind of 10",2021-10-15T00:28:44.190Z,163425772419007
+"Your hand is Q♥, 9♠",2021-10-15T00:28:44.190Z,163425772419004
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (950) | #2 ""peelic @ c2JqQCu6sT"" (1000) | #5 ""arash @ huBdniBdCU"" (1050) | #7 ""gerog @ G4RdqDSm6Z"" (840) | #10 ""Stevo @ aL5upxHjBA"" (1160)",2021-10-15T00:28:44.190Z,163425772419001
+"-- starting hand #21  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2021-10-15T00:28:44.190Z,163425772419000
+"""Stevo @ aL5upxHjBA"" shows a 7♠, J♥.",2021-10-15T00:28:41.100Z,163425772110000
+"-- ending hand #20 --",2021-10-15T00:28:40.579Z,163425772057902
+"""Stevo @ aL5upxHjBA"" collected 300 from pot",2021-10-15T00:28:40.579Z,163425772057901
+"Uncalled bet of 60 returned to ""Stevo @ aL5upxHjBA""",2021-10-15T00:28:40.579Z,163425772057900
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:28:39.771Z,163425771977100
+"""Stevo @ aL5upxHjBA"" bets 60",2021-10-15T00:28:38.020Z,163425771802000
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:28:34.856Z,163425771485600
+"River: 7♦, 8♥, 3♥, 8♠ [8♣]",2021-10-15T00:28:29.023Z,163425770902300
+"""peelic @ c2JqQCu6sT"" folds",2021-10-15T00:28:28.206Z,163425770820600
+"""Stevo @ aL5upxHjBA"" calls 50",2021-10-15T00:28:27.313Z,163425770731300
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:28:26.260Z,163425770626000
+"""arash @ huBdniBdCU"" bets 50",2021-10-15T00:28:21.656Z,163425770165600
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:28:18.619Z,163425769861900
+"Turn: 7♦, 8♥, 3♥ [8♠]",2021-10-15T00:28:16.927Z,163425769692700
+"""peelic @ c2JqQCu6sT"" calls 30",2021-10-15T00:28:16.120Z,163425769612000
+"""Stevo @ aL5upxHjBA"" calls 30",2021-10-15T00:28:12.624Z,163425769262400
+"""gerog @ G4RdqDSm6Z"" calls 30",2021-10-15T00:28:11.631Z,163425769163100
+"""arash @ huBdniBdCU"" bets 30",2021-10-15T00:28:10.724Z,163425769072400
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:28:07.429Z,163425768742900
+"Flop:  [7♦, 8♥, 3♥]",2021-10-15T00:28:04.539Z,163425768453900
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:28:03.731Z,163425768373100
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:28:02.291Z,163425768229100
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:28:01.391Z,163425768139100
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:27:50.070Z,163425767007000
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:27:48.891Z,163425766889100
+"""arash @ huBdniBdCU"" posts a big blind of 20",2021-10-15T00:27:47.665Z,163425766766508
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2021-10-15T00:27:47.665Z,163425766766507
+"Your hand is 5♦, 6♣",2021-10-15T00:27:47.665Z,163425766766504
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (950) | #2 ""peelic @ c2JqQCu6sT"" (1050) | #5 ""arash @ huBdniBdCU"" (1150) | #7 ""gerog @ G4RdqDSm6Z"" (890) | #10 ""Stevo @ aL5upxHjBA"" (960)",2021-10-15T00:27:47.665Z,163425766766501
+"-- starting hand #20  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2021-10-15T00:27:47.665Z,163425766766500
+"Undealt cards: 3♣, J♠, 2♥, 8♣ [5♦]",2021-10-15T00:27:43.895Z,163425766389500
+"-- ending hand #19 --",2021-10-15T00:27:41.735Z,163425766173502
+"""gerog @ G4RdqDSm6Z"" collected 80 from pot",2021-10-15T00:27:41.735Z,163425766173501
+"Uncalled bet of 50 returned to ""gerog @ G4RdqDSm6Z""",2021-10-15T00:27:41.735Z,163425766173500
+"""peelic @ c2JqQCu6sT"" folds",2021-10-15T00:27:40.927Z,163425766092700
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:27:40.030Z,163425766003000
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:27:27.081Z,163425764708100
+"""gerog @ G4RdqDSm6Z"" bets 50",2021-10-15T00:27:25.426Z,163425764542600
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:27:21.646Z,163425764164600
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:27:20.272Z,163425764027200
+"Turn: 3♣, J♠, 2♥ [8♣]",2021-10-15T00:27:17.512Z,163425763751200
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:27:16.532Z,163425763653200
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:27:15.629Z,163425763562900
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:27:13.609Z,163425763360900
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:27:12.128Z,163425763212800
+"Flop:  [3♣, J♠, 2♥]",2021-10-15T00:27:09.204Z,163425762920400
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:27:08.394Z,163425762839400
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:27:07.502Z,163425762750200
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:27:06.630Z,163425762663000
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:27:05.446Z,163425762544600
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:27:04.598Z,163425762459800
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2021-10-15T00:27:02.226Z,163425762222608
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2021-10-15T00:27:02.226Z,163425762222607
+"Your hand is 7♠, 9♥",2021-10-15T00:27:02.226Z,163425762222604
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (970) | #2 ""peelic @ c2JqQCu6sT"" (1070) | #5 ""arash @ huBdniBdCU"" (1150) | #7 ""gerog @ G4RdqDSm6Z"" (830) | #10 ""Stevo @ aL5upxHjBA"" (980)",2021-10-15T00:27:02.226Z,163425762222601
+"-- starting hand #19  (No Limit Texas Hold'em) (dealer: ""Stevo @ aL5upxHjBA"") --",2021-10-15T00:27:02.226Z,163425762222600
+"""Spenny @ cu8vqwqurV"" shows a A♦, J♦.",2021-10-15T00:26:57.165Z,163425761716500
+"-- ending hand #18 --",2021-10-15T00:26:55.711Z,163425761571102
+"""peelic @ c2JqQCu6sT"" collected 340 from pot with Flush, Ac High (combination: A♣, Q♣, 10♣, 7♣, 4♣)",2021-10-15T00:26:55.711Z,163425761571101
+"""peelic @ c2JqQCu6sT"" shows a 10♣, A♣.",2021-10-15T00:26:55.711Z,163425761571100
+"""Spenny @ cu8vqwqurV"" calls 100",2021-10-15T00:26:54.902Z,163425761490200
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:26:32.181Z,163425759218100
+"""peelic @ c2JqQCu6sT"" raises to 100",2021-10-15T00:26:31.281Z,163425759128100
+"""Spenny @ cu8vqwqurV"" bets 40",2021-10-15T00:26:28.555Z,163425758855500
+"River: Q♣, A♠, 7♠, 4♣ [7♣]",2021-10-15T00:26:23.729Z,163425758372900
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:26:22.920Z,163425758292000
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:26:20.947Z,163425758094700
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:26:17.449Z,163425757744900
+"Turn: Q♣, A♠, 7♠ [4♣]",2021-10-15T00:26:14.130Z,163425757413000
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:26:13.277Z,163425757327700
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:26:12.375Z,163425757237500
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:26:11.473Z,163425757147300
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:26:03.184Z,163425756318400
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:25:59.888Z,163425755988800
+"Flop:  [Q♣, A♠, 7♠]",2021-10-15T00:25:58.474Z,163425755847400
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:25:57.665Z,163425755766500
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:25:56.293Z,163425755629300
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:25:55.273Z,163425755527300
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:25:54.417Z,163425755441700
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:25:53.401Z,163425755340100
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2021-10-15T00:25:51.888Z,163425755188808
+"""Stevo @ aL5upxHjBA"" posts a small blind of 10",2021-10-15T00:25:51.888Z,163425755188807
+"Your hand is Q♠, 9♣",2021-10-15T00:25:51.888Z,163425755188804
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1110) | #2 ""peelic @ c2JqQCu6sT"" (870) | #5 ""arash @ huBdniBdCU"" (1190) | #7 ""gerog @ G4RdqDSm6Z"" (830) | #10 ""Stevo @ aL5upxHjBA"" (1000)",2021-10-15T00:25:51.888Z,163425755188801
+"-- starting hand #18  (No Limit Texas Hold'em) (dealer: ""gerog @ G4RdqDSm6Z"") --",2021-10-15T00:25:51.888Z,163425755188800
+"""Spenny @ cu8vqwqurV"" shows a 2♠, 2♥.",2021-10-15T00:25:46.481Z,163425754648100
+"-- ending hand #17 --",2021-10-15T00:25:45.363Z,163425754536302
+"""peelic @ c2JqQCu6sT"" collected 370 from pot with Two Pair, Q's & J's (combination: Q♣, Q♥, J♥, J♠, 9♥)",2021-10-15T00:25:45.363Z,163425754536301
+"""peelic @ c2JqQCu6sT"" shows a J♥, 9♥.",2021-10-15T00:25:45.363Z,163425754536300
+"""Spenny @ cu8vqwqurV"" calls 50",2021-10-15T00:25:44.556Z,163425754455600
+"""peelic @ c2JqQCu6sT"" raises to 50",2021-10-15T00:25:17.933Z,163425751793300
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:25:15.191Z,163425751519100
+"River: Q♣, 5♠, J♠, 6♣ [Q♥]",2021-10-15T00:25:11.577Z,163425751157700
+"""Spenny @ cu8vqwqurV"" calls 40",2021-10-15T00:25:10.770Z,163425751077000
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:25:07.928Z,163425750792800
+"""peelic @ c2JqQCu6sT"" bets 40",2021-10-15T00:25:07.026Z,163425750702600
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:25:04.211Z,163425750421100
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:24:59.491Z,163425749949100
+"Turn: Q♣, 5♠, J♠ [6♣]",2021-10-15T00:24:57.591Z,163425749759100
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:24:56.782Z,163425749678200
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:24:55.214Z,163425749521400
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:24:53.893Z,163425749389300
+"Flop:  [Q♣, 5♠, J♠]",2021-10-15T00:24:50.811Z,163425749081100
+"""Stevo @ aL5upxHjBA"" calls 40",2021-10-15T00:24:49.965Z,163425748996500
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:24:48.610Z,163425748861000
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:24:47.133Z,163425748713300
+"""peelic @ c2JqQCu6sT"" calls 40",2021-10-15T00:24:45.039Z,163425748503900
+"""Spenny @ cu8vqwqurV"" raises to 40",2021-10-15T00:24:41.728Z,163425748172800
+"""Stevo @ aL5upxHjBA"" posts a big blind of 20",2021-10-15T00:24:36.809Z,163425747680908
+"""gerog @ G4RdqDSm6Z"" posts a small blind of 10",2021-10-15T00:24:36.809Z,163425747680907
+"Your hand is 5♥, 7♦",2021-10-15T00:24:36.809Z,163425747680904
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1260) | #2 ""peelic @ c2JqQCu6sT"" (650) | #5 ""arash @ huBdniBdCU"" (1190) | #7 ""gerog @ G4RdqDSm6Z"" (840) | #10 ""Stevo @ aL5upxHjBA"" (1060)",2021-10-15T00:24:36.809Z,163425747680901
+"-- starting hand #17  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2021-10-15T00:24:36.809Z,163425747680900
+"""Stevo @ aL5upxHjBA"" shows a K♦, 7♥.",2021-10-15T00:24:34.149Z,163425747414900
+"-- ending hand #16 --",2021-10-15T00:24:33.176Z,163425747317602
+"""Stevo @ aL5upxHjBA"" collected 120 from pot",2021-10-15T00:24:33.176Z,163425747317601
+"Uncalled bet of 60 returned to ""Stevo @ aL5upxHjBA""",2021-10-15T00:24:33.176Z,163425747317600
+"""peelic @ c2JqQCu6sT"" folds",2021-10-15T00:24:32.367Z,163425747236700
+"""Stevo @ aL5upxHjBA"" bets 60",2021-10-15T00:24:28.717Z,163425746871700
+"River: 2♣, 7♣, 7♦, 10♠ [4♥]",2021-10-15T00:24:24.484Z,163425746448400
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:24:23.674Z,163425746367400
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:24:17.446Z,163425745744600
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:24:15.401Z,163425745540100
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:24:11.432Z,163425745143200
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:24:10.172Z,163425745017200
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:24:08.262Z,163425744826200
+"Turn: 2♣, 7♣, 7♦ [10♠]",2021-10-15T00:24:06.943Z,163425744694300
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:24:06.134Z,163425744613400
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:24:03.786Z,163425744378600
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:24:02.884Z,163425744288400
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:24:02.028Z,163425744202800
+"Flop:  [2♣, 7♣, 7♦]",2021-10-15T00:23:59.864Z,163425743986400
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:23:59.054Z,163425743905400
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:23:54.414Z,163425743441400
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:23:53.496Z,163425743349600
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:23:52.601Z,163425743260100
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:23:48.448Z,163425742844800
+"""gerog @ G4RdqDSm6Z"" posts a big blind of 20",2021-10-15T00:23:47.485Z,163425742748508
+"""arash @ huBdniBdCU"" posts a small blind of 10",2021-10-15T00:23:47.485Z,163425742748507
+"Your hand is 5♦, A♦",2021-10-15T00:23:47.485Z,163425742748504
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1260) | #2 ""peelic @ c2JqQCu6sT"" (690) | #5 ""arash @ huBdniBdCU"" (1210) | #7 ""gerog @ G4RdqDSm6Z"" (860) | #10 ""Stevo @ aL5upxHjBA"" (980)",2021-10-15T00:23:47.485Z,163425742748501
+"-- starting hand #16  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2021-10-15T00:23:47.485Z,163425742748500
+"""gerog @ G4RdqDSm6Z"" shows a 10♣, 8♦.",2021-10-15T00:23:43.743Z,163425742374300
+"""Stevo @ aL5upxHjBA"" shows a 9♦, J♣.",2021-10-15T00:23:42.878Z,163425742287800
+"Undealt cards: 3♦, 2♣, A♣ [8♣, 4♣]",2021-10-15T00:23:42.111Z,163425742211100
+"-- ending hand #15 --",2021-10-15T00:23:40.180Z,163425742018002
+"""peelic @ c2JqQCu6sT"" collected 100 from pot",2021-10-15T00:23:40.180Z,163425742018001
+"Uncalled bet of 40 returned to ""peelic @ c2JqQCu6sT""",2021-10-15T00:23:40.180Z,163425742018000
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:23:39.370Z,163425741937000
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:23:32.899Z,163425741289900
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:23:31.984Z,163425741198400
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:23:31.139Z,163425741113900
+"""peelic @ c2JqQCu6sT"" bets 40",2021-10-15T00:23:28.277Z,163425740827700
+"Flop:  [3♦, 2♣, A♣]",2021-10-15T00:23:23.645Z,163425740364500
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:23:22.836Z,163425740283600
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:23:21.938Z,163425740193800
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:23:21.042Z,163425740104200
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:23:11.696Z,163425739169600
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:23:10.357Z,163425739035700
+"""arash @ huBdniBdCU"" posts a big blind of 20",2021-10-15T00:23:07.236Z,163425738723608
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2021-10-15T00:23:07.236Z,163425738723607
+"Your hand is K♥, 3♠",2021-10-15T00:23:07.236Z,163425738723604
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1280) | #2 ""peelic @ c2JqQCu6sT"" (610) | #5 ""arash @ huBdniBdCU"" (1230) | #7 ""gerog @ G4RdqDSm6Z"" (880) | #10 ""Stevo @ aL5upxHjBA"" (1000)",2021-10-15T00:23:07.236Z,163425738723601
+"-- starting hand #15  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2021-10-15T00:23:07.236Z,163425738723600
+"-- ending hand #14 --",2021-10-15T00:23:01.210Z,163425738121003
+"""peelic @ c2JqQCu6sT"" shows a 10♠, J♦.",2021-10-15T00:23:01.210Z,163425738121002
+"""Spenny @ cu8vqwqurV"" collected 120 from pot with Pair, 3's (combination: 3♥, 3♦, A♣, K♣, 10♦)",2021-10-15T00:23:01.210Z,163425738121001
+"""Spenny @ cu8vqwqurV"" shows a 10♦, A♣.",2021-10-15T00:23:01.210Z,163425738121000
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:23:00.402Z,163425738040200
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:22:43.841Z,163425736384100
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:22:42.416Z,163425736241600
+"""peelic @ c2JqQCu6sT"" bets 20",2021-10-15T00:22:41.461Z,163425736146100
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:22:39.267Z,163425735926700
+"River: 3♥, 3♦, 5♥, K♣ [4♣]",2021-10-15T00:22:36.109Z,163425735610900
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:22:35.300Z,163425735530000
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:22:34.394Z,163425735439400
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:22:33.548Z,163425735354800
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:22:32.656Z,163425735265600
+"Turn: 3♥, 3♦, 5♥ [K♣]",2021-10-15T00:22:27.282Z,163425734728200
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:22:26.459Z,163425734645900
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:22:25.556Z,163425734555600
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:22:24.039Z,163425734403900
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:22:23.038Z,163425734303800
+"Flop:  [3♥, 3♦, 5♥]",2021-10-15T00:22:16.361Z,163425733636100
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:22:15.553Z,163425733555300
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:22:14.657Z,163425733465700
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:22:13.241Z,163425733324100
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:22:12.339Z,163425733233900
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:22:11.047Z,163425733104700
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2021-10-15T00:22:08.682Z,163425732868208
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2021-10-15T00:22:08.682Z,163425732868207
+"Your hand is 7♥, 4♠",2021-10-15T00:22:08.682Z,163425732868204
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1200) | #2 ""peelic @ c2JqQCu6sT"" (650) | #5 ""arash @ huBdniBdCU"" (1230) | #7 ""gerog @ G4RdqDSm6Z"" (900) | #10 ""Stevo @ aL5upxHjBA"" (1020)",2021-10-15T00:22:08.682Z,163425732868201
+"-- starting hand #14  (No Limit Texas Hold'em) (dealer: ""Stevo @ aL5upxHjBA"") --",2021-10-15T00:22:08.682Z,163425732868200
+"""Stevo @ aL5upxHjBA"" shows a 7♠, 2♦.",2021-10-15T00:22:03.435Z,163425732343500
+"-- ending hand #13 --",2021-10-15T00:22:02.167Z,163425732216702
+"""Spenny @ cu8vqwqurV"" collected 380 from pot with Two Pair, 10's & 7's (combination: 10♣, 10♦, 7♦, 7♣, A♦)",2021-10-15T00:22:02.167Z,163425732216701
+"""Spenny @ cu8vqwqurV"" shows a 7♦, 10♣.",2021-10-15T00:22:02.167Z,163425732216700
+"""Stevo @ aL5upxHjBA"" calls 60",2021-10-15T00:22:01.355Z,163425732135500
+"""Spenny @ cu8vqwqurV"" bets 60",2021-10-15T00:21:51.175Z,163425731117500
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:21:43.548Z,163425730354800
+"River: 7♣, 10♦, 5♦, 3♠ [A♦]",2021-10-15T00:21:42.121Z,163425730212100
+"""Stevo @ aL5upxHjBA"" calls 40",2021-10-15T00:21:41.310Z,163425730131000
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:21:39.818Z,163425729981800
+"""peelic @ c2JqQCu6sT"" folds",2021-10-15T00:21:35.657Z,163425729565700
+"""Spenny @ cu8vqwqurV"" bets 40",2021-10-15T00:21:32.177Z,163425729217700
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:21:24.422Z,163425728442200
+"Turn: 7♣, 10♦, 5♦ [3♠]",2021-10-15T00:21:22.112Z,163425728211200
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:21:21.305Z,163425728130500
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:21:19.896Z,163425727989600
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:21:19.052Z,163425727905200
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:21:16.528Z,163425727652800
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:21:15.350Z,163425727535000
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:21:00.011Z,163425726001100
+"Flop:  [7♣, 10♦, 5♦]",2021-10-15T00:20:57.365Z,163425725736500
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:20:56.524Z,163425725652400
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:20:55.649Z,163425725564900
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:20:54.093Z,163425725409300
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:20:52.618Z,163425725261800
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:20:51.721Z,163425725172100
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2021-10-15T00:20:49.603Z,163425724960308
+"""Stevo @ aL5upxHjBA"" posts a small blind of 10",2021-10-15T00:20:49.603Z,163425724960307
+"Your hand is K♠, 3♥",2021-10-15T00:20:49.603Z,163425724960304
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (960) | #2 ""peelic @ c2JqQCu6sT"" (690) | #5 ""arash @ huBdniBdCU"" (1250) | #7 ""gerog @ G4RdqDSm6Z"" (940) | #10 ""Stevo @ aL5upxHjBA"" (1160)",2021-10-15T00:20:49.603Z,163425724960301
+"-- starting hand #13  (No Limit Texas Hold'em) (dealer: ""gerog @ G4RdqDSm6Z"") --",2021-10-15T00:20:49.603Z,163425724960300
+"-- ending hand #12 --",2021-10-15T00:20:43.561Z,163425724356102
+"""gerog @ G4RdqDSm6Z"" collected 280 from pot with Two Pair, Q's & 6's (combination: Q♦, Q♥, 6♦, 6♠, 10♥)",2021-10-15T00:20:43.561Z,163425724356101
+"""gerog @ G4RdqDSm6Z"" shows a 10♥, Q♦.",2021-10-15T00:20:43.561Z,163425724356100
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:20:42.749Z,163425724274900
+"""gerog @ G4RdqDSm6Z"" bets 20",2021-10-15T00:20:41.317Z,163425724131700
+"River: 6♦, 8♠, Q♥, 3♠ [6♠]",2021-10-15T00:20:37.623Z,163425723762300
+"""arash @ huBdniBdCU"" calls 40",2021-10-15T00:20:36.813Z,163425723681300
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:20:28.079Z,163425722807900
+"""gerog @ G4RdqDSm6Z"" bets 40",2021-10-15T00:20:27.167Z,163425722716700
+"Turn: 6♦, 8♠, Q♥ [3♠]",2021-10-15T00:20:22.881Z,163425722288100
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:20:22.075Z,163425722207500
+"""peelic @ c2JqQCu6sT"" folds",2021-10-15T00:20:20.942Z,163425722094200
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:20:20.046Z,163425722004600
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:20:09.019Z,163425720901900
+"""gerog @ G4RdqDSm6Z"" bets 20",2021-10-15T00:20:07.054Z,163425720705400
+"Flop:  [6♦, 8♠, Q♥]",2021-10-15T00:20:04.541Z,163425720454100
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:20:03.731Z,163425720373100
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:20:02.830Z,163425720283000
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:20:01.979Z,163425720197900
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:20:01.076Z,163425720107600
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:19:59.698Z,163425719969800
+"""Stevo @ aL5upxHjBA"" posts a big blind of 20",2021-10-15T00:19:50.632Z,163425719063208
+"""gerog @ G4RdqDSm6Z"" posts a small blind of 10",2021-10-15T00:19:50.632Z,163425719063207
+"Your hand is A♣, 8♦",2021-10-15T00:19:50.632Z,163425719063204
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (980) | #2 ""peelic @ c2JqQCu6sT"" (710) | #5 ""arash @ huBdniBdCU"" (1350) | #7 ""gerog @ G4RdqDSm6Z"" (760) | #10 ""Stevo @ aL5upxHjBA"" (1200)",2021-10-15T00:19:50.632Z,163425719063201
+"-- starting hand #12  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2021-10-15T00:19:50.632Z,163425719063200
+"-- ending hand #11 --",2021-10-15T00:19:47.706Z,163425718770602
+"""peelic @ c2JqQCu6sT"" collected 140 from pot",2021-10-15T00:19:47.706Z,163425718770601
+"Uncalled bet of 50 returned to ""peelic @ c2JqQCu6sT""",2021-10-15T00:19:47.706Z,163425718770600
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:19:46.897Z,163425718689700
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:19:45.892Z,163425718589200
+"""peelic @ c2JqQCu6sT"" bets 50",2021-10-15T00:19:44.965Z,163425718496500
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:19:37.652Z,163425717765200
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:19:36.738Z,163425717673800
+"River: 4♥, 8♠, 8♣, 6♦ [10♠]",2021-10-15T00:19:32.152Z,163425717215200
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:19:31.344Z,163425717134400
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:19:30.306Z,163425717030600
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:19:29.466Z,163425716946600
+"""peelic @ c2JqQCu6sT"" bets 20",2021-10-15T00:19:27.128Z,163425716712800
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:19:24.127Z,163425716412700
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:19:23.151Z,163425716315100
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:19:22.304Z,163425716230400
+"Turn: 4♥, 8♠, 8♣ [6♦]",2021-10-15T00:19:12.666Z,163425715266600
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:19:11.856Z,163425715185600
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:19:09.888Z,163425714988800
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:19:08.986Z,163425714898600
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:19:07.580Z,163425714758000
+"Flop:  [4♥, 8♠, 8♣]",2021-10-15T00:19:04.944Z,163425714494400
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:19:04.132Z,163425714413200
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:19:01.978Z,163425714197800
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:19:01.072Z,163425714107200
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:19:00.175Z,163425714017500
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:18:51.600Z,163425713160000
+"""gerog @ G4RdqDSm6Z"" posts a big blind of 20",2021-10-15T00:18:50.095Z,163425713009508
+"""arash @ huBdniBdCU"" posts a small blind of 10",2021-10-15T00:18:50.095Z,163425713009507
+"Your hand is 3♦, 5♣",2021-10-15T00:18:50.095Z,163425713009504
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (980) | #2 ""peelic @ c2JqQCu6sT"" (610) | #5 ""arash @ huBdniBdCU"" (1390) | #7 ""gerog @ G4RdqDSm6Z"" (780) | #10 ""Stevo @ aL5upxHjBA"" (1240)",2021-10-15T00:18:50.095Z,163425713009501
+"-- starting hand #11  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2021-10-15T00:18:50.095Z,163425713009500
+"""gerog @ G4RdqDSm6Z"" shows a J♠, 6♥.",2021-10-15T00:18:45.081Z,163425712508100
+"""Spenny @ cu8vqwqurV"" shows a K♦, A♦.",2021-10-15T00:18:44.970Z,163425712497000
+"-- ending hand #10 --",2021-10-15T00:18:43.081Z,163425712308103
+"""peelic @ c2JqQCu6sT"" shows a 9♦, 7♦.",2021-10-15T00:18:43.081Z,163425712308102
+"""Stevo @ aL5upxHjBA"" collected 160 from pot with Pair, 2's (combination: 2♠, 2♣, Q♦, 10♥, 6♣)",2021-10-15T00:18:43.081Z,163425712308101
+"""Stevo @ aL5upxHjBA"" shows a 4♣, 2♠.",2021-10-15T00:18:43.081Z,163425712308100
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:18:42.273Z,163425712227300
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:18:38.057Z,163425711805700
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:18:37.137Z,163425711713700
+"River: Q♦, 6♣, 2♣, 10♥ [3♠]",2021-10-15T00:18:35.286Z,163425711528600
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:18:34.453Z,163425711445300
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:18:33.397Z,163425711339700
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:18:32.555Z,163425711255500
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:18:31.657Z,163425711165700
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:18:30.682Z,163425711068200
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:18:29.027Z,163425710902700
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:18:28.122Z,163425710812200
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:18:27.275Z,163425710727500
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:18:26.239Z,163425710623900
+"Turn: Q♦, 6♣, 2♣ [10♥]",2021-10-15T00:18:24.985Z,163425710498500
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:18:24.175Z,163425710417500
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:18:23.197Z,163425710319700
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:18:22.148Z,163425710214800
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:18:21.302Z,163425710130200
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:18:19.667Z,163425709966700
+"Flop:  [Q♦, 6♣, 2♣]",2021-10-15T00:18:17.779Z,163425709777900
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:18:16.931Z,163425709693100
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:18:15.381Z,163425709538100
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:18:14.492Z,163425709449200
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:18:13.629Z,163425709362900
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:18:12.724Z,163425709272400
+"""arash @ huBdniBdCU"" posts a big blind of 20",2021-10-15T00:18:08.692Z,163425708869208
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2021-10-15T00:18:08.692Z,163425708869207
+"Your hand is 5♠, J♣",2021-10-15T00:18:08.692Z,163425708869204
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1020) | #2 ""peelic @ c2JqQCu6sT"" (650) | #5 ""arash @ huBdniBdCU"" (1410) | #7 ""gerog @ G4RdqDSm6Z"" (800) | #10 ""Stevo @ aL5upxHjBA"" (1120)",2021-10-15T00:18:08.692Z,163425708869201
+"-- starting hand #10  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2021-10-15T00:18:08.692Z,163425708869200
+"""gerog @ G4RdqDSm6Z"" shows a J♠, 5♥.",2021-10-15T00:18:05.427Z,163425708542700
+"""Spenny @ cu8vqwqurV"" shows a K♣, 9♥.",2021-10-15T00:18:05.223Z,163425708522300
+"-- ending hand #9 --",2021-10-15T00:18:04.379Z,163425708437902
+"""gerog @ G4RdqDSm6Z"" collected 140 from pot",2021-10-15T00:18:04.379Z,163425708437901
+"Uncalled bet of 50 returned to ""gerog @ G4RdqDSm6Z""",2021-10-15T00:18:04.379Z,163425708437900
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:18:03.572Z,163425708357200
+"""gerog @ G4RdqDSm6Z"" bets 50",2021-10-15T00:18:00.617Z,163425708061700
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:17:55.884Z,163425707588400
+"River: 9♠, 5♠, A♠, 7♣ [10♠]",2021-10-15T00:17:53.516Z,163425707351600
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:17:52.709Z,163425707270900
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:17:51.524Z,163425707152400
+"Turn: 9♠, 5♠, A♠ [7♣]",2021-10-15T00:17:44.207Z,163425706420700
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:17:43.397Z,163425706339700
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:17:42.497Z,163425706249700
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:17:40.234Z,163425706023400
+"""peelic @ c2JqQCu6sT"" folds",2021-10-15T00:17:39.333Z,163425705933300
+"""Spenny @ cu8vqwqurV"" bets 20",2021-10-15T00:17:38.440Z,163425705844000
+"Flop:  [9♠, 5♠, A♠]",2021-10-15T00:17:31.177Z,163425705117700
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:17:30.357Z,163425705035700
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:17:28.637Z,163425704863700
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:17:22.823Z,163425704282300
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:17:21.794Z,163425704179400
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:17:19.373Z,163425703937300
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2021-10-15T00:17:16.621Z,163425703662108
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2021-10-15T00:17:16.621Z,163425703662107
+"Your hand is J♥, 4♥",2021-10-15T00:17:16.621Z,163425703662104
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1060) | #2 ""peelic @ c2JqQCu6sT"" (670) | #5 ""arash @ huBdniBdCU"" (1430) | #7 ""gerog @ G4RdqDSm6Z"" (700) | #10 ""Stevo @ aL5upxHjBA"" (1140)",2021-10-15T00:17:16.621Z,163425703662101
+"-- starting hand #9  (No Limit Texas Hold'em) (dealer: ""Stevo @ aL5upxHjBA"") --",2021-10-15T00:17:16.621Z,163425703662100
+"""Stevo @ aL5upxHjBA"" shows a 4♥, 4♠.",2021-10-15T00:17:13.491Z,163425703349100
+"-- ending hand #8 --",2021-10-15T00:17:12.968Z,163425703296802
+"""Stevo @ aL5upxHjBA"" collected 160 from pot",2021-10-15T00:17:12.968Z,163425703296801
+"Uncalled bet of 100 returned to ""Stevo @ aL5upxHjBA""",2021-10-15T00:17:12.968Z,163425703296800
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:17:12.161Z,163425703216100
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:17:11.324Z,163425703132400
+"""Stevo @ aL5upxHjBA"" bets 100",2021-10-15T00:17:06.122Z,163425702612200
+"River: 4♣, 4♦, 3♣, K♥ [7♣]",2021-10-15T00:17:01.078Z,163425702107800
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:17:00.269Z,163425702026900
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:16:58.820Z,163425701882000
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:16:53.837Z,163425701383700
+"Turn: 4♣, 4♦, 3♣ [K♥]",2021-10-15T00:16:52.522Z,163425701252200
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:16:51.715Z,163425701171500
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:16:50.799Z,163425701079900
+"""peelic @ c2JqQCu6sT"" folds",2021-10-15T00:16:49.897Z,163425700989700
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:16:43.469Z,163425700346900
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:16:39.882Z,163425699988200
+"Flop:  [4♣, 4♦, 3♣]",2021-10-15T00:16:36.601Z,163425699660100
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:16:35.792Z,163425699579200
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:16:30.571Z,163425699057100
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:16:29.668Z,163425698966800
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:16:28.825Z,163425698882500
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:16:27.262Z,163425698726200
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2021-10-15T00:16:26.014Z,163425698601408
+"""Stevo @ aL5upxHjBA"" posts a small blind of 10",2021-10-15T00:16:26.014Z,163425698601407
+"Your hand is Q♥, 8♥",2021-10-15T00:16:26.014Z,163425698601404
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1100) | #2 ""peelic @ c2JqQCu6sT"" (690) | #5 ""arash @ huBdniBdCU"" (1450) | #7 ""gerog @ G4RdqDSm6Z"" (740) | #10 ""Stevo @ aL5upxHjBA"" (1020)",2021-10-15T00:16:26.014Z,163425698601401
+"-- starting hand #8  (No Limit Texas Hold'em) (dealer: ""gerog @ G4RdqDSm6Z"") --",2021-10-15T00:16:26.014Z,163425698601400
+"""Stevo @ aL5upxHjBA"" shows a 9♦, 9♠.",2021-10-15T00:16:23.502Z,163425698350200
+"-- ending hand #7 --",2021-10-15T00:16:22.363Z,163425698236302
+"""arash @ huBdniBdCU"" collected 440 from pot",2021-10-15T00:16:22.363Z,163425698236301
+"Uncalled bet of 120 returned to ""arash @ huBdniBdCU""",2021-10-15T00:16:22.363Z,163425698236300
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:16:21.542Z,163425698154200
+"""arash @ huBdniBdCU"" raises to 200",2021-10-15T00:16:01.178Z,163425696117800
+"""Stevo @ aL5upxHjBA"" bets 80",2021-10-15T00:15:57.011Z,163425695701100
+"River: A♠, 4♠, A♦, Q♦ [2♥]",2021-10-15T00:15:53.675Z,163425695367500
+"""Stevo @ aL5upxHjBA"" calls 80",2021-10-15T00:15:52.868Z,163425695286800
+"""arash @ huBdniBdCU"" raises to 80",2021-10-15T00:15:50.980Z,163425695098000
+"""Stevo @ aL5upxHjBA"" bets 40",2021-10-15T00:15:45.265Z,163425694526500
+"Turn: A♠, 4♠, A♦ [Q♦]",2021-10-15T00:15:40.092Z,163425694009200
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:15:39.282Z,163425693928200
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:15:38.431Z,163425693843100
+"""peelic @ c2JqQCu6sT"" folds",2021-10-15T00:15:36.317Z,163425693631700
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:15:35.427Z,163425693542700
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:15:33.920Z,163425693392000
+"Flop:  [A♠, 4♠, A♦]",2021-10-15T00:15:32.165Z,163425693216500
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:15:31.356Z,163425693135600
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:15:30.444Z,163425693044400
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:15:29.473Z,163425692947300
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:15:28.531Z,163425692853100
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:15:27.641Z,163425692764100
+"""Stevo @ aL5upxHjBA"" posts a big blind of 20",2021-10-15T00:15:24.662Z,163425692466208
+"""gerog @ G4RdqDSm6Z"" posts a small blind of 10",2021-10-15T00:15:24.662Z,163425692466207
+"Your hand is A♥, 10♦",2021-10-15T00:15:24.662Z,163425692466204
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1100) | #2 ""peelic @ c2JqQCu6sT"" (710) | #5 ""arash @ huBdniBdCU"" (1210) | #7 ""gerog @ G4RdqDSm6Z"" (760) | #10 ""Stevo @ aL5upxHjBA"" (1220)",2021-10-15T00:15:24.662Z,163425692466201
+"-- starting hand #7  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2021-10-15T00:15:24.662Z,163425692466200
+"-- ending hand #6 --",2021-10-15T00:15:18.639Z,163425691863902
+"""arash @ huBdniBdCU"" collected 520 from pot with Three of a Kind, 10's (combination: 10♣, 10♥, 10♠, Q♥, 9♥)",2021-10-15T00:15:18.639Z,163425691863901
+"""arash @ huBdniBdCU"" shows a 10♣, 9♥.",2021-10-15T00:15:18.639Z,163425691863900
+"""peelic @ c2JqQCu6sT"" calls 120",2021-10-15T00:15:17.832Z,163425691783200
+"""arash @ huBdniBdCU"" bets 120",2021-10-15T00:15:08.731Z,163425690873100
+"River: 8♣, 10♥, Q♥, 6♠ [10♠]",2021-10-15T00:15:03.383Z,163425690338300
+"""arash @ huBdniBdCU"" calls 80",2021-10-15T00:15:02.575Z,163425690257500
+"""peelic @ c2JqQCu6sT"" raises to 80",2021-10-15T00:14:57.697Z,163425689769700
+"""arash @ huBdniBdCU"" bets 40",2021-10-15T00:14:56.129Z,163425689612900
+"Turn: 8♣, 10♥, Q♥ [6♠]",2021-10-15T00:14:51.911Z,163425689191100
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:14:51.102Z,163425689110200
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:14:50.210Z,163425689021000
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:14:49.296Z,163425688929600
+"""arash @ huBdniBdCU"" bets 20",2021-10-15T00:14:43.578Z,163425688357800
+"Flop:  [8♣, 10♥, Q♥]",2021-10-15T00:14:39.748Z,163425687974800
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:14:38.940Z,163425687894000
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:14:38.099Z,163425687809900
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:14:37.198Z,163425687719800
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:14:36.306Z,163425687630600
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:14:33.873Z,163425687387300
+"""gerog @ G4RdqDSm6Z"" posts a big blind of 20",2021-10-15T00:14:32.382Z,163425687238208
+"""arash @ huBdniBdCU"" posts a small blind of 10",2021-10-15T00:14:32.382Z,163425687238207
+"Your hand is 10♣, 9♥",2021-10-15T00:14:32.382Z,163425687238204
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1100) | #2 ""peelic @ c2JqQCu6sT"" (950) | #5 ""arash @ huBdniBdCU"" (930) | #7 ""gerog @ G4RdqDSm6Z"" (780) | #10 ""Stevo @ aL5upxHjBA"" (1240)",2021-10-15T00:14:32.382Z,163425687238201
+"-- starting hand #6  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2021-10-15T00:14:32.382Z,163425687238200
+"-- ending hand #5 --",2021-10-15T00:14:26.370Z,163425686637004
+"""Stevo @ aL5upxHjBA"" collected 160 from pot with Two Pair, A's & Q's (combination: A♣, A♥, Q♥, Q♠, J♥)",2021-10-15T00:14:26.370Z,163425686637003
+"""Stevo @ aL5upxHjBA"" shows a A♣, 4♣.",2021-10-15T00:14:26.370Z,163425686637002
+"""gerog @ G4RdqDSm6Z"" collected 160 from pot with Two Pair, A's & Q's (combination: A♦, A♥, Q♥, Q♠, J♥)",2021-10-15T00:14:26.370Z,163425686637001
+"""gerog @ G4RdqDSm6Z"" shows a 10♦, A♦.",2021-10-15T00:14:26.370Z,163425686637000
+"""peelic @ c2JqQCu6sT"" calls 40",2021-10-15T00:14:25.558Z,163425686555800
+"""Stevo @ aL5upxHjBA"" calls 40",2021-10-15T00:14:24.665Z,163425686466500
+"""gerog @ G4RdqDSm6Z"" bets 40",2021-10-15T00:14:23.677Z,163425686367700
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:14:19.970Z,163425685997000
+"River: 4♦, A♥, J♥, Q♥ [Q♠]",2021-10-15T00:14:16.785Z,163425685678500
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:14:15.975Z,163425685597500
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:14:13.711Z,163425685371100
+"""gerog @ G4RdqDSm6Z"" bets 20",2021-10-15T00:14:12.537Z,163425685253700
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:14:10.865Z,163425685086500
+"Turn: 4♦, A♥, J♥ [Q♥]",2021-10-15T00:14:08.506Z,163425684850600
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:14:07.690Z,163425684769000
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:14:04.336Z,163425684433600
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:14:03.405Z,163425684340500
+"""gerog @ G4RdqDSm6Z"" bets 20",2021-10-15T00:14:02.488Z,163425684248800
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:14:01.346Z,163425684134600
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:13:59.775Z,163425683977500
+"Flop:  [4♦, A♥, J♥]",2021-10-15T00:13:55.644Z,163425683564400
+"""arash @ huBdniBdCU"" checks",2021-10-15T00:13:54.837Z,163425683483700
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:13:53.182Z,163425683318200
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:13:52.291Z,163425683229100
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:13:40.451Z,163425682045100
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:13:39.493Z,163425681949300
+"""arash @ huBdniBdCU"" posts a big blind of 20",2021-10-15T00:13:38.163Z,163425681816308
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2021-10-15T00:13:38.163Z,163425681816307
+"Your hand is Q♦, 9♣",2021-10-15T00:13:38.163Z,163425681816304
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1100) | #2 ""peelic @ c2JqQCu6sT"" (1050) | #5 ""arash @ huBdniBdCU"" (950) | #7 ""gerog @ G4RdqDSm6Z"" (720) | #10 ""Stevo @ aL5upxHjBA"" (1180)",2021-10-15T00:13:38.163Z,163425681816301
+"-- starting hand #5  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2021-10-15T00:13:38.163Z,163425681816300
+"""Spenny @ cu8vqwqurV"" shows a 4♠, 8♥.",2021-10-15T00:13:34.333Z,163425681433300
+"""Stevo @ aL5upxHjBA"" shows a 5♥, A♦.",2021-10-15T00:13:31.727Z,163425681172700
+"-- ending hand #4 --",2021-10-15T00:13:30.830Z,163425681083002
+"""Stevo @ aL5upxHjBA"" collected 100 from pot",2021-10-15T00:13:30.830Z,163425681083001
+"Uncalled bet of 20 returned to ""Stevo @ aL5upxHjBA""",2021-10-15T00:13:30.830Z,163425681083000
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:13:30.023Z,163425681002300
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:13:12.824Z,163425679282400
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:13:11.422Z,163425679142200
+"Turn: A♣, Q♦, 3♠ [A♠]",2021-10-15T00:12:54.913Z,163425677491300
+"""peelic @ c2JqQCu6sT"" folds",2021-10-15T00:12:54.103Z,163425677410300
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:12:53.211Z,163425677321100
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:12:35.790Z,163425675579000
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:12:33.725Z,163425675372500
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:12:32.380Z,163425675238000
+"Flop:  [A♣, Q♦, 3♠]",2021-10-15T00:12:25.396Z,163425674539600
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:12:24.589Z,163425674458900
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:12:23.694Z,163425674369400
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:12:17.345Z,163425673734500
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:12:15.971Z,163425673597100
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:12:15.130Z,163425673513000
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2021-10-15T00:12:13.628Z,163425673362808
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2021-10-15T00:12:13.628Z,163425673362807
+"Your hand is 4♣, 7♥",2021-10-15T00:12:13.628Z,163425673362804
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1140) | #2 ""peelic @ c2JqQCu6sT"" (1070) | #5 ""arash @ huBdniBdCU"" (950) | #7 ""gerog @ G4RdqDSm6Z"" (720) | #10 ""Stevo @ aL5upxHjBA"" (1120)",2021-10-15T00:12:13.628Z,163425673362801
+"-- starting hand #4  (No Limit Texas Hold'em) (dealer: ""Stevo @ aL5upxHjBA"") --",2021-10-15T00:12:13.628Z,163425673362800
+"""Spenny @ cu8vqwqurV"" shows a 4♥, Q♣.",2021-10-15T00:12:10.114Z,163425673011400
+"-- ending hand #3 --",2021-10-15T00:12:07.121Z,163425672712102
+"""Stevo @ aL5upxHjBA"" collected 280 from pot with Two Pair, K's & 10's (combination: K♥, K♠, 10♥, 10♦, Q♦)",2021-10-15T00:12:07.121Z,163425672712101
+"""Stevo @ aL5upxHjBA"" shows a Q♦, 10♥.",2021-10-15T00:12:07.121Z,163425672712100
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:12:06.312Z,163425672631200
+"""peelic @ c2JqQCu6sT"" folds",2021-10-15T00:12:05.465Z,163425672546500
+"""Spenny @ cu8vqwqurV"" calls 60",2021-10-15T00:12:04.565Z,163425672456500
+"""Stevo @ aL5upxHjBA"" bets 60",2021-10-15T00:11:54.871Z,163425671487100
+"River: 10♦, 4♠, 5♦, K♥ [K♠]",2021-10-15T00:11:50.589Z,163425671058900
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:11:49.778Z,163425670977800
+"""peelic @ c2JqQCu6sT"" checks",2021-10-15T00:11:48.395Z,163425670839500
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:11:46.060Z,163425670606000
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:11:39.228Z,163425669922800
+"Turn: 10♦, 4♠, 5♦ [K♥]",2021-10-15T00:11:37.778Z,163425669777800
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:11:36.963Z,163425669696300
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:11:32.396Z,163425669239600
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:11:31.503Z,163425669150300
+"""Stevo @ aL5upxHjBA"" bets 20",2021-10-15T00:11:21.636Z,163425668163600
+"Flop:  [10♦, 4♠, 5♦]",2021-10-15T00:11:20.222Z,163425668022200
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:11:19.408Z,163425667940800
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:11:18.016Z,163425667801600
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:11:17.042Z,163425667704200
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:11:16.182Z,163425667618200
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:11:11.974Z,163425667197400
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2021-10-15T00:11:10.887Z,163425667088708
+"""Stevo @ aL5upxHjBA"" posts a small blind of 10",2021-10-15T00:11:10.887Z,163425667088707
+"Your hand is 3♣, 4♦",2021-10-15T00:11:10.887Z,163425667088704
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1240) | #2 ""peelic @ c2JqQCu6sT"" (1110) | #5 ""arash @ huBdniBdCU"" (950) | #7 ""gerog @ G4RdqDSm6Z"" (760) | #10 ""Stevo @ aL5upxHjBA"" (940)",2021-10-15T00:11:10.887Z,163425667088701
+"-- starting hand #3  (No Limit Texas Hold'em) (dealer: ""gerog @ G4RdqDSm6Z"") --",2021-10-15T00:11:10.887Z,163425667088700
+"-- ending hand #2 --",2021-10-15T00:11:04.844Z,163425666484402
+"""Spenny @ cu8vqwqurV"" collected 540 from pot with Flush, As High (combination: A♠, 9♠, 8♠, 7♠, 6♠)",2021-10-15T00:11:04.844Z,163425666484401
+"""Spenny @ cu8vqwqurV"" shows a A♠, 7♠.",2021-10-15T00:11:04.844Z,163425666484400
+"""gerog @ G4RdqDSm6Z"" calls 120",2021-10-15T00:11:04.036Z,163425666403600
+"""peelic @ c2JqQCu6sT"" folds",2021-10-15T00:10:58.767Z,163425665876700
+"""Spenny @ cu8vqwqurV"" raises to 120",2021-10-15T00:10:57.877Z,163425665787700
+"""gerog @ G4RdqDSm6Z"" bets 60",2021-10-15T00:10:51.943Z,163425665194300
+"River: J♣, 8♠, 6♠, 2♦ [9♠]",2021-10-15T00:10:45.585Z,163425664558500
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:10:44.770Z,163425664477000
+"""peelic @ c2JqQCu6sT"" calls 40",2021-10-15T00:10:43.868Z,163425664386800
+"""Spenny @ cu8vqwqurV"" calls 40",2021-10-15T00:10:38.652Z,163425663865200
+"""gerog @ G4RdqDSm6Z"" bets 40",2021-10-15T00:10:29.086Z,163425662908600
+"Turn: J♣, 8♠, 6♠ [2♦]",2021-10-15T00:10:24.460Z,163425662446000
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:10:23.652Z,163425662365200
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:10:19.990Z,163425661999000
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:10:18.356Z,163425661835600
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:10:15.066Z,163425661506600
+"""gerog @ G4RdqDSm6Z"" bets 20",2021-10-15T00:10:13.865Z,163425661386500
+"Flop:  [J♣, 8♠, 6♠]",2021-10-15T00:10:10.831Z,163425661083100
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:10:10.018Z,163425661001800
+"""gerog @ G4RdqDSm6Z"" calls 20",2021-10-15T00:10:09.112Z,163425660911200
+"""arash @ huBdniBdCU"" calls 20",2021-10-15T00:10:08.271Z,163425660827100
+"""peelic @ c2JqQCu6sT"" calls 20",2021-10-15T00:10:07.373Z,163425660737300
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:10:06.480Z,163425660648000
+"""Stevo @ aL5upxHjBA"" posts a big blind of 20",2021-10-15T00:10:02.581Z,163425660258108
+"""gerog @ G4RdqDSm6Z"" posts a small blind of 10",2021-10-15T00:10:02.581Z,163425660258107
+"Your hand is 10♦, Q♠",2021-10-15T00:10:02.581Z,163425660258104
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (900) | #2 ""peelic @ c2JqQCu6sT"" (1190) | #5 ""arash @ huBdniBdCU"" (990) | #7 ""gerog @ G4RdqDSm6Z"" (960) | #10 ""Stevo @ aL5upxHjBA"" (960)",2021-10-15T00:10:02.581Z,163425660258101
+"-- starting hand #2  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2021-10-15T00:10:02.581Z,163425660258100
+"""Stevo @ aL5upxHjBA"" shows a 5♦, J♥.",2021-10-15T00:10:00.813Z,163425660081300
+"-- ending hand #1 --",2021-10-15T00:09:58.930Z,163425659893002
+"""peelic @ c2JqQCu6sT"" collected 290 from pot",2021-10-15T00:09:58.930Z,163425659893001
+"Uncalled bet of 100 returned to ""peelic @ c2JqQCu6sT""",2021-10-15T00:09:58.930Z,163425659893000
+"""Spenny @ cu8vqwqurV"" folds",2021-10-15T00:09:58.119Z,163425659811900
+"""peelic @ c2JqQCu6sT"" bets 100",2021-10-15T00:09:50.456Z,163425659045600
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:09:47.363Z,163425658736300
+"River: 9♦, 2♠, 3♣, 9♣ [7♠]",2021-10-15T00:09:40.730Z,163425658073000
+"""Spenny @ cu8vqwqurV"" calls 40",2021-10-15T00:09:39.923Z,163425657992300
+"""peelic @ c2JqQCu6sT"" bets 40",2021-10-15T00:09:11.702Z,163425655170200
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:09:09.043Z,163425654904300
+"Turn: 9♦, 2♠, 3♣ [9♣]",2021-10-15T00:09:02.699Z,163425654269900
+"""Spenny @ cu8vqwqurV"" calls 20",2021-10-15T00:09:01.890Z,163425654189000
+"""Stevo @ aL5upxHjBA"" folds",2021-10-15T00:09:00.976Z,163425654097600
+"""gerog @ G4RdqDSm6Z"" folds",2021-10-15T00:09:00.041Z,163425654004100
+"""peelic @ c2JqQCu6sT"" bets 20",2021-10-15T00:08:45.010Z,163425652501000
+"""Spenny @ cu8vqwqurV"" checks",2021-10-15T00:08:39.801Z,163425651980100
+"""Stevo @ aL5upxHjBA"" checks",2021-10-15T00:08:36.163Z,163425651616300
+"""gerog @ G4RdqDSm6Z"" checks",2021-10-15T00:08:35.242Z,163425651524200
+"Flop:  [9♦, 2♠, 3♣]",2021-10-15T00:08:32.241Z,163425651224100
+"""Stevo @ aL5upxHjBA"" calls 40",2021-10-15T00:08:31.428Z,163425651142800
+"""gerog @ G4RdqDSm6Z"" calls 40",2021-10-15T00:08:29.645Z,163425650964500
+"""arash @ huBdniBdCU"" folds",2021-10-15T00:08:17.249Z,163425649724900
+"""peelic @ c2JqQCu6sT"" calls 40",2021-10-15T00:08:16.348Z,163425649634800
+"""Spenny @ cu8vqwqurV"" raises to 40",2021-10-15T00:08:10.291Z,163425649029100
+"""Stevo @ aL5upxHjBA"" calls 20",2021-10-15T00:08:03.316Z,163425648331600
+"""gerog @ G4RdqDSm6Z"" posts a big blind of 20",2021-10-15T00:08:01.756Z,163425648175613
+"""arash @ huBdniBdCU"" posts a small blind of 10",2021-10-15T00:08:01.756Z,163425648175612
+"Your hand is 5♥, 6♦",2021-10-15T00:08:01.756Z,163425648175609
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1000) | #2 ""peelic @ c2JqQCu6sT"" (1000) | #5 ""arash @ huBdniBdCU"" (1000) | #7 ""gerog @ G4RdqDSm6Z"" (1000) | #10 ""Stevo @ aL5upxHjBA"" (1000)",2021-10-15T00:08:01.756Z,163425648175606
+"The player ""Stevo @ aL5upxHjBA"" joined the game with a stack of 1000.",2021-10-15T00:08:01.756Z,163425648175605
+"The player ""gerog @ G4RdqDSm6Z"" joined the game with a stack of 1000.",2021-10-15T00:08:01.756Z,163425648175604
+"The player ""arash @ huBdniBdCU"" joined the game with a stack of 1000.",2021-10-15T00:08:01.756Z,163425648175603
+"The player ""peelic @ c2JqQCu6sT"" joined the game with a stack of 1000.",2021-10-15T00:08:01.756Z,163425648175602
+"The player ""Spenny @ cu8vqwqurV"" joined the game with a stack of 1000.",2021-10-15T00:08:01.756Z,163425648175601
+"-- starting hand #1  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2021-10-15T00:08:01.756Z,163425648175600
+"The admin approved the player ""Spenny @ cu8vqwqurV"" participation with a stack of 1000.",2021-10-15T00:05:52.715Z,163425635271500
+"The player ""Spenny @ cu8vqwqurV"" requested a seat.",2021-10-15T00:05:48.114Z,163425634811400
+"The admin approved the player ""gerog @ G4RdqDSm6Z"" participation with a stack of 1000.",2021-10-15T00:05:35.971Z,163425633597100
+"The player ""gerog @ G4RdqDSm6Z"" requested a seat.",2021-10-15T00:05:31.842Z,163425633184200
+"The admin approved the player ""arash @ huBdniBdCU"" participation with a stack of 1000.",2021-10-15T00:02:00.850Z,163425612085000
+"The admin approved the player ""peelic @ c2JqQCu6sT"" participation with a stack of 1000.",2021-10-15T00:01:59.073Z,163425611907300
+"The player ""peelic @ c2JqQCu6sT"" requested a seat.",2021-10-15T00:01:18.523Z,163425607852300
+"The player ""arash @ huBdniBdCU"" requested a seat.",2021-10-15T00:01:17.099Z,163425607709900
+"The admin approved the player ""Stevo @ aL5upxHjBA"" participation with a stack of 1000.",2021-10-14T23:08:16.391Z,163425289639101
+"The player ""Stevo @ aL5upxHjBA"" requested a seat.",2021-10-14T23:08:16.391Z,163425289639100
