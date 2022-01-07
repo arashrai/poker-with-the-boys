@@ -1,0 +1,1321 @@
+entry,at,order
+"The game's big blind was changed from 640 to 20.",2022-01-07T01:49:50.616Z,164152019061601
+"The game's small blind was changed from 320 to 10.",2022-01-07T01:49:50.616Z,164152019061600
+"The admin approved the player ""arash @ huBdniBdCU"" participation with a stack of 1000.",2022-01-07T01:49:35.465Z,164152017546500
+"The player ""arash @ huBdniBdCU"" requested a seat.",2022-01-07T01:49:30.870Z,164152017087000
+"The player ""arash @ huBdniBdCU"" quits the game with a stack of 0.",2022-01-07T01:49:15.275Z,164152015527500
+"-- ending hand #57 --",2022-01-07T01:49:09.215Z,164152014921501
+"""goero @ G4RdqDSm6Z"" collected 3240 from pot with A High (combination: A♣, J♥, 9♣, 8♣, 6♣)",2022-01-07T01:49:09.215Z,164152014921500
+"River: J♥, 3♦, 4♥, 9♣ [6♣]",2022-01-07T01:49:05.112Z,164152014511200
+"Turn: J♥, 3♦, 4♥ [9♣]",2022-01-07T01:49:01.013Z,164152014101300
+"Flop:  [J♥, 3♦, 4♥]",2022-01-07T01:48:57.002Z,164152013700200
+"""goero @ G4RdqDSm6Z"" shows a 8♣, A♣.",2022-01-07T01:48:52.896Z,164152013289601
+"""arash @ huBdniBdCU"" shows a A♠, 5♦.",2022-01-07T01:48:52.896Z,164152013289600
+"""goero @ G4RdqDSm6Z"" calls 1620",2022-01-07T01:48:52.069Z,164152013206900
+"""arash @ huBdniBdCU"" raises to 1620 and go all in",2022-01-07T01:48:50.979Z,164152013097900
+"""goero @ G4RdqDSm6Z"" calls 640",2022-01-07T01:48:48.474Z,164152012847400
+"""arash @ huBdniBdCU"" posts a big blind of 640",2022-01-07T01:48:47.093Z,164152012709305
+"""goero @ G4RdqDSm6Z"" posts a small blind of 320",2022-01-07T01:48:47.093Z,164152012709304
+"Your hand is A♠, 5♦",2022-01-07T01:48:47.093Z,164152012709302
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1620) | #6 ""goero @ G4RdqDSm6Z"" (4380)",2022-01-07T01:48:47.093Z,164152012709301
+"-- starting hand #57  (No Limit Texas Hold'em) (dealer: ""goero @ G4RdqDSm6Z"") --",2022-01-07T01:48:47.093Z,164152012709300
+"""goero @ G4RdqDSm6Z"" shows a A♣, 7♥.",2022-01-07T01:48:44.129Z,164152012412900
+"Undealt cards:  [10♦, 9♠, 3♣, 7♣, J♣]",2022-01-07T01:48:42.615Z,164152012261500
+"-- ending hand #56 --",2022-01-07T01:48:40.405Z,164152012040502
+"""goero @ G4RdqDSm6Z"" collected 640 from pot",2022-01-07T01:48:40.405Z,164152012040501
+"Uncalled bet of 320 returned to ""goero @ G4RdqDSm6Z""",2022-01-07T01:48:40.405Z,164152012040500
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:48:39.546Z,164152011954600
+"""goero @ G4RdqDSm6Z"" posts a big blind of 640",2022-01-07T01:48:36.398Z,164152011639807
+"""arash @ huBdniBdCU"" posts a small blind of 320",2022-01-07T01:48:36.398Z,164152011639806
+"Your hand is 3♦, 9♣",2022-01-07T01:48:36.398Z,164152011639804
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1940) | #6 ""goero @ G4RdqDSm6Z"" (4060)",2022-01-07T01:48:36.398Z,164152011639803
+"-- starting hand #56  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:48:36.398Z,164152011639802
+"The game's big blind was changed from 320 to 640.",2022-01-07T01:48:36.398Z,164152011639801
+"The game's small blind was changed from 160 to 320.",2022-01-07T01:48:36.398Z,164152011639800
+"-- ending hand #55 --",2022-01-07T01:48:33.400Z,164152011340002
+"""goero @ G4RdqDSm6Z"" collected 2560 from pot",2022-01-07T01:48:33.400Z,164152011340001
+"Uncalled bet of 640 returned to ""goero @ G4RdqDSm6Z""",2022-01-07T01:48:33.400Z,164152011340000
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:48:32.535Z,164152011253500
+"""goero @ G4RdqDSm6Z"" bets 640",2022-01-07T01:48:31.129Z,164152011112900
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:48:27.714Z,164152010771400
+"River: 4♣, K♥, 3♥, 5♠ [Q♠]",2022-01-07T01:48:25.786Z,164152010578600
+"""arash @ huBdniBdCU"" calls 640",2022-01-07T01:48:24.945Z,164152010494500
+"""goero @ G4RdqDSm6Z"" raises to 640",2022-01-07T01:48:22.112Z,164152010211200
+"""arash @ huBdniBdCU"" bets 320",2022-01-07T01:48:20.380Z,164152010038000
+"Turn: 4♣, K♥, 3♥ [5♠]",2022-01-07T01:48:18.672Z,164152009867200
+"""goero @ G4RdqDSm6Z"" calls 320",2022-01-07T01:48:17.794Z,164152009779400
+"""arash @ huBdniBdCU"" bets 320",2022-01-07T01:48:16.876Z,164152009687600
+"Flop:  [4♣, K♥, 3♥]",2022-01-07T01:48:14.873Z,164152009487300
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:48:14.039Z,164152009403900
+"""goero @ G4RdqDSm6Z"" calls 320",2022-01-07T01:48:13.018Z,164152009301800
+"""arash @ huBdniBdCU"" posts a big blind of 320",2022-01-07T01:48:11.768Z,164152009176805
+"""goero @ G4RdqDSm6Z"" posts a small blind of 160",2022-01-07T01:48:11.768Z,164152009176804
+"Your hand is 2♥, 3♦",2022-01-07T01:48:11.768Z,164152009176802
+"Player stacks: #1 ""arash @ huBdniBdCU"" (3220) | #6 ""goero @ G4RdqDSm6Z"" (2780)",2022-01-07T01:48:11.768Z,164152009176801
+"-- starting hand #55  (No Limit Texas Hold'em) (dealer: ""goero @ G4RdqDSm6Z"") --",2022-01-07T01:48:11.768Z,164152009176800
+"Undealt cards: 5♦, 7♥, 7♦ [9♥, A♠]",2022-01-07T01:48:07.540Z,164152008754000
+"-- ending hand #54 --",2022-01-07T01:48:05.770Z,164152008577002
+"""arash @ huBdniBdCU"" collected 640 from pot",2022-01-07T01:48:05.770Z,164152008577001
+"Uncalled bet of 320 returned to ""arash @ huBdniBdCU""",2022-01-07T01:48:05.770Z,164152008577000
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:48:04.872Z,164152008487200
+"""arash @ huBdniBdCU"" bets 320",2022-01-07T01:48:03.829Z,164152008382900
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:48:01.041Z,164152008104100
+"Flop:  [5♦, 7♥, 7♦]",2022-01-07T01:47:59.200Z,164152007920000
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:47:58.361Z,164152007836100
+"""arash @ huBdniBdCU"" calls 320",2022-01-07T01:47:57.113Z,164152007711300
+"""goero @ G4RdqDSm6Z"" posts a big blind of 320",2022-01-07T01:47:55.778Z,164152007577805
+"""arash @ huBdniBdCU"" posts a small blind of 160",2022-01-07T01:47:55.778Z,164152007577804
+"Your hand is 4♠, K♥",2022-01-07T01:47:55.778Z,164152007577802
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2900) | #6 ""goero @ G4RdqDSm6Z"" (3100)",2022-01-07T01:47:55.778Z,164152007577801
+"-- starting hand #54  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:47:55.778Z,164152007577800
+"""goero @ G4RdqDSm6Z"" shows a 5♥, 8♣.",2022-01-07T01:47:52.433Z,164152007243300
+"Undealt cards:  [2♠, 4♠, 6♥, 7♥, 7♣]",2022-01-07T01:47:50.408Z,164152007040800
+"-- ending hand #53 --",2022-01-07T01:47:49.112Z,164152006911202
+"""arash @ huBdniBdCU"" collected 320 from pot",2022-01-07T01:47:49.112Z,164152006911201
+"Uncalled bet of 160 returned to ""arash @ huBdniBdCU""",2022-01-07T01:47:49.112Z,164152006911200
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:47:48.274Z,164152006827400
+"""arash @ huBdniBdCU"" posts a big blind of 320",2022-01-07T01:47:45.708Z,164152006570805
+"""goero @ G4RdqDSm6Z"" posts a small blind of 160",2022-01-07T01:47:45.708Z,164152006570804
+"Your hand is Q♠, 3♥",2022-01-07T01:47:45.708Z,164152006570802
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2740) | #6 ""goero @ G4RdqDSm6Z"" (3260)",2022-01-07T01:47:45.708Z,164152006570801
+"-- starting hand #53  (No Limit Texas Hold'em) (dealer: ""goero @ G4RdqDSm6Z"") --",2022-01-07T01:47:45.708Z,164152006570800
+"""arash @ huBdniBdCU"" shows a 8♠, 6♦.",2022-01-07T01:47:42.606Z,164152006260600
+"Undealt cards:  [3♠, 4♦, 5♥, K♥, J♣]",2022-01-07T01:47:41.054Z,164152006105400
+"""goero @ G4RdqDSm6Z"" shows a 9♥, Q♣.",2022-01-07T01:47:39.527Z,164152005952700
+"-- ending hand #52 --",2022-01-07T01:47:38.300Z,164152005830002
+"""goero @ G4RdqDSm6Z"" collected 320 from pot",2022-01-07T01:47:38.300Z,164152005830001
+"Uncalled bet of 160 returned to ""goero @ G4RdqDSm6Z""",2022-01-07T01:47:38.300Z,164152005830000
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:47:37.430Z,164152005743000
+"""goero @ G4RdqDSm6Z"" posts a big blind of 320",2022-01-07T01:47:34.700Z,164152005470005
+"""arash @ huBdniBdCU"" posts a small blind of 160",2022-01-07T01:47:34.700Z,164152005470004
+"Your hand is 8♠, 6♦",2022-01-07T01:47:34.700Z,164152005470002
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2900) | #6 ""goero @ G4RdqDSm6Z"" (3100)",2022-01-07T01:47:34.700Z,164152005470001
+"-- starting hand #52  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:47:34.700Z,164152005470000
+"Undealt cards: 6♣, K♣, K♦ [10♦, J♥]",2022-01-07T01:47:30.556Z,164152005055600
+"-- ending hand #51 --",2022-01-07T01:47:28.784Z,164152004878402
+"""goero @ G4RdqDSm6Z"" collected 640 from pot",2022-01-07T01:47:28.784Z,164152004878401
+"Uncalled bet of 320 returned to ""goero @ G4RdqDSm6Z""",2022-01-07T01:47:28.784Z,164152004878400
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:47:27.922Z,164152004792200
+"""goero @ G4RdqDSm6Z"" bets 320",2022-01-07T01:47:26.186Z,164152004618600
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:47:25.033Z,164152004503300
+"Flop:  [6♣, K♣, K♦]",2022-01-07T01:47:22.889Z,164152004288900
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:47:22.036Z,164152004203600
+"""goero @ G4RdqDSm6Z"" calls 320",2022-01-07T01:47:20.777Z,164152004077700
+"""arash @ huBdniBdCU"" posts a big blind of 320",2022-01-07T01:47:19.381Z,164152003938105
+"""goero @ G4RdqDSm6Z"" posts a small blind of 160",2022-01-07T01:47:19.381Z,164152003938104
+"Your hand is 5♠, 9♣",2022-01-07T01:47:19.381Z,164152003938102
+"Player stacks: #1 ""arash @ huBdniBdCU"" (3220) | #6 ""goero @ G4RdqDSm6Z"" (2780)",2022-01-07T01:47:19.381Z,164152003938101
+"-- starting hand #51  (No Limit Texas Hold'em) (dealer: ""goero @ G4RdqDSm6Z"") --",2022-01-07T01:47:19.381Z,164152003938100
+"""goero @ G4RdqDSm6Z"" shows a 10♥, 9♣.",2022-01-07T01:47:15.752Z,164152003575200
+"Undealt cards:  [K♥, 2♣, K♣, 2♥, 7♦]",2022-01-07T01:47:14.654Z,164152003465400
+"-- ending hand #50 --",2022-01-07T01:47:12.693Z,164152003269302
+"""goero @ G4RdqDSm6Z"" collected 320 from pot",2022-01-07T01:47:12.693Z,164152003269301
+"Uncalled bet of 160 returned to ""goero @ G4RdqDSm6Z""",2022-01-07T01:47:12.693Z,164152003269300
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:47:11.824Z,164152003182400
+"""goero @ G4RdqDSm6Z"" posts a big blind of 320",2022-01-07T01:47:09.284Z,164152002928405
+"""arash @ huBdniBdCU"" posts a small blind of 160",2022-01-07T01:47:09.284Z,164152002928404
+"Your hand is 5♣, 2♦",2022-01-07T01:47:09.284Z,164152002928402
+"Player stacks: #1 ""arash @ huBdniBdCU"" (3380) | #6 ""goero @ G4RdqDSm6Z"" (2620)",2022-01-07T01:47:09.284Z,164152002928401
+"-- starting hand #50  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:47:09.284Z,164152002928400
+"-- ending hand #49 --",2022-01-07T01:47:03.280Z,164152002328002
+"""arash @ huBdniBdCU"" collected 640 from pot",2022-01-07T01:47:03.280Z,164152002328001
+"Uncalled bet of 320 returned to ""arash @ huBdniBdCU""",2022-01-07T01:47:03.280Z,164152002328000
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:47:02.457Z,164152002245700
+"""arash @ huBdniBdCU"" bets 320",2022-01-07T01:47:00.689Z,164152002068900
+"Flop:  [5♥, 3♠, 9♠]",2022-01-07T01:46:58.705Z,164152001870500
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:46:57.892Z,164152001789200
+"""goero @ G4RdqDSm6Z"" calls 320",2022-01-07T01:46:56.752Z,164152001675200
+"""arash @ huBdniBdCU"" posts a big blind of 320",2022-01-07T01:46:55.504Z,164152001550405
+"""goero @ G4RdqDSm6Z"" posts a small blind of 160",2022-01-07T01:46:55.504Z,164152001550404
+"Your hand is 9♦, 8♥",2022-01-07T01:46:55.504Z,164152001550402
+"Player stacks: #1 ""arash @ huBdniBdCU"" (3060) | #6 ""goero @ G4RdqDSm6Z"" (2940)",2022-01-07T01:46:55.504Z,164152001550401
+"-- starting hand #49  (No Limit Texas Hold'em) (dealer: ""goero @ G4RdqDSm6Z"") --",2022-01-07T01:46:55.504Z,164152001550400
+"""goero @ G4RdqDSm6Z"" shows a 2♥, 5♦.",2022-01-07T01:46:51.985Z,164152001198500
+"Undealt cards: 10♦, Q♥, 3♦ [10♣, 10♠]",2022-01-07T01:46:49.972Z,164152000997200
+"-- ending hand #48 --",2022-01-07T01:46:48.872Z,164152000887202
+"""arash @ huBdniBdCU"" collected 640 from pot",2022-01-07T01:46:48.872Z,164152000887201
+"Uncalled bet of 320 returned to ""arash @ huBdniBdCU""",2022-01-07T01:46:48.872Z,164152000887200
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:46:47.933Z,164152000793300
+"""arash @ huBdniBdCU"" bets 320",2022-01-07T01:46:46.883Z,164152000688300
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:46:43.622Z,164152000362200
+"Flop:  [10♦, Q♥, 3♦]",2022-01-07T01:46:41.081Z,164152000108100
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:46:40.216Z,164152000021600
+"""arash @ huBdniBdCU"" calls 320",2022-01-07T01:46:38.963Z,164151999896300
+"""goero @ G4RdqDSm6Z"" posts a big blind of 320",2022-01-07T01:46:35.668Z,164151999566805
+"""arash @ huBdniBdCU"" posts a small blind of 160",2022-01-07T01:46:35.668Z,164151999566804
+"Your hand is A♦, Q♠",2022-01-07T01:46:35.668Z,164151999566802
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2740) | #6 ""goero @ G4RdqDSm6Z"" (3260)",2022-01-07T01:46:35.668Z,164151999566801
+"-- starting hand #48  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:46:35.668Z,164151999566800
+"Undealt cards:  [8♣, 4♣, 5♦, 9♠, 2♦]",2022-01-07T01:46:30.523Z,164151999052300
+"""arash @ huBdniBdCU"" shows a 10♥, 3♦.",2022-01-07T01:46:28.960Z,164151998896000
+"""goero @ G4RdqDSm6Z"" shows a J♦, 3♥.",2022-01-07T01:46:28.647Z,164151998864700
+"-- ending hand #47 --",2022-01-07T01:46:28.263Z,164151998826302
+"""arash @ huBdniBdCU"" collected 320 from pot",2022-01-07T01:46:28.263Z,164151998826301
+"Uncalled bet of 160 returned to ""arash @ huBdniBdCU""",2022-01-07T01:46:28.263Z,164151998826300
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:46:27.292Z,164151998729200
+"""arash @ huBdniBdCU"" posts a big blind of 320",2022-01-07T01:46:23.265Z,164151998326505
+"""goero @ G4RdqDSm6Z"" posts a small blind of 160",2022-01-07T01:46:23.265Z,164151998326504
+"Your hand is 10♥, 3♦",2022-01-07T01:46:23.265Z,164151998326502
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2580) | #6 ""goero @ G4RdqDSm6Z"" (3420)",2022-01-07T01:46:23.265Z,164151998326501
+"-- starting hand #47  (No Limit Texas Hold'em) (dealer: ""goero @ G4RdqDSm6Z"") --",2022-01-07T01:46:23.265Z,164151998326500
+"""goero @ G4RdqDSm6Z"" shows a J♠, 3♣.",2022-01-07T01:46:18.641Z,164151997864100
+"Undealt cards: K♣, 7♦, 2♠, 6♦ [9♥]",2022-01-07T01:46:18.201Z,164151997820100
+"-- ending hand #46 --",2022-01-07T01:46:16.610Z,164151997661002
+"""arash @ huBdniBdCU"" collected 640 from pot",2022-01-07T01:46:16.610Z,164151997661001
+"Uncalled bet of 320 returned to ""arash @ huBdniBdCU""",2022-01-07T01:46:16.610Z,164151997661000
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:46:15.720Z,164151997572000
+"""arash @ huBdniBdCU"" bets 320",2022-01-07T01:46:14.642Z,164151997464200
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:46:12.833Z,164151997283300
+"Turn: K♣, 7♦, 2♠ [6♦]",2022-01-07T01:46:11.790Z,164151997179000
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:46:10.928Z,164151997092800
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:46:08.945Z,164151996894500
+"Flop:  [K♣, 7♦, 2♠]",2022-01-07T01:46:06.978Z,164151996697800
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:46:06.002Z,164151996600200
+"""arash @ huBdniBdCU"" calls 320",2022-01-07T01:46:04.767Z,164151996476700
+"""goero @ G4RdqDSm6Z"" posts a big blind of 320",2022-01-07T01:46:00.598Z,164151996059806
+"""arash @ huBdniBdCU"" posts a small blind of 160",2022-01-07T01:46:00.598Z,164151996059805
+"Your hand is 4♦, K♦",2022-01-07T01:46:00.598Z,164151996059803
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2260) | #6 ""goero @ G4RdqDSm6Z"" (3740)",2022-01-07T01:46:00.598Z,164151996059802
+"-- starting hand #46  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:46:00.598Z,164151996059801
+"The player ""peelic @ c2JqQCu6sT"" quits the game with a stack of 0.",2022-01-07T01:46:00.598Z,164151996059800
+"-- ending hand #45 --",2022-01-07T01:45:54.570Z,164151995457001
+"""arash @ huBdniBdCU"" collected 1600 from pot with Two Pair, 5's & 2's (combination: 5♦, 5♥, 2♥, 2♦, K♠)",2022-01-07T01:45:54.570Z,164151995457000
+"River: 5♥, 2♥, 2♦, Q♦ [J♦]",2022-01-07T01:45:50.390Z,164151995039000
+"Turn: 5♥, 2♥, 2♦ [Q♦]",2022-01-07T01:45:46.367Z,164151994636700
+"""peelic @ c2JqQCu6sT"" shows a 7♥, A♣.",2022-01-07T01:45:42.174Z,164151994217401
+"""arash @ huBdniBdCU"" shows a K♠, 5♦.",2022-01-07T01:45:42.174Z,164151994217400
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:45:41.357Z,164151994135700
+"""peelic @ c2JqQCu6sT"" calls 320 and go all in",2022-01-07T01:45:39.606Z,164151993960600
+"""arash @ huBdniBdCU"" bets 320",2022-01-07T01:45:36.636Z,164151993663600
+"Flop:  [5♥, 2♥, 2♦]",2022-01-07T01:45:33.503Z,164151993350300
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:45:32.590Z,164151993259000
+"""arash @ huBdniBdCU"" calls 320",2022-01-07T01:45:29.287Z,164151992928700
+"""goero @ G4RdqDSm6Z"" calls 320",2022-01-07T01:45:26.454Z,164151992645400
+"""peelic @ c2JqQCu6sT"" posts a big blind of 320",2022-01-07T01:45:23.300Z,164151992330006
+"""arash @ huBdniBdCU"" posts a small blind of 160",2022-01-07T01:45:23.300Z,164151992330005
+"Your hand is K♠, 5♦",2022-01-07T01:45:23.300Z,164151992330002
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1300) | #2 ""peelic @ c2JqQCu6sT"" (640) | #6 ""goero @ G4RdqDSm6Z"" (4060)",2022-01-07T01:45:23.300Z,164151992330001
+"-- starting hand #45  (No Limit Texas Hold'em) (dealer: ""goero @ G4RdqDSm6Z"") --",2022-01-07T01:45:23.300Z,164151992330000
+"Undealt cards:  [2♣, 7♣, 8♠, K♣, 3♥]",2022-01-07T01:45:18.584Z,164151991858400
+"-- ending hand #44 --",2022-01-07T01:45:17.299Z,164151991729902
+"""arash @ huBdniBdCU"" collected 640 from pot",2022-01-07T01:45:17.299Z,164151991729901
+"Uncalled bet of 660 returned to ""arash @ huBdniBdCU""",2022-01-07T01:45:17.299Z,164151991729900
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:45:16.382Z,164151991638200
+"""arash @ huBdniBdCU"" raises to 980 and go all in",2022-01-07T01:45:09.187Z,164151990918700
+"""goero @ G4RdqDSm6Z"" calls 320",2022-01-07T01:45:05.999Z,164151990599900
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:45:04.358Z,164151990435800
+"""arash @ huBdniBdCU"" posts a big blind of 320",2022-01-07T01:45:02.491Z,164151990249106
+"""goero @ G4RdqDSm6Z"" posts a small blind of 160",2022-01-07T01:45:02.491Z,164151990249105
+"Your hand is 9♥, A♦",2022-01-07T01:45:02.491Z,164151990249102
+"Player stacks: #1 ""arash @ huBdniBdCU"" (980) | #2 ""peelic @ c2JqQCu6sT"" (640) | #6 ""goero @ G4RdqDSm6Z"" (4380)",2022-01-07T01:45:02.491Z,164151990249101
+"-- starting hand #44  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2022-01-07T01:45:02.491Z,164151990249100
+"Undealt cards: 8♥, 3♦, 10♣, K♠ [J♥]",2022-01-07T01:44:58.762Z,164151989876200
+"-- ending hand #43 --",2022-01-07T01:44:56.489Z,164151989648902
+"""goero @ G4RdqDSm6Z"" collected 1440 from pot",2022-01-07T01:44:56.489Z,164151989648901
+"Uncalled bet of 320 returned to ""goero @ G4RdqDSm6Z""",2022-01-07T01:44:56.489Z,164151989648900
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:44:55.645Z,164151989564500
+"""goero @ G4RdqDSm6Z"" bets 320",2022-01-07T01:44:52.170Z,164151989217000
+"Turn: 8♥, 3♦, 10♣ [K♠]",2022-01-07T01:44:47.487Z,164151988748700
+"""arash @ huBdniBdCU"" calls 320",2022-01-07T01:44:46.647Z,164151988664700
+"""goero @ G4RdqDSm6Z"" bets 320",2022-01-07T01:44:38.127Z,164151987812700
+"Flop:  [8♥, 3♦, 10♣]",2022-01-07T01:44:34.274Z,164151987427400
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:44:33.308Z,164151987330800
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:44:32.304Z,164151987230400
+"""arash @ huBdniBdCU"" calls 320",2022-01-07T01:44:30.818Z,164151987081800
+"""goero @ G4RdqDSm6Z"" posts a big blind of 320",2022-01-07T01:44:27.604Z,164151986760406
+"""peelic @ c2JqQCu6sT"" posts a small blind of 160",2022-01-07T01:44:27.604Z,164151986760405
+"Your hand is 2♣, A♠",2022-01-07T01:44:27.604Z,164151986760402
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1620) | #2 ""peelic @ c2JqQCu6sT"" (800) | #6 ""goero @ G4RdqDSm6Z"" (3580)",2022-01-07T01:44:27.604Z,164151986760401
+"-- starting hand #43  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:44:27.604Z,164151986760400
+"-- ending hand #42 --",2022-01-07T01:44:21.468Z,164151986146801
+"""peelic @ c2JqQCu6sT"" collected 800 from pot with Straight, 5 High (combination: 5♣, 4♥, 3♦, 2♦, A♦)",2022-01-07T01:44:21.468Z,164151986146800
+"River: 3♦, 10♣, 2♦, 4♥ [A♦]",2022-01-07T01:44:17.408Z,164151985740800
+"Turn: 3♦, 10♣, 2♦ [4♥]",2022-01-07T01:44:13.394Z,164151985339400
+"Flop:  [3♦, 10♣, 2♦]",2022-01-07T01:44:09.229Z,164151984922900
+"""peelic @ c2JqQCu6sT"" shows a K♥, 5♣.",2022-01-07T01:44:05.195Z,164151984519501
+"""arash @ huBdniBdCU"" shows a 7♣, A♥.",2022-01-07T01:44:05.195Z,164151984519500
+"""peelic @ c2JqQCu6sT"" calls 400 and go all in",2022-01-07T01:44:04.349Z,164151984434900
+"""arash @ huBdniBdCU"" raises to 400",2022-01-07T01:44:03.096Z,164151984309600
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:43:59.990Z,164151983999000
+"""peelic @ c2JqQCu6sT"" posts a big blind of 320",2022-01-07T01:43:57.779Z,164151983777906
+"""arash @ huBdniBdCU"" posts a small blind of 160",2022-01-07T01:43:57.779Z,164151983777905
+"Your hand is 7♣, A♥",2022-01-07T01:43:57.779Z,164151983777902
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2020) | #2 ""peelic @ c2JqQCu6sT"" (400) | #6 ""goero @ G4RdqDSm6Z"" (3580)",2022-01-07T01:43:57.779Z,164151983777901
+"-- starting hand #42  (No Limit Texas Hold'em) (dealer: ""goero @ G4RdqDSm6Z"") --",2022-01-07T01:43:57.779Z,164151983777900
+"Undealt cards: J♦, 4♥, 3♣ [K♥, 8♠]",2022-01-07T01:43:53.396Z,164151983339600
+"-- ending hand #41 --",2022-01-07T01:43:51.778Z,164151983177802
+"""goero @ G4RdqDSm6Z"" collected 640 from pot",2022-01-07T01:43:51.778Z,164151983177801
+"Uncalled bet of 320 returned to ""goero @ G4RdqDSm6Z""",2022-01-07T01:43:51.778Z,164151983177800
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:43:50.856Z,164151983085600
+"""goero @ G4RdqDSm6Z"" bets 320",2022-01-07T01:43:49.234Z,164151982923400
+"Flop:  [J♦, 4♥, 3♣]",2022-01-07T01:43:47.174Z,164151982717400
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:43:46.265Z,164151982626500
+"""goero @ G4RdqDSm6Z"" calls 320",2022-01-07T01:43:45.113Z,164151982511300
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:43:43.688Z,164151982368800
+"""arash @ huBdniBdCU"" posts a big blind of 320",2022-01-07T01:43:38.376Z,164151981837606
+"""goero @ G4RdqDSm6Z"" posts a small blind of 160",2022-01-07T01:43:38.376Z,164151981837605
+"Your hand is 7♥, 5♣",2022-01-07T01:43:38.376Z,164151981837602
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2340) | #2 ""peelic @ c2JqQCu6sT"" (400) | #6 ""goero @ G4RdqDSm6Z"" (3260)",2022-01-07T01:43:38.376Z,164151981837601
+"-- starting hand #41  (No Limit Texas Hold'em) (dead button) --",2022-01-07T01:43:38.376Z,164151981837600
+"Undealt cards: 8♦, 8♥, 10♥ [5♣, 9♦]",2022-01-07T01:43:34.185Z,164151981418500
+"""goero @ G4RdqDSm6Z"" shows a A♥, A♣.",2022-01-07T01:43:32.398Z,164151981239800
+"-- ending hand #40 --",2022-01-07T01:43:31.694Z,164151981169402
+"""goero @ G4RdqDSm6Z"" collected 640 from pot",2022-01-07T01:43:31.694Z,164151981169401
+"Uncalled bet of 320 returned to ""goero @ G4RdqDSm6Z""",2022-01-07T01:43:31.694Z,164151981169400
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:43:30.719Z,164151981071900
+"""goero @ G4RdqDSm6Z"" bets 320",2022-01-07T01:43:29.232Z,164151980923200
+"Flop:  [8♦, 8♥, 10♥]",2022-01-07T01:43:27.895Z,164151980789500
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:43:26.912Z,164151980691200
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:43:24.866Z,164151980486600
+"""arash @ huBdniBdCU"" calls 320",2022-01-07T01:43:23.451Z,164151980345100
+"""goero @ G4RdqDSm6Z"" posts a big blind of 320",2022-01-07T01:43:21.093Z,164151980109307
+"Dead Small Blind",2022-01-07T01:43:21.093Z,164151980109306
+"Your hand is 6♦, 4♦",2022-01-07T01:43:21.093Z,164151980109303
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2660) | #2 ""peelic @ c2JqQCu6sT"" (400) | #6 ""goero @ G4RdqDSm6Z"" (2940)",2022-01-07T01:43:21.093Z,164151980109302
+"-- starting hand #40  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2022-01-07T01:43:21.093Z,164151980109301
+"The player ""Stevo @ 5Ep7Sc0sJg"" quits the game with a stack of 0.",2022-01-07T01:43:21.093Z,164151980109300
+"-- ending hand #39 --",2022-01-07T01:43:14.896Z,164151979489605
+"""Stevo @ 5Ep7Sc0sJg"" shows a 7♠, 8♦.",2022-01-07T01:43:14.896Z,164151979489604
+"""goero @ G4RdqDSm6Z"" collected 2520 from pot with Pair, A's (combination: A♦, A♣, Q♦, J♣, 10♣)",2022-01-07T01:43:14.896Z,164151979489603
+"""peelic @ c2JqQCu6sT"" shows a 9♥, 10♥.",2022-01-07T01:43:14.896Z,164151979489602
+"""goero @ G4RdqDSm6Z"" collected 420 from pot with Pair, A's (combination: A♦, A♣, Q♦, J♣, 10♣)",2022-01-07T01:43:14.896Z,164151979489601
+"""goero @ G4RdqDSm6Z"" shows a Q♦, A♦.",2022-01-07T01:43:14.896Z,164151979489600
+"""goero @ G4RdqDSm6Z"" calls 440 and go all in",2022-01-07T01:43:14.009Z,164151979400900
+"""peelic @ c2JqQCu6sT"" bets 440 and go all in",2022-01-07T01:42:52.296Z,164151977229600
+"River: A♣, 8♥, J♣, 10♣ [4♠]",2022-01-07T01:42:49.276Z,164151976927600
+"""goero @ G4RdqDSm6Z"" calls 320",2022-01-07T01:42:48.272Z,164151976827200
+"""peelic @ c2JqQCu6sT"" bets 320",2022-01-07T01:42:38.247Z,164151975824700
+"Turn: A♣, 8♥, J♣ [10♣]",2022-01-07T01:42:35.400Z,164151975540000
+"""peelic @ c2JqQCu6sT"" calls 320",2022-01-07T01:42:34.509Z,164151975450900
+"""goero @ G4RdqDSm6Z"" bets 320",2022-01-07T01:42:32.310Z,164151975231000
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:42:30.932Z,164151975093200
+"Flop:  [A♣, 8♥, J♣]",2022-01-07T01:42:29.391Z,164151974939100
+"""peelic @ c2JqQCu6sT"" calls 320",2022-01-07T01:42:28.529Z,164151974852900
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:42:26.883Z,164151974688300
+"""goero @ G4RdqDSm6Z"" calls 320",2022-01-07T01:42:25.892Z,164151974589200
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 140 and go all in ",2022-01-07T01:42:20.585Z,164151974058509
+"""peelic @ c2JqQCu6sT"" posts a small blind of 160",2022-01-07T01:42:20.585Z,164151974058508
+"Your hand is 5♠, 2♦",2022-01-07T01:42:20.585Z,164151974058504
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2660) | #2 ""peelic @ c2JqQCu6sT"" (1800) | #4 ""Stevo @ 5Ep7Sc0sJg"" (140) | #6 ""goero @ G4RdqDSm6Z"" (1400)",2022-01-07T01:42:20.585Z,164151974058503
+"-- starting hand #39  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:42:20.585Z,164151974058502
+"The game's big blind was changed from 160 to 320.",2022-01-07T01:42:20.585Z,164151974058501
+"The game's small blind was changed from 80 to 160.",2022-01-07T01:42:20.585Z,164151974058500
+"""Stevo @ 5Ep7Sc0sJg"" shows a A♥, 5♠.",2022-01-07T01:42:15.064Z,164151973506400
+"Undealt cards: 8♠, 4♥, 9♦, 6♠ [4♦]",2022-01-07T01:42:14.227Z,164151973422700
+"""goero @ G4RdqDSm6Z"" shows a 6♦, 9♠.",2022-01-07T01:42:13.533Z,164151973353300
+"-- ending hand #38 --",2022-01-07T01:42:13.181Z,164151973318102
+"""peelic @ c2JqQCu6sT"" collected 480 from pot",2022-01-07T01:42:13.181Z,164151973318101
+"Uncalled bet of 160 returned to ""peelic @ c2JqQCu6sT""",2022-01-07T01:42:13.181Z,164151973318100
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:42:12.311Z,164151973231100
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:42:11.415Z,164151973141500
+"""peelic @ c2JqQCu6sT"" bets 160",2022-01-07T01:42:09.072Z,164151972907200
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:42:07.755Z,164151972775500
+"Turn: 8♠, 4♥, 9♦ [6♠]",2022-01-07T01:42:05.381Z,164151972538100
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:42:04.472Z,164151972447200
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:42:03.431Z,164151972343100
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:42:00.486Z,164151972048600
+"Flop:  [8♠, 4♥, 9♦]",2022-01-07T01:41:58.174Z,164151971817400
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:41:57.258Z,164151971725800
+"""arash @ huBdniBdCU"" calls 160",2022-01-07T01:41:56.284Z,164151971628400
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:41:53.341Z,164151971334100
+"""Stevo @ 5Ep7Sc0sJg"" calls 160",2022-01-07T01:41:46.858Z,164151970685800
+"""peelic @ c2JqQCu6sT"" posts a big blind of 160",2022-01-07T01:41:45.564Z,164151970556407
+"""arash @ huBdniBdCU"" posts a small blind of 80",2022-01-07T01:41:45.564Z,164151970556406
+"Your hand is 10♦, 3♦",2022-01-07T01:41:45.564Z,164151970556402
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2820) | #2 ""peelic @ c2JqQCu6sT"" (1480) | #4 ""Stevo @ 5Ep7Sc0sJg"" (300) | #6 ""goero @ G4RdqDSm6Z"" (1400)",2022-01-07T01:41:45.564Z,164151970556401
+"-- starting hand #38  (No Limit Texas Hold'em) (dealer: ""goero @ G4RdqDSm6Z"") --",2022-01-07T01:41:45.564Z,164151970556400
+"Undealt cards:  [5♣, J♣, 10♣, A♦, 8♠]",2022-01-07T01:41:41.119Z,164151970111900
+"-- ending hand #37 --",2022-01-07T01:41:39.547Z,164151969954702
+"""arash @ huBdniBdCU"" collected 320 from pot",2022-01-07T01:41:39.547Z,164151969954701
+"Uncalled bet of 160 returned to ""arash @ huBdniBdCU""",2022-01-07T01:41:39.547Z,164151969954700
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:41:38.726Z,164151969872600
+"""arash @ huBdniBdCU"" raises to 320",2022-01-07T01:41:27.232Z,164151968723200
+"""goero @ G4RdqDSm6Z"" calls 160",2022-01-07T01:41:24.578Z,164151968457800
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:41:23.411Z,164151968341100
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:41:20.900Z,164151968090000
+"""arash @ huBdniBdCU"" posts a big blind of 160",2022-01-07T01:41:17.573Z,164151967757307
+"""goero @ G4RdqDSm6Z"" posts a small blind of 80",2022-01-07T01:41:17.573Z,164151967757306
+"Your hand is 7♥, 7♣",2022-01-07T01:41:17.573Z,164151967757302
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2660) | #2 ""peelic @ c2JqQCu6sT"" (1480) | #4 ""Stevo @ 5Ep7Sc0sJg"" (300) | #6 ""goero @ G4RdqDSm6Z"" (1560)",2022-01-07T01:41:17.573Z,164151967757301
+"-- starting hand #37  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2022-01-07T01:41:17.573Z,164151967757300
+"-- ending hand #36 --",2022-01-07T01:41:11.542Z,164151967154203
+"""Stevo @ 5Ep7Sc0sJg"" shows a 5♣, 2♦.",2022-01-07T01:41:11.542Z,164151967154202
+"""goero @ G4RdqDSm6Z"" collected 1280 from pot with Two Pair, 9's & 7's (combination: 9♦, 9♥, 7♥, 7♦, J♥)",2022-01-07T01:41:11.542Z,164151967154201
+"""goero @ G4RdqDSm6Z"" shows a J♥, 9♦.",2022-01-07T01:41:11.542Z,164151967154200
+"""goero @ G4RdqDSm6Z"" calls 160",2022-01-07T01:41:10.677Z,164151967067700
+"""Stevo @ 5Ep7Sc0sJg"" bets 160",2022-01-07T01:41:09.424Z,164151966942400
+"River: 9♥, 7♥, 5♠, 2♣ [7♦]",2022-01-07T01:41:06.970Z,164151966697000
+"""goero @ G4RdqDSm6Z"" calls 160",2022-01-07T01:41:06.148Z,164151966614800
+"""Stevo @ 5Ep7Sc0sJg"" bets 160",2022-01-07T01:41:05.106Z,164151966510600
+"Turn: 9♥, 7♥, 5♠ [2♣]",2022-01-07T01:41:03.708Z,164151966370800
+"""goero @ G4RdqDSm6Z"" calls 160",2022-01-07T01:41:02.820Z,164151966282000
+"""Stevo @ 5Ep7Sc0sJg"" bets 160",2022-01-07T01:41:00.107Z,164151966010700
+"Flop:  [9♥, 7♥, 5♠]",2022-01-07T01:40:57.294Z,164151965729400
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:40:56.329Z,164151965632900
+"""Stevo @ 5Ep7Sc0sJg"" calls 160",2022-01-07T01:40:55.405Z,164151965540500
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:40:54.009Z,164151965400900
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:40:51.755Z,164151965175500
+"""goero @ G4RdqDSm6Z"" posts a big blind of 160",2022-01-07T01:40:50.492Z,164151965049207
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 80",2022-01-07T01:40:50.492Z,164151965049206
+"Your hand is 7♣, 10♥",2022-01-07T01:40:50.492Z,164151965049202
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2660) | #2 ""peelic @ c2JqQCu6sT"" (1480) | #4 ""Stevo @ 5Ep7Sc0sJg"" (940) | #6 ""goero @ G4RdqDSm6Z"" (920)",2022-01-07T01:40:50.492Z,164151965049201
+"-- starting hand #36  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2022-01-07T01:40:50.492Z,164151965049200
+"-- ending hand #35 --",2022-01-07T01:40:44.480Z,164151964448003
+"""Stevo @ 5Ep7Sc0sJg"" shows a 9♥, 2♠.",2022-01-07T01:40:44.480Z,164151964448002
+"""peelic @ c2JqQCu6sT"" collected 640 from pot with Pair, 8's (combination: 8♠, 8♥, Q♣, 10♥, 6♣)",2022-01-07T01:40:44.480Z,164151964448001
+"""peelic @ c2JqQCu6sT"" shows a 10♥, 4♠.",2022-01-07T01:40:44.480Z,164151964448000
+"""peelic @ c2JqQCu6sT"" calls 160",2022-01-07T01:40:43.536Z,164151964353600
+"""Stevo @ 5Ep7Sc0sJg"" bets 160",2022-01-07T01:40:33.755Z,164151963375500
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:40:32.401Z,164151963240100
+"River: 8♠, 6♣, 5♦, Q♣ [8♥]",2022-01-07T01:40:31.075Z,164151963107500
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:40:30.169Z,164151963016900
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:40:29.193Z,164151962919300
+"Turn: 8♠, 6♣, 5♦ [Q♣]",2022-01-07T01:40:28.292Z,164151962829200
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:40:27.361Z,164151962736100
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:40:26.296Z,164151962629600
+"Flop:  [8♠, 6♣, 5♦]",2022-01-07T01:40:23.872Z,164151962387200
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:40:22.965Z,164151962296500
+"""peelic @ c2JqQCu6sT"" calls 160",2022-01-07T01:40:21.956Z,164151962195600
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:40:20.983Z,164151962098300
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:40:19.482Z,164151961948200
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 160",2022-01-07T01:40:18.469Z,164151961846907
+"""peelic @ c2JqQCu6sT"" posts a small blind of 80",2022-01-07T01:40:18.469Z,164151961846906
+"Your hand is 3♦, 2♥",2022-01-07T01:40:18.469Z,164151961846902
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2660) | #2 ""peelic @ c2JqQCu6sT"" (1160) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1260) | #6 ""goero @ G4RdqDSm6Z"" (920)",2022-01-07T01:40:18.469Z,164151961846901
+"-- starting hand #35  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:40:18.469Z,164151961846900
+"""goero @ G4RdqDSm6Z"" shows a 3♠, 9♠.",2022-01-07T01:40:12.705Z,164151961270500
+"-- ending hand #34 --",2022-01-07T01:40:11.865Z,164151961186502
+"""Stevo @ 5Ep7Sc0sJg"" collected 1040 from pot with Straight, 8 High (combination: 8♠, 7♣, 6♦, 5♥, 4♦)",2022-01-07T01:40:11.865Z,164151961186501
+"""Stevo @ 5Ep7Sc0sJg"" shows a Q♣, 8♠.",2022-01-07T01:40:11.865Z,164151961186500
+"""peelic @ c2JqQCu6sT"" calls 320",2022-01-07T01:40:10.951Z,164151961095100
+"""Stevo @ 5Ep7Sc0sJg"" raises to 320",2022-01-07T01:40:09.890Z,164151960989000
+"""peelic @ c2JqQCu6sT"" bets 160",2022-01-07T01:39:54.177Z,164151959417700
+"River: 10♥, 5♥, 4♦, 6♦ [7♣]",2022-01-07T01:39:50.620Z,164151959062000
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:39:49.743Z,164151958974300
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:39:48.828Z,164151958882800
+"Turn: 10♥, 5♥, 4♦ [6♦]",2022-01-07T01:39:46.416Z,164151958641600
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:39:45.502Z,164151958550200
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:39:44.501Z,164151958450100
+"Flop:  [10♥, 5♥, 4♦]",2022-01-07T01:39:42.850Z,164151958285000
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:39:42.022Z,164151958202200
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:39:40.518Z,164151958051800
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:39:38.444Z,164151957844400
+"""Stevo @ 5Ep7Sc0sJg"" calls 160",2022-01-07T01:39:37.468Z,164151957746800
+"""peelic @ c2JqQCu6sT"" posts a big blind of 160",2022-01-07T01:39:36.410Z,164151957641007
+"""arash @ huBdniBdCU"" posts a small blind of 80",2022-01-07T01:39:36.410Z,164151957641006
+"Your hand is 8♦, 3♣",2022-01-07T01:39:36.410Z,164151957641002
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2740) | #2 ""peelic @ c2JqQCu6sT"" (1640) | #4 ""Stevo @ 5Ep7Sc0sJg"" (700) | #6 ""goero @ G4RdqDSm6Z"" (920)",2022-01-07T01:39:36.410Z,164151957641001
+"-- starting hand #34  (No Limit Texas Hold'em) (dealer: ""goero @ G4RdqDSm6Z"") --",2022-01-07T01:39:36.410Z,164151957641000
+"Undealt cards: J♠, J♣, A♥, 4♦ [Q♠]",2022-01-07T01:39:31.917Z,164151957191700
+"-- ending hand #33 --",2022-01-07T01:39:30.405Z,164151957040502
+"""peelic @ c2JqQCu6sT"" collected 400 from pot",2022-01-07T01:39:30.405Z,164151957040501
+"Uncalled bet of 160 returned to ""peelic @ c2JqQCu6sT""",2022-01-07T01:39:30.405Z,164151957040500
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:39:29.516Z,164151956951600
+"""peelic @ c2JqQCu6sT"" bets 160",2022-01-07T01:39:21.895Z,164151956189500
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:39:19.352Z,164151955935200
+"Turn: J♠, J♣, A♥ [4♦]",2022-01-07T01:39:17.996Z,164151955799600
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:39:17.085Z,164151955708500
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:39:16.182Z,164151955618200
+"Flop:  [J♠, J♣, A♥]",2022-01-07T01:39:13.825Z,164151955382500
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:39:12.986Z,164151955298600
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:39:11.426Z,164151955142600
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:39:10.476Z,164151955047600
+"""peelic @ c2JqQCu6sT"" calls 160",2022-01-07T01:39:09.480Z,164151954948000
+"""arash @ huBdniBdCU"" posts a big blind of 160",2022-01-07T01:39:06.622Z,164151954662207
+"""goero @ G4RdqDSm6Z"" posts a small blind of 80",2022-01-07T01:39:06.622Z,164151954662206
+"Your hand is 3♦, Q♥",2022-01-07T01:39:06.622Z,164151954662202
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2900) | #2 ""peelic @ c2JqQCu6sT"" (1400) | #4 ""Stevo @ 5Ep7Sc0sJg"" (700) | #6 ""goero @ G4RdqDSm6Z"" (1000)",2022-01-07T01:39:06.622Z,164151954662201
+"-- starting hand #33  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2022-01-07T01:39:06.622Z,164151954662200
+"""goero @ G4RdqDSm6Z"" shows a 5♠, 8♦.",2022-01-07T01:39:04.723Z,164151954472300
+"Undealt cards: A♣, 8♣, 7♦, 3♦ [5♥]",2022-01-07T01:39:02.069Z,164151954206900
+"-- ending hand #32 --",2022-01-07T01:38:59.987Z,164151953998702
+"""peelic @ c2JqQCu6sT"" collected 1120 from pot",2022-01-07T01:38:59.987Z,164151953998701
+"Uncalled bet of 280 returned to ""peelic @ c2JqQCu6sT""",2022-01-07T01:38:59.987Z,164151953998700
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:38:59.166Z,164151953916600
+"""peelic @ c2JqQCu6sT"" raises to 440 and go all in",2022-01-07T01:38:30.271Z,164151951027100
+"""Stevo @ 5Ep7Sc0sJg"" bets 160",2022-01-07T01:38:27.799Z,164151950779900
+"Turn: A♣, 8♣, 7♦ [3♦]",2022-01-07T01:38:26.369Z,164151950636900
+"""peelic @ c2JqQCu6sT"" calls 160",2022-01-07T01:38:25.524Z,164151950552400
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:38:23.126Z,164151950312600
+"""Stevo @ 5Ep7Sc0sJg"" bets 160",2022-01-07T01:38:21.985Z,164151950198500
+"Flop:  [A♣, 8♣, 7♦]",2022-01-07T01:38:20.081Z,164151950008100
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:38:19.243Z,164151949924300
+"""Stevo @ 5Ep7Sc0sJg"" calls 160",2022-01-07T01:38:17.960Z,164151949796000
+"""peelic @ c2JqQCu6sT"" calls 160",2022-01-07T01:38:16.957Z,164151949695700
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:38:15.935Z,164151949593500
+"""goero @ G4RdqDSm6Z"" posts a big blind of 160",2022-01-07T01:38:14.098Z,164151949409807
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 80",2022-01-07T01:38:14.098Z,164151949409806
+"Your hand is 5♦, J♥",2022-01-07T01:38:14.098Z,164151949409802
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2900) | #2 ""peelic @ c2JqQCu6sT"" (760) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1180) | #6 ""goero @ G4RdqDSm6Z"" (1160)",2022-01-07T01:38:14.098Z,164151949409801
+"-- starting hand #32  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2022-01-07T01:38:14.098Z,164151949409800
+"-- ending hand #31 --",2022-01-07T01:38:08.069Z,164151948806904
+"""peelic @ c2JqQCu6sT"" shows a 10♦, 6♦.",2022-01-07T01:38:08.069Z,164151948806903
+"""goero @ G4RdqDSm6Z"" collected 1160 from pot with Two Pair, J's & 5's (combination: J♥, J♦, 5♣, 5♠, A♦)",2022-01-07T01:38:08.069Z,164151948806902
+"""goero @ G4RdqDSm6Z"" shows a J♥, A♦.",2022-01-07T01:38:08.069Z,164151948806901
+"Uncalled bet of 60 returned to ""peelic @ c2JqQCu6sT""",2022-01-07T01:38:08.069Z,164151948806900
+"""goero @ G4RdqDSm6Z"" calls 100 and go all in",2022-01-07T01:38:07.105Z,164151948710500
+"""peelic @ c2JqQCu6sT"" bets 160",2022-01-07T01:38:06.192Z,164151948619200
+"River: 6♥, 7♦, 5♣, J♦ [5♠]",2022-01-07T01:38:03.670Z,164151948367000
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:38:02.761Z,164151948276100
+"""goero @ G4RdqDSm6Z"" calls 160",2022-01-07T01:38:01.721Z,164151948172100
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:38:00.760Z,164151948076000
+"""peelic @ c2JqQCu6sT"" bets 160",2022-01-07T01:37:59.851Z,164151947985100
+"Turn: 6♥, 7♦, 5♣ [J♦]",2022-01-07T01:37:58.091Z,164151947809100
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:37:57.274Z,164151947727400
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:37:55.897Z,164151947589700
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:37:54.973Z,164151947497300
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:37:53.977Z,164151947397700
+"Flop:  [6♥, 7♦, 5♣]",2022-01-07T01:37:51.668Z,164151947166800
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:37:50.758Z,164151947075800
+"""peelic @ c2JqQCu6sT"" calls 160",2022-01-07T01:37:49.751Z,164151946975100
+"""arash @ huBdniBdCU"" calls 160",2022-01-07T01:37:48.832Z,164151946883200
+"""goero @ G4RdqDSm6Z"" calls 160",2022-01-07T01:37:46.752Z,164151946675200
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 160",2022-01-07T01:37:44.065Z,164151946406507
+"""peelic @ c2JqQCu6sT"" posts a small blind of 80",2022-01-07T01:37:44.065Z,164151946406506
+"Your hand is K♠, 4♠",2022-01-07T01:37:44.065Z,164151946406502
+"Player stacks: #1 ""arash @ huBdniBdCU"" (3060) | #2 ""peelic @ c2JqQCu6sT"" (1180) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1340) | #6 ""goero @ G4RdqDSm6Z"" (420)",2022-01-07T01:37:44.065Z,164151946406501
+"-- starting hand #31  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:37:44.065Z,164151946406500
+"""Stevo @ 5Ep7Sc0sJg"" shows a 8♣, 10♦.",2022-01-07T01:37:37.979Z,164151945797900
+"-- ending hand #30 --",2022-01-07T01:37:37.475Z,164151945747502
+"""arash @ huBdniBdCU"" collected 40 from pot with Pair, 10's (combination: 10♣, 10♥, Q♠, 8♥, 5♠)",2022-01-07T01:37:37.475Z,164151945747501
+"""goero @ G4RdqDSm6Z"" collected 420 from pot with Pair, 10's (combination: 10♠, 10♥, A♣, 8♥, 5♠)",2022-01-07T01:37:37.475Z,164151945747500
+"River: 2♦, 8♥, 10♥, 3♦ [5♠]",2022-01-07T01:37:33.386Z,164151945338600
+"Turn: 2♦, 8♥, 10♥ [3♦]",2022-01-07T01:37:29.270Z,164151944927000
+"""goero @ G4RdqDSm6Z"" shows a 10♠, A♣.",2022-01-07T01:37:25.182Z,164151944518202
+"""arash @ huBdniBdCU"" shows a 10♣, Q♠.",2022-01-07T01:37:25.182Z,164151944518201
+"Uncalled bet of 160 returned to ""arash @ huBdniBdCU""",2022-01-07T01:37:25.182Z,164151944518200
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:37:24.281Z,164151944428100
+"""arash @ huBdniBdCU"" bets 160",2022-01-07T01:37:22.984Z,164151944298400
+"Flop:  [2♦, 8♥, 10♥]",2022-01-07T01:37:20.980Z,164151944098000
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:37:20.060Z,164151944006000
+"""arash @ huBdniBdCU"" calls 160",2022-01-07T01:37:19.104Z,164151943910400
+"""goero @ G4RdqDSm6Z"" calls 140 and go all in",2022-01-07T01:37:16.991Z,164151943699100
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:37:15.380Z,164151943538000
+"""peelic @ c2JqQCu6sT"" posts a big blind of 160",2022-01-07T01:37:13.175Z,164151943317507
+"""arash @ huBdniBdCU"" posts a small blind of 80",2022-01-07T01:37:13.175Z,164151943317506
+"Your hand is 10♣, Q♠",2022-01-07T01:37:13.175Z,164151943317502
+"Player stacks: #1 ""arash @ huBdniBdCU"" (3180) | #2 ""peelic @ c2JqQCu6sT"" (1340) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1340) | #6 ""goero @ G4RdqDSm6Z"" (140)",2022-01-07T01:37:13.175Z,164151943317501
+"-- starting hand #30  (No Limit Texas Hold'em) (dealer: ""goero @ G4RdqDSm6Z"") --",2022-01-07T01:37:13.175Z,164151943317500
+"-- ending hand #29 --",2022-01-07T01:37:07.159Z,164151942715903
+"""goero @ G4RdqDSm6Z"" shows a 4♠, J♠.",2022-01-07T01:37:07.159Z,164151942715902
+"""arash @ huBdniBdCU"" collected 2240 from pot with Two Pair, J's & 6's (combination: J♦, J♣, 6♣, 6♦, A♦)",2022-01-07T01:37:07.159Z,164151942715901
+"""arash @ huBdniBdCU"" shows a A♦, J♦.",2022-01-07T01:37:07.159Z,164151942715900
+"""arash @ huBdniBdCU"" calls 160",2022-01-07T01:37:06.289Z,164151942628900
+"""goero @ G4RdqDSm6Z"" bets 160",2022-01-07T01:36:58.983Z,164151941898300
+"River: J♣, 5♦, 9♠, 6♣ [6♦]",2022-01-07T01:36:57.226Z,164151941722600
+"""arash @ huBdniBdCU"" calls 320",2022-01-07T01:36:56.304Z,164151941630400
+"""goero @ G4RdqDSm6Z"" bets 320",2022-01-07T01:36:54.815Z,164151941481500
+"Turn: J♣, 5♦, 9♠ [6♣]",2022-01-07T01:36:52.225Z,164151941222500
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:36:51.320Z,164151941132000
+"""arash @ huBdniBdCU"" calls 160",2022-01-07T01:36:50.358Z,164151941035800
+"""goero @ G4RdqDSm6Z"" bets 160",2022-01-07T01:36:48.079Z,164151940807900
+"Flop:  [J♣, 5♦, 9♠]",2022-01-07T01:36:45.695Z,164151940569500
+"""goero @ G4RdqDSm6Z"" calls 320",2022-01-07T01:36:44.854Z,164151940485400
+"""Stevo @ 5Ep7Sc0sJg"" calls 320",2022-01-07T01:36:41.727Z,164151940172700
+"""arash @ huBdniBdCU"" raises to 320",2022-01-07T01:36:39.684Z,164151939968400
+"""goero @ G4RdqDSm6Z"" calls 160",2022-01-07T01:36:36.446Z,164151939644600
+"""Stevo @ 5Ep7Sc0sJg"" calls 160",2022-01-07T01:36:35.561Z,164151939556100
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:36:34.366Z,164151939436600
+"""arash @ huBdniBdCU"" posts a big blind of 160",2022-01-07T01:36:31.621Z,164151939162107
+"""goero @ G4RdqDSm6Z"" posts a small blind of 80",2022-01-07T01:36:31.621Z,164151939162106
+"Your hand is A♦, J♦",2022-01-07T01:36:31.621Z,164151939162102
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1900) | #2 ""peelic @ c2JqQCu6sT"" (1340) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1660) | #6 ""goero @ G4RdqDSm6Z"" (1100)",2022-01-07T01:36:31.621Z,164151939162101
+"-- starting hand #29  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2022-01-07T01:36:31.621Z,164151939162100
+"Undealt cards: J♣, 4♣, 7♥ [6♣, 2♥]",2022-01-07T01:36:26.735Z,164151938673500
+"-- ending hand #28 --",2022-01-07T01:36:25.682Z,164151938568202
+"""arash @ huBdniBdCU"" collected 480 from pot",2022-01-07T01:36:25.682Z,164151938568201
+"Uncalled bet of 160 returned to ""arash @ huBdniBdCU""",2022-01-07T01:36:25.682Z,164151938568200
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:36:24.827Z,164151938482700
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:36:23.579Z,164151938357900
+"""arash @ huBdniBdCU"" bets 160",2022-01-07T01:36:22.621Z,164151938262100
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:36:20.919Z,164151938091900
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:36:20.060Z,164151938006000
+"Flop:  [J♣, 4♣, 7♥]",2022-01-07T01:36:16.684Z,164151937668400
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:36:15.848Z,164151937584800
+"""Stevo @ 5Ep7Sc0sJg"" calls 160",2022-01-07T01:36:14.922Z,164151937492200
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:36:13.843Z,164151937384300
+"""arash @ huBdniBdCU"" calls 160",2022-01-07T01:36:12.019Z,164151937201900
+"""goero @ G4RdqDSm6Z"" posts a big blind of 160",2022-01-07T01:36:09.404Z,164151936940409
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 80",2022-01-07T01:36:09.404Z,164151936940408
+"Your hand is A♦, 8♥",2022-01-07T01:36:09.404Z,164151936940404
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1580) | #2 ""peelic @ c2JqQCu6sT"" (1340) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1820) | #6 ""goero @ G4RdqDSm6Z"" (1260)",2022-01-07T01:36:09.404Z,164151936940403
+"-- starting hand #28  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2022-01-07T01:36:09.404Z,164151936940402
+"The game's big blind was changed from 80 to 160.",2022-01-07T01:36:09.404Z,164151936940401
+"The game's small blind was changed from 40 to 80.",2022-01-07T01:36:09.404Z,164151936940400
+"""Stevo @ 5Ep7Sc0sJg"" shows a 3♦, 10♠.",2022-01-07T01:36:06.525Z,164151936652500
+"-- ending hand #27 --",2022-01-07T01:36:05.675Z,164151936567502
+"""peelic @ c2JqQCu6sT"" collected 480 from pot",2022-01-07T01:36:05.675Z,164151936567501
+"Uncalled bet of 240 returned to ""peelic @ c2JqQCu6sT""",2022-01-07T01:36:05.675Z,164151936567500
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:36:04.840Z,164151936484000
+"""peelic @ c2JqQCu6sT"" bets 240",2022-01-07T01:36:03.852Z,164151936385200
+"River: 4♠, A♦, 10♦, 8♠ [9♦]",2022-01-07T01:35:59.884Z,164151935988400
+"""Stevo @ 5Ep7Sc0sJg"" calls 80",2022-01-07T01:35:59.039Z,164151935903900
+"""peelic @ c2JqQCu6sT"" bets 80",2022-01-07T01:35:56.147Z,164151935614700
+"Turn: 4♠, A♦, 10♦ [8♠]",2022-01-07T01:35:55.201Z,164151935520100
+"""Stevo @ 5Ep7Sc0sJg"" calls 80",2022-01-07T01:35:54.340Z,164151935434000
+"""peelic @ c2JqQCu6sT"" bets 80",2022-01-07T01:35:51.848Z,164151935184800
+"Flop:  [4♠, A♦, 10♦]",2022-01-07T01:35:49.590Z,164151934959000
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:35:48.678Z,164151934867800
+"""peelic @ c2JqQCu6sT"" calls 80",2022-01-07T01:35:47.744Z,164151934774400
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:35:46.818Z,164151934681800
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:35:45.366Z,164151934536600
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 80",2022-01-07T01:35:43.406Z,164151934340607
+"""peelic @ c2JqQCu6sT"" posts a small blind of 40",2022-01-07T01:35:43.406Z,164151934340606
+"Your hand is 8♥, 5♠",2022-01-07T01:35:43.406Z,164151934340602
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1580) | #2 ""peelic @ c2JqQCu6sT"" (1100) | #4 ""Stevo @ 5Ep7Sc0sJg"" (2060) | #6 ""goero @ G4RdqDSm6Z"" (1260)",2022-01-07T01:35:43.406Z,164151934340601
+"-- starting hand #27  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:35:43.406Z,164151934340600
+"""goero @ G4RdqDSm6Z"" shows a Q♠, A♥.",2022-01-07T01:35:39.912Z,164151933991200
+"""peelic @ c2JqQCu6sT"" shows a 6♣, 8♥.",2022-01-07T01:35:37.142Z,164151933714200
+"-- ending hand #26 --",2022-01-07T01:35:36.380Z,164151933638002
+"""Stevo @ 5Ep7Sc0sJg"" collected 760 from pot with Pair, 10's (combination: 10♦, 10♥, 7♠, 6♦, 5♦)",2022-01-07T01:35:36.380Z,164151933638001
+"""Stevo @ 5Ep7Sc0sJg"" shows a 6♦, 10♦.",2022-01-07T01:35:36.380Z,164151933638000
+"""goero @ G4RdqDSm6Z"" calls 80",2022-01-07T01:35:35.440Z,164151933544000
+"""Stevo @ 5Ep7Sc0sJg"" bets 80",2022-01-07T01:35:34.322Z,164151933432200
+"River: 4♦, 10♥, 2♠, 5♦ [7♠]",2022-01-07T01:35:32.775Z,164151933277500
+"""goero @ G4RdqDSm6Z"" calls 80",2022-01-07T01:35:31.823Z,164151933182300
+"""Stevo @ 5Ep7Sc0sJg"" bets 80",2022-01-07T01:35:30.254Z,164151933025400
+"Turn: 4♦, 10♥, 2♠ [5♦]",2022-01-07T01:35:28.774Z,164151932877400
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:35:27.868Z,164151932786800
+"""goero @ G4RdqDSm6Z"" calls 80",2022-01-07T01:35:26.878Z,164151932687800
+"""Stevo @ 5Ep7Sc0sJg"" bets 80",2022-01-07T01:35:25.853Z,164151932585300
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:35:24.555Z,164151932455500
+"Flop:  [4♦, 10♥, 2♠]",2022-01-07T01:35:22.573Z,164151932257300
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:35:21.656Z,164151932165600
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:35:20.686Z,164151932068600
+"""goero @ G4RdqDSm6Z"" calls 80",2022-01-07T01:35:19.784Z,164151931978400
+"""Stevo @ 5Ep7Sc0sJg"" calls 80",2022-01-07T01:35:18.870Z,164151931887000
+"""peelic @ c2JqQCu6sT"" posts a big blind of 80",2022-01-07T01:35:17.951Z,164151931795107
+"""arash @ huBdniBdCU"" posts a small blind of 40",2022-01-07T01:35:17.951Z,164151931795106
+"Your hand is 3♦, 6♥",2022-01-07T01:35:17.951Z,164151931795102
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1620) | #2 ""peelic @ c2JqQCu6sT"" (1180) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1620) | #6 ""goero @ G4RdqDSm6Z"" (1580)",2022-01-07T01:35:17.951Z,164151931795101
+"-- starting hand #26  (No Limit Texas Hold'em) (dealer: ""goero @ G4RdqDSm6Z"") --",2022-01-07T01:35:17.951Z,164151931795100
+"Undealt cards: 6♦, A♣, K♣ [K♠, Q♣]",2022-01-07T01:35:13.638Z,164151931363800
+"-- ending hand #25 --",2022-01-07T01:35:11.944Z,164151931194402
+"""peelic @ c2JqQCu6sT"" collected 200 from pot",2022-01-07T01:35:11.944Z,164151931194401
+"Uncalled bet of 80 returned to ""peelic @ c2JqQCu6sT""",2022-01-07T01:35:11.944Z,164151931194400
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:35:10.984Z,164151931098400
+"""peelic @ c2JqQCu6sT"" bets 80",2022-01-07T01:35:09.652Z,164151930965200
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:35:08.187Z,164151930818700
+"Flop:  [6♦, A♣, K♣]",2022-01-07T01:35:06.313Z,164151930631300
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:35:05.346Z,164151930534600
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:35:03.956Z,164151930395600
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:35:03.003Z,164151930300300
+"""peelic @ c2JqQCu6sT"" calls 80",2022-01-07T01:35:01.963Z,164151930196300
+"""arash @ huBdniBdCU"" posts a big blind of 80",2022-01-07T01:34:59.937Z,164151929993707
+"""goero @ G4RdqDSm6Z"" posts a small blind of 40",2022-01-07T01:34:59.937Z,164151929993706
+"Your hand is 10♠, 3♦",2022-01-07T01:34:59.937Z,164151929993702
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1700) | #2 ""peelic @ c2JqQCu6sT"" (1060) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1620) | #6 ""goero @ G4RdqDSm6Z"" (1620)",2022-01-07T01:34:59.937Z,164151929993701
+"-- starting hand #25  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2022-01-07T01:34:59.937Z,164151929993700
+"-- ending hand #24 --",2022-01-07T01:34:53.909Z,164151929390902
+"""goero @ G4RdqDSm6Z"" collected 880 from pot with Three of a Kind, 5's (combination: 5♣, 5♦, 5♥, Q♣, 9♣)",2022-01-07T01:34:53.909Z,164151929390901
+"""goero @ G4RdqDSm6Z"" shows a 5♣, 5♦.",2022-01-07T01:34:53.909Z,164151929390900
+"""peelic @ c2JqQCu6sT"" calls 160",2022-01-07T01:34:52.993Z,164151929299300
+"""goero @ G4RdqDSm6Z"" bets 160",2022-01-07T01:34:51.952Z,164151929195200
+"River: 5♥, 8♣, 9♣, Q♣ [2♦]",2022-01-07T01:34:47.509Z,164151928750900
+"""peelic @ c2JqQCu6sT"" calls 80",2022-01-07T01:34:46.592Z,164151928659200
+"""goero @ G4RdqDSm6Z"" bets 80",2022-01-07T01:34:45.551Z,164151928555100
+"Turn: 5♥, 8♣, 9♣ [Q♣]",2022-01-07T01:34:44.106Z,164151928410600
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:34:43.197Z,164151928319700
+"""peelic @ c2JqQCu6sT"" calls 80",2022-01-07T01:34:42.191Z,164151928219100
+"""goero @ G4RdqDSm6Z"" bets 80",2022-01-07T01:34:41.280Z,164151928128000
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:34:40.001Z,164151928000100
+"Flop:  [5♥, 8♣, 9♣]",2022-01-07T01:34:38.497Z,164151927849700
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:34:37.526Z,164151927752600
+"""Stevo @ 5Ep7Sc0sJg"" calls 80",2022-01-07T01:34:36.120Z,164151927612000
+"""peelic @ c2JqQCu6sT"" calls 80",2022-01-07T01:34:34.981Z,164151927498100
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:34:33.984Z,164151927398400
+"""goero @ G4RdqDSm6Z"" posts a big blind of 80",2022-01-07T01:34:31.495Z,164151927149507
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 40",2022-01-07T01:34:31.495Z,164151927149506
+"Your hand is 2♠, A♦",2022-01-07T01:34:31.495Z,164151927149502
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1700) | #2 ""peelic @ c2JqQCu6sT"" (1460) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1700) | #6 ""goero @ G4RdqDSm6Z"" (1140)",2022-01-07T01:34:31.495Z,164151927149501
+"-- starting hand #24  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2022-01-07T01:34:31.495Z,164151927149500
+"Undealt cards: 4♦, K♦, 2♣, 7♦ [A♥]",2022-01-07T01:34:26.749Z,164151926674900
+"""goero @ G4RdqDSm6Z"" shows a 3♦, A♦.",2022-01-07T01:34:25.303Z,164151926530300
+"-- ending hand #23 --",2022-01-07T01:34:24.885Z,164151926488502
+"""goero @ G4RdqDSm6Z"" collected 320 from pot",2022-01-07T01:34:24.885Z,164151926488501
+"Uncalled bet of 80 returned to ""goero @ G4RdqDSm6Z""",2022-01-07T01:34:24.885Z,164151926488500
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:34:23.970Z,164151926397000
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:34:22.946Z,164151926294600
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:34:19.868Z,164151925986800
+"""goero @ G4RdqDSm6Z"" bets 80",2022-01-07T01:34:18.613Z,164151925861300
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:34:16.969Z,164151925696900
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:34:15.909Z,164151925590900
+"Turn: 4♦, K♦, 2♣ [7♦]",2022-01-07T01:34:14.881Z,164151925488100
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:34:13.983Z,164151925398300
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:34:12.111Z,164151925211100
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:34:11.234Z,164151925123400
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:34:10.246Z,164151925024600
+"Flop:  [4♦, K♦, 2♣]",2022-01-07T01:34:08.482Z,164151924848200
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:34:07.569Z,164151924756900
+"""peelic @ c2JqQCu6sT"" calls 80",2022-01-07T01:34:06.557Z,164151924655700
+"""arash @ huBdniBdCU"" calls 80",2022-01-07T01:34:05.568Z,164151924556800
+"""goero @ G4RdqDSm6Z"" calls 80",2022-01-07T01:34:04.333Z,164151924433300
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 80",2022-01-07T01:34:02.265Z,164151924226507
+"""peelic @ c2JqQCu6sT"" posts a small blind of 40",2022-01-07T01:34:02.265Z,164151924226506
+"Your hand is A♣, 10♠",2022-01-07T01:34:02.265Z,164151924226502
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1780) | #2 ""peelic @ c2JqQCu6sT"" (1540) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1780) | #6 ""goero @ G4RdqDSm6Z"" (900)",2022-01-07T01:34:02.265Z,164151924226501
+"-- starting hand #23  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:34:02.265Z,164151924226500
+"Undealt cards: 7♣, 7♠, 9♣ [5♣, 5♥]",2022-01-07T01:33:57.423Z,164151923742300
+"-- ending hand #22 --",2022-01-07T01:33:56.284Z,164151923628402
+"""arash @ huBdniBdCU"" collected 320 from pot",2022-01-07T01:33:56.284Z,164151923628401
+"Uncalled bet of 80 returned to ""arash @ huBdniBdCU""",2022-01-07T01:33:56.284Z,164151923628400
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:33:55.453Z,164151923545300
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:33:54.502Z,164151923450200
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:33:53.477Z,164151923347700
+"""arash @ huBdniBdCU"" bets 80",2022-01-07T01:33:49.026Z,164151922902600
+"Flop:  [7♣, 7♠, 9♣]",2022-01-07T01:33:47.014Z,164151922701400
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:33:46.100Z,164151922610000
+"""arash @ huBdniBdCU"" calls 80",2022-01-07T01:33:45.087Z,164151922508700
+"""goero @ G4RdqDSm6Z"" calls 80",2022-01-07T01:33:43.850Z,164151922385000
+"""Stevo @ 5Ep7Sc0sJg"" calls 80",2022-01-07T01:33:42.949Z,164151922294900
+"""peelic @ c2JqQCu6sT"" posts a big blind of 80",2022-01-07T01:33:41.672Z,164151922167207
+"""arash @ huBdniBdCU"" posts a small blind of 40",2022-01-07T01:33:41.672Z,164151922167206
+"Your hand is 10♥, 10♦",2022-01-07T01:33:41.672Z,164151922167202
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1540) | #2 ""peelic @ c2JqQCu6sT"" (1620) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1860) | #6 ""goero @ G4RdqDSm6Z"" (980)",2022-01-07T01:33:41.672Z,164151922167201
+"-- starting hand #22  (No Limit Texas Hold'em) (dealer: ""goero @ G4RdqDSm6Z"") --",2022-01-07T01:33:41.672Z,164151922167200
+"-- ending hand #21 --",2022-01-07T01:33:35.613Z,164151921561303
+"""arash @ huBdniBdCU"" shows a 9♠, 10♣.",2022-01-07T01:33:35.613Z,164151921561302
+"""peelic @ c2JqQCu6sT"" collected 680 from pot with Two Pair, J's & 7's (combination: J♦, J♠, 7♦, 7♥, A♣)",2022-01-07T01:33:35.613Z,164151921561301
+"""peelic @ c2JqQCu6sT"" shows a A♣, J♦.",2022-01-07T01:33:35.613Z,164151921561300
+"""peelic @ c2JqQCu6sT"" calls 80",2022-01-07T01:33:34.691Z,164151921469100
+"""arash @ huBdniBdCU"" bets 80",2022-01-07T01:33:33.701Z,164151921370100
+"River: 7♦, 3♠, J♠, 10♠ [7♥]",2022-01-07T01:33:30.809Z,164151921080900
+"""peelic @ c2JqQCu6sT"" calls 80",2022-01-07T01:33:29.958Z,164151920995800
+"""arash @ huBdniBdCU"" bets 80",2022-01-07T01:33:29.046Z,164151920904600
+"Turn: 7♦, 3♠, J♠ [10♠]",2022-01-07T01:33:26.205Z,164151920620500
+"""peelic @ c2JqQCu6sT"" calls 80",2022-01-07T01:33:25.300Z,164151920530000
+"""arash @ huBdniBdCU"" bets 80",2022-01-07T01:33:24.354Z,164151920435400
+"Flop:  [7♦, 3♠, J♠]",2022-01-07T01:33:21.404Z,164151920140400
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:33:20.587Z,164151920058700
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:33:19.028Z,164151919902800
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:33:18.179Z,164151919817900
+"""peelic @ c2JqQCu6sT"" calls 80",2022-01-07T01:33:15.521Z,164151919552100
+"""arash @ huBdniBdCU"" posts a big blind of 80",2022-01-07T01:33:13.198Z,164151919319808
+"""goero @ G4RdqDSm6Z"" posts a small blind of 40",2022-01-07T01:33:13.198Z,164151919319807
+"Your hand is 9♠, 10♣",2022-01-07T01:33:13.198Z,164151919319803
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1860) | #2 ""peelic @ c2JqQCu6sT"" (1260) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1860) | #6 ""goero @ G4RdqDSm6Z"" (1020)",2022-01-07T01:33:13.198Z,164151919319802
+"-- starting hand #21  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2022-01-07T01:33:13.198Z,164151919319801
+"The player ""Jonah @ 333XEf7vEI"" quits the game with a stack of 0.",2022-01-07T01:33:13.198Z,164151919319800
+"""Stevo @ 5Ep7Sc0sJg"" shows a 8♠, K♦.",2022-01-07T01:33:08.019Z,164151918801900
+"-- ending hand #20 --",2022-01-07T01:33:06.594Z,164151918659404
+"""Jonah @ 333XEf7vEI"" shows a 9♣, J♠.",2022-01-07T01:33:06.594Z,164151918659403
+"""goero @ G4RdqDSm6Z"" collected 1000 from pot with Three of a Kind, 9's (combination: 9♦, 9♠, 9♥, A♦, 8♥)",2022-01-07T01:33:06.594Z,164151918659402
+"""goero @ G4RdqDSm6Z"" shows a 9♦, 9♠.",2022-01-07T01:33:06.594Z,164151918659401
+"Uncalled bet of 20 returned to ""goero @ G4RdqDSm6Z""",2022-01-07T01:33:06.594Z,164151918659400
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:33:05.734Z,164151918573400
+"""Jonah @ 333XEf7vEI"" calls 140 and go all in",2022-01-07T01:32:59.903Z,164151917990300
+"""goero @ G4RdqDSm6Z"" bets 160 and go all in",2022-01-07T01:32:58.835Z,164151917883500
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:32:55.004Z,164151917500400
+"River: 9♥, 8♥, 2♣, 3♠ [A♦]",2022-01-07T01:32:53.391Z,164151917339100
+"""Stevo @ 5Ep7Sc0sJg"" calls 80",2022-01-07T01:32:52.528Z,164151917252800
+"""Jonah @ 333XEf7vEI"" calls 80",2022-01-07T01:32:51.501Z,164151917150100
+"""goero @ G4RdqDSm6Z"" bets 80",2022-01-07T01:32:50.461Z,164151917046100
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:32:43.817Z,164151916381700
+"Turn: 9♥, 8♥, 2♣ [3♠]",2022-01-07T01:32:42.582Z,164151916258200
+"""Jonah @ 333XEf7vEI"" calls 80",2022-01-07T01:32:41.687Z,164151916168700
+"""goero @ G4RdqDSm6Z"" calls 80",2022-01-07T01:32:40.602Z,164151916060200
+"""Stevo @ 5Ep7Sc0sJg"" bets 80",2022-01-07T01:32:34.245Z,164151915424500
+"Flop:  [9♥, 8♥, 2♣]",2022-01-07T01:32:32.580Z,164151915258000
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:32:31.663Z,164151915166300
+"""Stevo @ 5Ep7Sc0sJg"" calls 80",2022-01-07T01:32:30.465Z,164151915046500
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:32:29.467Z,164151914946700
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:32:28.524Z,164151914852400
+"""Jonah @ 333XEf7vEI"" calls 80",2022-01-07T01:32:26.494Z,164151914649400
+"""goero @ G4RdqDSm6Z"" posts a big blind of 80",2022-01-07T01:32:25.366Z,164151914536608
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 40",2022-01-07T01:32:25.366Z,164151914536607
+"Your hand is 4♥, 3♦",2022-01-07T01:32:25.366Z,164151914536602
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1860) | #2 ""peelic @ c2JqQCu6sT"" (1260) | #4 ""Stevo @ 5Ep7Sc0sJg"" (2100) | #6 ""goero @ G4RdqDSm6Z"" (400) | #7 ""Jonah @ 333XEf7vEI"" (380)",2022-01-07T01:32:25.366Z,164151914536601
+"-- starting hand #20  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2022-01-07T01:32:25.366Z,164151914536600
+"""goero @ G4RdqDSm6Z"" shows a J♦, 7♦.",2022-01-07T01:32:19.697Z,164151913969700
+"-- ending hand #19 --",2022-01-07T01:32:18.768Z,164151913876803
+"""peelic @ c2JqQCu6sT"" shows a K♠, 9♠.",2022-01-07T01:32:18.768Z,164151913876802
+"""Stevo @ 5Ep7Sc0sJg"" collected 480 from pot with Pair, 8's (combination: 8♥, 8♦, A♠, J♣, 7♠)",2022-01-07T01:32:18.768Z,164151913876801
+"""Stevo @ 5Ep7Sc0sJg"" shows a 4♦, 8♥.",2022-01-07T01:32:18.768Z,164151913876800
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:32:17.870Z,164151913787000
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:32:11.942Z,164151913194200
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:32:10.491Z,164151913049100
+"River: J♣, 6♦, 8♦, A♠ [7♠]",2022-01-07T01:32:09.177Z,164151912917700
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:32:08.273Z,164151912827300
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:32:06.779Z,164151912677900
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:32:05.836Z,164151912583600
+"Turn: J♣, 6♦, 8♦ [A♠]",2022-01-07T01:32:04.373Z,164151912437300
+"""Stevo @ 5Ep7Sc0sJg"" calls 80",2022-01-07T01:32:03.475Z,164151912347500
+"""peelic @ c2JqQCu6sT"" calls 80",2022-01-07T01:32:02.357Z,164151912235700
+"""arash @ huBdniBdCU"" bets 80",2022-01-07T01:31:59.721Z,164151911972100
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:31:58.064Z,164151911806400
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:31:57.139Z,164151911713900
+"Flop:  [J♣, 6♦, 8♦]",2022-01-07T01:31:55.265Z,164151911526500
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:31:54.366Z,164151911436600
+"""peelic @ c2JqQCu6sT"" calls 80",2022-01-07T01:31:53.352Z,164151911335200
+"""arash @ huBdniBdCU"" calls 80",2022-01-07T01:31:52.412Z,164151911241200
+"""Jonah @ 333XEf7vEI"" folds",2022-01-07T01:31:48.591Z,164151910859100
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:31:47.608Z,164151910760800
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 80",2022-01-07T01:31:44.920Z,164151910492008
+"""peelic @ c2JqQCu6sT"" posts a small blind of 40",2022-01-07T01:31:44.920Z,164151910492007
+"Your hand is 5♣, 10♣",2022-01-07T01:31:44.920Z,164151910492002
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2020) | #2 ""peelic @ c2JqQCu6sT"" (1420) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1780) | #6 ""goero @ G4RdqDSm6Z"" (400) | #7 ""Jonah @ 333XEf7vEI"" (380)",2022-01-07T01:31:44.920Z,164151910492001
+"-- starting hand #19  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:31:44.920Z,164151910492000
+"Undealt cards: 4♦, J♦, 9♥ [Q♦, Q♣]",2022-01-07T01:31:40.766Z,164151910076600
+"""Stevo @ 5Ep7Sc0sJg"" shows a K♦, 6♦.",2022-01-07T01:31:40.641Z,164151910064100
+"-- ending hand #18 --",2022-01-07T01:31:38.309Z,164151909830902
+"""Stevo @ 5Ep7Sc0sJg"" collected 280 from pot",2022-01-07T01:31:38.309Z,164151909830901
+"Uncalled bet of 80 returned to ""Stevo @ 5Ep7Sc0sJg""",2022-01-07T01:31:38.309Z,164151909830900
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:31:37.400Z,164151909740000
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:31:27.805Z,164151908780500
+"""Stevo @ 5Ep7Sc0sJg"" bets 80",2022-01-07T01:31:11.990Z,164151907199000
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:31:10.627Z,164151907062700
+"Flop:  [4♦, J♦, 9♥]",2022-01-07T01:31:08.290Z,164151906829000
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:31:07.470Z,164151906747000
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:31:05.820Z,164151906582000
+"""Jonah @ 333XEf7vEI"" folds",2022-01-07T01:31:04.799Z,164151906479900
+"""goero @ G4RdqDSm6Z"" calls 80",2022-01-07T01:31:03.835Z,164151906383500
+"""Stevo @ 5Ep7Sc0sJg"" calls 80",2022-01-07T01:31:02.390Z,164151906239000
+"""peelic @ c2JqQCu6sT"" posts a big blind of 80",2022-01-07T01:31:00.990Z,164151906099009
+"""arash @ huBdniBdCU"" posts a small blind of 40",2022-01-07T01:31:00.990Z,164151906099008
+"Your hand is 7♠, 8♦",2022-01-07T01:31:00.990Z,164151906099003
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2060) | #2 ""peelic @ c2JqQCu6sT"" (1500) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1580) | #6 ""goero @ G4RdqDSm6Z"" (480) | #7 ""Jonah @ 333XEf7vEI"" (380)",2022-01-07T01:31:00.990Z,164151906099002
+"-- starting hand #18  (No Limit Texas Hold'em) (dead button) --",2022-01-07T01:31:00.990Z,164151906099001
+"The player ""Spenny @ cu8vqwqurV"" quits the game with a stack of 0.",2022-01-07T01:31:00.990Z,164151906099000
+"-- ending hand #17 --",2022-01-07T01:30:54.966Z,164151905496603
+"""Spenny @ cu8vqwqurV"" shows a 7♦, 4♥.",2022-01-07T01:30:54.966Z,164151905496602
+"""peelic @ c2JqQCu6sT"" collected 920 from pot with Pair, 10's (combination: 10♥, 10♦, Q♦, 9♦, 6♠)",2022-01-07T01:30:54.966Z,164151905496601
+"""peelic @ c2JqQCu6sT"" shows a Q♦, 10♥.",2022-01-07T01:30:54.966Z,164151905496600
+"""Jonah @ 333XEf7vEI"" folds",2022-01-07T01:30:54.117Z,164151905411700
+"""peelic @ c2JqQCu6sT"" calls 20",2022-01-07T01:30:52.963Z,164151905296300
+"""Spenny @ cu8vqwqurV"" bets 20 and go all in",2022-01-07T01:30:51.389Z,164151905138900
+"River: 9♦, 10♦, 4♣, 6♠ [5♦]",2022-01-07T01:30:47.280Z,164151904728000
+"""Spenny @ cu8vqwqurV"" calls 80",2022-01-07T01:30:46.395Z,164151904639500
+"""Jonah @ 333XEf7vEI"" calls 80",2022-01-07T01:30:39.580Z,164151903958000
+"""peelic @ c2JqQCu6sT"" bets 80",2022-01-07T01:30:38.532Z,164151903853200
+"""Spenny @ cu8vqwqurV"" checks",2022-01-07T01:30:36.258Z,164151903625800
+"Turn: 9♦, 10♦, 4♣ [6♠]",2022-01-07T01:30:34.620Z,164151903462000
+"""Jonah @ 333XEf7vEI"" calls 80",2022-01-07T01:30:33.752Z,164151903375200
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:30:32.777Z,164151903277700
+"""peelic @ c2JqQCu6sT"" calls 80",2022-01-07T01:30:31.869Z,164151903186900
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:30:30.852Z,164151903085200
+"""Spenny @ cu8vqwqurV"" bets 80",2022-01-07T01:30:26.943Z,164151902694300
+"Flop:  [9♦, 10♦, 4♣]",2022-01-07T01:30:16.866Z,164151901686600
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:30:15.993Z,164151901599300
+"""Spenny @ cu8vqwqurV"" calls 80",2022-01-07T01:30:14.591Z,164151901459100
+"""Jonah @ 333XEf7vEI"" calls 80",2022-01-07T01:30:07.325Z,164151900732500
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:30:06.291Z,164151900629100
+"""Stevo @ 5Ep7Sc0sJg"" calls 80",2022-01-07T01:30:05.417Z,164151900541700
+"""peelic @ c2JqQCu6sT"" calls 80",2022-01-07T01:30:04.262Z,164151900426200
+"""arash @ huBdniBdCU"" posts a big blind of 80",2022-01-07T01:30:01.426Z,164151900142611
+"""Spenny @ cu8vqwqurV"" posts a small blind of 40",2022-01-07T01:30:01.426Z,164151900142610
+"Your hand is 9♣, J♠",2022-01-07T01:30:01.426Z,164151900142604
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2140) | #2 ""peelic @ c2JqQCu6sT"" (840) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1660) | #6 ""goero @ G4RdqDSm6Z"" (480) | #7 ""Jonah @ 333XEf7vEI"" (620) | #8 ""Spenny @ cu8vqwqurV"" (260)",2022-01-07T01:30:01.426Z,164151900142603
+"-- starting hand #17  (No Limit Texas Hold'em) (dealer: ""Jonah @ 333XEf7vEI"") --",2022-01-07T01:30:01.426Z,164151900142602
+"The game's big blind was changed from 40 to 80.",2022-01-07T01:30:01.426Z,164151900142601
+"The game's small blind was changed from 20 to 40.",2022-01-07T01:30:01.426Z,164151900142600
+"-- ending hand #16 --",2022-01-07T01:29:55.386Z,164151899538603
+"""Spenny @ cu8vqwqurV"" shows a 9♥, 9♣.",2022-01-07T01:29:55.386Z,164151899538602
+"""peelic @ c2JqQCu6sT"" collected 840 from pot with Pair, A's (combination: A♣, A♥, Q♥, 9♦, 8♥)",2022-01-07T01:29:55.386Z,164151899538601
+"""peelic @ c2JqQCu6sT"" shows a 9♦, A♣.",2022-01-07T01:29:55.386Z,164151899538600
+"""Spenny @ cu8vqwqurV"" calls 200",2022-01-07T01:29:54.522Z,164151899452200
+"""peelic @ c2JqQCu6sT"" raises to 200 and go all in",2022-01-07T01:29:45.356Z,164151898535600
+"""Spenny @ cu8vqwqurV"" bets 120",2022-01-07T01:29:42.826Z,164151898282600
+"""Jonah @ 333XEf7vEI"" folds",2022-01-07T01:29:36.554Z,164151897655400
+"River: 8♥, A♥, 7♠, 3♠ [Q♥]",2022-01-07T01:29:33.013Z,164151897301300
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:29:32.106Z,164151897210600
+"""peelic @ c2JqQCu6sT"" calls 40",2022-01-07T01:29:31.200Z,164151897120000
+"""Spenny @ cu8vqwqurV"" calls 40",2022-01-07T01:29:30.228Z,164151897022800
+"""Jonah @ 333XEf7vEI"" bets 40",2022-01-07T01:29:28.082Z,164151896808200
+"Turn: 8♥, A♥, 7♠ [3♠]",2022-01-07T01:29:22.207Z,164151896220700
+"""Spenny @ cu8vqwqurV"" calls 40",2022-01-07T01:29:21.359Z,164151896135900
+"""Jonah @ 333XEf7vEI"" calls 40",2022-01-07T01:29:20.405Z,164151896040500
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2022-01-07T01:29:19.439Z,164151895943900
+"""peelic @ c2JqQCu6sT"" bets 40",2022-01-07T01:29:18.320Z,164151895832000
+"""Spenny @ cu8vqwqurV"" checks",2022-01-07T01:29:15.555Z,164151895555500
+"""Jonah @ 333XEf7vEI"" checks",2022-01-07T01:29:10.593Z,164151895059300
+"Flop:  [8♥, A♥, 7♠]",2022-01-07T01:29:07.005Z,164151894700500
+"""Spenny @ cu8vqwqurV"" checks",2022-01-07T01:29:06.153Z,164151894615300
+"""Jonah @ 333XEf7vEI"" calls 40",2022-01-07T01:29:05.214Z,164151894521400
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:29:04.240Z,164151894424000
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2022-01-07T01:29:03.294Z,164151894329400
+"""peelic @ c2JqQCu6sT"" calls 40",2022-01-07T01:29:02.298Z,164151894229800
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:29:01.349Z,164151894134900
+"""Spenny @ cu8vqwqurV"" posts a big blind of 40",2022-01-07T01:28:59.799Z,164151893979909
+"""Jonah @ 333XEf7vEI"" posts a small blind of 20",2022-01-07T01:28:59.799Z,164151893979908
+"Your hand is 6♦, 4♥",2022-01-07T01:28:59.799Z,164151893979902
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2140) | #2 ""peelic @ c2JqQCu6sT"" (320) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1740) | #6 ""goero @ G4RdqDSm6Z"" (480) | #7 ""Jonah @ 333XEf7vEI"" (740) | #8 ""Spenny @ cu8vqwqurV"" (580)",2022-01-07T01:28:59.799Z,164151893979901
+"-- starting hand #16  (No Limit Texas Hold'em) (dealer: ""goero @ G4RdqDSm6Z"") --",2022-01-07T01:28:59.799Z,164151893979900
+"-- ending hand #15 --",2022-01-07T01:28:56.802Z,164151893680202
+"""Jonah @ 333XEf7vEI"" collected 440 from pot",2022-01-07T01:28:56.802Z,164151893680201
+"Uncalled bet of 160 returned to ""Jonah @ 333XEf7vEI""",2022-01-07T01:28:56.802Z,164151893680200
+"""Spenny @ cu8vqwqurV"" folds",2022-01-07T01:28:55.936Z,164151893593600
+"""Jonah @ 333XEf7vEI"" bets 160",2022-01-07T01:28:50.652Z,164151893065200
+"River: 2♣, 9♠, 10♦, 5♦ [5♣]",2022-01-07T01:28:48.195Z,164151892819500
+"""Spenny @ cu8vqwqurV"" calls 80",2022-01-07T01:28:47.357Z,164151892735700
+"""Jonah @ 333XEf7vEI"" bets 80",2022-01-07T01:28:41.889Z,164151892188900
+"Turn: 2♣, 9♠, 10♦ [5♦]",2022-01-07T01:28:39.387Z,164151891938700
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:28:38.467Z,164151891846700
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:28:35.878Z,164151891587800
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:28:34.879Z,164151891487900
+"""Spenny @ cu8vqwqurV"" calls 40",2022-01-07T01:28:29.629Z,164151890962900
+"""Jonah @ 333XEf7vEI"" bets 40",2022-01-07T01:28:21.719Z,164151890171900
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:28:20.457Z,164151890045700
+"Flop:  [2♣, 9♠, 10♦]",2022-01-07T01:28:18.969Z,164151889896900
+"""Jonah @ 333XEf7vEI"" checks",2022-01-07T01:28:18.097Z,164151889809700
+"""goero @ G4RdqDSm6Z"" calls 40",2022-01-07T01:28:17.028Z,164151889702800
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2022-01-07T01:28:16.128Z,164151889612800
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:28:13.651Z,164151889365100
+"""arash @ huBdniBdCU"" calls 40",2022-01-07T01:28:12.610Z,164151889261000
+"""Spenny @ cu8vqwqurV"" calls 40",2022-01-07T01:28:11.384Z,164151889138400
+"""Jonah @ 333XEf7vEI"" posts a big blind of 40",2022-01-07T01:28:09.167Z,164151888916709
+"""goero @ G4RdqDSm6Z"" posts a small blind of 20",2022-01-07T01:28:09.167Z,164151888916708
+"Your hand is J♣, K♠",2022-01-07T01:28:09.167Z,164151888916702
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2180) | #2 ""peelic @ c2JqQCu6sT"" (320) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1780) | #6 ""goero @ G4RdqDSm6Z"" (520) | #7 ""Jonah @ 333XEf7vEI"" (460) | #8 ""Spenny @ cu8vqwqurV"" (740)",2022-01-07T01:28:09.167Z,164151888916701
+"-- starting hand #15  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2022-01-07T01:28:09.167Z,164151888916700
+"""Spenny @ cu8vqwqurV"" shows a 7♣, 7♦.",2022-01-07T01:28:03.585Z,164151888358500
+"-- ending hand #14 --",2022-01-07T01:28:02.562Z,164151888256202
+"""Stevo @ 5Ep7Sc0sJg"" collected 720 from pot with Two Pair, 6's & 4's (combination: 6♥, 6♣, 4♥, 4♠, A♣)",2022-01-07T01:28:02.562Z,164151888256201
+"""Stevo @ 5Ep7Sc0sJg"" shows a 4♥, 6♥.",2022-01-07T01:28:02.562Z,164151888256200
+"""Spenny @ cu8vqwqurV"" calls 40",2022-01-07T01:28:01.623Z,164151888162300
+"""Jonah @ 333XEf7vEI"" calls 40",2022-01-07T01:28:00.670Z,164151888067000
+"""Stevo @ 5Ep7Sc0sJg"" bets 40",2022-01-07T01:27:59.597Z,164151887959700
+"River: 9♦, 5♦, 6♣, 4♠ [A♣]",2022-01-07T01:27:57.759Z,164151887775900
+"""Stevo @ 5Ep7Sc0sJg"" calls 80",2022-01-07T01:27:56.926Z,164151887692600
+"""Spenny @ cu8vqwqurV"" calls 80",2022-01-07T01:27:55.906Z,164151887590600
+"""Jonah @ 333XEf7vEI"" raises to 80",2022-01-07T01:27:54.556Z,164151887455600
+"""Stevo @ 5Ep7Sc0sJg"" bets 40",2022-01-07T01:27:52.083Z,164151887208300
+"Turn: 9♦, 5♦, 6♣ [4♠]",2022-01-07T01:27:50.383Z,164151887038300
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:27:49.545Z,164151886954500
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2022-01-07T01:27:48.594Z,164151886859400
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:27:47.266Z,164151886726600
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:27:46.354Z,164151886635400
+"""Spenny @ cu8vqwqurV"" calls 40",2022-01-07T01:27:43.551Z,164151886355100
+"""Jonah @ 333XEf7vEI"" bets 40",2022-01-07T01:27:40.853Z,164151886085300
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:27:39.200Z,164151885920000
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:27:37.980Z,164151885798000
+"Flop:  [9♦, 5♦, 6♣]",2022-01-07T01:27:35.778Z,164151885577800
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:27:34.930Z,164151885493000
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2022-01-07T01:27:33.526Z,164151885352600
+"""peelic @ c2JqQCu6sT"" calls 40",2022-01-07T01:27:32.260Z,164151885226000
+"""arash @ huBdniBdCU"" calls 40",2022-01-07T01:27:31.311Z,164151885131100
+"""Spenny @ cu8vqwqurV"" calls 40",2022-01-07T01:27:29.192Z,164151884919200
+"""Jonah @ 333XEf7vEI"" calls 40",2022-01-07T01:27:28.313Z,164151884831300
+"""goero @ G4RdqDSm6Z"" posts a big blind of 40",2022-01-07T01:27:26.897Z,164151884689709
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 20",2022-01-07T01:27:26.897Z,164151884689708
+"Your hand is 5♣, A♦",2022-01-07T01:27:26.897Z,164151884689702
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2220) | #2 ""peelic @ c2JqQCu6sT"" (360) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1260) | #6 ""goero @ G4RdqDSm6Z"" (560) | #7 ""Jonah @ 333XEf7vEI"" (660) | #8 ""Spenny @ cu8vqwqurV"" (940)",2022-01-07T01:27:26.897Z,164151884689701
+"-- starting hand #14  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2022-01-07T01:27:26.897Z,164151884689700
+"-- ending hand #13 --",2022-01-07T01:27:20.924Z,164151884092402
+"""Stevo @ 5Ep7Sc0sJg"" collected 120 from pot",2022-01-07T01:27:20.924Z,164151884092401
+"Uncalled bet of 40 returned to ""Stevo @ 5Ep7Sc0sJg""",2022-01-07T01:27:20.924Z,164151884092400
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:27:20.117Z,164151884011700
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:27:13.101Z,164151883310100
+"""Stevo @ 5Ep7Sc0sJg"" bets 40",2022-01-07T01:27:11.345Z,164151883134500
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:27:09.868Z,164151882986800
+"Flop:  [3♣, A♣, 8♦]",2022-01-07T01:27:07.291Z,164151882729100
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:27:06.476Z,164151882647600
+"""peelic @ c2JqQCu6sT"" calls 40",2022-01-07T01:27:04.981Z,164151882498100
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:27:04.038Z,164151882403800
+"""Spenny @ cu8vqwqurV"" folds",2022-01-07T01:27:01.946Z,164151882194600
+"""Jonah @ 333XEf7vEI"" folds",2022-01-07T01:27:00.953Z,164151882095300
+"""goero @ G4RdqDSm6Z"" calls 40",2022-01-07T01:26:57.807Z,164151881780700
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 40",2022-01-07T01:26:55.878Z,164151881587809
+"""peelic @ c2JqQCu6sT"" posts a small blind of 20",2022-01-07T01:26:55.878Z,164151881587808
+"Your hand is 4♥, 9♣",2022-01-07T01:26:55.878Z,164151881587802
+"Player stacks: #1 ""arash @ huBdniBdCU"" (2220) | #2 ""peelic @ c2JqQCu6sT"" (400) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1180) | #6 ""goero @ G4RdqDSm6Z"" (600) | #7 ""Jonah @ 333XEf7vEI"" (660) | #8 ""Spenny @ cu8vqwqurV"" (940)",2022-01-07T01:26:55.878Z,164151881587801
+"-- starting hand #13  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:26:55.878Z,164151881587800
+"-- ending hand #12 --",2022-01-07T01:26:52.875Z,164151881287502
+"""arash @ huBdniBdCU"" collected 600 from pot",2022-01-07T01:26:52.875Z,164151881287501
+"Uncalled bet of 220 returned to ""arash @ huBdniBdCU""",2022-01-07T01:26:52.875Z,164151881287500
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:26:51.974Z,164151881197400
+"""arash @ huBdniBdCU"" raises to 300",2022-01-07T01:26:50.498Z,164151881049800
+"""Jonah @ 333XEf7vEI"" folds",2022-01-07T01:26:36.718Z,164151879671800
+"""peelic @ c2JqQCu6sT"" bets 80",2022-01-07T01:26:35.532Z,164151879553200
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:26:31.995Z,164151879199500
+"River: 4♠, 4♦, 8♠, 3♦ [8♣]",2022-01-07T01:26:29.621Z,164151878962100
+"""arash @ huBdniBdCU"" calls 40",2022-01-07T01:26:28.665Z,164151878866500
+"""Jonah @ 333XEf7vEI"" calls 40",2022-01-07T01:26:26.980Z,164151878698000
+"""peelic @ c2JqQCu6sT"" bets 40",2022-01-07T01:26:25.925Z,164151878592500
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:26:24.080Z,164151878408000
+"Turn: 4♠, 4♦, 8♠ [3♦]",2022-01-07T01:26:21.417Z,164151878141700
+"""Jonah @ 333XEf7vEI"" calls 40",2022-01-07T01:26:20.550Z,164151878055000
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:26:19.446Z,164151877944600
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:26:18.502Z,164151877850200
+"""peelic @ c2JqQCu6sT"" calls 40",2022-01-07T01:26:17.509Z,164151877750900
+"""arash @ huBdniBdCU"" bets 40",2022-01-07T01:26:13.267Z,164151877326700
+"Flop:  [4♠, 4♦, 8♠]",2022-01-07T01:26:10.408Z,164151877040800
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:26:09.495Z,164151876949500
+"""arash @ huBdniBdCU"" calls 40",2022-01-07T01:26:08.442Z,164151876844200
+"""Spenny @ cu8vqwqurV"" folds",2022-01-07T01:26:06.288Z,164151876628800
+"""Jonah @ 333XEf7vEI"" calls 40",2022-01-07T01:26:05.416Z,164151876541600
+"""goero @ G4RdqDSm6Z"" calls 40",2022-01-07T01:26:04.271Z,164151876427100
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2022-01-07T01:26:03.424Z,164151876342400
+"""peelic @ c2JqQCu6sT"" posts a big blind of 40",2022-01-07T01:26:01.224Z,164151876122409
+"""arash @ huBdniBdCU"" posts a small blind of 20",2022-01-07T01:26:01.224Z,164151876122408
+"Your hand is 8♥, J♦",2022-01-07T01:26:01.224Z,164151876122402
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1820) | #2 ""peelic @ c2JqQCu6sT"" (600) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1220) | #6 ""goero @ G4RdqDSm6Z"" (640) | #7 ""Jonah @ 333XEf7vEI"" (780) | #8 ""Spenny @ cu8vqwqurV"" (940)",2022-01-07T01:26:01.224Z,164151876122401
+"-- starting hand #12  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2022-01-07T01:26:01.224Z,164151876122400
+"""Stevo @ 5Ep7Sc0sJg"" shows a 10♥, 5♣.",2022-01-07T01:25:59.320Z,164151875932000
+"-- ending hand #11 --",2022-01-07T01:25:57.599Z,164151875759902
+"""Stevo @ 5Ep7Sc0sJg"" collected 120 from pot",2022-01-07T01:25:57.599Z,164151875759901
+"Uncalled bet of 80 returned to ""Stevo @ 5Ep7Sc0sJg""",2022-01-07T01:25:57.599Z,164151875759900
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:25:56.704Z,164151875670400
+"""Spenny @ cu8vqwqurV"" folds",2022-01-07T01:25:55.733Z,164151875573300
+"""Stevo @ 5Ep7Sc0sJg"" bets 80",2022-01-07T01:25:52.859Z,164151875285900
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:25:49.564Z,164151874956400
+"""Spenny @ cu8vqwqurV"" checks",2022-01-07T01:25:48.093Z,164151874809300
+"River: 3♥, 6♠, Q♦, K♠ [4♠]",2022-01-07T01:25:42.388Z,164151874238800
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:25:41.492Z,164151874149200
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:25:40.484Z,164151874048400
+"""Spenny @ cu8vqwqurV"" checks",2022-01-07T01:25:39.055Z,164151873905500
+"Turn: 3♥, 6♠, Q♦ [K♠]",2022-01-07T01:25:37.181Z,164151873718100
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:25:36.274Z,164151873627400
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:25:35.196Z,164151873519600
+"""Spenny @ cu8vqwqurV"" checks",2022-01-07T01:25:33.597Z,164151873359700
+"Flop:  [3♥, 6♠, Q♦]",2022-01-07T01:25:31.379Z,164151873137900
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:25:30.425Z,164151873042500
+"""Spenny @ cu8vqwqurV"" calls 40",2022-01-07T01:25:29.372Z,164151872937200
+"""Jonah @ 333XEf7vEI"" folds",2022-01-07T01:25:27.899Z,164151872789900
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:25:26.814Z,164151872681400
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2022-01-07T01:25:25.870Z,164151872587000
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:25:22.415Z,164151872241500
+"""arash @ huBdniBdCU"" posts a big blind of 40",2022-01-07T01:25:19.714Z,164151871971409
+"""Spenny @ cu8vqwqurV"" posts a small blind of 20",2022-01-07T01:25:19.714Z,164151871971408
+"Your hand is J♣, A♥",2022-01-07T01:25:19.714Z,164151871971402
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1860) | #2 ""peelic @ c2JqQCu6sT"" (600) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1140) | #6 ""goero @ G4RdqDSm6Z"" (640) | #7 ""Jonah @ 333XEf7vEI"" (780) | #8 ""Spenny @ cu8vqwqurV"" (980)",2022-01-07T01:25:19.714Z,164151871971401
+"-- starting hand #11  (No Limit Texas Hold'em) (dealer: ""Jonah @ 333XEf7vEI"") --",2022-01-07T01:25:19.714Z,164151871971400
+"""Spenny @ cu8vqwqurV"" shows a 9♣, 5♣.",2022-01-07T01:25:14.454Z,164151871445400
+"-- ending hand #10 --",2022-01-07T01:25:13.189Z,164151871318902
+"""arash @ huBdniBdCU"" collected 1000 from pot with Full House, Q's over 10's (combination: Q♦, Q♥, Q♠, 10♣, 10♥)",2022-01-07T01:25:13.189Z,164151871318901
+"""arash @ huBdniBdCU"" shows a Q♦, Q♥.",2022-01-07T01:25:13.189Z,164151871318900
+"""Spenny @ cu8vqwqurV"" calls 320",2022-01-07T01:25:12.346Z,164151871234600
+"""arash @ huBdniBdCU"" raises to 320",2022-01-07T01:24:54.312Z,164151869431200
+"""Spenny @ cu8vqwqurV"" bets 80",2022-01-07T01:24:48.676Z,164151868867600
+"River: Q♠, 5♦, 5♥, 10♣ [10♥]",2022-01-07T01:24:42.369Z,164151868236900
+"""Spenny @ cu8vqwqurV"" calls 80",2022-01-07T01:24:41.488Z,164151868148800
+"""arash @ huBdniBdCU"" raises to 80",2022-01-07T01:24:39.948Z,164151867994800
+"""Spenny @ cu8vqwqurV"" bets 40",2022-01-07T01:24:36.467Z,164151867646700
+"Turn: Q♠, 5♦, 5♥ [10♣]",2022-01-07T01:24:33.871Z,164151867387100
+"""Jonah @ 333XEf7vEI"" folds",2022-01-07T01:24:32.969Z,164151867296900
+"""arash @ huBdniBdCU"" calls 40",2022-01-07T01:24:31.799Z,164151867179900
+"""Spenny @ cu8vqwqurV"" bets 40",2022-01-07T01:24:27.033Z,164151866703300
+"""Jonah @ 333XEf7vEI"" checks",2022-01-07T01:24:23.637Z,164151866363700
+"Flop:  [Q♠, 5♦, 5♥]",2022-01-07T01:24:20.464Z,164151866046400
+"""Spenny @ cu8vqwqurV"" checks",2022-01-07T01:24:19.521Z,164151865952100
+"""Jonah @ 333XEf7vEI"" calls 40",2022-01-07T01:24:18.568Z,164151865856800
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:24:17.650Z,164151865765000
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:24:16.792Z,164151865679200
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:24:15.889Z,164151865588900
+"""arash @ huBdniBdCU"" calls 40",2022-01-07T01:24:14.921Z,164151865492100
+"""Spenny @ cu8vqwqurV"" posts a big blind of 40",2022-01-07T01:24:11.798Z,164151865179809
+"""Jonah @ 333XEf7vEI"" posts a small blind of 20",2022-01-07T01:24:11.798Z,164151865179808
+"Your hand is Q♦, Q♥",2022-01-07T01:24:11.798Z,164151865179802
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1340) | #2 ""peelic @ c2JqQCu6sT"" (600) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1140) | #6 ""goero @ G4RdqDSm6Z"" (640) | #7 ""Jonah @ 333XEf7vEI"" (820) | #8 ""Spenny @ cu8vqwqurV"" (1460)",2022-01-07T01:24:11.798Z,164151865179801
+"-- starting hand #10  (No Limit Texas Hold'em) (dealer: ""goero @ G4RdqDSm6Z"") --",2022-01-07T01:24:11.798Z,164151865179800
+"-- ending hand #9 --",2022-01-07T01:24:05.789Z,164151864578904
+"""Spenny @ cu8vqwqurV"" collected 220 from pot with Two Pair, 10's & 8's (combination: 10♣, 10♦, 8♦, 8♣, Q♣)",2022-01-07T01:24:05.789Z,164151864578903
+"""Spenny @ cu8vqwqurV"" shows a 7♦, 10♣.",2022-01-07T01:24:05.789Z,164151864578902
+"""Jonah @ 333XEf7vEI"" collected 220 from pot with Two Pair, 10's & 8's (combination: 10♠, 10♦, 8♦, 8♣, Q♣)",2022-01-07T01:24:05.789Z,164151864578901
+"""Jonah @ 333XEf7vEI"" shows a 2♠, 10♠.",2022-01-07T01:24:05.789Z,164151864578900
+"""Spenny @ cu8vqwqurV"" calls 40",2022-01-07T01:24:04.945Z,164151864494500
+"""Jonah @ 333XEf7vEI"" bets 40",2022-01-07T01:24:03.530Z,164151864353000
+"River: 10♦, Q♣, 2♣, 8♦ [8♣]",2022-01-07T01:23:56.383Z,164151863638300
+"""Spenny @ cu8vqwqurV"" calls 80",2022-01-07T01:23:55.499Z,164151863549900
+"""Jonah @ 333XEf7vEI"" bets 80",2022-01-07T01:23:44.108Z,164151862410800
+"Turn: 10♦, Q♣, 2♣ [8♦]",2022-01-07T01:23:39.271Z,164151861927100
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:23:38.374Z,164151861837400
+"""Spenny @ cu8vqwqurV"" calls 40",2022-01-07T01:23:36.986Z,164151861698600
+"""Jonah @ 333XEf7vEI"" bets 40",2022-01-07T01:23:35.477Z,164151861547700
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:23:28.696Z,164151860869600
+"Flop:  [10♦, Q♣, 2♣]",2022-01-07T01:23:25.560Z,164151860556000
+"""Jonah @ 333XEf7vEI"" checks",2022-01-07T01:23:24.669Z,164151860466900
+"""goero @ G4RdqDSm6Z"" calls 40",2022-01-07T01:23:23.728Z,164151860372800
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:23:22.453Z,164151860245300
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:23:21.448Z,164151860144800
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:23:20.533Z,164151860053300
+"""Spenny @ cu8vqwqurV"" calls 40",2022-01-07T01:23:16.691Z,164151859669100
+"""Jonah @ 333XEf7vEI"" posts a big blind of 40",2022-01-07T01:23:14.431Z,164151859443111
+"""goero @ G4RdqDSm6Z"" posts a small blind of 20",2022-01-07T01:23:14.431Z,164151859443110
+"Your hand is 2♥, K♦",2022-01-07T01:23:14.431Z,164151859443104
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1340) | #2 ""peelic @ c2JqQCu6sT"" (600) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1140) | #6 ""goero @ G4RdqDSm6Z"" (680) | #7 ""Jonah @ 333XEf7vEI"" (800) | #8 ""Spenny @ cu8vqwqurV"" (1440)",2022-01-07T01:23:14.431Z,164151859443103
+"-- starting hand #9  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2022-01-07T01:23:14.431Z,164151859443102
+"The game's big blind was changed from 20 to 40.",2022-01-07T01:23:14.431Z,164151859443101
+"The game's small blind was changed from 10 to 20.",2022-01-07T01:23:14.431Z,164151859443100
+"""Stevo @ 5Ep7Sc0sJg"" shows a A♣, 7♣.",2022-01-07T01:23:12.712Z,164151859271200
+"""goero @ G4RdqDSm6Z"" shows a 5♠, 5♦.",2022-01-07T01:23:11.775Z,164151859177500
+"-- ending hand #8 --",2022-01-07T01:23:10.023Z,164151859002302
+"""peelic @ c2JqQCu6sT"" collected 160 from pot",2022-01-07T01:23:10.023Z,164151859002301
+"Uncalled bet of 100 returned to ""peelic @ c2JqQCu6sT""",2022-01-07T01:23:10.023Z,164151859002300
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:23:09.165Z,164151858916500
+"""peelic @ c2JqQCu6sT"" bets 100",2022-01-07T01:23:06.196Z,164151858619600
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:23:03.250Z,164151858325000
+"River: K♥, Q♠, 2♥, 9♠ [K♦]",2022-01-07T01:22:58.078Z,164151857807800
+"""peelic @ c2JqQCu6sT"" calls 20",2022-01-07T01:22:57.241Z,164151857724100
+"""arash @ huBdniBdCU"" bets 20",2022-01-07T01:22:55.432Z,164151857543200
+"Turn: K♥, Q♠, 2♥ [9♠]",2022-01-07T01:22:53.016Z,164151857301600
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:22:52.117Z,164151857211700
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:22:49.993Z,164151856999300
+"""peelic @ c2JqQCu6sT"" calls 20",2022-01-07T01:22:48.710Z,164151856871000
+"""arash @ huBdniBdCU"" bets 20",2022-01-07T01:22:47.767Z,164151856776700
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:22:45.436Z,164151856543600
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:22:44.342Z,164151856434200
+"Flop:  [K♥, Q♠, 2♥]",2022-01-07T01:22:42.090Z,164151856209000
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:22:41.264Z,164151856126400
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2022-01-07T01:22:39.933Z,164151855993300
+"""peelic @ c2JqQCu6sT"" calls 20",2022-01-07T01:22:38.504Z,164151855850400
+"""arash @ huBdniBdCU"" calls 20",2022-01-07T01:22:37.510Z,164151855751000
+"""Spenny @ cu8vqwqurV"" folds",2022-01-07T01:22:36.533Z,164151855653300
+"""Jonah @ 333XEf7vEI"" folds",2022-01-07T01:22:35.642Z,164151855564200
+"""goero @ G4RdqDSm6Z"" posts a big blind of 20",2022-01-07T01:22:31.671Z,164151855167109
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 10",2022-01-07T01:22:31.671Z,164151855167108
+"Your hand is 6♠, A♥",2022-01-07T01:22:31.671Z,164151855167102
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1400) | #2 ""peelic @ c2JqQCu6sT"" (500) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1160) | #6 ""goero @ G4RdqDSm6Z"" (700) | #7 ""Jonah @ 333XEf7vEI"" (800) | #8 ""Spenny @ cu8vqwqurV"" (1440)",2022-01-07T01:22:31.671Z,164151855167101
+"-- starting hand #8  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2022-01-07T01:22:31.671Z,164151855167100
+"""arash @ huBdniBdCU"" shows a 2♠, 6♥.",2022-01-07T01:22:27.324Z,164151854732400
+"Undealt cards: 9♥, J♥, 2♥, 10♥ [7♣]",2022-01-07T01:22:26.245Z,164151854624500
+"""Spenny @ cu8vqwqurV"" shows a 4♥, 9♣.",2022-01-07T01:22:24.956Z,164151854495600
+"""Stevo @ 5Ep7Sc0sJg"" shows a J♦, 7♥.",2022-01-07T01:22:24.360Z,164151854436000
+"-- ending hand #7 --",2022-01-07T01:22:23.664Z,164151854366402
+"""Stevo @ 5Ep7Sc0sJg"" collected 120 from pot",2022-01-07T01:22:23.664Z,164151854366401
+"Uncalled bet of 80 returned to ""Stevo @ 5Ep7Sc0sJg""",2022-01-07T01:22:23.664Z,164151854366400
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:22:22.820Z,164151854282000
+"""Stevo @ 5Ep7Sc0sJg"" bets 80",2022-01-07T01:22:21.720Z,164151854172000
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:22:19.208Z,164151853920800
+"Turn: 9♥, J♥, 2♥ [10♥]",2022-01-07T01:22:16.592Z,164151853659200
+"""peelic @ c2JqQCu6sT"" calls 20",2022-01-07T01:22:15.624Z,164151853562400
+"""Jonah @ 333XEf7vEI"" folds",2022-01-07T01:22:12.286Z,164151853228600
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:22:11.235Z,164151853123500
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2022-01-07T01:22:10.341Z,164151853034100
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:22:08.878Z,164151852887800
+"Flop:  [9♥, J♥, 2♥]",2022-01-07T01:22:07.183Z,164151852718300
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:22:06.276Z,164151852627600
+"""peelic @ c2JqQCu6sT"" calls 20",2022-01-07T01:22:05.304Z,164151852530400
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:22:04.380Z,164151852438000
+"""Spenny @ cu8vqwqurV"" folds",2022-01-07T01:22:03.048Z,164151852304800
+"""Jonah @ 333XEf7vEI"" calls 20",2022-01-07T01:21:53.070Z,164151851307000
+"""goero @ G4RdqDSm6Z"" calls 20",2022-01-07T01:21:51.344Z,164151851134400
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 20",2022-01-07T01:21:47.797Z,164151850779709
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2022-01-07T01:21:47.797Z,164151850779708
+"Your hand is 2♠, 6♥",2022-01-07T01:21:47.797Z,164151850779702
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1400) | #2 ""peelic @ c2JqQCu6sT"" (540) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1080) | #6 ""goero @ G4RdqDSm6Z"" (720) | #7 ""Jonah @ 333XEf7vEI"" (820) | #8 ""Spenny @ cu8vqwqurV"" (1440)",2022-01-07T01:21:47.797Z,164151850779701
+"-- starting hand #7  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:21:47.797Z,164151850779700
+"-- ending hand #6 --",2022-01-07T01:21:41.776Z,164151850177602
+"""arash @ huBdniBdCU"" collected 480 from pot with Flush, Ac High (combination: A♣, 10♣, 9♣, 8♣, 7♣)",2022-01-07T01:21:41.776Z,164151850177601
+"""arash @ huBdniBdCU"" shows a 10♣, Q♥.",2022-01-07T01:21:41.776Z,164151850177600
+"""peelic @ c2JqQCu6sT"" calls 100",2022-01-07T01:21:40.958Z,164151850095800
+"""arash @ huBdniBdCU"" bets 100",2022-01-07T01:21:39.333Z,164151849933300
+"River: 7♣, 10♦, 9♣, 8♣ [A♣]",2022-01-07T01:21:30.535Z,164151849053500
+"""Spenny @ cu8vqwqurV"" folds",2022-01-07T01:21:29.588Z,164151848958800
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:21:18.183Z,164151847818300
+"""peelic @ c2JqQCu6sT"" calls 40",2022-01-07T01:21:17.183Z,164151847718300
+"""arash @ huBdniBdCU"" bets 40",2022-01-07T01:21:16.150Z,164151847615000
+"Turn: 7♣, 10♦, 9♣ [8♣]",2022-01-07T01:21:09.889Z,164151846988900
+"""Spenny @ cu8vqwqurV"" calls 20",2022-01-07T01:21:08.938Z,164151846893800
+"""Jonah @ 333XEf7vEI"" folds",2022-01-07T01:21:07.609Z,164151846760900
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:21:06.543Z,164151846654300
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2022-01-07T01:21:05.586Z,164151846558600
+"""peelic @ c2JqQCu6sT"" calls 20",2022-01-07T01:21:04.652Z,164151846465200
+"""arash @ huBdniBdCU"" bets 20",2022-01-07T01:21:03.522Z,164151846352200
+"Flop:  [7♣, 10♦, 9♣]",2022-01-07T01:21:01.289Z,164151846128900
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:21:00.372Z,164151846037200
+"""arash @ huBdniBdCU"" calls 20",2022-01-07T01:20:59.379Z,164151845937900
+"""Spenny @ cu8vqwqurV"" calls 20",2022-01-07T01:20:58.323Z,164151845832300
+"""Jonah @ 333XEf7vEI"" calls 20",2022-01-07T01:20:56.008Z,164151845600800
+"""goero @ G4RdqDSm6Z"" calls 20",2022-01-07T01:20:54.920Z,164151845492000
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2022-01-07T01:20:54.053Z,164151845405300
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2022-01-07T01:20:52.881Z,164151845288109
+"""arash @ huBdniBdCU"" posts a small blind of 10",2022-01-07T01:20:52.881Z,164151845288108
+"Your hand is 10♣, Q♥",2022-01-07T01:20:52.881Z,164151845288102
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1100) | #2 ""peelic @ c2JqQCu6sT"" (720) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1120) | #6 ""goero @ G4RdqDSm6Z"" (740) | #7 ""Jonah @ 333XEf7vEI"" (840) | #8 ""Spenny @ cu8vqwqurV"" (1480)",2022-01-07T01:20:52.881Z,164151845288101
+"-- starting hand #6  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2022-01-07T01:20:52.881Z,164151845288100
+"-- ending hand #5 --",2022-01-07T01:20:49.883Z,164151844988302
+"""Spenny @ cu8vqwqurV"" collected 200 from pot",2022-01-07T01:20:49.883Z,164151844988301
+"Uncalled bet of 80 returned to ""Spenny @ cu8vqwqurV""",2022-01-07T01:20:49.883Z,164151844988300
+"""Jonah @ 333XEf7vEI"" folds",2022-01-07T01:20:49.025Z,164151844902500
+"""Spenny @ cu8vqwqurV"" bets 80",2022-01-07T01:20:48.081Z,164151844808100
+"River: 6♥, A♥, J♥, K♠ [7♣]",2022-01-07T01:20:40.472Z,164151844047200
+"""Jonah @ 333XEf7vEI"" calls 40",2022-01-07T01:20:39.629Z,164151843962900
+"""Spenny @ cu8vqwqurV"" bets 40",2022-01-07T01:20:38.180Z,164151843818000
+"Turn: 6♥, A♥, J♥ [K♠]",2022-01-07T01:20:33.663Z,164151843366300
+"""Jonah @ 333XEf7vEI"" calls 20",2022-01-07T01:20:32.720Z,164151843272000
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:20:30.170Z,164151843017000
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:20:29.146Z,164151842914600
+"""Spenny @ cu8vqwqurV"" bets 20",2022-01-07T01:20:25.692Z,164151842569200
+"Flop:  [6♥, A♥, J♥]",2022-01-07T01:20:21.799Z,164151842179900
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:20:20.858Z,164151842085800
+"""Spenny @ cu8vqwqurV"" calls 20",2022-01-07T01:20:19.434Z,164151841943400
+"""Jonah @ 333XEf7vEI"" calls 20",2022-01-07T01:20:17.919Z,164151841791900
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:20:16.869Z,164151841686900
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2022-01-07T01:20:14.698Z,164151841469800
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:20:13.693Z,164151841369300
+"""arash @ huBdniBdCU"" posts a big blind of 20",2022-01-07T01:20:11.996Z,164151841199609
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2022-01-07T01:20:11.996Z,164151841199608
+"Your hand is K♣, 10♦",2022-01-07T01:20:11.996Z,164151841199602
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1120) | #2 ""peelic @ c2JqQCu6sT"" (720) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1140) | #6 ""goero @ G4RdqDSm6Z"" (740) | #7 ""Jonah @ 333XEf7vEI"" (920) | #8 ""Spenny @ cu8vqwqurV"" (1360)",2022-01-07T01:20:11.996Z,164151841199601
+"-- starting hand #5  (No Limit Texas Hold'em) (dealer: ""Jonah @ 333XEf7vEI"") --",2022-01-07T01:20:11.996Z,164151841199600
+"Undealt cards: K♦, 8♠, A♥, 5♥ [9♥]",2022-01-07T01:20:08.805Z,164151840880500
+"-- ending hand #4 --",2022-01-07T01:20:05.997Z,164151840599702
+"""Spenny @ cu8vqwqurV"" collected 180 from pot",2022-01-07T01:20:05.997Z,164151840599701
+"Uncalled bet of 40 returned to ""Spenny @ cu8vqwqurV""",2022-01-07T01:20:05.997Z,164151840599700
+"""Jonah @ 333XEf7vEI"" folds",2022-01-07T01:20:05.127Z,164151840512700
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:20:04.032Z,164151840403200
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:20:03.044Z,164151840304400
+"""Spenny @ cu8vqwqurV"" bets 40",2022-01-07T01:20:01.613Z,164151840161300
+"""Jonah @ 333XEf7vEI"" checks",2022-01-07T01:19:58.424Z,164151839842400
+"Turn: K♦, 8♠, A♥ [5♥]",2022-01-07T01:19:55.788Z,164151839578800
+"""Jonah @ 333XEf7vEI"" calls 20",2022-01-07T01:19:54.870Z,164151839487000
+"""goero @ G4RdqDSm6Z"" calls 20",2022-01-07T01:19:53.851Z,164151839385100
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:19:52.868Z,164151839286800
+"""peelic @ c2JqQCu6sT"" calls 20",2022-01-07T01:19:51.800Z,164151839180000
+"""Spenny @ cu8vqwqurV"" bets 20",2022-01-07T01:19:49.843Z,164151838984300
+"""Jonah @ 333XEf7vEI"" checks",2022-01-07T01:19:48.206Z,164151838820600
+"Flop:  [K♦, 8♠, A♥]",2022-01-07T01:19:42.368Z,164151838236800
+"""Spenny @ cu8vqwqurV"" checks",2022-01-07T01:19:41.420Z,164151838142000
+"""Jonah @ 333XEf7vEI"" calls 20",2022-01-07T01:19:40.496Z,164151838049600
+"""goero @ G4RdqDSm6Z"" calls 20",2022-01-07T01:19:39.458Z,164151837945800
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2022-01-07T01:19:38.583Z,164151837858300
+"""peelic @ c2JqQCu6sT"" calls 20",2022-01-07T01:19:37.676Z,164151837767600
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:19:35.970Z,164151837597000
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2022-01-07T01:19:34.420Z,164151837442009
+"""Jonah @ 333XEf7vEI"" posts a small blind of 10",2022-01-07T01:19:34.420Z,164151837442008
+"Your hand is 9♣, 7♥",2022-01-07T01:19:34.420Z,164151837442002
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1120) | #2 ""peelic @ c2JqQCu6sT"" (760) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1160) | #6 ""goero @ G4RdqDSm6Z"" (780) | #7 ""Jonah @ 333XEf7vEI"" (960) | #8 ""Spenny @ cu8vqwqurV"" (1220)",2022-01-07T01:19:34.420Z,164151837442001
+"-- starting hand #4  (No Limit Texas Hold'em) (dealer: ""goero @ G4RdqDSm6Z"") --",2022-01-07T01:19:34.420Z,164151837442000
+"""Spenny @ cu8vqwqurV"" shows a 10♦, 8♦.",2022-01-07T01:19:31.649Z,164151837164900
+"-- ending hand #3 --",2022-01-07T01:19:27.887Z,164151836788702
+"""Stevo @ 5Ep7Sc0sJg"" collected 480 from pot with Flush, Ac High (combination: A♣, Q♣, J♣, 9♣, 3♣)",2022-01-07T01:19:27.887Z,164151836788701
+"""Stevo @ 5Ep7Sc0sJg"" shows a A♣, Q♣.",2022-01-07T01:19:27.887Z,164151836788700
+"""peelic @ c2JqQCu6sT"" calls 80",2022-01-07T01:19:27.049Z,164151836704900
+"""Spenny @ cu8vqwqurV"" folds",2022-01-07T01:19:25.072Z,164151836507200
+"""Stevo @ 5Ep7Sc0sJg"" raises to 80",2022-01-07T01:19:24.134Z,164151836413400
+"""peelic @ c2JqQCu6sT"" bets 20",2022-01-07T01:19:21.235Z,164151836123500
+"""Spenny @ cu8vqwqurV"" checks",2022-01-07T01:19:19.188Z,164151835918800
+"River: 3♠, 3♣, K♦, 9♣ [J♣]",2022-01-07T01:19:16.409Z,164151835640900
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:19:15.535Z,164151835553500
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:19:14.195Z,164151835419500
+"""Spenny @ cu8vqwqurV"" checks",2022-01-07T01:19:11.870Z,164151835187000
+"Turn: 3♠, 3♣, K♦ [9♣]",2022-01-07T01:19:07.403Z,164151834740300
+"""Spenny @ cu8vqwqurV"" calls 40",2022-01-07T01:19:06.545Z,164151834654500
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:19:04.309Z,164151834430900
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2022-01-07T01:19:03.399Z,164151834339900
+"""peelic @ c2JqQCu6sT"" bets 40",2022-01-07T01:18:59.490Z,164151833949000
+"""Spenny @ cu8vqwqurV"" checks",2022-01-07T01:18:56.665Z,164151833666500
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:18:54.026Z,164151833402600
+"Flop:  [3♠, 3♣, K♦]",2022-01-07T01:18:51.595Z,164151833159500
+"""peelic @ c2JqQCu6sT"" calls 40",2022-01-07T01:18:50.681Z,164151833068100
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:18:49.752Z,164151832975200
+"""Spenny @ cu8vqwqurV"" calls 40",2022-01-07T01:18:47.027Z,164151832702700
+"""Jonah @ 333XEf7vEI"" folds",2022-01-07T01:18:40.315Z,164151832031500
+"""goero @ G4RdqDSm6Z"" calls 40",2022-01-07T01:18:39.306Z,164151831930600
+"""Stevo @ 5Ep7Sc0sJg"" raises to 40",2022-01-07T01:18:36.330Z,164151831633000
+"""peelic @ c2JqQCu6sT"" calls 20",2022-01-07T01:18:33.827Z,164151831382700
+"""arash @ huBdniBdCU"" calls 20",2022-01-07T01:18:32.900Z,164151831290000
+"""Spenny @ cu8vqwqurV"" calls 20",2022-01-07T01:18:30.650Z,164151831065000
+"""Jonah @ 333XEf7vEI"" posts a big blind of 20",2022-01-07T01:18:21.130Z,164151830113009
+"""goero @ G4RdqDSm6Z"" posts a small blind of 10",2022-01-07T01:18:21.130Z,164151830113008
+"Your hand is 2♥, 7♥",2022-01-07T01:18:21.130Z,164151830113002
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1140) | #2 ""peelic @ c2JqQCu6sT"" (920) | #4 ""Stevo @ 5Ep7Sc0sJg"" (840) | #6 ""goero @ G4RdqDSm6Z"" (820) | #7 ""Jonah @ 333XEf7vEI"" (980) | #8 ""Spenny @ cu8vqwqurV"" (1300)",2022-01-07T01:18:21.130Z,164151830113001
+"-- starting hand #3  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2022-01-07T01:18:21.130Z,164151830113000
+"""Stevo @ 5Ep7Sc0sJg"" shows a 3♠, 10♦.",2022-01-07T01:18:18.980Z,164151829898000
+"-- ending hand #2 --",2022-01-07T01:18:17.381Z,164151829738102
+"""arash @ huBdniBdCU"" collected 300 from pot",2022-01-07T01:18:17.381Z,164151829738101
+"Uncalled bet of 60 returned to ""arash @ huBdniBdCU""",2022-01-07T01:18:17.381Z,164151829738100
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:18:16.548Z,164151829654800
+"""arash @ huBdniBdCU"" raises to 120",2022-01-07T01:18:15.486Z,164151829548600
+"""Stevo @ 5Ep7Sc0sJg"" bets 60",2022-01-07T01:18:12.155Z,164151829215500
+"River: 3♥, A♠, Q♣, 4♦ [7♣]",2022-01-07T01:18:08.527Z,164151828852700
+"""arash @ huBdniBdCU"" checks",2022-01-07T01:18:07.587Z,164151828758700
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:18:05.813Z,164151828581300
+"Turn: 3♥, A♠, Q♣ [4♦]",2022-01-07T01:18:04.534Z,164151828453400
+"""Stevo @ 5Ep7Sc0sJg"" calls 60",2022-01-07T01:18:03.663Z,164151828366300
+"""arash @ huBdniBdCU"" raises to 60",2022-01-07T01:18:01.971Z,164151828197100
+"""goero @ G4RdqDSm6Z"" folds",2022-01-07T01:17:56.652Z,164151827665200
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2022-01-07T01:17:54.481Z,164151827448100
+"Flop:  [3♥, A♠, Q♣]",2022-01-07T01:17:53.080Z,164151827308000
+"""goero @ G4RdqDSm6Z"" checks",2022-01-07T01:17:52.112Z,164151827211200
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2022-01-07T01:17:50.627Z,164151827062700
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:17:49.370Z,164151826937000
+"""arash @ huBdniBdCU"" calls 20",2022-01-07T01:17:48.371Z,164151826837100
+"""Spenny @ cu8vqwqurV"" folds",2022-01-07T01:17:47.299Z,164151826729900
+"""Jonah @ 333XEf7vEI"" folds",2022-01-07T01:17:44.031Z,164151826403100
+"""goero @ G4RdqDSm6Z"" posts a big blind of 20",2022-01-07T01:17:41.697Z,164151826169709
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 10",2022-01-07T01:17:41.697Z,164151826169708
+"Your hand is A♦, 4♠",2022-01-07T01:17:41.697Z,164151826169702
+"Player stacks: #1 ""arash @ huBdniBdCU"" (980) | #2 ""peelic @ c2JqQCu6sT"" (920) | #4 ""Stevo @ 5Ep7Sc0sJg"" (980) | #6 ""goero @ G4RdqDSm6Z"" (840) | #7 ""Jonah @ 333XEf7vEI"" (980) | #8 ""Spenny @ cu8vqwqurV"" (1300)",2022-01-07T01:17:41.697Z,164151826169701
+"-- starting hand #2  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2022-01-07T01:17:41.697Z,164151826169700
+"-- ending hand #1 --",2022-01-07T01:17:35.671Z,164151825567103
+"""goero @ G4RdqDSm6Z"" shows a K♦, Q♦.",2022-01-07T01:17:35.671Z,164151825567102
+"""Spenny @ cu8vqwqurV"" collected 460 from pot with Two Pair, Q's & 2's (combination: Q♠, Q♣, 2♠, 2♦, 8♥)",2022-01-07T01:17:35.671Z,164151825567101
+"""Spenny @ cu8vqwqurV"" shows a 2♠, Q♠.",2022-01-07T01:17:35.671Z,164151825567100
+"""peelic @ c2JqQCu6sT"" folds",2022-01-07T01:17:34.757Z,164151825475700
+"""Spenny @ cu8vqwqurV"" calls 80",2022-01-07T01:17:33.693Z,164151825369300
+"""goero @ G4RdqDSm6Z"" bets 80",2022-01-07T01:17:25.560Z,164151824556000
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:17:21.252Z,164151824125200
+"River: 8♥, Q♣, 4♥, 2♦ [6♥]",2022-01-07T01:17:19.192Z,164151823919200
+"""peelic @ c2JqQCu6sT"" calls 40",2022-01-07T01:17:18.291Z,164151823829100
+"""Spenny @ cu8vqwqurV"" calls 40",2022-01-07T01:17:17.333Z,164151823733300
+"""goero @ G4RdqDSm6Z"" bets 40",2022-01-07T01:17:16.042Z,164151823604200
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:17:12.575Z,164151823257500
+"Turn: 8♥, Q♣, 4♥ [2♦]",2022-01-07T01:17:10.189Z,164151823018900
+"""Stevo @ 5Ep7Sc0sJg"" folds",2022-01-07T01:17:09.283Z,164151822928300
+"""peelic @ c2JqQCu6sT"" calls 20",2022-01-07T01:17:08.361Z,164151822836100
+"""arash @ huBdniBdCU"" folds",2022-01-07T01:17:07.395Z,164151822739500
+"""Spenny @ cu8vqwqurV"" calls 20",2022-01-07T01:17:05.444Z,164151822544400
+"""Jonah @ 333XEf7vEI"" folds",2022-01-07T01:17:04.485Z,164151822448500
+"""goero @ G4RdqDSm6Z"" bets 20",2022-01-07T01:17:03.558Z,164151822355800
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:17:02.357Z,164151822235700
+"""peelic @ c2JqQCu6sT"" checks",2022-01-07T01:17:01.218Z,164151822121800
+"Flop:  [8♥, Q♣, 4♥]",2022-01-07T01:16:56.276Z,164151821627600
+"""Stevo @ 5Ep7Sc0sJg"" checks",2022-01-07T01:16:55.440Z,164151821544000
+"""peelic @ c2JqQCu6sT"" calls 20",2022-01-07T01:16:52.463Z,164151821246300
+"""arash @ huBdniBdCU"" calls 20",2022-01-07T01:16:51.453Z,164151821145300
+"""Spenny @ cu8vqwqurV"" calls 20",2022-01-07T01:16:46.766Z,164151820676600
+"""Jonah @ 333XEf7vEI"" calls 20",2022-01-07T01:16:45.126Z,164151820512600
+"""goero @ G4RdqDSm6Z"" calls 20",2022-01-07T01:16:41.986Z,164151820198600
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 20",2022-01-07T01:16:39.226Z,164151819922615
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2022-01-07T01:16:39.226Z,164151819922614
+"Your hand is 4♠, 9♠",2022-01-07T01:16:39.226Z,164151819922608
+"Player stacks: #1 ""arash @ huBdniBdCU"" (1000) | #2 ""peelic @ c2JqQCu6sT"" (1000) | #4 ""Stevo @ 5Ep7Sc0sJg"" (1000) | #6 ""goero @ G4RdqDSm6Z"" (1000) | #7 ""Jonah @ 333XEf7vEI"" (1000) | #8 ""Spenny @ cu8vqwqurV"" (1000)",2022-01-07T01:16:39.226Z,164151819922607
+"The player ""Spenny @ cu8vqwqurV"" joined the game with a stack of 1000.",2022-01-07T01:16:39.226Z,164151819922606
+"The player ""Jonah @ 333XEf7vEI"" joined the game with a stack of 1000.",2022-01-07T01:16:39.226Z,164151819922605
+"The player ""goero @ G4RdqDSm6Z"" joined the game with a stack of 1000.",2022-01-07T01:16:39.226Z,164151819922604
+"The player ""Stevo @ 5Ep7Sc0sJg"" joined the game with a stack of 1000.",2022-01-07T01:16:39.226Z,164151819922603
+"The player ""peelic @ c2JqQCu6sT"" joined the game with a stack of 1000.",2022-01-07T01:16:39.226Z,164151819922602
+"The player ""arash @ huBdniBdCU"" joined the game with a stack of 1000.",2022-01-07T01:16:39.226Z,164151819922601
+"-- starting hand #1  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:16:39.226Z,164151819922600
+"The game's ante was changed from 0 to 0.",2022-01-07T01:15:01.751Z,164151810175100
+"The admin updated the player ""Stevo @ 5Ep7Sc0sJg"" stack from 500 to 1000.",2022-01-07T01:12:09.933Z,164151792993301
+"WARNING: the admin queued the stack change for the player ""Stevo @ 5Ep7Sc0sJg"" adding 500 chips in the next hand.",2022-01-07T01:12:09.933Z,164151792993300
+"The admin updated the player ""Spenny @ cu8vqwqurV"" stack from 500 to 1000.",2022-01-07T01:12:05.851Z,164151792585101
+"WARNING: the admin queued the stack change for the player ""Spenny @ cu8vqwqurV"" adding 500 chips in the next hand.",2022-01-07T01:12:05.851Z,164151792585100
+"The admin updated the player ""peelic @ c2JqQCu6sT"" stack from 500 to 1000.",2022-01-07T01:12:01.852Z,164151792185201
+"WARNING: the admin queued the stack change for the player ""peelic @ c2JqQCu6sT"" adding 500 chips in the next hand.",2022-01-07T01:12:01.852Z,164151792185200
+"The admin updated the player ""arash @ huBdniBdCU"" stack from 500 to 1000.",2022-01-07T01:11:57.967Z,164151791796701
+"WARNING: the admin queued the stack change for the player ""arash @ huBdniBdCU"" adding 500 chips in the next hand.",2022-01-07T01:11:57.967Z,164151791796700
+"The admin updated the player ""goero @ G4RdqDSm6Z"" stack from 500 to 1000.",2022-01-07T01:11:54.204Z,164151791420401
+"WARNING: the admin queued the stack change for the player ""goero @ G4RdqDSm6Z"" adding 500 chips in the next hand.",2022-01-07T01:11:54.204Z,164151791420400
+"The admin updated the player ""goero @ G4RdqDSm6Z"" stack from 2500 to 500.",2022-01-07T01:11:45.771Z,164151790577101
+"WARNING: the admin queued the stack change for the player ""goero @ G4RdqDSm6Z"" reseting to 500 chips in the next hand.",2022-01-07T01:11:45.771Z,164151790577100
+"The admin updated the player ""goero @ G4RdqDSm6Z"" stack from 2000 to 2500.",2022-01-07T01:11:40.985Z,164151790098501
+"WARNING: the admin queued the stack change for the player ""goero @ G4RdqDSm6Z"" adding 500 chips in the next hand.",2022-01-07T01:11:40.985Z,164151790098500
+"The admin updated the player ""goero @ G4RdqDSm6Z"" stack from 1500 to 2000.",2022-01-07T01:11:36.286Z,164151789628601
+"WARNING: the admin queued the stack change for the player ""goero @ G4RdqDSm6Z"" adding 500 chips in the next hand.",2022-01-07T01:11:36.286Z,164151789628600
+"The admin updated the player ""goero @ G4RdqDSm6Z"" stack from 1000 to 1500.",2022-01-07T01:11:30.586Z,164151789058601
+"WARNING: the admin queued the stack change for the player ""goero @ G4RdqDSm6Z"" adding 500 chips in the next hand.",2022-01-07T01:11:30.586Z,164151789058600
+"The admin updated the player ""arash @ huBdniBdCU"" stack from 1000 to 500.",2022-01-07T01:11:25.921Z,164151788592101
+"WARNING: the admin queued the stack change for the player ""arash @ huBdniBdCU"" reseting to 500 chips in the next hand.",2022-01-07T01:11:25.921Z,164151788592100
+"The admin updated the player ""peelic @ c2JqQCu6sT"" stack from 1000 to 500.",2022-01-07T01:11:19.711Z,164151787971101
+"WARNING: the admin queued the stack change for the player ""peelic @ c2JqQCu6sT"" reseting to 500 chips in the next hand.",2022-01-07T01:11:19.711Z,164151787971100
+"The admin updated the player ""Spenny @ cu8vqwqurV"" stack from 1000 to 500.",2022-01-07T01:11:14.585Z,164151787458501
+"WARNING: the admin queued the stack change for the player ""Spenny @ cu8vqwqurV"" reseting to 500 chips in the next hand.",2022-01-07T01:11:14.585Z,164151787458500
+"The admin updated the player ""Stevo @ 5Ep7Sc0sJg"" stack from 1000 to 500.",2022-01-07T01:11:05.469Z,164151786546901
+"WARNING: the admin queued the stack change for the player ""Stevo @ 5Ep7Sc0sJg"" reseting to 500 chips in the next hand.",2022-01-07T01:11:05.469Z,164151786546900
+"The player ""Spenny @ cu8vqwqurV"" sit back with the stack of 1000.",2022-01-07T01:10:14.600Z,164151781460000
+"The admin approved the player ""Jonah @ 333XEf7vEI"" participation with a stack of 1000.",2022-01-07T01:09:10.671Z,164151775067100
+"The player ""Jonah @ 333XEf7vEI"" requested a seat.",2022-01-07T01:09:07.103Z,164151774710300
+"The player ""Spenny @ cu8vqwqurV"" stand up with the stack of 1000.",2022-01-07T01:08:24.129Z,164151770412900
+"The admin approved the player ""goero @ G4RdqDSm6Z"" participation with a stack of 1000.",2022-01-07T01:07:40.101Z,164151766010100
+"The player ""goero @ G4RdqDSm6Z"" requested a seat.",2022-01-07T01:07:35.473Z,164151765547300
+"The admin approved the player ""peelic @ c2JqQCu6sT"" participation with a stack of 1000.",2022-01-07T01:05:23.882Z,164151752388200
+"The player ""peelic @ c2JqQCu6sT"" requested a seat.",2022-01-07T01:05:20.148Z,164151752014800
+"The admin approved the player ""arash @ huBdniBdCU"" participation with a stack of 1000.",2022-01-07T01:04:53.361Z,164151749336100
+"The player ""arash @ huBdniBdCU"" requested a seat.",2022-01-07T01:04:25.632Z,164151746563200
+"The admin approved the player ""Spenny @ cu8vqwqurV"" participation with a stack of 1000.",2022-01-07T01:00:04.061Z,164151720406100
+"The player ""Spenny @ cu8vqwqurV"" requested a seat.",2022-01-07T00:59:53.140Z,164151719314000
+"The admin approved the player ""Stevo @ 5Ep7Sc0sJg"" participation with a stack of 1000.",2022-01-07T00:50:07.240Z,164151660724001
+"The player ""Stevo @ 5Ep7Sc0sJg"" requested a seat.",2022-01-07T00:50:07.240Z,164151660724000
