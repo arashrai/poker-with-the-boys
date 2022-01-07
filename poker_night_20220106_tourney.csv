@@ -3,6 +3,7 @@ entry,at,order
 "The game's small blind was changed from 320 to 10.",2022-01-07T01:49:50.616Z,164152019061600
 "The admin approved the player ""arash @ huBdniBdCU"" participation with a stack of 1000.",2022-01-07T01:49:35.465Z,164152017546500
 "The player ""arash @ huBdniBdCU"" requested a seat.",2022-01-07T01:49:30.870Z,164152017087000
+"Player stacks: #6 ""goero @ G4RdqDSm6Z"" (6000)",2022-01-07T01:49:30.870Z,164152017087000
 "The player ""arash @ huBdniBdCU"" quits the game with a stack of 0.",2022-01-07T01:49:15.275Z,164152015527500
 "-- ending hand #57 --",2022-01-07T01:49:09.215Z,164152014921501
 """goero @ G4RdqDSm6Z"" collected 3240 from pot with A High (combination: A♣, J♥, 9♣, 8♣, 6♣)",2022-01-07T01:49:09.215Z,164152014921500
@@ -1280,31 +1281,6 @@ entry,at,order
 "-- starting hand #1  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-01-07T01:16:39.226Z,164151819922600
 "The game's ante was changed from 0 to 0.",2022-01-07T01:15:01.751Z,164151810175100
 "The admin updated the player ""Stevo @ 5Ep7Sc0sJg"" stack from 500 to 1000.",2022-01-07T01:12:09.933Z,164151792993301
-"WARNING: the admin queued the stack change for the player ""Stevo @ 5Ep7Sc0sJg"" adding 500 chips in the next hand.",2022-01-07T01:12:09.933Z,164151792993300
-"The admin updated the player ""Spenny @ cu8vqwqurV"" stack from 500 to 1000.",2022-01-07T01:12:05.851Z,164151792585101
-"WARNING: the admin queued the stack change for the player ""Spenny @ cu8vqwqurV"" adding 500 chips in the next hand.",2022-01-07T01:12:05.851Z,164151792585100
-"The admin updated the player ""peelic @ c2JqQCu6sT"" stack from 500 to 1000.",2022-01-07T01:12:01.852Z,164151792185201
-"WARNING: the admin queued the stack change for the player ""peelic @ c2JqQCu6sT"" adding 500 chips in the next hand.",2022-01-07T01:12:01.852Z,164151792185200
-"The admin updated the player ""arash @ huBdniBdCU"" stack from 500 to 1000.",2022-01-07T01:11:57.967Z,164151791796701
-"WARNING: the admin queued the stack change for the player ""arash @ huBdniBdCU"" adding 500 chips in the next hand.",2022-01-07T01:11:57.967Z,164151791796700
-"The admin updated the player ""goero @ G4RdqDSm6Z"" stack from 500 to 1000.",2022-01-07T01:11:54.204Z,164151791420401
-"WARNING: the admin queued the stack change for the player ""goero @ G4RdqDSm6Z"" adding 500 chips in the next hand.",2022-01-07T01:11:54.204Z,164151791420400
-"The admin updated the player ""goero @ G4RdqDSm6Z"" stack from 2500 to 500.",2022-01-07T01:11:45.771Z,164151790577101
-"WARNING: the admin queued the stack change for the player ""goero @ G4RdqDSm6Z"" reseting to 500 chips in the next hand.",2022-01-07T01:11:45.771Z,164151790577100
-"The admin updated the player ""goero @ G4RdqDSm6Z"" stack from 2000 to 2500.",2022-01-07T01:11:40.985Z,164151790098501
-"WARNING: the admin queued the stack change for the player ""goero @ G4RdqDSm6Z"" adding 500 chips in the next hand.",2022-01-07T01:11:40.985Z,164151790098500
-"The admin updated the player ""goero @ G4RdqDSm6Z"" stack from 1500 to 2000.",2022-01-07T01:11:36.286Z,164151789628601
-"WARNING: the admin queued the stack change for the player ""goero @ G4RdqDSm6Z"" adding 500 chips in the next hand.",2022-01-07T01:11:36.286Z,164151789628600
-"The admin updated the player ""goero @ G4RdqDSm6Z"" stack from 1000 to 1500.",2022-01-07T01:11:30.586Z,164151789058601
-"WARNING: the admin queued the stack change for the player ""goero @ G4RdqDSm6Z"" adding 500 chips in the next hand.",2022-01-07T01:11:30.586Z,164151789058600
-"The admin updated the player ""arash @ huBdniBdCU"" stack from 1000 to 500.",2022-01-07T01:11:25.921Z,164151788592101
-"WARNING: the admin queued the stack change for the player ""arash @ huBdniBdCU"" reseting to 500 chips in the next hand.",2022-01-07T01:11:25.921Z,164151788592100
-"The admin updated the player ""peelic @ c2JqQCu6sT"" stack from 1000 to 500.",2022-01-07T01:11:19.711Z,164151787971101
-"WARNING: the admin queued the stack change for the player ""peelic @ c2JqQCu6sT"" reseting to 500 chips in the next hand.",2022-01-07T01:11:19.711Z,164151787971100
-"The admin updated the player ""Spenny @ cu8vqwqurV"" stack from 1000 to 500.",2022-01-07T01:11:14.585Z,164151787458501
-"WARNING: the admin queued the stack change for the player ""Spenny @ cu8vqwqurV"" reseting to 500 chips in the next hand.",2022-01-07T01:11:14.585Z,164151787458500
-"The admin updated the player ""Stevo @ 5Ep7Sc0sJg"" stack from 1000 to 500.",2022-01-07T01:11:05.469Z,164151786546901
-"WARNING: the admin queued the stack change for the player ""Stevo @ 5Ep7Sc0sJg"" reseting to 500 chips in the next hand.",2022-01-07T01:11:05.469Z,164151786546900
 "The player ""Spenny @ cu8vqwqurV"" sit back with the stack of 1000.",2022-01-07T01:10:14.600Z,164151781460000
 "The admin approved the player ""Jonah @ 333XEf7vEI"" participation with a stack of 1000.",2022-01-07T01:09:10.671Z,164151775067100
 "The player ""Jonah @ 333XEf7vEI"" requested a seat.",2022-01-07T01:09:07.103Z,164151774710300

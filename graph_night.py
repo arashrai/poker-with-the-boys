@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from datetime import datetime
 
-CSV_FILE = "poker_night_20211216.csv"
+CSV_FILE = "poker_night_20220106_tourney.csv"
 logs = []
 
 with open(CSV_FILE) as file:
@@ -41,6 +41,7 @@ def extract_data_from_approval_row(row):
 
 
 def extract_data_from_admin_stack_change_row(row):
+    print(row)
     r = row[0]
     player_name = r[r.index('"') + 1 : r.index("@") - 1]
     amount = int(r[r.index("adding ") + 7 : r.index("chips") - 1])
@@ -108,6 +109,7 @@ def graph_stack_history(logs):
     df_dict["Time"] = hand_times
     for player, history in player_history.items():
         df_dict[player] = history
+        print(player, history)
 
     df = pd.DataFrame(df_dict)
 
