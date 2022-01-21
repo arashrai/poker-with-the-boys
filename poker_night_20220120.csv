@@ -196,7 +196,6 @@ entry,at,order
 "Your hand is A♠, 3♣",2022-01-21T02:53:38.696Z,164273361869609
 "Player stacks: #1 ""Stevo @ 5Ep7Sc0sJg"" (2116) | #2 ""Jonah @ KdrqU8EIQ1"" (2118) | #3 ""peelic @ c2JqQCu6sT"" (888) | #5 ""gerooeoego @ G4RdqDSm6Z"" (1110) | #7 ""Biz @ 7z7IEIa9bc"" (1000) | #8 ""Spenny @ nR6Yv41Maz"" (240) | #9 ""arash @ huBdniBdCU"" (2528)",2022-01-21T02:53:38.696Z,164273361869602
 "-- starting hand #67  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2022-01-21T02:53:38.696Z,164273361869601
-"The admin updated the player ""Biz @ 7z7IEIa9bc"" stack from 269 to 1000.",2022-01-21T02:53:38.696Z,164273361869600
 """Biz @ 7z7IEIa9bc"" shows a 4♥, 2♣.",2022-01-21T02:53:33.370Z,164273361337000
 """Spenny @ nR6Yv41Maz"" shows a 3♣, J♣.",2022-01-21T02:53:33.138Z,164273361313800
 "-- ending hand #66 --",2022-01-21T02:53:31.688Z,164273361168802
@@ -215,7 +214,6 @@ entry,at,order
 """gerooeoego @ G4RdqDSm6Z"" folds",2022-01-21T02:52:22.144Z,164273354214400
 """peelic @ c2JqQCu6sT"" calls 20",2022-01-21T02:52:21.290Z,164273354129000
 """Jonah @ KdrqU8EIQ1"" folds",2022-01-21T02:52:19.001Z,164273353900100
-"WARNING: the admin queued the stack change for the player ""Biz @ 7z7IEIa9bc"" reseting to 1000 chips in the next hand.",2022-01-21T02:52:18.603Z,164273353860300
 """arash @ huBdniBdCU"" calls 20",2022-01-21T02:52:14.336Z,164273353433600
 """Spenny @ nR6Yv41Maz"" bets 20",2022-01-21T02:52:12.953Z,164273353295300
 """gerooeoego @ G4RdqDSm6Z"" checks",2022-01-21T02:51:59.806Z,164273351980600
@@ -231,9 +229,9 @@ entry,at,order
 """gerooeoego @ G4RdqDSm6Z"" posts a big blind of 20",2022-01-21T02:51:32.427Z,164273349242711
 """peelic @ c2JqQCu6sT"" posts a small blind of 10",2022-01-21T02:51:32.427Z,164273349242710
 "Your hand is A♦, A♥",2022-01-21T02:51:32.427Z,164273349242709
-"Player stacks: #1 ""Stevo @ 5Ep7Sc0sJg"" (2116) | #2 ""Jonah @ KdrqU8EIQ1"" (2138) | #3 ""peelic @ c2JqQCu6sT"" (928) | #5 ""gerooeoego @ G4RdqDSm6Z"" (1130) | #7 ""Biz @ 7z7IEIa9bc"" (269) | #8 ""Spenny @ nR6Yv41Maz"" (464) | #9 ""arash @ huBdniBdCU"" (2224)",2022-01-21T02:51:32.427Z,164273349242702
+"Player stacks: #1 ""Stevo @ 5Ep7Sc0sJg"" (2116) | #2 ""Jonah @ KdrqU8EIQ1"" (2138) | #3 ""peelic @ c2JqQCu6sT"" (928) | #5 ""gerooeoego @ G4RdqDSm6Z"" (1130) | #7 ""Biz @ 7z7IEIa9bc"" (1000) | #8 ""Spenny @ nR6Yv41Maz"" (464) | #9 ""arash @ huBdniBdCU"" (2224)",2022-01-21T02:51:32.427Z,164273349242702
 "-- starting hand #66  (No Limit Texas Hold'em) (dealer: ""Jonah @ KdrqU8EIQ1"") --",2022-01-21T02:51:32.427Z,164273349242701
-"The player ""Biz @ 7z7IEIa9bc"" joined the game with a stack of 269.",2022-01-21T02:51:32.427Z,164273349242700
+"The player ""Biz @ 7z7IEIa9bc"" joined the game with a stack of 1000.",2022-01-21T02:51:32.427Z,164273349242700
 "-- ending hand #65 --",2022-01-21T02:51:26.418Z,164273348641803
 """peelic @ c2JqQCu6sT"" shows a 9♠, J♠.",2022-01-21T02:51:26.418Z,164273348641802
 """Spenny @ nR6Yv41Maz"" collected 364 from pot with Pair, J's (combination: J♦, J♣, A♦, K♥, 10♠)",2022-01-21T02:51:26.418Z,164273348641801

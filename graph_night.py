@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from datetime import datetime
 
-CSV_FILE = "poker_night_20220113.csv"
+CSV_FILE = "poker_night_20220120.csv"
 logs = []
 
 with open(CSV_FILE) as file:
@@ -109,7 +109,6 @@ def graph_stack_history(logs):
     df_dict["Time"] = hand_times
     for player, history in player_history.items():
         df_dict[player] = history
-        print(player, history)
 
     df = pd.DataFrame(df_dict)
 
