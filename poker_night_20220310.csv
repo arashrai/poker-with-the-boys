@@ -1,34 +1,3 @@
-entry,at,order
-"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2022-03-11T02:02:12.654Z,164696413265408
-"""arash @ huBdniBdCU"" posts a small blind of 10",2022-03-11T02:02:12.654Z,164696413265407
-"Your hand is 10♣, J♥",2022-03-11T02:02:12.654Z,164696413265406
-"Player stacks: #2 ""peelic @ c2JqQCu6sT"" (880) | #5 ""Jonah @ KdrqU8EIQ1"" (2760) | #6 ""Stevo @ 5Ep7Sc0sJg"" (160) | #9 ""arash @ huBdniBdCU"" (3200)",2022-03-11T02:02:12.654Z,164696413265402
-"-- starting hand #65  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2022-03-11T02:02:12.654Z,164696413265401
-"The player ""grgeeg @ G4RdqDSm6Z"" quits the game with a stack of 0.",2022-03-11T02:02:12.654Z,164696413265400
-"-- ending hand #64 --",2022-03-11T02:02:06.548Z,164696412654804
-"""peelic @ c2JqQCu6sT"" collected 880 from pot with Q High (combination: Q♣, 10♦, 9♦, 7♠, 4♣)",2022-03-11T02:02:06.548Z,164696412654803
-"""Jonah @ KdrqU8EIQ1"" collected 2760 from pot with K High (combination: K♣, Q♣, 9♦, 7♠, 5♠)",2022-03-11T02:02:06.548Z,164696412654802
-"""arash @ huBdniBdCU"" collected 1200 from pot with Pair, A's (combination: A♦, A♣, Q♣, 9♦, 7♠)",2022-03-11T02:02:06.548Z,164696412654801
-"""arash @ huBdniBdCU"" collected 2000 from pot with Pair, A's (combination: A♦, A♣, Q♣, 9♦, 7♠)",2022-03-11T02:02:06.548Z,164696412654800
-"River: 9♦, 7♠, Q♣, 4♣ [2♠]",2022-03-11T02:02:02.468Z,164696412246800
-"Turn: 9♦, 7♠, Q♣ [4♣]",2022-03-11T02:01:58.341Z,164696411834100
-"Flop:  [9♦, 7♠, Q♣]",2022-03-11T02:01:54.249Z,164696411424900
-"""arash @ huBdniBdCU"" shows a A♦, A♣.",2022-03-11T02:01:50.137Z,164696411013704
-"""Stevo @ 5Ep7Sc0sJg"" shows a 3♠, 5♥.",2022-03-11T02:01:50.137Z,164696411013703
-"""Jonah @ KdrqU8EIQ1"" shows a 5♠, K♣.",2022-03-11T02:01:50.137Z,164696411013702
-"""peelic @ c2JqQCu6sT"" shows a 10♦, 3♦.",2022-03-11T02:01:50.137Z,164696411013701
-"""grgeeg @ G4RdqDSm6Z"" shows a 10♥, J♠.",2022-03-11T02:01:50.137Z,164696411013700
-"""Stevo @ 5Ep7Sc0sJg"" calls 2060",2022-03-11T02:01:49.311Z,164696410931100
-"""peelic @ c2JqQCu6sT"" raises to 2060 and go all in",2022-03-11T02:01:48.302Z,164696410830200
-"""grgeeg @ G4RdqDSm6Z"" calls 400 and go all in",2022-03-11T02:01:46.023Z,164696410602300
-"""arash @ huBdniBdCU"" calls 700 and go all in",2022-03-11T02:01:45.063Z,164696410506300
-"""Stevo @ 5Ep7Sc0sJg"" calls 1620",2022-03-11T02:01:44.108Z,164696410410800
-"""Jonah @ KdrqU8EIQ1"" raises to 1620 and go all in",2022-03-11T02:01:42.804Z,164696410280400
-"""peelic @ c2JqQCu6sT"" calls 20",2022-03-11T02:01:40.013Z,164696410001300
-"""grgeeg @ G4RdqDSm6Z"" calls 20",2022-03-11T02:01:39.088Z,164696409908800
-"""arash @ huBdniBdCU"" posts a big blind of 20",2022-03-11T02:01:28.645Z,164696408864508
-"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 10",2022-03-11T02:01:28.645Z,164696408864507
-"Your hand is A♦, A♣",2022-03-11T02:01:28.645Z,164696408864506
 "Player stacks: #1 ""grgeeg @ G4RdqDSm6Z"" (400) | #2 ""peelic @ c2JqQCu6sT"" (2060) | #5 ""Jonah @ KdrqU8EIQ1"" (1620) | #6 ""Stevo @ 5Ep7Sc0sJg"" (2220) | #9 ""arash @ huBdniBdCU"" (700)",2022-03-11T02:01:28.645Z,164696408864501
 "-- starting hand #64  (No Limit Texas Hold'em) (dealer: ""Jonah @ KdrqU8EIQ1"") --",2022-03-11T02:01:28.645Z,164696408864500
 "-- ending hand #63 --",2022-03-11T02:01:22.527Z,164696408252702
