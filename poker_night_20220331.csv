@@ -1842,9 +1842,9 @@ entry,at,order
 """arash @ huBdniBdCU"" posts a big blind of 20",2022-04-01T01:06:42.169Z,164877520216908
 """peelic @ c2JqQCu6sT"" posts a small blind of 10",2022-04-01T01:06:42.169Z,164877520216907
 "Your hand is 6♠, 8♣",2022-04-01T01:06:42.169Z,164877520216906
-"Player stacks: #1 ""Jonah @ KdrqU8EIQ1"" (1560) | #2 ""peelic @ c2JqQCu6sT"" (2400) | #9 ""arash @ huBdniBdCU"" (1470)",2022-04-01T01:06:42.169Z,164877520216903
+"The player ""guest @ G4RdqDSm6Z"" quits the game with a stack of 1000.",2022-04-01T01:06:42.169Z,164877520216901
+"Player stacks: #1 ""Jonah @ KdrqU8EIQ1"" (1560) | #2 ""peelic @ c2JqQCu6sT"" (2400) | #3  ""guest @ G4RdqDSm6Z"" (1000) | #9 ""arash @ huBdniBdCU"" (1470)",2022-04-01T01:06:42.169Z,164877520216903
 "-- starting hand #58  (No Limit Texas Hold'em) (dealer: ""Jonah @ KdrqU8EIQ1"") --",2022-04-01T01:06:42.169Z,164877520216902
-"The player ""guest @ G4RdqDSm6Z"" quits the game with a stack of 0.",2022-04-01T01:06:42.169Z,164877520216901
 "The player ""Stevo @ 5Ep7Sc0sJg"" stand up with the stack of 570.",2022-04-01T01:06:42.169Z,164877520216900
 "-- ending hand #57 --",2022-04-01T01:06:36.105Z,164877519610501
 """Jonah @ KdrqU8EIQ1"" collected 760 from pot with Three of a Kind, A's (combination: A♣, A♠, A♥, K♠, 6♣)",2022-04-01T01:06:36.105Z,164877519610500
@@ -1869,7 +1869,7 @@ entry,at,order
 """peelic @ c2JqQCu6sT"" posts a big blind of 20",2022-04-01T01:05:28.699Z,164877512869908
 """Jonah @ KdrqU8EIQ1"" posts a small blind of 10",2022-04-01T01:05:28.699Z,164877512869907
 "Your hand is 7♥, K♣",2022-04-01T01:05:28.699Z,164877512869905
-"Player stacks: #1 ""Jonah @ KdrqU8EIQ1"" (1100) | #2 ""peelic @ c2JqQCu6sT"" (2480) | #3 ""guest @ G4RdqDSm6Z"" (300) | #9 ""arash @ huBdniBdCU"" (1550) | #10 ""Stevo @ 5Ep7Sc0sJg"" (570)",2022-04-01T01:05:28.699Z,164877512869901
+"Player stacks: #1 ""Jonah @ KdrqU8EIQ1"" (1100) | #2 ""peelic @ c2JqQCu6sT"" (2480) | #3 ""guest @ G4RdqDSm6Z"" (1300) | #9 ""arash @ huBdniBdCU"" (1550) | #10 ""Stevo @ 5Ep7Sc0sJg"" (570)",2022-04-01T01:05:28.699Z,164877512869901
 "-- starting hand #57  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2022-04-01T01:05:28.699Z,164877512869900
 """Stevo @ 5Ep7Sc0sJg"" shows a 4♣, 4♦.",2022-04-01T01:05:26.427Z,164877512642700
 "-- ending hand #56 --",2022-04-01T01:05:25.046Z,164877512504602
@@ -1902,7 +1902,7 @@ entry,at,order
 """Jonah @ KdrqU8EIQ1"" posts a big blind of 20",2022-04-01T01:04:20.161Z,164877506016108
 """Stevo @ 5Ep7Sc0sJg"" posts a small blind of 10",2022-04-01T01:04:20.161Z,164877506016107
 "Your hand is 7♦, 10♦",2022-04-01T01:04:20.161Z,164877506016105
-"Player stacks: #1 ""Jonah @ KdrqU8EIQ1"" (1290) | #2 ""peelic @ c2JqQCu6sT"" (2110) | #3 ""guest @ G4RdqDSm6Z"" (300) | #9 ""arash @ huBdniBdCU"" (1640) | #10 ""Stevo @ 5Ep7Sc0sJg"" (660)",2022-04-01T01:04:20.161Z,164877506016101
+"Player stacks: #1 ""Jonah @ KdrqU8EIQ1"" (1290) | #2 ""peelic @ c2JqQCu6sT"" (2110) | #3 ""guest @ G4RdqDSm6Z"" (1300) | #9 ""arash @ huBdniBdCU"" (1640) | #10 ""Stevo @ 5Ep7Sc0sJg"" (660)",2022-04-01T01:04:20.161Z,164877506016101
 "-- starting hand #56  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-04-01T01:04:20.161Z,164877506016100
 """guest @ G4RdqDSm6Z"" shows a 9♠, 9♣.",2022-04-01T01:04:15.711Z,164877505571100
 "-- ending hand #55 --",2022-04-01T01:04:13.566Z,164877505356603
@@ -1931,7 +1931,7 @@ entry,at,order
 """Stevo @ 5Ep7Sc0sJg"" posts a big blind of 20",2022-04-01T01:03:07.098Z,164877498709808
 """arash @ huBdniBdCU"" posts a small blind of 10",2022-04-01T01:03:07.098Z,164877498709807
 "Your hand is A♣, K♥",2022-04-01T01:03:07.098Z,164877498709805
-"Player stacks: #1 ""Jonah @ KdrqU8EIQ1"" (1390) | #2 ""peelic @ c2JqQCu6sT"" (1490) | #3 ""guest @ G4RdqDSm6Z"" (400) | #9 ""arash @ huBdniBdCU"" (2040) | #10 ""Stevo @ 5Ep7Sc0sJg"" (680)",2022-04-01T01:03:07.098Z,164877498709801
+"Player stacks: #1 ""Jonah @ KdrqU8EIQ1"" (1390) | #2 ""peelic @ c2JqQCu6sT"" (1490) | #3 ""guest @ G4RdqDSm6Z"" (1400) | #9 ""arash @ huBdniBdCU"" (2040) | #10 ""Stevo @ 5Ep7Sc0sJg"" (680)",2022-04-01T01:03:07.098Z,164877498709801
 "-- starting hand #55  (No Limit Texas Hold'em) (dealer: ""guest @ G4RdqDSm6Z"") --",2022-04-01T01:03:07.098Z,164877498709800
 """guest @ G4RdqDSm6Z"" shows a 4♦, 3♦.",2022-04-01T01:03:01.049Z,164877498104900
 "-- ending hand #54 --",2022-04-01T01:03:00.495Z,164877498049504
@@ -1963,7 +1963,7 @@ entry,at,order
 """arash @ huBdniBdCU"" posts a big blind of 20",2022-04-01T01:01:52.440Z,164877491244008
 """guest @ G4RdqDSm6Z"" posts a small blind of 10",2022-04-01T01:01:52.440Z,164877491244007
 "Your hand is 10♣, 3♠",2022-04-01T01:01:52.440Z,164877491244005
-"Player stacks: #1 ""Jonah @ KdrqU8EIQ1"" (1300) | #2 ""peelic @ c2JqQCu6sT"" (1400) | #3 ""guest @ G4RdqDSm6Z"" (420) | #9 ""arash @ huBdniBdCU"" (2180) | #10 ""Stevo @ 5Ep7Sc0sJg"" (700)",2022-04-01T01:01:52.440Z,164877491244001
+"Player stacks: #1 ""Jonah @ KdrqU8EIQ1"" (1300) | #2 ""peelic @ c2JqQCu6sT"" (1400) | #3 ""guest @ G4RdqDSm6Z"" (1420) | #9 ""arash @ huBdniBdCU"" (2180) | #10 ""Stevo @ 5Ep7Sc0sJg"" (700)",2022-04-01T01:01:52.440Z,164877491244001
 "-- starting hand #54  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2022-04-01T01:01:52.440Z,164877491244000
 "-- ending hand #53 --",2022-04-01T01:01:46.434Z,164877490643404
 """arash @ huBdniBdCU"" shows a 10♥, J♠.",2022-04-01T01:01:46.434Z,164877490643403
@@ -1994,7 +1994,7 @@ entry,at,order
 """guest @ G4RdqDSm6Z"" posts a big blind of 20",2022-04-01T01:00:54.935Z,164877485493508
 """peelic @ c2JqQCu6sT"" posts a small blind of 10",2022-04-01T01:00:54.935Z,164877485493507
 "Your hand is 10♥, J♠",2022-04-01T01:00:54.935Z,164877485493505
-"Player stacks: #1 ""Jonah @ KdrqU8EIQ1"" (1100) | #2 ""peelic @ c2JqQCu6sT"" (1480) | #3 ""guest @ G4RdqDSm6Z"" (440) | #9 ""arash @ huBdniBdCU"" (2260) | #10 ""Stevo @ 5Ep7Sc0sJg"" (720)",2022-04-01T01:00:54.935Z,164877485493501
+"Player stacks: #1 ""Jonah @ KdrqU8EIQ1"" (1100) | #2 ""peelic @ c2JqQCu6sT"" (1480) | #3 ""guest @ G4RdqDSm6Z"" (1440) | #9 ""arash @ huBdniBdCU"" (2260) | #10 ""Stevo @ 5Ep7Sc0sJg"" (720)",2022-04-01T01:00:54.935Z,164877485493501
 "-- starting hand #53  (No Limit Texas Hold'em) (dealer: ""Jonah @ KdrqU8EIQ1"") --",2022-04-01T01:00:54.935Z,164877485493500
 """Stevo @ 5Ep7Sc0sJg"" shows a Q♣, 10♦.",2022-04-01T01:00:49.737Z,164877484973700
 "-- ending hand #52 --",2022-04-01T01:00:48.391Z,164877484839102
@@ -2022,9 +2022,9 @@ entry,at,order
 """peelic @ c2JqQCu6sT"" posts a big blind of 20",2022-04-01T00:59:22.342Z,164877476234209
 """Jonah @ KdrqU8EIQ1"" posts a small blind of 10",2022-04-01T00:59:22.342Z,164877476234208
 "Your hand is 2♦, K♠",2022-04-01T00:59:22.342Z,164877476234206
-"Player stacks: #1 ""Jonah @ KdrqU8EIQ1"" (1160) | #2 ""peelic @ c2JqQCu6sT"" (1300) | #3 ""guest @ G4RdqDSm6Z"" (440) | #9 ""arash @ huBdniBdCU"" (2280) | #10 ""Stevo @ 5Ep7Sc0sJg"" (820)",2022-04-01T00:59:22.342Z,164877476234202
+"Player stacks: #1 ""Jonah @ KdrqU8EIQ1"" (1160) | #2 ""peelic @ c2JqQCu6sT"" (1300) | #3 ""guest @ G4RdqDSm6Z"" (1440) | #9 ""arash @ huBdniBdCU"" (2280) | #10 ""Stevo @ 5Ep7Sc0sJg"" (820)",2022-04-01T00:59:22.342Z,164877476234202
 "-- starting hand #52  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2022-04-01T00:59:22.342Z,164877476234201
-"The player ""guest @ G4RdqDSm6Z"" joined the game with a stack of 440.",2022-04-01T00:59:22.342Z,164877476234200
+"The player ""guest @ G4RdqDSm6Z"" joined the game with a stack of 1440.",2022-04-01T00:59:22.342Z,164877476234200
 "-- ending hand #51 --",2022-04-01T00:59:16.249Z,164877475624904
 """peelic @ c2JqQCu6sT"" shows a 8♣, 5♠.",2022-04-01T00:59:16.249Z,164877475624903
 """Stevo @ 5Ep7Sc0sJg"" shows a 6♣, 5♦.",2022-04-01T00:59:16.249Z,164877475624902
