@@ -129,6 +129,23 @@ class PokerNightEvent():
 
         return player_to_stack_history
 
+    def most_wins(self):
+        player_wins = {}
+        for round in self.rounds:
+            for player in round.winning_players:
+                existing_winning_rounds = player_wins.get(player, [])
+                existing_winning_rounds.append(round)
+                player_wins[player] = existing_winning_rounds
+            
+        most_winning_player, winning_rounds = max(player_wins.items(), key = lambda k : len(k[1]))
+        
+        print(most_winning_player)
+        
+        biggest_win_round = max(winning_rounds, key=lambda r: r.winning_amounts[0]) # TODO: need to use the right index here, could be second winner splitting pot?
+        
+        print(most_winning_player, "had biggest win of", vars(biggest_win_round))
+
+        
 
 
 class PokerRound(): # multiple rounds in a poker night event
@@ -212,13 +229,13 @@ class PokerRound(): # multiple rounds in a poker night event
             if re.match(PLAYER_WINNER_WITH_HAND_REGEX, row):
                 winning_info = re.findall(PLAYER_WINNER_WITH_HAND_REGEX, row)[0]
                 self.winning_players.append(winning_info[0])
-                self.winning_amounts.append(winning_info[1])
+                self.winning_amounts.append(int(winning_info[1]))
                 self.winning_hands.append(winning_info[2])
             elif re.match(PLAYER_WINNER_WITHOUT_HAND_REGEX, row):
                 # The winning hand is optional, as folks can win if everyone folds without showing their hand
                 winning_info = re.findall(PLAYER_WINNER_WITHOUT_HAND_REGEX, row)[0]
                 self.winning_players.append(winning_info[0])
-                self.winning_amounts.append(winning_info[1])
+                self.winning_amounts.append(int(winning_info[1]))
 
     def extract_table_cards(self, round_logs):
         for row in round_logs:
@@ -357,5 +374,7 @@ else:
         event = PokerNightEvent(event_date, logs)
         player_history = event.player_stack_history()
         normalized_name_player_history = fix_up_player_names(player_history)
+        
+        event.most_wins()
         graph_stack_history(normalized_name_player_history, "Profit for " + event_date)
 
