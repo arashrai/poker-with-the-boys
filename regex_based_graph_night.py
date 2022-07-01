@@ -64,7 +64,7 @@ class PokerNightEvent():
         player_exit = {}
         for poker_round in self.rounds:
             balances, stand_ups, sit_downs, joins, exits, adjustments = poker_round.player_balances, poker_round.players_stood_up, poker_round.players_sat_down, poker_round.player_game_joins, poker_round.players_exited, poker_round.admin_adjustments
-         
+
             # some buyins occur before the Player Stacks line in a round, some come after the end. Can have multiple joins per
             for player, joins_array in joins.items():
                 for join in joins_array:
@@ -87,19 +87,19 @@ class PokerNightEvent():
             # CORE PROFIT CALCULATION
             for player, balance in balances.items():
                 adjusted_balance = balance - player_adjustments.get(player, 0)
-                
+
                 profit = adjusted_balance - player_buyin_amount[player]
                 existing_player_stack_history = player_to_stack_history.get(player, [])
                 existing_player_stack_history.append(
                     (profit, poker_round.start_time)
                 )
                 player_to_stack_history[player] = existing_player_stack_history
-            
+
             # sit downs occur during the round
             for player, sit_down in sit_downs.items():
                 player_sitting_at_table[player] = True
                 player_exit.pop(player, None)
-           
+
             # add in buyins that occurred after the end of the round
             for player, joins_array in joins.items():
                 for join in joins_array:
@@ -110,21 +110,21 @@ class PokerNightEvent():
                         player_exit.pop(player, None)
 
 
-    
+
             # stand ups occurr after the end of the round
             for player, stand_up in stand_ups.items():
                 player_sitting_at_table[player] = False
 
-           
+
             # exits always occur after the end of the round
             for player, exit in exits.items():
                 player_sitting_at_table[player] = False
                 player_exit[player] = exit
-                
+
             # adjustments are only recorded "for the next hand"
             for player, amount in adjustments.items():
                 player_adjustments[player] = player_adjustments.get(player, 0) + amount
-            
+
 #            print("ROUND:", poker_round.round_number, "\nSTACK:", player_to_stack_history, "\nBUY INS:", player_buyin_amount)
 
         return player_to_stack_history
@@ -136,16 +136,13 @@ class PokerNightEvent():
                 existing_winning_rounds = player_wins.get(player, [])
                 existing_winning_rounds.append(round)
                 player_wins[player] = existing_winning_rounds
-            
+
         most_winning_player, winning_rounds = max(player_wins.items(), key = lambda k : len(k[1]))
-        
-        print(most_winning_player)
-        
         biggest_win_round = max(winning_rounds, key=lambda r: r.winning_amounts[0]) # TODO: need to use the right index here, could be second winner splitting pot?
-        
+
         print(most_winning_player, "had biggest win of", vars(biggest_win_round))
 
-        
+
 
 
 class PokerRound(): # multiple rounds in a poker night event
@@ -374,7 +371,7 @@ else:
         event = PokerNightEvent(event_date, logs)
         player_history = event.player_stack_history()
         normalized_name_player_history = fix_up_player_names(player_history)
-        
+
         event.most_wins()
         graph_stack_history(normalized_name_player_history, "Profit for " + event_date)
 
