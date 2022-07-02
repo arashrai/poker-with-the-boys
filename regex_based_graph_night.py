@@ -6,6 +6,7 @@ from matplotlib.dates import DateFormatter
 import argparse
 import re
 from pprint import pprint
+from collections import defaultdict
 
 CSV_FILE = "poker_night_20220609.csv"
 START_HAND_REGEX = re.compile('\"-- starting hand \#(\d+).*,(\d+)')
@@ -21,6 +22,38 @@ PLAYER_WINNER_WITHOUT_HAND_REGEX = re.compile('"""(.*?) @ \S+ collected (\d+) fr
 FLOP_CARDS_REGEX = re.compile('"Flop:  \[(.*?)]') # why does "Flop:  " have two spaces smh
 TURN_OR_RIVER_CARD_REGEX = re.compile('"(Turn|River): .* \[(.*?)]')
 UNDEALT_CARDS_REGEX = re.compile('"Undealt cards: .* \[(.*?)]')
+PLAYER_NAME_REGEX = re.compile('[\"]{2,3}(\S+) @ ') # can have two or three " before name
+
+# If we get new players need to add them here
+KNOWN_NAME_FIX_UPS = {
+        "peelic": "Prilik",
+        "arashh": "Arash",
+        "ash": "Arash", #?
+        "arash": "Arash",
+        "susan": "Arash", #?
+        "annie": "Annie",
+        "spenner": "Spencer",
+        "spenny": "Spencer",
+        "spenny2": "Spencer",
+        "spange": "Ethan",
+        "biz": "Alex",
+        "guest": "George",
+        "stevo-ipad": "Stephen",
+        "stevo": "Stephen",
+        "stephen": "Stephen",
+        "david": "David",
+        "daveed": "David",
+        "daveeed": "David",
+        "daveeeed": "David",
+        "jerms": "James",
+        "jems": "James",
+        "gems": "James",
+        "james": "James",
+        "josh": "Josh",
+        "jonah": "Jonah",
+        "max": "Max",
+        "sam": "Sam",
+}
 
 TYPE_STAND = 1
 TYPE_SIT = 2
@@ -129,22 +162,6 @@ class PokerNightEvent():
 
         return player_to_stack_history
 
-    def most_wins(self):
-        player_wins = {}
-        for round in self.rounds:
-            for player in round.winning_players:
-                existing_winning_rounds = player_wins.get(player, [])
-                existing_winning_rounds.append(round)
-                player_wins[player] = existing_winning_rounds
-
-        most_winning_player, winning_rounds = max(player_wins.items(), key = lambda k : len(k[1]))
-        biggest_win_round = max(winning_rounds, key=lambda r: r.winning_amounts[0]) # TODO: need to use the right index here, could be second winner splitting pot?
-
-        print(most_winning_player, "had biggest win of", vars(biggest_win_round))
-
-
-
-
 class PokerRound(): # multiple rounds in a poker night event
     def __init__(self, round_logs):
         self.metadata_extraction(round_logs)
@@ -182,10 +199,6 @@ class PokerRound(): # multiple rounds in a poker night event
             elif re.match(STANDUP_REGEX, row): # stand up
                 player, amount, unix_time = re.findall(STANDUP_REGEX, row)[0]
                 stood_up = PlayerMovement(amount, unix_time, TYPE_STAND)
-                if player in self.players_stood_up:
-                    print("THIS SHOULDN'T HAPPEN?", vars(self))
-                    breakpoint()
-                    exit(-1)
                 self.players_stood_up[player] = stood_up
             elif re.match(BUY_IN_REGEX, row): # buy in, can be multiple in round_logs
                 player, amount, unix_time = re.findall(BUY_IN_REGEX, row)[0]
@@ -247,52 +260,30 @@ class PokerRound(): # multiple rounds in a poker night event
 def date_of_csv(csv_name):
     return datetime.strptime(csv_name.split(".")[0].split("_")[2], "%Y%m%d").date()
 
-def fix_up_player_names(player_to_stack_history):
-    known_fix_ups = {
-            "peelic": "Prilik",
-            "arashh": "Arash",
-            "ash": "Arash", #?
-            "arash": "Arash",
-            "susan": "Arash", #?
-            "annie": "Annie",
-            "spenner": "Spencer",
-            "spenny": "Spencer",
-            "spenny2": "Spencer",
-            "spange": "Ethan",
-            "biz": "Alex",
-            "guest": "George",
-            "stevo-ipad": "Stephen",
-            "stevo": "Stephen",
-            "stephen": "Stephen",
-            "david": "David",
-            "daveed": "David",
-            "daveeed": "David",
-            "daveeeed": "David",
-            "jerms": "James",
-            "jems": "James",
-            "gems": "James",
-            "james": "James",
-            "josh": "Josh",
-            "jonah": "Jonah",
-            "max": "Max",
-            "sam": "Sam",
-    }
+def fix_up_player_names(log_lines):
+    normalized_name_log_lines = []
+    for line in log_lines:
+        name_matches = re.findall(PLAYER_NAME_REGEX, line)
+        if name_matches:
+            for name in name_matches:
+                if name.lower() in KNOWN_NAME_FIX_UPS:
+                    normalized_name = KNOWN_NAME_FIX_UPS[name.lower()]
+                    #print("Fixing name", name, "to", normalized_name)
+                elif all(char in set('george') for char in name.lower()): # is it greg?
+                    #print("Found an elusive greg", name)
+                    normalized_name = "George"
+                else:
+                    print("Not sure if this person is already normalized", name)
+                    print("If this is a new player, add them to KNOWN_NAME_FIX_UPS and run again")
+                    exit(-1)
+                
+                existing_player_name_format= '""%s @ ' % name
+                replacement_player_name_format = '""%s @ ' % normalized_name
+                line = line.replace(existing_player_name_format, replacement_player_name_format)
 
-    names = player_to_stack_history.keys()
-    normalized_player_name_dict = {}
-    for name in names:
-        if name.lower() in known_fix_ups:
-            normalized_name = known_fix_ups[name.lower()]
-            #print("Fixing name", name, "to", normalized_name)
-        elif all(char in set('george') for char in name.lower()): # is it greg?
-            #print("Found an elusive greg", name)
-            normalized_name = "George"
-        else:
-            print("Not sure if this person is already normalized", name)
-            normalized_name = name.capitalize()
-        normalized_player_name_dict[normalized_name] = player_to_stack_history[name] if normalized_name not in normalized_player_name_dict else normalized_player_name_dict[normalized_name] + player_to_stack_history[name]
+        normalized_name_log_lines.append(line)
 
-    return normalized_player_name_dict
+    return normalized_name_log_lines
 
 
 def graph_stack_history(player_history, title, show_event_points=False):
@@ -318,7 +309,58 @@ def graph_stack_history(player_history, title, show_event_points=False):
     plt.savefig(file_name)
     plt.show()
 
+### Stats methods
 
+# returns the player name who won the most rounds and those rounds. Also all other player wins
+def most_wins(rounds):
+    player_wins = {}
+    for round in rounds:
+        for player in round.winning_players:
+            existing_winning_rounds = player_wins.get(player, [])
+            existing_winning_rounds.append(round)
+            player_wins[player] = existing_winning_rounds
+
+    most_winning_player, winning_rounds = max(player_wins.items(), key = lambda k : len(k[1]))
+
+    return most_winning_player, winning_rounds, player_wins
+
+# returns the round where the most amount was won
+def biggest_win(rounds):
+    biggest_amount = 0
+    biggest_round = None
+    for round in rounds:
+        for amount in round.winning_amounts:
+            if amount > biggest_amount:
+                biggest_amount = amount
+                biggest_round = round
+                
+    return biggest_round
+    
+# returns the number of rounds where a player was seated
+def rounds_played_by_players(rounds):
+    player_round_counts = defaultdict(lambda: 0)
+    for round in rounds:
+        for player in round.player_balances: # they only have a balance if they're in the start of that round
+            player_round_counts[player] += 1
+        
+    return player_round_counts
+
+def print_core_stats(rounds):
+    most_wins_player, winning_rounds, all_player_wins = most_wins(rounds)
+    print(f'{most_wins_player} won the most rounds at {len(winning_rounds)} rounds out of {len(rounds)} ({len(winning_rounds)/len(rounds) * 100:.2f}%).')
+    
+    all_player_wins_list = list(all_player_wins.items())
+    all_player_wins_list.sort(key=lambda w: len(w[1]), reverse=True)
+    print("-------")
+    for player, rounds_won in all_player_wins_list:
+        print(f'{player} won {len(rounds_won)}/{len(rounds)} ({len(rounds_won)/len(rounds) * 100:.2f}%)')
+    print("-------\n")
+
+
+    biggest_win_round = biggest_win(rounds)
+    print(f'{", ".join(biggest_win_round.winning_players)} won the most at {biggest_win_round.winning_amounts} on {biggest_win_round.start_time}.\nTable cards: {biggest_win_round.table_cards}.\nWinning hands: {", ".join(biggest_win_round.winning_hands)}.\nAll player\'s cards: {biggest_win_round.player_to_hand}')
+
+### Main execution
 
 parser = argparse.ArgumentParser(description="Just an example",
                                  formatter_class=argparse.ArgumentDefaultsHelpFormatter)
@@ -334,19 +376,20 @@ if args.all:
 
     event_date = date_of_csv(csv_files[-1]).strftime("%Y/%m/%d")
     all_player_history = {}
+    all_poker_rounds = []
     for filename in csv_files:
         with open(filename) as file:
-            logs = file.readlines()
+            logs = fix_up_player_names(file.readlines())
             if logs[0] == "entry,at,order\n":
                 logs.pop(0) # drop csv header
             logs.reverse()
             curr_event_date = date_of_csv(filename).strftime("%Y/%m/%d")
             event = PokerNightEvent(curr_event_date, logs)
+            all_poker_rounds += event.rounds
             player_history = event.player_stack_history()
-            normalized_name_player_history = fix_up_player_names(player_history)
 
             # now merge the latest event with the on-going logs that only store the final profits each week
-            for player, current_event_stack in normalized_name_player_history.items():
+            for player, current_event_stack in player_history.items():
                 if player not in all_player_history:
                     # they're new this game, just add them in cause they start at zero
                     all_player_history[player] = [current_event_stack[-1]]
@@ -356,6 +399,8 @@ if args.all:
                     updated_event_stack = [(current_event_stack[-1][0] + last_profit, current_event_stack[-1][1])]
                     all_player_history[player] += updated_event_stack
 
+    # Print some stats out
+    print_core_stats(all_poker_rounds)
 
     graph_stack_history(all_player_history, "All-time profit history as of " + event_date, show_event_points=True)
 
@@ -364,14 +409,15 @@ else:
     print("Graphing single csv", csv_file)
     event_date = date_of_csv(csv_file).strftime("%Y/%m/%d")
     with open(csv_file) as file:
-        logs = file.readlines()
+        logs = fix_up_player_names(file.readlines())
         if logs[0] == "entry,at,order\n":
             logs.pop(0) # drop csv header
         logs.reverse()
         event = PokerNightEvent(event_date, logs)
         player_history = event.player_stack_history()
-        normalized_name_player_history = fix_up_player_names(player_history)
 
-        event.most_wins()
-        graph_stack_history(normalized_name_player_history, "Profit for " + event_date)
+        # Print some stats out
+        print_core_stats(event.rounds)
+        
+        graph_stack_history(player_history, "Profit for " + event_date)
 
