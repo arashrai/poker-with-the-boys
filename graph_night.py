@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from datetime import datetime
 
-CSV_FILE = "poker_night_20220630.csv"
+CSV_FILE = "logs/poker_night_20220707.csv"
 logs = []
 
 with open(CSV_FILE) as file:
@@ -116,6 +116,7 @@ def graph_stack_history(logs):
         plt.plot("Time", player, data=df)
     plt.legend()
     file_name = CSV_FILE.split(".")[0] + "_profit_graph.png"
+    file_name = file_name.replace("logs", "graphs")
     plt.savefig(file_name)
     plt.show()
 

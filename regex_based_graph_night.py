@@ -8,7 +8,7 @@ import re
 from pprint import pprint
 from collections import defaultdict
 
-CSV_FILE = "poker_night_20220609.csv"
+CSV_FILE = "logs/poker_night_20220707.csv"
 START_HAND_REGEX = re.compile('\"-- starting hand \#(\d+).*,(\d+)')
 ADMIN_ADJUSTMENT_REGEX = re.compile('"The admin updated the player ""(.*?) @ \S+ stack from (\d+) to (\d+)')
 BUY_IN_REGEX = re.compile('"The player ""(.*?) @ .* joined the game with a stack of (\d+).",[^,]+,(\d+)')
@@ -286,7 +286,7 @@ def fix_up_player_names(log_lines):
     return normalized_name_log_lines
 
 
-def graph_stack_history(player_history, title, show_event_points=False):
+def graph_stack_history(player_history, title, last_file, show_event_points=False):
     for player in player_history:
         player_hand_times = [ ht for _, ht in player_history[player] ]
         player_chips = [ chips for chips, _ in player_history[player] ]
@@ -305,7 +305,11 @@ def graph_stack_history(player_history, title, show_event_points=False):
     plt.title(title)
     plt.ylabel("Profit in cents (CAD)")
 
-    file_name = CSV_FILE.split(".")[0] + "_profit_graph.png"
+    if show_event_points:
+        file_name = last_file.split(".")[0] + "_all_time_profit_graph.png"
+    else:
+        file_name = last_file.split(".")[0] + "_profit_graph.png"
+    file_name = file_name.replace("logs", "graphs")
     plt.savefig(file_name)
     plt.show()
 
@@ -365,19 +369,20 @@ def print_core_stats(rounds):
 parser = argparse.ArgumentParser(description="Just an example",
                                  formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument("-a", "--all", action="store_true", help="graph all csvs in one chart")
-parser.add_argument("-i", "--input", help="graph this one csv on a chart", default=CSV_FILE)
+parser.add_argument("-d", "--date", help="graph the logs/poker_night_YYYYMMDD.csv on a chart", default=CSV_FILE)
 
 args = parser.parse_args()
 
 if args.all:
     print("Graphing all csvs in single chart")
-    csv_files = [f for f in os.listdir('.') if os.path.isfile(f) and f.endswith(".csv")]
+    csv_files = [f for f in os.listdir('logs/') if os.path.isfile('logs/' + f) and f.endswith(".csv")]
     csv_files.sort()
 
     event_date = date_of_csv(csv_files[-1]).strftime("%Y/%m/%d")
     all_player_history = {}
     all_poker_rounds = []
     for filename in csv_files:
+        filename = 'logs/' + filename
         with open(filename) as file:
             logs = fix_up_player_names(file.readlines())
             if logs[0] == "entry,at,order\n":
@@ -402,10 +407,10 @@ if args.all:
     # Print some stats out
     print_core_stats(all_poker_rounds)
 
-    graph_stack_history(all_player_history, "All-time profit history as of " + event_date, show_event_points=True)
+    graph_stack_history(all_player_history, "All-time profit history as of " + event_date, csv_files[-1], show_event_points=True)
 
 else:
-    csv_file = args.input
+    csv_file = "logs/poker_night_" + args.date + ".csv"
     print("Graphing single csv", csv_file)
     event_date = date_of_csv(csv_file).strftime("%Y/%m/%d")
     with open(csv_file) as file:
@@ -419,5 +424,5 @@ else:
         # Print some stats out
         print_core_stats(event.rounds)
         
-        graph_stack_history(player_history, "Profit for " + event_date)
+        graph_stack_history(player_history, "Profit for " + event_date, csv_file)
 
