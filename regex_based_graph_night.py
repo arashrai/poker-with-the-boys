@@ -350,14 +350,15 @@ def rounds_played_by_players(rounds):
     return player_round_counts
 
 def print_core_stats(rounds):
+    num_rounds_with_player = rounds_played_by_players(rounds)
     most_wins_player, winning_rounds, all_player_wins = most_wins(rounds)
-    print(f'{most_wins_player} won the most rounds at {len(winning_rounds)} rounds out of {len(rounds)} ({len(winning_rounds)/len(rounds) * 100:.2f}%).')
+    print(f'{most_wins_player} won the most rounds at {len(winning_rounds)} rounds out of {num_rounds_with_player[most_wins_player]} played rounds ({len(winning_rounds)/num_rounds_with_player[most_wins_player] * 100:.2f}%).')
     
     all_player_wins_list = list(all_player_wins.items())
     all_player_wins_list.sort(key=lambda w: len(w[1]), reverse=True)
     print("-------")
     for player, rounds_won in all_player_wins_list:
-        print(f'{player} won {len(rounds_won)}/{len(rounds)} ({len(rounds_won)/len(rounds) * 100:.2f}%)')
+        print(f'{player} won {len(rounds_won)}/{num_rounds_with_player[player]} ({len(rounds_won)/num_rounds_with_player[player] * 100:.2f}%)')
     print("-------\n")
 
 
