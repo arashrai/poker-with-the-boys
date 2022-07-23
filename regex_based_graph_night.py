@@ -500,21 +500,25 @@ def print_core_stats(rounds):
     
     print("\n------- Biggest Raises/Bets")
     if biggest_raise_pre_flop:
-        print(f'Pre-flop: {biggest_raise_pre_flop.to_string()}')
+        print("--- Pre-flop")
+        print(f'{biggest_raise_pre_flop.to_string()}')
         round = poker_round_for_timestamp(rounds, biggest_raise_pre_flop.time)
-        print(f'  {", ".join(round.winning_players)} won {round.winning_amounts} this round.\n  Table cards: {round.table_cards}.\n  Winning hands: {", ".join(round.winning_hands)}.\n  All player\'s cards: {round.player_to_hand}')
+        print(f'  {", ".join(round.winning_players)} won {round.winning_amounts} this round\n  Table cards: {round.table_cards}\n  Winning hands: {", ".join(round.winning_hands)}\n  All player\'s cards: {round.player_to_hand}')
     if biggest_raise_pre_turn:
-        print(f'Pre-turn: {biggest_raise_pre_turn.to_string()}')
+        print("--- Pre-turn")
+        print(f'{biggest_raise_pre_turn.to_string()}')
         round = poker_round_for_timestamp(rounds, biggest_raise_pre_turn.time)
-        print(f'  {", ".join(round.winning_players)} won {round.winning_amounts} this round.\n  Table cards: {round.table_cards}.\n  Winning hands: {", ".join(round.winning_hands)}.\n  All player\'s cards: {round.player_to_hand}')
+        print(f'  {", ".join(round.winning_players)} won {round.winning_amounts} this round\n  Table cards: {round.table_cards}\n  Winning hands: {", ".join(round.winning_hands)}\n  All player\'s cards: {round.player_to_hand}')
     if biggest_raise_pre_river:
-        print(f'Pre-river: {biggest_raise_pre_river.to_string()}')
+        print("--- Pre-river")
+        print(f'{biggest_raise_pre_river.to_string()}')
         round = poker_round_for_timestamp(rounds, biggest_raise_pre_river.time)
-        print(f'  {", ".join(round.winning_players)} won {round.winning_amounts} this round.\n  Table cards: {round.table_cards}.\n  Winning hands: {", ".join(round.winning_hands)}.\n  All player\'s cards: {round.player_to_hand}')
+        print(f'  {", ".join(round.winning_players)} won {round.winning_amounts} this round\n  Table cards: {round.table_cards}\n  Winning hands: {", ".join(round.winning_hands)}\n  All player\'s cards: {round.player_to_hand}')
     if biggest_raise_post_river:
-        print(f'Post-river: {biggest_raise_post_river.to_string()}')
+        print("--- Post-river")
+        print(f'{biggest_raise_post_river.to_string()}')
         round = poker_round_for_timestamp(rounds, biggest_raise_post_river.time)
-        print(f'  {", ".join(round.winning_players)} won {round.winning_amounts} this round.\n  Table cards: {round.table_cards}.\n  Winning hands: {", ".join(round.winning_hands)}.\n  All player\'s cards: {round.player_to_hand}')
+        print(f'  {", ".join(round.winning_players)} won {round.winning_amounts} this round\n  Table cards: {round.table_cards}\n  Winning hands: {", ".join(round.winning_hands)}\n  All player\'s cards: {round.player_to_hand}')
         
     player_pre_flop_folds = list(number_of_folds_per_player(all_pre_flop_actions).items())
     player_pre_flop_folds.sort(key=lambda w: w[1], reverse=True)
