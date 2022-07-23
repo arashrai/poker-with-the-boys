@@ -26,12 +26,12 @@ TURN_CARD_REGEX = re.compile('"Turn: .* \[(.*?)]",[^,]+,(\d+)')
 RIVER_CARD_REGEX = re.compile('"River: .* \[(.*?)]",[^,]+,(\d+)')
 UNDEALT_CARDS_REGEX = re.compile('"Undealt cards: .* \[(.*?)]')
 PLAYER_NAME_REGEX = re.compile('[\"]{2,3}(\S+) @ ') # can have two or three " before name
-PLAYER_INITIAL_POST_REGEX = re.compile('"""(.*?) @ \w+"" posts a (straddle|big blind|small blind) of (\d+)",[^,]+,(\d+)')
-PLAYER_FOLDS_REGEX = re.compile('"""(.*?) @ \w+"" folds",[^,]+,(\d+)')
-PLAYER_CALLS_REGEX = re.compile('"""(.*?) @ \w+"" calls (\d+)",[^,]+,(\d+)')
-PLAYER_CHECKS_REGEX = re.compile('"""(.*?) @ \w+"" checks",[^,]+,(\d+)')
-PLAYER_BETS_REGEX = re.compile('"""(.*?) @ \w+"" bets (\d+)",[^,]+,(\d+)')
-PLAYER_RAISES_REGEX = re.compile('"""(.*?) @ \w+"" raises to (\d+)",[^,]+,(\d+)')
+PLAYER_INITIAL_POST_REGEX = re.compile('"""(.*?) @ \S+"" posts a (straddle|big blind|small blind) of (\d+)",[^,]+,(\d+)')
+PLAYER_FOLDS_REGEX = re.compile('"""(.*?) @ \S+"" folds",[^,]+,(\d+)')
+PLAYER_CALLS_REGEX = re.compile('"""(.*?) @ \S+"" calls (\d+)",[^,]+,(\d+)')
+PLAYER_CHECKS_REGEX = re.compile('"""(.*?) @ \S+"" checks",[^,]+,(\d+)')
+PLAYER_BETS_REGEX = re.compile('"""(.*?) @ \S+"" bets (\d+)",[^,]+,(\d+)')
+PLAYER_RAISES_REGEX = re.compile('"""(.*?) @ \S+"" raises to (\d+)",[^,]+,(\d+)')
 
 # If we get new players need to add them here
 KNOWN_NAME_FIX_UPS = {
@@ -484,7 +484,7 @@ def print_core_stats(rounds):
     all_pre_turn_actions = reduce(lambda acc_actions, round: acc_actions + round.pre_turn_actions(), rounds, [])
     all_pre_river_actions = reduce(lambda acc_actions, round: acc_actions + round.pre_river_actions(), rounds, [])
     all_post_river_actions = reduce(lambda acc_actions, round: acc_actions + round.post_river_actions(), rounds, [])
-
+    
     biggest_raise_pre_flop = largest_raise_or_bet_for_round_actions(all_pre_flop_actions)
     biggest_raise_pre_turn = largest_raise_or_bet_for_round_actions(all_pre_turn_actions)
     biggest_raise_pre_river = largest_raise_or_bet_for_round_actions(all_pre_river_actions)
@@ -512,19 +512,18 @@ def print_core_stats(rounds):
     player_post_river_folds = list(number_of_folds_per_player(all_post_river_actions).items())
     player_post_river_folds.sort(key=lambda w: w[1], reverse=True)
 
-    print("\n------- Fold Times Per Player")
+    print("\n------- Folds Per Player of Hands Played")
     print("--- Pre-flop")
-    formatted = "\n".join("{: >10} {: >10}".format(player, fold_count) for player, fold_count in player_pre_flop_folds)
+    formatted = "\n".join("{: >10} {: >10} ({:,.2f}%)".format(player, fold_count, fold_count / num_rounds_with_player[player] * 100.0) for player, fold_count in player_pre_flop_folds)
     print(formatted)
     print("--- Pre-turn")
-    formatted = "\n".join("{: >10} {: >10}".format(player, fold_count) for player, fold_count in player_pre_turn_folds)
+    formatted = "\n".join("{: >10} {: >10} ({:,.2f}%)".format(player, fold_count, fold_count / num_rounds_with_player[player] * 100.0) for player, fold_count in player_pre_turn_folds)
     print(formatted)
     print("--- Pre-river")
-    formatted = "\n".join("{: >10} {: >10}".format(player, fold_count) for player, fold_count in player_pre_river_folds)
+    formatted = "\n".join("{: >10} {: >10} ({:,.2f}%)".format(player, fold_count, fold_count / num_rounds_with_player[player] * 100.0) for player, fold_count in player_pre_river_folds)
     print(formatted)
     print("--- Post-river")
-    
-    formatted = "\n".join("{: >10} {: >10}".format(player, fold_count) for player, fold_count in player_post_river_folds)
+    formatted = "\n".join("{: >10} {: >10} ({:,.2f}%)".format(player, fold_count, fold_count / num_rounds_with_player[player] * 100.0) for player, fold_count in player_post_river_folds)
     print(formatted)
 
 
