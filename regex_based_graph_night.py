@@ -28,10 +28,10 @@ UNDEALT_CARDS_REGEX = re.compile('"Undealt cards: .* \[(.*?)]')
 PLAYER_NAME_REGEX = re.compile('[\"]{2,3}(\S+) @ ') # can have two or three " before name
 PLAYER_INITIAL_POST_REGEX = re.compile('"""(.*?) @ \S+"" posts a (straddle|big blind|small blind) of (\d+)",[^,]+,(\d+)')
 PLAYER_FOLDS_REGEX = re.compile('"""(.*?) @ \S+"" folds",[^,]+,(\d+)')
-PLAYER_CALLS_REGEX = re.compile('"""(.*?) @ \S+"" calls (\d+)",[^,]+,(\d+)')
+PLAYER_CALLS_REGEX = re.compile('"""(.*?) @ \S+"" calls (\d+)(?: and go all in)?",[^,]+,(\d+)')
 PLAYER_CHECKS_REGEX = re.compile('"""(.*?) @ \S+"" checks",[^,]+,(\d+)')
-PLAYER_BETS_REGEX = re.compile('"""(.*?) @ \S+"" bets (\d+)",[^,]+,(\d+)')
-PLAYER_RAISES_REGEX = re.compile('"""(.*?) @ \S+"" raises to (\d+)",[^,]+,(\d+)')
+PLAYER_BETS_REGEX = re.compile('"""(.*?) @ \S+"" bets (\d+)(?: and go all in)?",[^,]+,(\d+)')
+PLAYER_RAISES_REGEX = re.compile('"""(.*?) @ \S+"" raises to (\d+)(?: and go all in)?",[^,]+,(\d+)')
 
 # If we get new players need to add them here
 KNOWN_NAME_FIX_UPS = {
@@ -74,7 +74,7 @@ class RoundAction(Enum):
     checks = "checks"
     calls = "calls"
 
-class PlayerRoundAction(): # TODO: track if "go all in" from logs too
+class PlayerRoundAction():
     def __init__(self, player, round_action, unix_time, amount=0):
         self.player = player
         self.amount = int(amount)
@@ -299,24 +299,30 @@ class PokerRound(): # multiple rounds in a poker night event
     def extract_player_actions_during_round(self, round_logs):
         player_actions = [] # list of PlayerRoundActions
         for row in round_logs:
+            round_action = None
             if re.match(PLAYER_INITIAL_POST_REGEX, row):
                 player, action_type, amount, unix_time = re.findall(PLAYER_INITIAL_POST_REGEX, row)[0]
-                player_actions.append(PlayerRoundAction(player, RoundAction(action_type), unix_time, amount))
+                round_action = PlayerRoundAction(player, RoundAction(action_type), unix_time, amount)
             elif re.match(PLAYER_FOLDS_REGEX, row):
                 player, unix_time = re.findall(PLAYER_FOLDS_REGEX, row)[0]
-                player_actions.append(PlayerRoundAction(player, RoundAction.folds, unix_time))
+                round_action = PlayerRoundAction(player, RoundAction.folds, unix_time)
             elif re.match(PLAYER_CHECKS_REGEX, row):
                 player, unix_time = re.findall(PLAYER_CHECKS_REGEX, row)[0]
-                player_actions.append(PlayerRoundAction(player, RoundAction.checks, unix_time))
+                round_action = PlayerRoundAction(player, RoundAction.checks, unix_time)
             elif re.match(PLAYER_CALLS_REGEX, row):
                 player, amount, unix_time = re.findall(PLAYER_CALLS_REGEX, row)[0]
-                player_actions.append(PlayerRoundAction(player, RoundAction.calls, unix_time, amount))
+                round_action = PlayerRoundAction(player, RoundAction.calls, unix_time, amount)
             elif re.match(PLAYER_BETS_REGEX, row):
                 player, amount, unix_time = re.findall(PLAYER_BETS_REGEX, row)[0]
-                player_actions.append(PlayerRoundAction(player, RoundAction.bets, unix_time, amount))
+                round_action = PlayerRoundAction(player, RoundAction.bets, unix_time, amount)
             elif re.match(PLAYER_RAISES_REGEX, row):
                 player, amount, unix_time = re.findall(PLAYER_RAISES_REGEX, row)[0]
-                player_actions.append(PlayerRoundAction(player, RoundAction.raises, unix_time, amount))
+                round_action = PlayerRoundAction(player, RoundAction.raises, unix_time, amount)
+    
+            if round_action:
+                is_all_in = "go all in" in row
+                round_action.all_in = is_all_in
+                player_actions.append(round_action)
         
         self.player_actions = player_actions
         
@@ -471,7 +477,27 @@ def number_of_folds_per_player(round_actions):
         player_folds[action.player] += 1
         
     return player_folds
+    
+# all-ins for players in round_actions
+def all_ins_per_player(round_actions):
+    player_all_ins = defaultdict(lambda: [])
+    for round in round_actions:
+        if round.all_in:
+            player_all_ins[round.player].append(round)
+            
+    return player_all_ins
+
+# returns the winning PokerRounds by each player corresponding to the rounds in the
+# player_to_round_actions dict rounds.
+def player_wins_for_round_actions(all_rounds, player_to_round_actions):
+    player_to_winning_rounds = defaultdict(lambda: [])
+    for player, round_actions in player_to_round_actions.items():
+        for action in round_actions:
+            poker_round = poker_round_for_timestamp(all_rounds, action.time) # use the timestamp to look up the round (inefficient, but it works)
+            if player in poker_round.winning_players:
+                player_to_winning_rounds[player].append(poker_round)
         
+    return player_to_winning_rounds
 
 def print_core_stats(rounds):
     num_rounds_with_player = rounds_played_by_players(rounds)
@@ -546,6 +572,45 @@ def print_core_stats(rounds):
     formatted = "\n".join("{: >10} {: >10} ({:,.2f}%)".format(player, fold_count, fold_count / num_rounds_with_player[player] * 100.0) for player, fold_count in player_post_river_folds)
     print(formatted)
 
+    player_pre_flop_all_ins_dict = all_ins_per_player(all_pre_flop_actions)
+    player_pre_flop_all_ins = list(player_pre_flop_all_ins_dict.items())
+    player_pre_flop_all_ins.sort(key=lambda w: len(w[1]), reverse=True)
+    player_wins_for_pre_flop_all_ins = player_wins_for_round_actions(rounds, player_pre_flop_all_ins_dict)
+    
+    player_pre_turn_all_ins_dict = all_ins_per_player(all_pre_turn_actions)
+    player_pre_turn_all_ins = list(player_pre_turn_all_ins_dict.items())
+    player_pre_turn_all_ins.sort(key=lambda w: len(w[1]), reverse=True)
+    player_wins_for_pre_turn_all_ins = player_wins_for_round_actions(rounds, player_pre_turn_all_ins_dict)
+
+    player_pre_river_all_ins_dict = all_ins_per_player(all_pre_river_actions)
+    player_pre_river_all_ins = list(player_pre_river_all_ins_dict.items())
+    player_pre_river_all_ins.sort(key=lambda w: len(w[1]), reverse=True)
+    player_wins_for_pre_river_all_ins = player_wins_for_round_actions(rounds, player_pre_river_all_ins_dict)
+
+    player_post_river_all_ins_dict = all_ins_per_player(all_post_river_actions)
+    player_post_river_all_ins = list(player_post_river_all_ins_dict.items())
+    player_post_river_all_ins.sort(key=lambda w: len(w[1]), reverse=True)
+    player_wins_for_post_river_all_ins = player_wins_for_round_actions(rounds, player_post_river_all_ins_dict)
+
+    print("\n------- All-ins Per Player of Hands Played")
+    if player_pre_flop_all_ins:
+        print("--- Pre-flop")
+        formatted = "\n".join("{: >10} {: >10} {:,.2f}% (Won {:,.2f}%)".format(player, len(all_ins), len(all_ins) / num_rounds_with_player[player] * 100.0, len(player_wins_for_pre_flop_all_ins[player]) / len(all_ins) * 100.0) for player, all_ins in player_pre_flop_all_ins)
+        print(formatted)
+    if player_pre_turn_all_ins:
+        print("--- Pre-turn")
+        formatted = "\n".join("{: >10} {: >10} {:,.2f}% (Won {:,.2f}%)".format(player, len(all_ins), len(all_ins) / num_rounds_with_player[player] * 100.0, len(player_wins_for_pre_turn_all_ins[player]) / len(all_ins) * 100.0) for player, all_ins in player_pre_turn_all_ins)
+        print(formatted)
+
+    if player_pre_river_all_ins:
+        print("--- Pre-river")
+        formatted = "\n".join("{: >10} {: >10} {:,.2f}% (Won {:,.2f}%)".format(player, len(all_ins), len(all_ins) / num_rounds_with_player[player] * 100.0, len(player_wins_for_pre_river_all_ins[player]) / len(all_ins) * 100.0) for player, all_ins in player_pre_river_all_ins)
+        print(formatted)
+
+    if player_post_river_all_ins:
+        print("--- Post-river")
+        formatted = "\n".join("{: >10} {: >10} {:,.2f}% (Won {:,.2f}%)".format(player, len(all_ins), len(all_ins) / num_rounds_with_player[player] * 100.0, len(player_wins_for_post_river_all_ins[player]) / len(all_ins) * 100.0) for player, all_ins in player_post_river_all_ins)
+        print(formatted)
 
 ### Main execution
 
