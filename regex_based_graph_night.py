@@ -498,6 +498,19 @@ def player_wins_for_round_actions(all_rounds, player_to_round_actions):
                 player_to_winning_rounds[player].append(poker_round)
         
     return player_to_winning_rounds
+ 
+# returns the number of times per player that they showed their hidden hand
+# after they won the round
+def gentleman_scores_by_player(rounds):
+    rounds_without_winner_showing_hand = list(filter(lambda r: r.winning_hands == [], rounds))
+    player_to_num_hand_shows_post_win = defaultdict(lambda: 0)
+    for round in rounds_without_winner_showing_hand:
+        for winning_player in round.winning_players:
+            if winning_player in round.player_to_hand: # if we know what their hand is
+                player_to_num_hand_shows_post_win[winning_player] += 1
+
+    return player_to_num_hand_shows_post_win
+
 
 def print_core_stats(rounds):
     num_rounds_with_player = rounds_played_by_players(rounds)
@@ -514,6 +527,14 @@ def print_core_stats(rounds):
     print("\n------- Biggest Winning Hand")
     print(f'{", ".join(biggest_win_round.winning_players)} won the most at {biggest_win_round.winning_amounts} on {biggest_win_round.start_time}.\nTable cards: {biggest_win_round.table_cards}.\nWinning hands: {", ".join(biggest_win_round.winning_hands)}.\nAll player\'s cards: {biggest_win_round.player_to_hand}')
     
+    gent_scores_by_player_dict = gentleman_scores_by_player(rounds)
+    gent_scores_by_player = list(gent_scores_by_player_dict.items())
+    gent_scores_by_player.sort(key=lambda p: p[1], reverse=True)
+    
+    print("\n------- Gentleman Scores (Showing Hidden Hand After Win)")
+    formatted = "\n".join("{: >10} {: >5} ({:,.2f}%)".format(player, gent_score, gent_score / len(all_player_wins[player]) * 100.0) for player, gent_score in gent_scores_by_player)
+    print(formatted)
+
     all_pre_flop_actions = reduce(lambda acc_actions, round: acc_actions + round.pre_flop_actions(), rounds, [])
     all_pre_turn_actions = reduce(lambda acc_actions, round: acc_actions + round.pre_turn_actions(), rounds, [])
     all_pre_river_actions = reduce(lambda acc_actions, round: acc_actions + round.pre_river_actions(), rounds, [])
