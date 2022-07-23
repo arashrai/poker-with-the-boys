@@ -7,6 +7,8 @@ import argparse
 import re
 from pprint import pprint
 from collections import defaultdict
+from enum import Enum
+from functools import reduce
 
 CSV_FILE = "logs/poker_night_20220707.csv"
 START_HAND_REGEX = re.compile('\"-- starting hand \#(\d+).*,(\d+)')
@@ -19,10 +21,17 @@ PLAYER_HAND_REGEX = re.compile('"""(.*?) @ \S+ shows a ([^.]+)')
 PLAYER_STACK_REGEX = re.compile('#\d+ ""(.*?) @ [^\""]+"" \((\d+)\)')
 PLAYER_WINNER_WITH_HAND_REGEX = re.compile('"""(.*?) @ \S+ collected (\d+) from pot with (.*?)"')
 PLAYER_WINNER_WITHOUT_HAND_REGEX = re.compile('"""(.*?) @ \S+ collected (\d+) from pot')
-FLOP_CARDS_REGEX = re.compile('"Flop:  \[(.*?)]') # why does "Flop:  " have two spaces smh
-TURN_OR_RIVER_CARD_REGEX = re.compile('"(Turn|River): .* \[(.*?)]')
+FLOP_CARDS_REGEX = re.compile('"Flop:  \[(.*?)]",[^,]+,(\d+)') # why does "Flop:  " have two spaces smh
+TURN_CARD_REGEX = re.compile('"Turn: .* \[(.*?)]",[^,]+,(\d+)')
+RIVER_CARD_REGEX = re.compile('"River: .* \[(.*?)]",[^,]+,(\d+)')
 UNDEALT_CARDS_REGEX = re.compile('"Undealt cards: .* \[(.*?)]')
 PLAYER_NAME_REGEX = re.compile('[\"]{2,3}(\S+) @ ') # can have two or three " before name
+PLAYER_INITIAL_POST_REGEX = re.compile('"""(.*?) @ \w+"" posts a (straddle|big blind|small blind) of (\d+)",[^,]+,(\d+)')
+PLAYER_FOLDS_REGEX = re.compile('"""(.*?) @ \w+"" folds",[^,]+,(\d+)')
+PLAYER_CALLS_REGEX = re.compile('"""(.*?) @ \w+"" calls (\d+)",[^,]+,(\d+)')
+PLAYER_CHECKS_REGEX = re.compile('"""(.*?) @ \w+"" checks",[^,]+,(\d+)')
+PLAYER_BETS_REGEX = re.compile('"""(.*?) @ \w+"" bets (\d+)",[^,]+,(\d+)')
+PLAYER_RAISES_REGEX = re.compile('"""(.*?) @ \w+"" raises to (\d+)",[^,]+,(\d+)')
 
 # If we get new players need to add them here
 KNOWN_NAME_FIX_UPS = {
@@ -54,6 +63,28 @@ KNOWN_NAME_FIX_UPS = {
         "max": "Max",
         "sam": "Sam",
 }
+
+class RoundAction(Enum):
+    posts_small_blind = "small blind"
+    posts_big_blind = "big blind"
+    posts_straddle = "straddle"
+    bets = "bets"
+    folds = "folds"
+    raises = "raises"
+    checks = "checks"
+    calls = "calls"
+
+class PlayerRoundAction(): # TODO: track if "go all in" from logs too
+    def __init__(self, player, round_action, unix_time, amount=0):
+        self.player = player
+        self.amount = int(amount)
+        self.action_type = round_action
+        self.time = datetime.fromtimestamp(int(unix_time) / 100000)
+        
+    def to_string(self):
+        if self.amount > 0:
+            return f'{self.player} {self.action_type.value} {self.amount} at {self.time}'
+        return f'{self.player} {self.action_type.value} at {self.time}'
 
 TYPE_STAND = 1
 TYPE_SIT = 2
@@ -171,6 +202,7 @@ class PokerRound(): # multiple rounds in a poker night event
         self.extract_hands(round_logs)
         self.extract_admin_balance_adjustments(round_logs)
         self.extract_player_movements(round_logs)
+        self.extract_player_actions_during_round(round_logs)
 
     def metadata_extraction(self, round_logs):
         start_log = round_logs[0]
@@ -250,12 +282,75 @@ class PokerRound(): # multiple rounds in a poker night event
     def extract_table_cards(self, round_logs):
         for row in round_logs:
             if re.match(FLOP_CARDS_REGEX, row):
-                self.table_cards = re.findall(FLOP_CARDS_REGEX, row)[0].split(", ")
+                table_cards, unix_time = re.findall(FLOP_CARDS_REGEX, row)[0]
+                self.table_cards = table_cards.split(", ")
+                self.flop_time = datetime.fromtimestamp(int(unix_time) / 100000)
             elif re.match(UNDEALT_CARDS_REGEX, row):
                 self.undealt_cards = re.findall(UNDEALT_CARDS_REGEX, row)[0].split(", ")
-            elif re.match(TURN_OR_RIVER_CARD_REGEX, row):
-                _, new_card = re.findall(TURN_OR_RIVER_CARD_REGEX, row)[0]
+            elif re.match(TURN_CARD_REGEX, row):
+                new_card, unix_time = re.findall(TURN_CARD_REGEX, row)[0]
                 self.table_cards.append(new_card)
+                self.turn_time = datetime.fromtimestamp(int(unix_time) / 100000)
+            elif re.match(RIVER_CARD_REGEX, row):
+                new_card, unix_time = re.findall(RIVER_CARD_REGEX, row)[0]
+                self.table_cards.append(new_card)
+                self.river_time = datetime.fromtimestamp(int(unix_time) / 100000)
+
+    def extract_player_actions_during_round(self, round_logs):
+        player_actions = [] # list of PlayerRoundActions
+        for row in round_logs:
+            if re.match(PLAYER_INITIAL_POST_REGEX, row):
+                player, action_type, amount, unix_time = re.findall(PLAYER_INITIAL_POST_REGEX, row)[0]
+                player_actions.append(PlayerRoundAction(player, RoundAction(action_type), unix_time, amount))
+            elif re.match(PLAYER_FOLDS_REGEX, row):
+                player, unix_time = re.findall(PLAYER_FOLDS_REGEX, row)[0]
+                player_actions.append(PlayerRoundAction(player, RoundAction.folds, unix_time))
+            elif re.match(PLAYER_CHECKS_REGEX, row):
+                player, unix_time = re.findall(PLAYER_CHECKS_REGEX, row)[0]
+                player_actions.append(PlayerRoundAction(player, RoundAction.checks, unix_time))
+            elif re.match(PLAYER_CALLS_REGEX, row):
+                player, amount, unix_time = re.findall(PLAYER_CALLS_REGEX, row)[0]
+                player_actions.append(PlayerRoundAction(player, RoundAction.calls, unix_time, amount))
+            elif re.match(PLAYER_BETS_REGEX, row):
+                player, amount, unix_time = re.findall(PLAYER_BETS_REGEX, row)[0]
+                player_actions.append(PlayerRoundAction(player, RoundAction.bets, unix_time, amount))
+            elif re.match(PLAYER_RAISES_REGEX, row):
+                player, amount, unix_time = re.findall(PLAYER_RAISES_REGEX, row)[0]
+                player_actions.append(PlayerRoundAction(player, RoundAction.raises, unix_time, amount))
+        
+        self.player_actions = player_actions
+        
+    def pre_flop_actions(self):
+        if not hasattr(self, 'flop_time'): # sometimes rounds don't go to a flop
+            return self.player_actions
+            
+        return list(filter(lambda action: action.time < self.flop_time, self.player_actions))
+
+    def pre_turn_actions(self):
+        if not hasattr(self, 'flop_time'):
+            return []
+
+        # if the round ends after the flop, but before the turn, get all the actions after flop
+        if not hasattr(self, 'turn_time'):
+            return list(filter(lambda action: action.time >= self.flop_time, self.player_actions))
+
+        return list(filter(lambda action: action.time >= self.flop_time and action.time < self.turn_time, self.player_actions))
+
+    def pre_river_actions(self):
+        if not hasattr(self, 'turn_time'): # sometimes rounds don't go to a turn
+            return []
+    
+        # if the round ends after the turn, but before the river, get all the actions after turn
+        if not hasattr(self, 'river_time'):
+            return list(filter(lambda action: action.time >= self.turn_time, self.player_actions))
+
+        return list(filter(lambda action: action.time >= self.turn_time and action.time < self.river_time, self.player_actions))
+    
+    def post_river_actions(self):
+        if not hasattr(self, 'river_time'): # sometimes rounds don't go to a turn or river
+            return []
+        
+        return list(filter(lambda action: action.time >= self.river_time, self.player_actions))
 
 def date_of_csv(csv_name):
     return datetime.strptime(csv_name.split(".")[0].split("_")[2], "%Y%m%d").date()
@@ -348,22 +443,90 @@ def rounds_played_by_players(rounds):
             player_round_counts[player] += 1
         
     return player_round_counts
+    
+# returns the largest raise/bet for the round actions provided
+def largest_raise_or_bet_for_round_actions(round_actions):
+    biggest_raise_action = None
+    
+    raise_or_bet_actions = filter(lambda action: action.action_type in [RoundAction.raises, RoundAction.bets], round_actions)
+    for raise_action in raise_or_bet_actions:
+        if biggest_raise_action is None or raise_action.amount > biggest_raise_action.amount:
+                biggest_raise_action = raise_action
+    
+    return biggest_raise_action
+    
+# returns the number of folds per player in round_actions
+def number_of_folds_per_player(round_actions):
+    player_folds = defaultdict(lambda: 0)
+    fold_actions = filter(lambda action: action.action_type == RoundAction.folds, round_actions)
+    for action in fold_actions:
+        player_folds[action.player] += 1
+        
+    return player_folds
+        
 
 def print_core_stats(rounds):
     num_rounds_with_player = rounds_played_by_players(rounds)
     most_wins_player, winning_rounds, all_player_wins = most_wins(rounds)
-    print(f'{most_wins_player} won the most rounds at {len(winning_rounds)} rounds out of {num_rounds_with_player[most_wins_player]} played rounds ({len(winning_rounds)/num_rounds_with_player[most_wins_player] * 100:.2f}%).')
     
     all_player_wins_list = list(all_player_wins.items())
     all_player_wins_list.sort(key=lambda w: len(w[1]), reverse=True)
-    print("-------")
+    print("\n------- Winning Hands of Hands Played")
+    print(f'{most_wins_player} won the most rounds at {len(winning_rounds)} rounds out of {num_rounds_with_player[most_wins_player]} played rounds ({len(winning_rounds)/num_rounds_with_player[most_wins_player] * 100:.2f}%).\n')
     for player, rounds_won in all_player_wins_list:
         print(f'{player} won {len(rounds_won)}/{num_rounds_with_player[player]} ({len(rounds_won)/num_rounds_with_player[player] * 100:.2f}%)')
-    print("-------\n")
-
 
     biggest_win_round = biggest_win(rounds)
+    print("\n------- Biggest Winning Hand")
     print(f'{", ".join(biggest_win_round.winning_players)} won the most at {biggest_win_round.winning_amounts} on {biggest_win_round.start_time}.\nTable cards: {biggest_win_round.table_cards}.\nWinning hands: {", ".join(biggest_win_round.winning_hands)}.\nAll player\'s cards: {biggest_win_round.player_to_hand}')
+    
+    all_pre_flop_actions = reduce(lambda acc_actions, round: acc_actions + round.pre_flop_actions(), rounds, [])
+    all_pre_turn_actions = reduce(lambda acc_actions, round: acc_actions + round.pre_turn_actions(), rounds, [])
+    all_pre_river_actions = reduce(lambda acc_actions, round: acc_actions + round.pre_river_actions(), rounds, [])
+    all_post_river_actions = reduce(lambda acc_actions, round: acc_actions + round.post_river_actions(), rounds, [])
+
+    biggest_raise_pre_flop = largest_raise_or_bet_for_round_actions(all_pre_flop_actions)
+    biggest_raise_pre_turn = largest_raise_or_bet_for_round_actions(all_pre_turn_actions)
+    biggest_raise_pre_river = largest_raise_or_bet_for_round_actions(all_pre_river_actions)
+    biggest_raise_post_river = largest_raise_or_bet_for_round_actions(all_post_river_actions)
+    
+    print("\n------- Biggest Raises/Bets")
+    if biggest_raise_pre_flop:
+        print(f'Pre-flop: {biggest_raise_pre_flop.to_string()}')
+    if biggest_raise_pre_turn:
+        print(f'Pre-turn: {biggest_raise_pre_turn.to_string()}')
+    if biggest_raise_pre_river:
+        print(f'Pre-river: {biggest_raise_pre_river.to_string()}')
+    if biggest_raise_post_river:
+        print(f'Post-river: {biggest_raise_post_river.to_string()}')
+        
+    player_pre_flop_folds = list(number_of_folds_per_player(all_pre_flop_actions).items())
+    player_pre_flop_folds.sort(key=lambda w: w[1], reverse=True)
+    
+    player_pre_turn_folds = list(number_of_folds_per_player(all_pre_turn_actions).items())
+    player_pre_turn_folds.sort(key=lambda w: w[1], reverse=True)
+
+    player_pre_river_folds = list(number_of_folds_per_player(all_pre_river_actions).items())
+    player_pre_river_folds.sort(key=lambda w: w[1], reverse=True)
+
+    player_post_river_folds = list(number_of_folds_per_player(all_post_river_actions).items())
+    player_post_river_folds.sort(key=lambda w: w[1], reverse=True)
+
+    print("\n------- Fold Times Per Player")
+    print("--- Pre-flop")
+    formatted = "\n".join("{: >10} {: >10}".format(player, fold_count) for player, fold_count in player_pre_flop_folds)
+    print(formatted)
+    print("--- Pre-turn")
+    formatted = "\n".join("{: >10} {: >10}".format(player, fold_count) for player, fold_count in player_pre_turn_folds)
+    print(formatted)
+    print("--- Pre-river")
+    formatted = "\n".join("{: >10} {: >10}".format(player, fold_count) for player, fold_count in player_pre_river_folds)
+    print(formatted)
+    print("--- Post-river")
+    
+    formatted = "\n".join("{: >10} {: >10}".format(player, fold_count) for player, fold_count in player_post_river_folds)
+    print(formatted)
+
 
 ### Main execution
 
