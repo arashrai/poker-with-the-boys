@@ -1050,7 +1050,6 @@ entry,at,order
 "Your hand is 2♦, 7♦",2022-07-29T01:22:11.456Z,165905773145606
 "Player stacks: #2 ""Spenny @ nR6Yv41Maz"" (900) | #4 ""goeogog @ G4RdqDSm6Z"" (760) | #5 ""Stevo @ 5Ep7Sc0sJg"" (860) | #6 ""arash @ huBdniBdCU"" (3060) | #7 ""Jonah @ KdrqU8EIQ1"" (1820) | #9 ""peelic @ c2JqQCu6sT"" (1600)",2022-07-29T01:22:11.456Z,165905773145602
 "-- starting hand #53  (No Limit Texas Hold'em) (dealer: ""arash @ huBdniBdCU"") --",2022-07-29T01:22:11.456Z,165905773145601
-"The player ""peelic @ c2JqQCu6sT"" joined the game with a stack of 1600.",2022-07-29T01:22:11.456Z,165905773145600
 """goeogog @ G4RdqDSm6Z"" shows a 3♠, A♣.",2022-07-29T01:22:07.294Z,165905772729400
 "-- ending hand #52 --",2022-07-29T01:22:04.947Z,165905772494702
 """Spenny @ nR6Yv41Maz"" collected 170 from pot with Pair, 4's (combination: 4♣, 4♠, A♦, K♠, 7♣)",2022-07-29T01:22:04.947Z,165905772494701
@@ -1063,9 +1062,7 @@ entry,at,order
 """Jonah @ KdrqU8EIQ1"" checks",2022-07-29T01:21:49.643Z,165905770964300
 "Turn: 7♣, A♦, 2♠ [K♠]",2022-07-29T01:21:47.340Z,165905770734000
 """Spenny @ nR6Yv41Maz"" checks",2022-07-29T01:21:46.509Z,165905770650900
-"The admin approved the player ""peelic @ c2JqQCu6sT"" participation with a stack of 1600.",2022-07-29T01:21:45.211Z,165905770521100
 """Jonah @ KdrqU8EIQ1"" checks",2022-07-29T01:21:41.297Z,165905770129700
-"The player ""peelic @ c2JqQCu6sT"" requested a seat.",2022-07-29T01:21:41.117Z,165905770111700
 "Flop:  [7♣, A♦, 2♠]",2022-07-29T01:21:35.929Z,165905769592900
 """Jonah @ KdrqU8EIQ1"" calls 60",2022-07-29T01:21:35.080Z,165905769508000
 """arash @ huBdniBdCU"" folds",2022-07-29T01:21:34.167Z,165905769416700
@@ -1168,7 +1165,6 @@ entry,at,order
 "Your hand is 7♥, J♣",2022-07-29T01:17:49.869Z,165905746986906
 "Player stacks: #2 ""Spenny @ nR6Yv41Maz"" (240) | #4 ""goeogog @ G4RdqDSm6Z"" (880) | #5 ""Stevo @ 5Ep7Sc0sJg"" (920) | #6 ""arash @ huBdniBdCU"" (3260) | #7 ""Jonah @ KdrqU8EIQ1"" (2100)",2022-07-29T01:17:49.869Z,165905746986902
 "-- starting hand #49  (No Limit Texas Hold'em) (dead button) --",2022-07-29T01:17:49.869Z,165905746986901
-"The player ""peelic @ c2JqQCu6sT"" quits the game with a stack of 1600.",2022-07-29T01:17:49.869Z,165905746986900
 """Stevo @ 5Ep7Sc0sJg"" shows a 10♥, 7♠.",2022-07-29T01:17:45.370Z,165905746537000
 "Undealt cards: Q♥, 10♠, 8♦, 2♠ [A♣]",2022-07-29T01:17:44.734Z,165905746473400
 "-- ending hand #48 --",2022-07-29T01:17:43.262Z,165905746326202
