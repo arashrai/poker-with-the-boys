@@ -546,11 +546,11 @@ def print_core_stats(rounds):
     biggest_raise_post_river = largest_raise_or_bet_for_round_actions(all_post_river_actions)
     
     print("\n------- Biggest Raises/Bets")
-    if biggest_raise_pre_flop:
-        print("--- Pre-flop")
-        print(f'{biggest_raise_pre_flop.to_string()}')
-        round = poker_round_for_timestamp(rounds, biggest_raise_pre_flop.time)
-        print(f'  {", ".join(round.winning_players)} won {round.winning_amounts} this round\n  Table cards: {round.table_cards}\n  Winning hands: {", ".join(round.winning_hands)}\n  All player\'s cards: {round.player_to_hand}')
+    # if biggest_raise_pre_flop:
+    #     print("--- Pre-flop")
+    #     print(f'{biggest_raise_pre_flop.to_string()}')
+    #     round = poker_round_for_timestamp(rounds, biggest_raise_pre_flop.time)
+    #     print(f'  {", ".join(round.winning_players)} won {round.winning_amounts} this round\n  Table cards: {round.table_cards}\n  Winning hands: {", ".join(round.winning_hands)}\n  All player\'s cards: {round.player_to_hand}')
     if biggest_raise_pre_turn:
         print("--- Pre-turn")
         print(f'{biggest_raise_pre_turn.to_string()}')
