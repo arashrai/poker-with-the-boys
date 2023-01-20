@@ -63,6 +63,7 @@ KNOWN_NAME_FIX_UPS = {
         "max": "Max",
         "sam": "Sam",
         "daveeeeeed": "David",
+        "stevo-tesla": "Stephen",        
 }
 
 class RoundAction(Enum):
