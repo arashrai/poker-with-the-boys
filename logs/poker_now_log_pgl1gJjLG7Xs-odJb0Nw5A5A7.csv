@@ -1,0 +1,1675 @@
+entry,at,order
+"""Jonah @ axh4B_jN0P"" posts a big blind of 20",2023-01-27T03:01:36.228Z,167478849622808
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-01-27T03:01:36.228Z,167478849622807
+"Your hand is 6♠, 9♦",2023-01-27T03:01:36.228Z,167478849622803
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (810) | #4 ""arash @ --uhQWY45j"" (2310) | #5 ""peelic @ c2JqQCu6sT"" (880) | #7 ""Jonah @ axh4B_jN0P"" (2970) | #8 ""Stevo @ 5Ep7Sc0sJg"" (30)",2023-01-27T03:01:36.228Z,167478849622801
+"-- starting hand #60 (id: 6cmpyglszvru)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-01-27T03:01:36.228Z,167478849622800
+"-- ending hand #59 --",2023-01-27T03:01:30.223Z,167478849022301
+"""peelic @ c2JqQCu6sT"" collected 880 from pot with Three of a Kind, 10's (combination: 10♦, 10♠, 10♥, A♥, J♣)",2023-01-27T03:01:30.223Z,167478849022300
+"River: 10♠, 5♥, 10♥, A♥ [J♣]",2023-01-27T03:01:26.219Z,167478848621900
+"Turn: 10♠, 5♥, 10♥ [A♥]",2023-01-27T03:01:22.195Z,167478848219500
+"Flop:  [10♠, 5♥, 10♥]",2023-01-27T03:01:18.186Z,167478847818600
+"""Stevo @ 5Ep7Sc0sJg"" shows a 9♠, J♦.",2023-01-27T03:01:14.092Z,167478847409201
+"""peelic @ c2JqQCu6sT"" shows a 2♦, 10♦.",2023-01-27T03:01:14.092Z,167478847409200
+"""arash @ --uhQWY45j"" folds",2023-01-27T03:01:13.275Z,167478847327500
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T03:01:12.371Z,167478847237100
+"""Stevo @ 5Ep7Sc0sJg"" calls 410",2023-01-27T03:01:00.394Z,167478846039400
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T03:00:58.338Z,167478845833800
+"""peelic @ c2JqQCu6sT"" raises to 410 and go all in",2023-01-27T03:00:57.271Z,167478845727100
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T03:00:55.454Z,167478845545400
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T03:00:54.515Z,167478845451500
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T03:00:52.100Z,167478845210000
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T03:00:50.850Z,167478845085000
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-01-27T03:00:49.366Z,167478844936608
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-01-27T03:00:49.366Z,167478844936607
+"Your hand is 6♥, 3♣",2023-01-27T03:00:49.366Z,167478844936603
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (830) | #4 ""arash @ --uhQWY45j"" (2330) | #5 ""peelic @ c2JqQCu6sT"" (410) | #7 ""Jonah @ axh4B_jN0P"" (2990) | #8 ""Stevo @ 5Ep7Sc0sJg"" (440)",2023-01-27T03:00:49.366Z,167478844936601
+"-- starting hand #59 (id: yvxjzdgnag9n)  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2023-01-27T03:00:49.366Z,167478844936600
+"""Stevo @ 5Ep7Sc0sJg"" shows a 6♥, 4♥.",2023-01-27T03:00:43.792Z,167478844379200
+"""Jonah @ axh4B_jN0P"" shows a 10♥, 8♣.",2023-01-27T03:00:43.085Z,167478844308500
+"-- ending hand #58 --",2023-01-27T03:00:42.272Z,167478844227204
+"""peelic @ c2JqQCu6sT"" collected 110 from pot with Pair, Q's (combination: Q♦, Q♥, K♥, J♠, 9♦)",2023-01-27T03:00:42.272Z,167478844227203
+"""peelic @ c2JqQCu6sT"" shows a K♥, 6♠.",2023-01-27T03:00:42.272Z,167478844227202
+"""arash @ --uhQWY45j"" collected 110 from pot with Pair, Q's (combination: Q♦, Q♥, K♠, J♠, 9♦)",2023-01-27T03:00:42.272Z,167478844227201
+"""arash @ --uhQWY45j"" shows a 4♣, K♠.",2023-01-27T03:00:42.272Z,167478844227200
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T03:00:41.439Z,167478844143900
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T03:00:40.480Z,167478844048000
+"""arash @ --uhQWY45j"" checks",2023-01-27T03:00:39.458Z,167478843945800
+"River: Q♦, 3♦, Q♥, 9♦ [J♠]",2023-01-27T03:00:34.755Z,167478843475500
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T03:00:33.834Z,167478843383400
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T03:00:32.845Z,167478843284500
+"""arash @ --uhQWY45j"" checks",2023-01-27T03:00:30.794Z,167478843079400
+"Turn: Q♦, 3♦, Q♥ [9♦]",2023-01-27T03:00:29.152Z,167478842915200
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T03:00:28.308Z,167478842830800
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T03:00:22.112Z,167478842211200
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T03:00:19.214Z,167478841921400
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T03:00:17.417Z,167478841741700
+"""peelic @ c2JqQCu6sT"" bets 40",2023-01-27T03:00:16.463Z,167478841646300
+"""arash @ --uhQWY45j"" checks",2023-01-27T03:00:14.126Z,167478841412600
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T03:00:12.851Z,167478841285100
+"Flop:  [Q♦, 3♦, Q♥]",2023-01-27T03:00:07.909Z,167478840790900
+"""arash @ --uhQWY45j"" checks",2023-01-27T03:00:07.100Z,167478840710000
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T03:00:05.318Z,167478840531800
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T03:00:02.585Z,167478840258500
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T03:00:01.366Z,167478840136600
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T03:00:00.406Z,167478840040600
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-01-27T02:59:58.932Z,167478839893208
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2023-01-27T02:59:58.932Z,167478839893207
+"Your hand is 4♣, K♠",2023-01-27T02:59:58.932Z,167478839893203
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (850) | #4 ""arash @ --uhQWY45j"" (2280) | #5 ""peelic @ c2JqQCu6sT"" (360) | #7 ""Jonah @ axh4B_jN0P"" (3010) | #8 ""Stevo @ 5Ep7Sc0sJg"" (500)",2023-01-27T02:59:58.932Z,167478839893201
+"-- starting hand #58 (id: tigd39ai8xmb)  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2023-01-27T02:59:58.932Z,167478839893200
+"""Stevo @ 5Ep7Sc0sJg"" shows a 8♥, 7♣.",2023-01-27T02:59:54.126Z,167478839412600
+"""Spenny @ cu8vqwqurV"" shows a 8♠, 3♣.",2023-01-27T02:59:53.043Z,167478839304300
+"-- ending hand #57 --",2023-01-27T02:59:51.883Z,167478839188302
+"""arash @ --uhQWY45j"" collected 640 from pot with Pair, K's (combination: K♥, K♣, A♠, 8♦, 6♦)",2023-01-27T02:59:51.883Z,167478839188301
+"""arash @ --uhQWY45j"" shows a 6♦, K♥.",2023-01-27T02:59:51.883Z,167478839188300
+"""Spenny @ cu8vqwqurV"" calls 120",2023-01-27T02:59:51.068Z,167478839106800
+"""arash @ --uhQWY45j"" raises to 120",2023-01-27T02:59:41.941Z,167478838194100
+"""Spenny @ cu8vqwqurV"" bets 20",2023-01-27T02:59:38.619Z,167478837861900
+"River: 2♠, 8♦, A♠, K♣ [5♣]",2023-01-27T02:59:31.066Z,167478837106600
+"""Spenny @ cu8vqwqurV"" calls 60",2023-01-27T02:59:30.251Z,167478837025100
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:59:27.240Z,167478836724000
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:59:26.301Z,167478836630100
+"""arash @ --uhQWY45j"" bets 60",2023-01-27T02:59:24.763Z,167478836476300
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:59:21.927Z,167478836192700
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:59:18.096Z,167478835809600
+"Turn: 2♠, 8♦, A♠ [K♣]",2023-01-27T02:59:16.953Z,167478835695300
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:59:16.107Z,167478835610700
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:59:13.692Z,167478835369200
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:59:10.637Z,167478835063700
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:59:09.710Z,167478834971000
+"""Spenny @ cu8vqwqurV"" bets 20",2023-01-27T02:59:08.099Z,167478834809900
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:59:00.723Z,167478834072300
+"Flop:  [2♠, 8♦, A♠]",2023-01-27T02:58:57.842Z,167478833784200
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:58:56.980Z,167478833698000
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:58:50.252Z,167478833025200
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:58:49.193Z,167478832919300
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:58:48.262Z,167478832826200
+"""arash @ --uhQWY45j"" raises to 40",2023-01-27T02:58:47.292Z,167478832729200
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2023-01-27T02:58:45.658Z,167478832565808
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 10",2023-01-27T02:58:45.658Z,167478832565807
+"Your hand is 6♦, K♥",2023-01-27T02:58:45.658Z,167478832565803
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1090) | #4 ""arash @ --uhQWY45j"" (1880) | #5 ""peelic @ c2JqQCu6sT"" (400) | #7 ""Jonah @ axh4B_jN0P"" (3070) | #8 ""Stevo @ 5Ep7Sc0sJg"" (560)",2023-01-27T02:58:45.658Z,167478832565801
+"-- starting hand #57 (id: djrlhy17ijmi)  (No Limit Texas Hold'em) (dealer: ""Jonah @ axh4B_jN0P"") --",2023-01-27T02:58:45.658Z,167478832565800
+"-- ending hand #56 --",2023-01-27T02:58:39.635Z,167478831963503
+"""Stevo @ 5Ep7Sc0sJg"" shows a K♠, 6♥.",2023-01-27T02:58:39.635Z,167478831963502
+"""Spenny @ cu8vqwqurV"" collected 300 from pot with Two Pair, 9's & 3's (combination: 9♠, 9♥, 3♣, 3♠, K♣)",2023-01-27T02:58:39.635Z,167478831963501
+"""Spenny @ cu8vqwqurV"" shows a 9♠, 3♣.",2023-01-27T02:58:39.635Z,167478831963500
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:58:38.743Z,167478831874300
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2023-01-27T02:58:37.388Z,167478831738800
+"River: K♣, 3♠, 9♥, Q♠ [J♣]",2023-01-27T02:58:36.226Z,167478831622600
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:58:35.351Z,167478831535100
+"""Spenny @ cu8vqwqurV"" raises to 40",2023-01-27T02:58:34.391Z,167478831439100
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2023-01-27T02:58:32.135Z,167478831213500
+"Turn: K♣, 3♠, 9♥ [Q♠]",2023-01-27T02:58:31.224Z,167478831122400
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:58:30.419Z,167478831041900
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:58:29.381Z,167478830938100
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:58:28.458Z,167478830845800
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:58:27.074Z,167478830707400
+"""Spenny @ cu8vqwqurV"" raises to 40",2023-01-27T02:58:25.568Z,167478830556800
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2023-01-27T02:58:19.838Z,167478829983800
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:58:18.631Z,167478829863100
+"Flop:  [K♣, 3♠, 9♥]",2023-01-27T02:58:16.407Z,167478829640700
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:58:15.525Z,167478829552500
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:58:14.621Z,167478829462100
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:58:12.878Z,167478829287800
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:58:11.958Z,167478829195800
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:58:11.024Z,167478829102400
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 20",2023-01-27T02:58:00.688Z,167478828068808
+"""Jonah @ axh4B_jN0P"" posts a small blind of 10",2023-01-27T02:58:00.688Z,167478828068807
+"Your hand is 8♦, 5♦",2023-01-27T02:58:00.688Z,167478828068803
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (910) | #4 ""arash @ --uhQWY45j"" (1900) | #5 ""peelic @ c2JqQCu6sT"" (420) | #7 ""Jonah @ axh4B_jN0P"" (3090) | #8 ""Stevo @ 5Ep7Sc0sJg"" (680)",2023-01-27T02:58:00.688Z,167478828068801
+"-- starting hand #56 (id: lw7fe1coeg1i)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-01-27T02:58:00.688Z,167478828068800
+"""peelic @ c2JqQCu6sT"" shows a 5♣, 5♠.",2023-01-27T02:57:57.276Z,167478827727600
+"-- ending hand #55 --",2023-01-27T02:57:54.178Z,167478827417802
+"""Jonah @ axh4B_jN0P"" collected 1090 from pot with Two Pair, 7's & 6's (combination: 7♣, 7♦, 6♣, 6♠, A♠)",2023-01-27T02:57:54.178Z,167478827417801
+"""Jonah @ axh4B_jN0P"" shows a 6♣, 6♠.",2023-01-27T02:57:54.178Z,167478827417800
+"""peelic @ c2JqQCu6sT"" calls 80",2023-01-27T02:57:53.310Z,167478827331000
+"""arash @ --uhQWY45j"" calls 80",2023-01-27T02:57:52.424Z,167478827242400
+"""Jonah @ axh4B_jN0P"" bets 80",2023-01-27T02:57:41.965Z,167478826196500
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:57:38.851Z,167478825885100
+"River: 7♣, 7♦, 3♠, A♠ [J♣]",2023-01-27T02:57:37.370Z,167478825737000
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:57:36.510Z,167478825651000
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:57:35.440Z,167478825544000
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:57:33.807Z,167478825380700
+"Turn: 7♣, 7♦, 3♠ [A♠]",2023-01-27T02:57:32.767Z,167478825276700
+"""arash @ --uhQWY45j"" calls 110",2023-01-27T02:57:31.890Z,167478825189000
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:57:30.661Z,167478825066100
+"""Jonah @ axh4B_jN0P"" calls 110",2023-01-27T02:57:29.750Z,167478824975000
+"""peelic @ c2JqQCu6sT"" bets 110",2023-01-27T02:57:27.179Z,167478824717900
+"Flop:  [7♣, 7♦, 3♠]",2023-01-27T02:57:23.462Z,167478824346200
+"""arash @ --uhQWY45j"" calls 130",2023-01-27T02:57:22.638Z,167478824263800
+"""Stevo @ 5Ep7Sc0sJg"" calls 130",2023-01-27T02:57:21.743Z,167478824174300
+"""Jonah @ axh4B_jN0P"" calls 130",2023-01-27T02:57:20.854Z,167478824085400
+"""peelic @ c2JqQCu6sT"" raises to 130",2023-01-27T02:57:18.144Z,167478823814400
+"""arash @ --uhQWY45j"" raises to 40",2023-01-27T02:57:15.011Z,167478823501100
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:57:12.515Z,167478823251500
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:57:11.634Z,167478823163400
+"""Jonah @ axh4B_jN0P"" posts a big blind of 20",2023-01-27T02:57:10.604Z,167478823060408
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-01-27T02:57:10.604Z,167478823060407
+"Your hand is K♠, 10♠",2023-01-27T02:57:10.604Z,167478823060403
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (910) | #4 ""arash @ --uhQWY45j"" (2220) | #5 ""peelic @ c2JqQCu6sT"" (740) | #7 ""Jonah @ axh4B_jN0P"" (2320) | #8 ""Stevo @ 5Ep7Sc0sJg"" (810)",2023-01-27T02:57:10.604Z,167478823060401
+"-- starting hand #55 (id: w5gq9ii0ilag)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-01-27T02:57:10.604Z,167478823060400
+"-- ending hand #54 --",2023-01-27T02:57:04.551Z,167478822455103
+"""arash @ --uhQWY45j"" shows a 2♣, J♣.",2023-01-27T02:57:04.551Z,167478822455102
+"""Jonah @ axh4B_jN0P"" collected 920 from pot with Two Pair, A's & 10's (combination: A♣, A♠, 10♦, 10♠, 8♦)",2023-01-27T02:57:04.551Z,167478822455101
+"""Jonah @ axh4B_jN0P"" shows a 10♦, 7♣.",2023-01-27T02:57:04.551Z,167478822455100
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:57:03.681Z,167478822368100
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:57:02.758Z,167478822275800
+"River: A♣, 10♠, 6♣, A♠ [8♦]",2023-01-27T02:56:59.944Z,167478821994400
+"""arash @ --uhQWY45j"" calls 230",2023-01-27T02:56:59.060Z,167478821906000
+"""Jonah @ axh4B_jN0P"" bets 230",2023-01-27T02:56:55.562Z,167478821556200
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:56:52.311Z,167478821231100
+"Turn: A♣, 10♠, 6♣ [A♠]",2023-01-27T02:56:49.860Z,167478820986000
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:56:49.009Z,167478820900900
+"""arash @ --uhQWY45j"" calls 160",2023-01-27T02:56:48.047Z,167478820804700
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:56:44.775Z,167478820477500
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:56:37.407Z,167478819740700
+"""Jonah @ axh4B_jN0P"" raises to 160",2023-01-27T02:56:36.475Z,167478819647500
+"""peelic @ c2JqQCu6sT"" bets 40",2023-01-27T02:56:33.056Z,167478819305600
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:56:31.093Z,167478819109300
+"Flop:  [A♣, 10♠, 6♣]",2023-01-27T02:56:29.119Z,167478818911900
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:56:28.294Z,167478818829400
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:56:27.408Z,167478818740800
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:56:25.776Z,167478818577600
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:56:17.190Z,167478817719000
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:56:16.292Z,167478817629200
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-01-27T02:56:14.314Z,167478817431408
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-01-27T02:56:14.314Z,167478817431407
+"Your hand is 2♣, J♣",2023-01-27T02:56:14.314Z,167478817431403
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (930) | #4 ""arash @ --uhQWY45j"" (2630) | #5 ""peelic @ c2JqQCu6sT"" (800) | #7 ""Jonah @ axh4B_jN0P"" (1810) | #8 ""Stevo @ 5Ep7Sc0sJg"" (830)",2023-01-27T02:56:14.314Z,167478817431401
+"-- starting hand #54 (id: lqf34ygp2hqy)  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2023-01-27T02:56:14.314Z,167478817431400
+"-- ending hand #53 --",2023-01-27T02:56:08.305Z,167478816830502
+"""arash @ --uhQWY45j"" collected 300 from pot with Pair, 8's (combination: 8♣, 8♥, A♣, J♥, 9♠)",2023-01-27T02:56:08.305Z,167478816830501
+"""arash @ --uhQWY45j"" shows a A♣, 9♠.",2023-01-27T02:56:08.305Z,167478816830500
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:56:07.446Z,167478816744600
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:56:06.473Z,167478816647300
+"River: J♥, 8♣, 8♥, 2♠ [3♠]",2023-01-27T02:56:05.104Z,167478816510400
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:56:04.232Z,167478816423200
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:56:03.125Z,167478816312500
+"Turn: J♥, 8♣, 8♥ [2♠]",2023-01-27T02:56:01.282Z,167478816128200
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:56:00.459Z,167478816045900
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:55:55.767Z,167478815576700
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:55:54.850Z,167478815485000
+"""peelic @ c2JqQCu6sT"" calls 50",2023-01-27T02:55:53.555Z,167478815355500
+"""arash @ --uhQWY45j"" bets 50",2023-01-27T02:55:52.190Z,167478815219000
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:55:48.251Z,167478814825100
+"Flop:  [J♥, 8♣, 8♥]",2023-01-27T02:55:46.184Z,167478814618400
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:55:45.352Z,167478814535200
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:55:44.460Z,167478814446000
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:55:43.564Z,167478814356400
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:55:42.640Z,167478814264000
+"""Stevo @ 5Ep7Sc0sJg"" raises to 40",2023-01-27T02:55:41.183Z,167478814118300
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:55:39.464Z,167478813946400
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:55:38.559Z,167478813855900
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-01-27T02:55:37.862Z,167478813786208
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2023-01-27T02:55:37.862Z,167478813786207
+"Your hand is A♣, 9♠",2023-01-27T02:55:37.862Z,167478813786203
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (970) | #4 ""arash @ --uhQWY45j"" (2420) | #5 ""peelic @ c2JqQCu6sT"" (890) | #7 ""Jonah @ axh4B_jN0P"" (1850) | #8 ""Stevo @ 5Ep7Sc0sJg"" (870)",2023-01-27T02:55:37.862Z,167478813786201
+"-- starting hand #53 (id: shbolygmj3qk)  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2023-01-27T02:55:37.862Z,167478813786200
+"""Spenny @ cu8vqwqurV"" shows a Q♠, J♣.",2023-01-27T02:55:35.783Z,167478813578300
+"Undealt cards: 6♥, 9♠, 3♠ [K♣, Q♥]",2023-01-27T02:55:32.374Z,167478813237400
+"-- ending hand #52 --",2023-01-27T02:55:31.199Z,167478813119902
+"""peelic @ c2JqQCu6sT"" collected 160 from pot",2023-01-27T02:55:31.199Z,167478813119901
+"Uncalled bet of 30 returned to ""peelic @ c2JqQCu6sT""",2023-01-27T02:55:31.199Z,167478813119900
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:55:30.373Z,167478813037300
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:55:29.466Z,167478812946600
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:55:28.574Z,167478812857400
+"""peelic @ c2JqQCu6sT"" raises to 50",2023-01-27T02:55:24.915Z,167478812491500
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:55:22.458Z,167478812245800
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:55:19.491Z,167478811949100
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2023-01-27T02:55:15.809Z,167478811580900
+"Flop:  [6♥, 9♠, 3♠]",2023-01-27T02:55:14.248Z,167478811424800
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:55:13.423Z,167478811342300
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:55:12.526Z,167478811252600
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:55:11.564Z,167478811156400
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:55:09.951Z,167478810995100
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:55:09.009Z,167478810900900
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2023-01-27T02:55:06.683Z,167478810668308
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 10",2023-01-27T02:55:06.683Z,167478810668307
+"Your hand is 4♣, 8♠",2023-01-27T02:55:06.683Z,167478810668303
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (990) | #4 ""arash @ --uhQWY45j"" (2460) | #5 ""peelic @ c2JqQCu6sT"" (770) | #7 ""Jonah @ axh4B_jN0P"" (1870) | #8 ""Stevo @ 5Ep7Sc0sJg"" (910)",2023-01-27T02:55:06.683Z,167478810668301
+"-- starting hand #52 (id: sjvusjkpgudw)  (No Limit Texas Hold'em) (dealer: ""Jonah @ axh4B_jN0P"") --",2023-01-27T02:55:06.683Z,167478810668300
+"-- ending hand #51 --",2023-01-27T02:55:00.680Z,167478810068004
+"""arash @ --uhQWY45j"" collected 610 from pot with Straight, J High (combination: J♦, 10♥, 9♦, 8♦, 7♠)",2023-01-27T02:55:00.680Z,167478810068003
+"""arash @ --uhQWY45j"" shows a J♦, 9♦.",2023-01-27T02:55:00.680Z,167478810068002
+"""Spenny @ cu8vqwqurV"" collected 610 from pot with Straight, J High (combination: J♠, 10♥, 9♣, 8♦, 7♠)",2023-01-27T02:55:00.680Z,167478810068001
+"""Spenny @ cu8vqwqurV"" shows a 9♣, J♠.",2023-01-27T02:55:00.680Z,167478810068000
+"""Spenny @ cu8vqwqurV"" calls 300",2023-01-27T02:54:59.851Z,167478809985100
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:54:49.614Z,167478808961400
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:54:47.811Z,167478808781100
+"""arash @ --uhQWY45j"" raises to 300",2023-01-27T02:54:46.877Z,167478808687700
+"""Spenny @ cu8vqwqurV"" calls 80",2023-01-27T02:54:36.845Z,167478807684500
+"""Jonah @ axh4B_jN0P"" bets 80",2023-01-27T02:54:35.690Z,167478807569000
+"River: 8♦, 2♥, 10♥, 9♠ [7♠]",2023-01-27T02:54:30.378Z,167478807037800
+"""peelic @ c2JqQCu6sT"" calls 60",2023-01-27T02:54:29.541Z,167478806954100
+"""arash @ --uhQWY45j"" calls 60",2023-01-27T02:54:28.606Z,167478806860600
+"""Spenny @ cu8vqwqurV"" calls 60",2023-01-27T02:54:27.675Z,167478806767500
+"""Jonah @ axh4B_jN0P"" bets 60",2023-01-27T02:54:25.506Z,167478806550600
+"Turn: 8♦, 2♥, 10♥ [9♠]",2023-01-27T02:54:22.373Z,167478806237300
+"""Spenny @ cu8vqwqurV"" calls 50",2023-01-27T02:54:21.535Z,167478806153500
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:54:18.734Z,167478805873400
+"""Jonah @ axh4B_jN0P"" calls 50",2023-01-27T02:54:17.807Z,167478805780700
+"""peelic @ c2JqQCu6sT"" calls 50",2023-01-27T02:54:16.890Z,167478805689000
+"""arash @ --uhQWY45j"" bets 50",2023-01-27T02:54:16.009Z,167478805600900
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:54:06.559Z,167478804655900
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:54:05.686Z,167478804568600
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:54:04.769Z,167478804476900
+"Flop:  [8♦, 2♥, 10♥]",2023-01-27T02:54:00.895Z,167478804089500
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:54:00.080Z,167478804008000
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:53:59.182Z,167478803918200
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:53:58.271Z,167478803827100
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:53:57.373Z,167478803737300
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:53:56.275Z,167478803627500
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 20",2023-01-27T02:53:53.591Z,167478803359108
+"""Jonah @ axh4B_jN0P"" posts a small blind of 10",2023-01-27T02:53:53.591Z,167478803359107
+"Your hand is J♦, 9♦",2023-01-27T02:53:53.591Z,167478803359103
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (810) | #4 ""arash @ --uhQWY45j"" (2280) | #5 ""peelic @ c2JqQCu6sT"" (900) | #7 ""Jonah @ axh4B_jN0P"" (2080) | #8 ""Stevo @ 5Ep7Sc0sJg"" (930)",2023-01-27T02:53:53.591Z,167478803359101
+"-- starting hand #51 (id: ppsgmqmkresk)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-01-27T02:53:53.591Z,167478803359100
+"""Stevo @ 5Ep7Sc0sJg"" shows a 5♦, 9♠.",2023-01-27T02:53:48.757Z,167478802875700
+"-- ending hand #50 --",2023-01-27T02:53:47.080Z,167478802708003
+"""peelic @ c2JqQCu6sT"" shows a 7♥, Q♣.",2023-01-27T02:53:47.080Z,167478802708002
+"""arash @ --uhQWY45j"" collected 380 from pot with Pair, 7's (combination: 7♠, 7♣, A♣, K♥, 10♠)",2023-01-27T02:53:47.080Z,167478802708001
+"""arash @ --uhQWY45j"" shows a 7♠, K♥.",2023-01-27T02:53:47.080Z,167478802708000
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:53:46.190Z,167478802619000
+"""peelic @ c2JqQCu6sT"" bets 40",2023-01-27T02:53:43.533Z,167478802353300
+"River: 9♣, 7♣, 4♦, A♣ [10♠]",2023-01-27T02:53:39.979Z,167478801997900
+"""arash @ --uhQWY45j"" calls 60",2023-01-27T02:53:39.158Z,167478801915800
+"""peelic @ c2JqQCu6sT"" bets 60",2023-01-27T02:53:35.605Z,167478801560500
+"Turn: 9♣, 7♣, 4♦ [A♣]",2023-01-27T02:53:32.678Z,167478801267800
+"""arash @ --uhQWY45j"" calls 60",2023-01-27T02:53:31.827Z,167478801182700
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:53:30.659Z,167478801065900
+"""peelic @ c2JqQCu6sT"" bets 60",2023-01-27T02:53:29.764Z,167478800976400
+"Flop:  [9♣, 7♣, 4♦]",2023-01-27T02:53:26.176Z,167478800617600
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:53:25.349Z,167478800534900
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:53:24.403Z,167478800440300
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:53:23.495Z,167478800349500
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:53:22.399Z,167478800239900
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:53:20.104Z,167478800010400
+"""Jonah @ axh4B_jN0P"" posts a big blind of 20",2023-01-27T02:53:18.861Z,167478799886108
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-01-27T02:53:18.861Z,167478799886107
+"Your hand is 7♠, K♥",2023-01-27T02:53:18.861Z,167478799886103
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (810) | #4 ""arash @ --uhQWY45j"" (2080) | #5 ""peelic @ c2JqQCu6sT"" (1080) | #7 ""Jonah @ axh4B_jN0P"" (2100) | #8 ""Stevo @ 5Ep7Sc0sJg"" (930)",2023-01-27T02:53:18.861Z,167478799886101
+"-- starting hand #50 (id: hft241iv8v1c)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-01-27T02:53:18.861Z,167478799886100
+"Undealt cards: A♦, 8♠, Q♦ [9♠, 10♦]",2023-01-27T02:53:13.991Z,167478799399100
+"-- ending hand #49 --",2023-01-27T02:53:12.868Z,167478799286802
+"""Jonah @ axh4B_jN0P"" collected 80 from pot",2023-01-27T02:53:12.868Z,167478799286801
+"Uncalled bet of 40 returned to ""Jonah @ axh4B_jN0P""",2023-01-27T02:53:12.868Z,167478799286800
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:53:12.037Z,167478799203700
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:53:11.136Z,167478799113600
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:53:10.238Z,167478799023800
+"""Jonah @ axh4B_jN0P"" bets 40",2023-01-27T02:53:09.313Z,167478798931300
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:53:06.885Z,167478798688500
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:53:05.877Z,167478798587700
+"Flop:  [A♦, 8♠, Q♦]",2023-01-27T02:53:04.342Z,167478798434200
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:53:03.483Z,167478798348300
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:53:02.592Z,167478798259200
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:53:01.617Z,167478798161700
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:52:59.181Z,167478797918100
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:52:58.263Z,167478797826300
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-01-27T02:52:56.100Z,167478797610008
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-01-27T02:52:56.100Z,167478797610007
+"Your hand is 3♦, 10♣",2023-01-27T02:52:56.100Z,167478797610003
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (810) | #4 ""arash @ --uhQWY45j"" (2100) | #5 ""peelic @ c2JqQCu6sT"" (1100) | #7 ""Jonah @ axh4B_jN0P"" (2040) | #8 ""Stevo @ 5Ep7Sc0sJg"" (950)",2023-01-27T02:52:56.100Z,167478797610001
+"-- starting hand #49 (id: 75zs3cyfpl6r)  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2023-01-27T02:52:56.100Z,167478797610000
+"Undealt cards: 4♦, 3♥, 8♣, 4♥ [9♠]",2023-01-27T02:52:50.693Z,167478797069300
+"-- ending hand #48 --",2023-01-27T02:52:50.192Z,167478797019202
+"""Stevo @ 5Ep7Sc0sJg"" collected 280 from pot",2023-01-27T02:52:50.192Z,167478797019201
+"Uncalled bet of 60 returned to ""Stevo @ 5Ep7Sc0sJg""",2023-01-27T02:52:50.192Z,167478797019200
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:52:49.354Z,167478796935400
+"""Stevo @ 5Ep7Sc0sJg"" bets 60",2023-01-27T02:52:47.235Z,167478796723500
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:52:44.904Z,167478796490400
+"Turn: 4♦, 3♥, 8♣ [4♥]",2023-01-27T02:52:42.137Z,167478796213700
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:52:41.297Z,167478796129700
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:52:39.814Z,167478795981400
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:52:38.925Z,167478795892500
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:52:34.185Z,167478795418500
+"""Stevo @ 5Ep7Sc0sJg"" bets 40",2023-01-27T02:52:30.395Z,167478795039500
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:52:27.615Z,167478794761500
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:52:26.717Z,167478794671700
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:52:24.123Z,167478794412300
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:52:22.188Z,167478794218800
+"Flop:  [4♦, 3♥, 8♣]",2023-01-27T02:52:09.110Z,167478792911000
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:52:08.302Z,167478792830200
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:52:02.943Z,167478792294300
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:52:01.983Z,167478792198300
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:52:01.060Z,167478792106000
+"""arash @ --uhQWY45j"" raises to 40",2023-01-27T02:51:59.775Z,167478791977500
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:51:57.955Z,167478791795500
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:51:57.053Z,167478791705300
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:51:56.128Z,167478791612800
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:51:55.241Z,167478791524100
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-01-27T02:51:53.849Z,167478791384908
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2023-01-27T02:51:53.849Z,167478791384907
+"Your hand is 10♣, Q♥",2023-01-27T02:51:53.849Z,167478791384903
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (850) | #4 ""arash @ --uhQWY45j"" (2140) | #5 ""peelic @ c2JqQCu6sT"" (1180) | #7 ""Jonah @ axh4B_jN0P"" (2080) | #8 ""Stevo @ 5Ep7Sc0sJg"" (750)",2023-01-27T02:51:53.849Z,167478791384901
+"-- starting hand #48 (id: qlgdqaerr8sb)  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2023-01-27T02:51:53.849Z,167478791384900
+"""Spenny @ cu8vqwqurV"" shows a Q♣, 4♣.",2023-01-27T02:51:50.580Z,167478791058000
+"""Stevo @ 5Ep7Sc0sJg"" shows a J♠, J♣.",2023-01-27T02:51:47.596Z,167478790759600
+"-- ending hand #47 --",2023-01-27T02:51:46.843Z,167478790684302
+"""peelic @ c2JqQCu6sT"" collected 420 from pot with Three of a Kind, K's (combination: K♠, K♥, K♦, Q♠, 10♣)",2023-01-27T02:51:46.843Z,167478790684301
+"""peelic @ c2JqQCu6sT"" shows a 6♥, K♠.",2023-01-27T02:51:46.843Z,167478790684300
+"""Spenny @ cu8vqwqurV"" calls 80",2023-01-27T02:51:45.983Z,167478790598300
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:51:43.398Z,167478790339800
+"""peelic @ c2JqQCu6sT"" raises to 80",2023-01-27T02:51:40.892Z,167478790089200
+"""Spenny @ cu8vqwqurV"" bets 40",2023-01-27T02:51:39.163Z,167478789916300
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:51:34.365Z,167478789436500
+"River: K♥, Q♠, 7♦, K♦ [10♣]",2023-01-27T02:51:32.437Z,167478789243700
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:51:31.616Z,167478789161600
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:51:30.375Z,167478789037500
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2023-01-27T02:51:29.081Z,167478788908100
+"Turn: K♥, Q♠, 7♦ [K♦]",2023-01-27T02:51:27.632Z,167478788763200
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:51:26.813Z,167478788681300
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:51:25.273Z,167478788527300
+"""Spenny @ cu8vqwqurV"" bets 20",2023-01-27T02:51:23.719Z,167478788371900
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:51:22.359Z,167478788235900
+"Flop:  [K♥, Q♠, 7♦]",2023-01-27T02:51:20.226Z,167478788022600
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:51:19.307Z,167478787930700
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:51:18.311Z,167478787831100
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:51:17.343Z,167478787734300
+"""Stevo @ 5Ep7Sc0sJg"" raises to 40",2023-01-27T02:51:14.996Z,167478787499600
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:51:12.270Z,167478787227000
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:51:10.503Z,167478787050300
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:51:09.507Z,167478786950700
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2023-01-27T02:51:08.021Z,167478786802108
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 10",2023-01-27T02:51:08.021Z,167478786802107
+"Your hand is 3♥, 5♦",2023-01-27T02:51:08.021Z,167478786802103
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1010) | #4 ""arash @ --uhQWY45j"" (2140) | #5 ""peelic @ c2JqQCu6sT"" (920) | #7 ""Jonah @ axh4B_jN0P"" (2100) | #8 ""Stevo @ 5Ep7Sc0sJg"" (830)",2023-01-27T02:51:08.021Z,167478786802101
+"-- starting hand #47 (id: bkouqzfuymt4)  (No Limit Texas Hold'em) (dealer: ""Jonah @ axh4B_jN0P"") --",2023-01-27T02:51:08.021Z,167478786802100
+"""Stevo @ 5Ep7Sc0sJg"" shows a 9♥, 2♣.",2023-01-27T02:51:05.292Z,167478786529200
+"-- ending hand #46 --",2023-01-27T02:51:04.417Z,167478786441702
+"""Jonah @ axh4B_jN0P"" collected 200 from pot",2023-01-27T02:51:04.417Z,167478786441701
+"Uncalled bet of 160 returned to ""Jonah @ axh4B_jN0P""",2023-01-27T02:51:04.417Z,167478786441700
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:51:03.493Z,167478786349300
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:51:02.510Z,167478786251000
+"""Jonah @ axh4B_jN0P"" bets 160",2023-01-27T02:51:01.603Z,167478786160300
+"River: 2♦, J♥, Q♣, 10♠ [A♣]",2023-01-27T02:50:56.414Z,167478785641400
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:50:55.503Z,167478785550300
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:50:54.547Z,167478785454700
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:50:53.611Z,167478785361100
+"""Jonah @ axh4B_jN0P"" bets 40",2023-01-27T02:50:51.386Z,167478785138600
+"Turn: 2♦, J♥, Q♣ [10♠]",2023-01-27T02:50:47.638Z,167478784763800
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:50:46.832Z,167478784683200
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:50:45.840Z,167478784584000
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:50:41.071Z,167478784107100
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:50:40.103Z,167478784010300
+"Flop:  [2♦, J♥, Q♣]",2023-01-27T02:50:32.673Z,167478783267300
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:50:31.852Z,167478783185200
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:50:30.962Z,167478783096200
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:50:30.046Z,167478783004600
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:50:29.105Z,167478782910500
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:50:28.080Z,167478782808000
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 20",2023-01-27T02:50:24.217Z,167478782421708
+"""Jonah @ axh4B_jN0P"" posts a small blind of 10",2023-01-27T02:50:24.217Z,167478782421707
+"Your hand is 7♣, 6♦",2023-01-27T02:50:24.217Z,167478782421703
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1010) | #4 ""arash @ --uhQWY45j"" (2160) | #5 ""peelic @ c2JqQCu6sT"" (980) | #7 ""Jonah @ axh4B_jN0P"" (1960) | #8 ""Stevo @ 5Ep7Sc0sJg"" (890)",2023-01-27T02:50:24.217Z,167478782421701
+"-- starting hand #46 (id: aylgqnha2ufg)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-01-27T02:50:24.217Z,167478782421700
+"""Stevo @ 5Ep7Sc0sJg"" shows a 3♠, 2♥.",2023-01-27T02:50:21.341Z,167478782134100
+"-- ending hand #45 --",2023-01-27T02:50:20.560Z,167478782056002
+"""Jonah @ axh4B_jN0P"" collected 500 from pot",2023-01-27T02:50:20.560Z,167478782056001
+"Uncalled bet of 160 returned to ""Jonah @ axh4B_jN0P""",2023-01-27T02:50:20.560Z,167478782056000
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:50:19.694Z,167478781969400
+"""Jonah @ axh4B_jN0P"" bets 160",2023-01-27T02:50:18.048Z,167478781804800
+"River: 4♦, 9♠, 3♦, 2♣ [2♦]",2023-01-27T02:50:07.949Z,167478780794900
+"""arash @ --uhQWY45j"" calls 120",2023-01-27T02:50:07.124Z,167478780712400
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:49:56.375Z,167478779637500
+"""Jonah @ axh4B_jN0P"" bets 120",2023-01-27T02:49:54.506Z,167478779450600
+"Turn: 4♦, 9♠, 3♦ [2♣]",2023-01-27T02:49:49.742Z,167478778974200
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:49:48.930Z,167478778893000
+"""arash @ --uhQWY45j"" calls 60",2023-01-27T02:49:45.324Z,167478778532400
+"""Spenny @ cu8vqwqurV"" calls 60",2023-01-27T02:49:42.735Z,167478778273500
+"""Jonah @ axh4B_jN0P"" bets 60",2023-01-27T02:49:37.358Z,167478777735800
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:49:34.395Z,167478777439500
+"Flop:  [4♦, 9♠, 3♦]",2023-01-27T02:49:31.526Z,167478777152600
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:49:30.609Z,167478777060900
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:49:29.670Z,167478776967000
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:49:28.791Z,167478776879100
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:49:25.811Z,167478776581100
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:49:24.941Z,167478776494100
+"""Jonah @ axh4B_jN0P"" posts a big blind of 20",2023-01-27T02:49:22.526Z,167478776252608
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-01-27T02:49:22.526Z,167478776252607
+"Your hand is 9♦, 6♥",2023-01-27T02:49:22.526Z,167478776252603
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1090) | #4 ""arash @ --uhQWY45j"" (2360) | #5 ""peelic @ c2JqQCu6sT"" (1000) | #7 ""Jonah @ axh4B_jN0P"" (1660) | #8 ""Stevo @ 5Ep7Sc0sJg"" (890)",2023-01-27T02:49:22.526Z,167478776252601
+"-- starting hand #45 (id: g4m1zzpodm9q)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-01-27T02:49:22.526Z,167478776252600
+"-- ending hand #44 --",2023-01-27T02:49:19.523Z,167478775952302
+"""arash @ --uhQWY45j"" collected 340 from pot",2023-01-27T02:49:19.523Z,167478775952301
+"Uncalled bet of 140 returned to ""arash @ --uhQWY45j""",2023-01-27T02:49:19.523Z,167478775952300
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:49:18.687Z,167478775868700
+"""arash @ --uhQWY45j"" bets 140",2023-01-27T02:49:17.687Z,167478775768700
+"River: 9♥, 2♥, 3♦, 6♥ [9♦]",2023-01-27T02:49:13.123Z,167478775312300
+"""Stevo @ 5Ep7Sc0sJg"" calls 21",2023-01-27T02:49:12.289Z,167478775228900
+"""arash @ --uhQWY45j"" bets 21",2023-01-27T02:49:11.298Z,167478775129800
+"Turn: 9♥, 2♥, 3♦ [6♥]",2023-01-27T02:49:06.685Z,167478774668500
+"""Stevo @ 5Ep7Sc0sJg"" calls 69",2023-01-27T02:49:05.788Z,167478774578800
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:49:00.805Z,167478774080500
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:48:59.895Z,167478773989500
+"""arash @ --uhQWY45j"" bets 69",2023-01-27T02:48:58.561Z,167478773856100
+"Flop:  [9♥, 2♥, 3♦]",2023-01-27T02:48:55.679Z,167478773567900
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:48:54.769Z,167478773476900
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:48:53.847Z,167478773384700
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:48:52.935Z,167478773293500
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:48:51.999Z,167478773199900
+"""Jonah @ axh4B_jN0P"" raises to 40",2023-01-27T02:48:51.073Z,167478773107300
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-01-27T02:48:48.470Z,167478772847008
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-01-27T02:48:48.470Z,167478772847007
+"Your hand is 9♠, 8♦",2023-01-27T02:48:48.470Z,167478772847003
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1090) | #4 ""arash @ --uhQWY45j"" (2150) | #5 ""peelic @ c2JqQCu6sT"" (1040) | #7 ""Jonah @ axh4B_jN0P"" (1700) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1020)",2023-01-27T02:48:48.470Z,167478772847001
+"-- starting hand #44 (id: uzvxjxcblmse)  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2023-01-27T02:48:48.470Z,167478772847000
+"""Stevo @ 5Ep7Sc0sJg"" shows a 3♥, 10♣.",2023-01-27T02:48:42.319Z,167478772231900
+"-- ending hand #43 --",2023-01-27T02:48:41.860Z,167478772186004
+"""peelic @ c2JqQCu6sT"" collected 230 from pot with Two Pair, 4's & 2's (combination: 4♥, 4♣, 2♦, 2♣, A♠)",2023-01-27T02:48:41.860Z,167478772186003
+"""peelic @ c2JqQCu6sT"" shows a 8♣, 4♥.",2023-01-27T02:48:41.860Z,167478772186002
+"""Spenny @ cu8vqwqurV"" collected 230 from pot with Two Pair, 4's & 2's (combination: 4♦, 4♣, 2♦, 2♣, A♠)",2023-01-27T02:48:41.860Z,167478772186001
+"""Spenny @ cu8vqwqurV"" shows a 4♦, 10♦.",2023-01-27T02:48:41.860Z,167478772186000
+"""Spenny @ cu8vqwqurV"" calls 80",2023-01-27T02:48:40.987Z,167478772098700
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:48:39.599Z,167478771959900
+"""peelic @ c2JqQCu6sT"" raises to 80",2023-01-27T02:48:38.301Z,167478771830100
+"""Spenny @ cu8vqwqurV"" bets 20",2023-01-27T02:48:36.355Z,167478771635500
+"River: 2♦, 4♣, A♠, 2♣ [5♠]",2023-01-27T02:48:34.649Z,167478771464900
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:48:33.833Z,167478771383300
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:48:32.897Z,167478771289700
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:48:31.407Z,167478771140700
+"""Spenny @ cu8vqwqurV"" bets 20",2023-01-27T02:48:30.215Z,167478771021500
+"Turn: 2♦, 4♣, A♠ [2♣]",2023-01-27T02:48:27.641Z,167478770764100
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:48:26.758Z,167478770675800
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:48:25.866Z,167478770586600
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:48:24.908Z,167478770490800
+"""Spenny @ cu8vqwqurV"" bets 20",2023-01-27T02:48:23.308Z,167478770330800
+"Flop:  [2♦, 4♣, A♠]",2023-01-27T02:48:19.734Z,167478769973400
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:48:18.883Z,167478769888300
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:48:17.413Z,167478769741300
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:48:16.495Z,167478769649500
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:48:15.610Z,167478769561000
+"""Jonah @ axh4B_jN0P"" raises to 40",2023-01-27T02:48:14.683Z,167478769468300
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:48:12.393Z,167478769239300
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-01-27T02:48:11.112Z,167478769111208
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2023-01-27T02:48:11.112Z,167478769111207
+"Your hand is 10♠, 9♠",2023-01-27T02:48:11.112Z,167478769111203
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1020) | #4 ""arash @ --uhQWY45j"" (2210) | #5 ""peelic @ c2JqQCu6sT"" (970) | #7 ""Jonah @ axh4B_jN0P"" (1780) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1020)",2023-01-27T02:48:11.112Z,167478769111201
+"-- starting hand #43 (id: uwmit0szll91)  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2023-01-27T02:48:11.112Z,167478769111200
+"""Stevo @ 5Ep7Sc0sJg"" shows a Q♥, K♠.",2023-01-27T02:48:05.682Z,167478768568200
+"-- ending hand #42 --",2023-01-27T02:48:04.598Z,167478768459802
+"""Jonah @ axh4B_jN0P"" collected 760 from pot with Straight, J High (combination: J♥, 10♥, 9♣, 8♠, 7♥)",2023-01-27T02:48:04.598Z,167478768459801
+"""Jonah @ axh4B_jN0P"" shows a J♥, 8♠.",2023-01-27T02:48:04.598Z,167478768459800
+"""peelic @ c2JqQCu6sT"" calls 160",2023-01-27T02:48:03.785Z,167478768378500
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:48:02.858Z,167478768285800
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:48:01.968Z,167478768196800
+"""Jonah @ axh4B_jN0P"" raises to 160",2023-01-27T02:47:51.357Z,167478767135700
+"""peelic @ c2JqQCu6sT"" raises to 80",2023-01-27T02:47:47.590Z,167478766759000
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:47:45.663Z,167478766566300
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:47:44.711Z,167478766471100
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2023-01-27T02:47:43.456Z,167478766345600
+"River: 7♥, 10♥, 5♦, K♣ [9♣]",2023-01-27T02:47:42.299Z,167478766229900
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:47:41.467Z,167478766146700
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:47:40.521Z,167478766052100
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:47:39.608Z,167478765960800
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:47:38.648Z,167478765864800
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2023-01-27T02:47:37.283Z,167478765728300
+"Turn: 7♥, 10♥, 5♦ [K♣]",2023-01-27T02:47:35.976Z,167478765597600
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:47:35.116Z,167478765511600
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:47:34.192Z,167478765419200
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:47:32.755Z,167478765275500
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:47:31.855Z,167478765185500
+"""Jonah @ axh4B_jN0P"" bets 20",2023-01-27T02:47:30.925Z,167478765092500
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:47:29.342Z,167478764934200
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:47:27.974Z,167478764797400
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:47:26.943Z,167478764694300
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:47:24.545Z,167478764454500
+"Flop:  [7♥, 10♥, 5♦]",2023-01-27T02:47:22.568Z,167478764256800
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:47:21.763Z,167478764176300
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:47:20.858Z,167478764085800
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:47:19.906Z,167478763990600
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:47:18.978Z,167478763897800
+"""Spenny @ cu8vqwqurV"" raises to 40",2023-01-27T02:47:16.731Z,167478763673100
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:47:10.509Z,167478763050900
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:47:09.594Z,167478762959400
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:47:08.095Z,167478762809500
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:47:07.210Z,167478762721000
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2023-01-27T02:47:05.221Z,167478762522108
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 10",2023-01-27T02:47:05.221Z,167478762522107
+"Your hand is A♥, 5♣",2023-01-27T02:47:05.221Z,167478762522103
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1120) | #4 ""arash @ --uhQWY45j"" (2290) | #5 ""peelic @ c2JqQCu6sT"" (1210) | #7 ""Jonah @ axh4B_jN0P"" (1260) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1120)",2023-01-27T02:47:05.221Z,167478762522101
+"-- starting hand #42 (id: 8whqivxhejwu)  (No Limit Texas Hold'em) (dealer: ""Jonah @ axh4B_jN0P"") --",2023-01-27T02:47:05.221Z,167478762522100
+"-- ending hand #41 --",2023-01-27T02:46:59.207Z,167478761920703
+"""Spenny @ cu8vqwqurV"" shows a 6♦, 6♥.",2023-01-27T02:46:59.207Z,167478761920702
+"""Jonah @ axh4B_jN0P"" collected 1260 from pot with Full House, 9's over 2's (combination: 9♥, 9♦, 9♠, 2♠, 2♣)",2023-01-27T02:46:59.207Z,167478761920701
+"""Jonah @ axh4B_jN0P"" shows a 9♥, J♦.",2023-01-27T02:46:59.207Z,167478761920700
+"""Spenny @ cu8vqwqurV"" calls 380",2023-01-27T02:46:58.363Z,167478761836300
+"""Jonah @ axh4B_jN0P"" raises to 380 and go all in",2023-01-27T02:46:55.924Z,167478761592400
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:46:53.425Z,167478761342500
+"""Spenny @ cu8vqwqurV"" bets 100",2023-01-27T02:46:52.527Z,167478761252700
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:46:48.996Z,167478760899600
+"River: 9♦, 9♠, 2♠, 6♣ [2♣]",2023-01-27T02:46:39.338Z,167478759933800
+"""Spenny @ cu8vqwqurV"" calls 80",2023-01-27T02:46:38.435Z,167478759843500
+"""Jonah @ axh4B_jN0P"" calls 80",2023-01-27T02:46:36.588Z,167478759658800
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:46:33.915Z,167478759391500
+"""arash @ --uhQWY45j"" raises to 80",2023-01-27T02:46:32.717Z,167478759271700
+"""Spenny @ cu8vqwqurV"" bets 20",2023-01-27T02:46:30.299Z,167478759029900
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:46:28.027Z,167478758802700
+"Turn: 9♦, 9♠, 2♠ [6♣]",2023-01-27T02:46:22.331Z,167478758233100
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:46:21.515Z,167478758151500
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:46:20.072Z,167478758007200
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:46:19.158Z,167478757915800
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:46:15.471Z,167478757547100
+"""arash @ --uhQWY45j"" raises to 40",2023-01-27T02:46:08.756Z,167478756875600
+"""Spenny @ cu8vqwqurV"" bets 20",2023-01-27T02:46:06.590Z,167478756659000
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:46:04.047Z,167478756404700
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:46:03.020Z,167478756302000
+"Flop:  [9♦, 9♠, 2♠]",2023-01-27T02:46:00.304Z,167478756030400
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:45:59.457Z,167478755945700
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:45:58.563Z,167478755856300
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:45:55.789Z,167478755578900
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:45:54.818Z,167478755481800
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:45:52.781Z,167478755278100
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 20",2023-01-27T02:45:49.597Z,167478754959708
+"""Jonah @ axh4B_jN0P"" posts a small blind of 10",2023-01-27T02:45:49.597Z,167478754959707
+"Your hand is 10♠, 8♠",2023-01-27T02:45:49.597Z,167478754959703
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1640) | #4 ""arash @ --uhQWY45j"" (2430) | #5 ""peelic @ c2JqQCu6sT"" (1270) | #7 ""Jonah @ axh4B_jN0P"" (520) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1140)",2023-01-27T02:45:49.597Z,167478754959701
+"-- starting hand #41 (id: lplgcvixuzzd)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-01-27T02:45:49.597Z,167478754959700
+"""peelic @ c2JqQCu6sT"" shows a Q♣, 3♠.",2023-01-27T02:45:44.138Z,167478754413800
+"-- ending hand #40 --",2023-01-27T02:45:43.089Z,167478754308903
+"""Jonah @ axh4B_jN0P"" shows a 4♥, K♥.",2023-01-27T02:45:43.089Z,167478754308902
+"""Spenny @ cu8vqwqurV"" collected 780 from pot with Three of a Kind, 6's (combination: 6♣, 6♦, 6♥, K♣, Q♠)",2023-01-27T02:45:43.089Z,167478754308901
+"""Spenny @ cu8vqwqurV"" shows a 6♣, 6♦.",2023-01-27T02:45:43.089Z,167478754308900
+"""Spenny @ cu8vqwqurV"" calls 80",2023-01-27T02:45:42.240Z,167478754224000
+"""Jonah @ axh4B_jN0P"" bets 80",2023-01-27T02:45:36.923Z,167478753692300
+"River: 8♦, K♣, 3♣, 6♥ [Q♠]",2023-01-27T02:45:34.083Z,167478753408300
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:45:33.261Z,167478753326100
+"""Spenny @ cu8vqwqurV"" calls 80",2023-01-27T02:45:30.700Z,167478753070000
+"""Jonah @ axh4B_jN0P"" raises to 80",2023-01-27T02:45:29.055Z,167478752905500
+"""peelic @ c2JqQCu6sT"" bets 20",2023-01-27T02:45:26.928Z,167478752692800
+"Turn: 8♦, K♣, 3♣ [6♥]",2023-01-27T02:45:24.279Z,167478752427900
+"""peelic @ c2JqQCu6sT"" calls 80",2023-01-27T02:45:23.415Z,167478752341500
+"""Spenny @ cu8vqwqurV"" calls 80",2023-01-27T02:45:22.476Z,167478752247600
+"""Jonah @ axh4B_jN0P"" raises to 80",2023-01-27T02:45:17.082Z,167478751708200
+"""peelic @ c2JqQCu6sT"" bets 20",2023-01-27T02:45:14.306Z,167478751430600
+"Flop:  [8♦, K♣, 3♣]",2023-01-27T02:45:10.553Z,167478751055300
+"""Jonah @ axh4B_jN0P"" calls 60",2023-01-27T02:45:09.732Z,167478750973200
+"""peelic @ c2JqQCu6sT"" calls 60",2023-01-27T02:45:08.537Z,167478750853700
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:45:04.200Z,167478750420000
+"""Spenny @ cu8vqwqurV"" raises to 60",2023-01-27T02:45:03.298Z,167478750329800
+"""Jonah @ axh4B_jN0P"" raises to 40",2023-01-27T02:45:00.986Z,167478750098600
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:44:58.617Z,167478749861700
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:44:57.726Z,167478749772600
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:44:56.747Z,167478749674700
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:44:55.273Z,167478749527300
+"""Jonah @ axh4B_jN0P"" posts a big blind of 20",2023-01-27T02:44:53.841Z,167478749384108
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-01-27T02:44:53.841Z,167478749384107
+"Your hand is 5♣, J♦",2023-01-27T02:44:53.841Z,167478749384103
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1160) | #4 ""arash @ --uhQWY45j"" (2450) | #5 ""peelic @ c2JqQCu6sT"" (1430) | #7 ""Jonah @ axh4B_jN0P"" (820) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1140)",2023-01-27T02:44:53.841Z,167478749384101
+"-- starting hand #40 (id: yz6pjtplgk4w)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-01-27T02:44:53.841Z,167478749384100
+"""Spenny @ cu8vqwqurV"" shows a K♠, 8♠.",2023-01-27T02:44:49.807Z,167478748980700
+"""Stevo @ 5Ep7Sc0sJg"" shows a 2♦, 8♥.",2023-01-27T02:44:49.354Z,167478748935400
+"Undealt cards: 3♠, 2♣, J♠ [2♠, K♣]",2023-01-27T02:44:47.644Z,167478748764400
+"-- ending hand #39 --",2023-01-27T02:44:46.440Z,167478748644002
+"""Spenny @ cu8vqwqurV"" collected 80 from pot",2023-01-27T02:44:46.440Z,167478748644001
+"Uncalled bet of 60 returned to ""Spenny @ cu8vqwqurV""",2023-01-27T02:44:46.440Z,167478748644000
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:44:45.603Z,167478748560300
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:44:44.717Z,167478748471700
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:44:43.724Z,167478748372400
+"""Spenny @ cu8vqwqurV"" bets 60",2023-01-27T02:44:39.004Z,167478747900400
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:44:33.714Z,167478747371400
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:44:32.746Z,167478747274600
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:44:27.808Z,167478746780800
+"Flop:  [3♠, 2♣, J♠]",2023-01-27T02:44:26.424Z,167478746642400
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:44:25.501Z,167478746550100
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:44:24.584Z,167478746458400
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:44:23.675Z,167478746367500
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:44:22.702Z,167478746270200
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:44:21.810Z,167478746181000
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-01-27T02:44:19.216Z,167478745921608
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-01-27T02:44:19.216Z,167478745921607
+"Your hand is 9♣, 7♥",2023-01-27T02:44:19.216Z,167478745921603
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1100) | #4 ""arash @ --uhQWY45j"" (2470) | #5 ""peelic @ c2JqQCu6sT"" (1450) | #7 ""Jonah @ axh4B_jN0P"" (840) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1140)",2023-01-27T02:44:19.216Z,167478745921601
+"-- starting hand #39 (id: t3bslrhsqomo)  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2023-01-27T02:44:19.216Z,167478745921600
+"-- ending hand #38 --",2023-01-27T02:44:13.202Z,167478745320202
+"""arash @ --uhQWY45j"" collected 740 from pot with Two Pair, J's & 9's (combination: J♥, J♠, 9♥, 9♣, Q♣)",2023-01-27T02:44:13.202Z,167478745320201
+"""arash @ --uhQWY45j"" shows a J♥, 9♥.",2023-01-27T02:44:13.202Z,167478745320200
+"""Jonah @ axh4B_jN0P"" calls 150",2023-01-27T02:44:12.292Z,167478745229200
+"""arash @ --uhQWY45j"" bets 150",2023-01-27T02:44:11.342Z,167478745134200
+"River: Q♣, 2♥, 3♥, 9♣ [J♠]",2023-01-27T02:44:06.193Z,167478744619300
+"""Jonah @ axh4B_jN0P"" calls 80",2023-01-27T02:44:05.306Z,167478744530600
+"""arash @ --uhQWY45j"" bets 80",2023-01-27T02:44:04.416Z,167478744441600
+"Turn: Q♣, 2♥, 3♥ [9♣]",2023-01-27T02:44:01.283Z,167478744128300
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:44:00.470Z,167478744047000
+"""arash @ --uhQWY45j"" calls 60",2023-01-27T02:43:59.523Z,167478743952300
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:43:58.243Z,167478743824300
+"""Jonah @ axh4B_jN0P"" bets 60",2023-01-27T02:43:55.438Z,167478743543800
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:43:53.073Z,167478743307300
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:43:50.627Z,167478743062700
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:43:49.316Z,167478742931600
+"Flop:  [Q♣, 2♥, 3♥]",2023-01-27T02:43:39.974Z,167478741997400
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:43:39.149Z,167478741914900
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:43:38.263Z,167478741826300
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:43:37.287Z,167478741728700
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:43:34.851Z,167478741485100
+"""Jonah @ axh4B_jN0P"" raises to 40",2023-01-27T02:43:33.907Z,167478741390700
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:43:30.576Z,167478741057600
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-01-27T02:43:25.994Z,167478740599408
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2023-01-27T02:43:25.994Z,167478740599407
+"Your hand is J♥, 9♥",2023-01-27T02:43:25.994Z,167478740599403
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1140) | #4 ""arash @ --uhQWY45j"" (2060) | #5 ""peelic @ c2JqQCu6sT"" (1490) | #7 ""Jonah @ axh4B_jN0P"" (1170) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1140)",2023-01-27T02:43:25.994Z,167478740599401
+"-- starting hand #38 (id: 0va1mopqfx7a)  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2023-01-27T02:43:25.994Z,167478740599400
+"""Stevo @ 5Ep7Sc0sJg"" shows a 3♥, 3♦.",2023-01-27T02:43:22.882Z,167478740288200
+"-- ending hand #37 --",2023-01-27T02:43:22.359Z,167478740235902
+"""Jonah @ axh4B_jN0P"" collected 370 from pot",2023-01-27T02:43:22.359Z,167478740235901
+"Uncalled bet of 160 returned to ""Jonah @ axh4B_jN0P""",2023-01-27T02:43:22.359Z,167478740235900
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:43:21.475Z,167478740147500
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:43:20.569Z,167478740056900
+"""Jonah @ axh4B_jN0P"" bets 160",2023-01-27T02:43:14.363Z,167478739436300
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:43:08.709Z,167478738870900
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:43:06.837Z,167478738683700
+"River: K♥, J♠, J♥, 8♥ [4♦]",2023-01-27T02:43:05.909Z,167478738590900
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:43:05.078Z,167478738507800
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:43:03.957Z,167478738395700
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:43:02.251Z,167478738225100
+"Turn: K♥, J♠, J♥ [8♥]",2023-01-27T02:43:01.015Z,167478738101500
+"""arash @ --uhQWY45j"" calls 50",2023-01-27T02:43:00.187Z,167478738018700
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:42:59.247Z,167478737924700
+"""Stevo @ 5Ep7Sc0sJg"" calls 50",2023-01-27T02:42:50.879Z,167478737087900
+"""Jonah @ axh4B_jN0P"" raises to 50",2023-01-27T02:42:49.889Z,167478736988900
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:42:46.643Z,167478736664300
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:42:44.176Z,167478736417600
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:42:43.215Z,167478736321500
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2023-01-27T02:42:36.632Z,167478735663200
+"Flop:  [K♥, J♠, J♥]",2023-01-27T02:42:35.293Z,167478735529300
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:42:34.427Z,167478735442700
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:42:33.493Z,167478735349300
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:42:31.839Z,167478735183900
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:42:27.300Z,167478734730000
+"""Jonah @ axh4B_jN0P"" raises to 40",2023-01-27T02:42:26.097Z,167478734609700
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:42:24.037Z,167478734403700
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:42:19.842Z,167478733984200
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2023-01-27T02:42:18.271Z,167478733827108
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 10",2023-01-27T02:42:18.271Z,167478733827107
+"Your hand is 5♠, Q♥",2023-01-27T02:42:18.271Z,167478733827103
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1200) | #4 ""arash @ --uhQWY45j"" (2150) | #5 ""peelic @ c2JqQCu6sT"" (1530) | #7 ""Jonah @ axh4B_jN0P"" (890) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1230)",2023-01-27T02:42:18.271Z,167478733827101
+"-- starting hand #37 (id: v4yzim2j4agu)  (No Limit Texas Hold'em) (dealer: ""Jonah @ axh4B_jN0P"") --",2023-01-27T02:42:18.271Z,167478733827100
+"-- ending hand #36 --",2023-01-27T02:42:12.164Z,167478733216403
+"""arash @ --uhQWY45j"" shows a 6♣, K♣.",2023-01-27T02:42:12.164Z,167478733216402
+"""peelic @ c2JqQCu6sT"" collected 780 from pot with Two Pair, K's & J's (combination: K♥, K♠, J♥, J♠, 10♣)",2023-01-27T02:42:12.164Z,167478733216401
+"""peelic @ c2JqQCu6sT"" shows a K♥, 10♣.",2023-01-27T02:42:12.164Z,167478733216400
+"""peelic @ c2JqQCu6sT"" calls 150",2023-01-27T02:42:11.352Z,167478733135200
+"""arash @ --uhQWY45j"" bets 150",2023-01-27T02:42:10.434Z,167478733043400
+"River: J♥, K♠, 3♦, 2♦ [J♠]",2023-01-27T02:42:06.268Z,167478732626800
+"""arash @ --uhQWY45j"" calls 60",2023-01-27T02:42:05.406Z,167478732540600
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:42:03.719Z,167478732371900
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:41:57.232Z,167478731723200
+"""peelic @ c2JqQCu6sT"" bets 60",2023-01-27T02:41:56.317Z,167478731631700
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:41:49.976Z,167478730997600
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:41:47.807Z,167478730780700
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:41:46.093Z,167478730609300
+"Turn: J♥, K♠, 3♦ [2♦]",2023-01-27T02:41:44.859Z,167478730485900
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:41:43.956Z,167478730395600
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:41:36.275Z,167478729627500
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:41:35.135Z,167478729513500
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:41:34.150Z,167478729415000
+"""arash @ --uhQWY45j"" raises to 40",2023-01-27T02:41:29.907Z,167478728990700
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:41:27.705Z,167478728770500
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2023-01-27T02:41:21.575Z,167478728157500
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:41:19.771Z,167478727977100
+"Flop:  [J♥, K♠, 3♦]",2023-01-27T02:41:17.826Z,167478727782600
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:41:16.992Z,167478727699200
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:41:14.432Z,167478727443200
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:41:10.526Z,167478727052600
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:41:09.242Z,167478726924200
+"""peelic @ c2JqQCu6sT"" raises to 40",2023-01-27T02:41:07.690Z,167478726769000
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:41:05.508Z,167478726550800
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:41:03.887Z,167478726388700
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 20",2023-01-27T02:40:54.203Z,167478725420308
+"""Jonah @ axh4B_jN0P"" posts a small blind of 10",2023-01-27T02:40:54.203Z,167478725420307
+"Your hand is 6♣, K♣",2023-01-27T02:40:54.203Z,167478725420303
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1280) | #4 ""arash @ --uhQWY45j"" (2440) | #5 ""peelic @ c2JqQCu6sT"" (1040) | #7 ""Jonah @ axh4B_jN0P"" (930) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1310)",2023-01-27T02:40:54.203Z,167478725420301
+"-- starting hand #36 (id: e9rr5m4osb1n)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-01-27T02:40:54.203Z,167478725420300
+"-- ending hand #35 --",2023-01-27T02:40:48.198Z,167478724819803
+"""Jonah @ axh4B_jN0P"" shows a 10♣, J♦.",2023-01-27T02:40:48.198Z,167478724819802
+"""Spenny @ cu8vqwqurV"" collected 360 from pot with Two Pair, K's & 4's (combination: K♣, K♠, 4♥, 4♣, Q♥)",2023-01-27T02:40:48.198Z,167478724819801
+"""Spenny @ cu8vqwqurV"" shows a K♣, 5♣.",2023-01-27T02:40:48.198Z,167478724819800
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:40:47.340Z,167478724734000
+"""Jonah @ axh4B_jN0P"" bets 40",2023-01-27T02:40:37.761Z,167478723776100
+"River: Q♥, 4♥, K♠, 4♣ [J♣]",2023-01-27T02:40:34.495Z,167478723449500
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:40:33.681Z,167478723368100
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:40:32.695Z,167478723269500
+"""Jonah @ axh4B_jN0P"" bets 40",2023-01-27T02:40:28.590Z,167478722859000
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:40:25.321Z,167478722532100
+"Turn: Q♥, 4♥, K♠ [4♣]",2023-01-27T02:40:23.579Z,167478722357900
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:40:22.749Z,167478722274900
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:40:21.835Z,167478722183500
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:40:20.971Z,167478722097100
+"""Jonah @ axh4B_jN0P"" bets 40",2023-01-27T02:40:20.052Z,167478722005200
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:40:17.602Z,167478721760200
+"Flop:  [Q♥, 4♥, K♠]",2023-01-27T02:40:10.370Z,167478721037000
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:40:09.507Z,167478720950700
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:40:08.568Z,167478720856800
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:40:04.776Z,167478720477600
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:39:57.038Z,167478719703800
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:39:55.704Z,167478719570400
+"""Jonah @ axh4B_jN0P"" posts a big blind of 20",2023-01-27T02:39:54.753Z,167478719475308
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-01-27T02:39:54.753Z,167478719475307
+"Your hand is 2♥, 6♦",2023-01-27T02:39:54.753Z,167478719475303
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1060) | #4 ""arash @ --uhQWY45j"" (2440) | #5 ""peelic @ c2JqQCu6sT"" (1100) | #7 ""Jonah @ axh4B_jN0P"" (1070) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1330)",2023-01-27T02:39:54.753Z,167478719475301
+"-- starting hand #35 (id: tptwywbcziox)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-01-27T02:39:54.753Z,167478719475300
+"-- ending hand #34 --",2023-01-27T02:39:48.798Z,167478718879802
+"""Jonah @ axh4B_jN0P"" collected 190 from pot",2023-01-27T02:39:48.798Z,167478718879801
+"Uncalled bet of 80 returned to ""Jonah @ axh4B_jN0P""",2023-01-27T02:39:48.798Z,167478718879800
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:39:47.984Z,167478718798400
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:39:38.480Z,167478717848000
+"""Jonah @ axh4B_jN0P"" bets 80",2023-01-27T02:39:37.545Z,167478717754500
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:39:34.088Z,167478717408800
+"Flop:  [7♠, 10♠, 2♣]",2023-01-27T02:39:31.389Z,167478717138900
+"""peelic @ c2JqQCu6sT"" calls 60",2023-01-27T02:39:30.531Z,167478717053100
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:39:28.256Z,167478716825600
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:39:23.303Z,167478716330300
+"""Stevo @ 5Ep7Sc0sJg"" calls 60",2023-01-27T02:39:17.661Z,167478715766100
+"""Jonah @ axh4B_jN0P"" raises to 60",2023-01-27T02:39:16.704Z,167478715670400
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-01-27T02:39:14.292Z,167478715429208
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-01-27T02:39:14.292Z,167478715429207
+"Your hand is 6♠, 10♥",2023-01-27T02:39:14.292Z,167478715429203
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1060) | #4 ""arash @ --uhQWY45j"" (2450) | #5 ""peelic @ c2JqQCu6sT"" (1160) | #7 ""Jonah @ axh4B_jN0P"" (940) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1390)",2023-01-27T02:39:14.292Z,167478715429201
+"-- starting hand #34 (id: fqsvfjy5ofml)  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2023-01-27T02:39:14.292Z,167478715429200
+"-- ending hand #33 --",2023-01-27T02:39:08.287Z,167478714828703
+"""Stevo @ 5Ep7Sc0sJg"" shows a 3♣, 3♥.",2023-01-27T02:39:08.287Z,167478714828702
+"""peelic @ c2JqQCu6sT"" collected 1160 from pot with Straight, 9 High (combination: 9♥, 8♦, 7♣, 6♦, 5♠)",2023-01-27T02:39:08.287Z,167478714828701
+"""peelic @ c2JqQCu6sT"" shows a 8♦, 6♦.",2023-01-27T02:39:08.287Z,167478714828700
+"""Stevo @ 5Ep7Sc0sJg"" calls 240",2023-01-27T02:39:07.484Z,167478714748400
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:38:58.024Z,167478713802400
+"""peelic @ c2JqQCu6sT"" bets 240 and go all in",2023-01-27T02:38:56.889Z,167478713688900
+"River: 7♣, 3♦, 5♠, 9♥ [2♣]",2023-01-27T02:38:53.606Z,167478713360600
+"""Jonah @ axh4B_jN0P"" calls 140",2023-01-27T02:38:52.792Z,167478713279200
+"""peelic @ c2JqQCu6sT"" calls 140",2023-01-27T02:38:48.115Z,167478712811500
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:38:43.776Z,167478712377600
+"""Stevo @ 5Ep7Sc0sJg"" raises to 140",2023-01-27T02:38:38.788Z,167478711878800
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:38:35.591Z,167478711559100
+"""peelic @ c2JqQCu6sT"" bets 40",2023-01-27T02:38:34.131Z,167478711413100
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:38:31.856Z,167478711185600
+"Turn: 7♣, 3♦, 5♠ [9♥]",2023-01-27T02:38:26.638Z,167478710663800
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:38:25.807Z,167478710580700
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:38:23.242Z,167478710324200
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:38:22.325Z,167478710232500
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:38:20.080Z,167478710008000
+"""Stevo @ 5Ep7Sc0sJg"" raises to 40",2023-01-27T02:38:15.487Z,167478709548700
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:38:13.542Z,167478709354200
+"""peelic @ c2JqQCu6sT"" bets 20",2023-01-27T02:38:11.000Z,167478709100000
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:38:08.913Z,167478708891300
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:38:06.039Z,167478708603900
+"Flop:  [7♣, 3♦, 5♠]",2023-01-27T02:38:01.305Z,167478708130500
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:38:00.440Z,167478708044000
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:37:59.084Z,167478707908400
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:37:58.186Z,167478707818600
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:37:57.225Z,167478707722500
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:37:56.320Z,167478707632000
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-01-27T02:37:55.131Z,167478707513108
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2023-01-27T02:37:55.131Z,167478707513107
+"Your hand is 4♣, J♣",2023-01-27T02:37:55.131Z,167478707513103
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1080) | #4 ""arash @ --uhQWY45j"" (2510) | #5 ""peelic @ c2JqQCu6sT"" (440) | #7 ""Jonah @ axh4B_jN0P"" (1140) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1830)",2023-01-27T02:37:55.131Z,167478707513101
+"-- starting hand #33 (id: mhgmoy0j1kvh)  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2023-01-27T02:37:55.131Z,167478707513100
+"""arash @ --uhQWY45j"" shows a 3♣, 3♥.",2023-01-27T02:37:50.808Z,167478707080800
+"-- ending hand #32 --",2023-01-27T02:37:48.611Z,167478706861102
+"""Spenny @ cu8vqwqurV"" collected 360 from pot with Pair, 4's (combination: 4♦, 4♣, A♠, Q♣, J♠)",2023-01-27T02:37:48.611Z,167478706861101
+"""Spenny @ cu8vqwqurV"" shows a 4♦, Q♣.",2023-01-27T02:37:48.611Z,167478706861100
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:37:47.807Z,167478706780700
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:37:46.651Z,167478706665100
+"River: 4♣, J♠, A♠, 10♥ [2♠]",2023-01-27T02:37:45.101Z,167478706510100
+"""Spenny @ cu8vqwqurV"" calls 100",2023-01-27T02:37:44.290Z,167478706429000
+"""arash @ --uhQWY45j"" bets 100",2023-01-27T02:37:32.694Z,167478705269400
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:37:29.271Z,167478704927100
+"Turn: 4♣, J♠, A♠ [10♥]",2023-01-27T02:37:27.890Z,167478704789000
+"""Spenny @ cu8vqwqurV"" calls 50",2023-01-27T02:37:27.003Z,167478704700300
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:37:20.158Z,167478704015800
+"""arash @ --uhQWY45j"" bets 50",2023-01-27T02:37:19.212Z,167478703921200
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:37:15.584Z,167478703558400
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:37:12.945Z,167478703294500
+"Flop:  [4♣, J♠, A♠]",2023-01-27T02:37:11.575Z,167478703157500
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:37:10.759Z,167478703075900
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:37:09.895Z,167478702989500
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:37:08.853Z,167478702885300
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:37:07.943Z,167478702794300
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:37:06.090Z,167478702609000
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2023-01-27T02:37:00.460Z,167478702046008
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 10",2023-01-27T02:37:00.460Z,167478702046007
+"Your hand is 3♣, 3♥",2023-01-27T02:37:00.460Z,167478702046003
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (890) | #4 ""arash @ --uhQWY45j"" (2680) | #5 ""peelic @ c2JqQCu6sT"" (440) | #7 ""Jonah @ axh4B_jN0P"" (1140) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1850)",2023-01-27T02:37:00.460Z,167478702046001
+"-- starting hand #32 (id: ydhql0ui37os)  (No Limit Texas Hold'em) (dealer: ""Jonah @ axh4B_jN0P"") --",2023-01-27T02:37:00.460Z,167478702046000
+"-- ending hand #31 --",2023-01-27T02:36:54.455Z,167478701445502
+"""Jonah @ axh4B_jN0P"" collected 300 from pot with Two Pair, Q's & 5's (combination: Q♣, Q♦, 5♠, 5♥, K♦)",2023-01-27T02:36:54.455Z,167478701445501
+"""Jonah @ axh4B_jN0P"" shows a Q♣, K♦.",2023-01-27T02:36:54.455Z,167478701445500
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:36:53.620Z,167478701362000
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:36:50.612Z,167478701061200
+"""Jonah @ axh4B_jN0P"" bets 40",2023-01-27T02:36:43.856Z,167478700385600
+"River: 5♠, 5♥, 8♦, 6♥ [Q♦]",2023-01-27T02:36:39.744Z,167478699974400
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:36:38.864Z,167478699886400
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:36:37.967Z,167478699796700
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:36:33.288Z,167478699328800
+"""Spenny @ cu8vqwqurV"" bets 20",2023-01-27T02:36:31.911Z,167478699191100
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:36:25.195Z,167478698519500
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:36:24.239Z,167478698423900
+"Turn: 5♠, 5♥, 8♦ [6♥]",2023-01-27T02:36:22.637Z,167478698263700
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:36:21.793Z,167478698179300
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:36:20.884Z,167478698088400
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:36:16.783Z,167478697678300
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:36:15.878Z,167478697587800
+"Flop:  [5♠, 5♥, 8♦]",2023-01-27T02:36:14.231Z,167478697423100
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:36:13.389Z,167478697338900
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:36:12.483Z,167478697248300
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:36:09.673Z,167478696967300
+"""Jonah @ axh4B_jN0P"" raises to 40",2023-01-27T02:36:07.621Z,167478696762100
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:36:04.571Z,167478696457100
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:36:03.648Z,167478696364800
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:35:57.039Z,167478695703900
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 20",2023-01-27T02:35:53.888Z,167478695388808
+"""Jonah @ axh4B_jN0P"" posts a small blind of 10",2023-01-27T02:35:53.888Z,167478695388807
+"Your hand is 4♥, 7♣",2023-01-27T02:35:53.888Z,167478695388803
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (950) | #4 ""arash @ --uhQWY45j"" (2680) | #5 ""peelic @ c2JqQCu6sT"" (540) | #7 ""Jonah @ axh4B_jN0P"" (940) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1890)",2023-01-27T02:35:53.888Z,167478695388801
+"-- starting hand #31 (id: e8jvwgkuxqga)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-01-27T02:35:53.888Z,167478695388800
+"-- ending hand #30 --",2023-01-27T02:35:47.950Z,167478694795002
+"""peelic @ c2JqQCu6sT"" collected 200 from pot",2023-01-27T02:35:47.950Z,167478694795001
+"Uncalled bet of 40 returned to ""peelic @ c2JqQCu6sT""",2023-01-27T02:35:47.950Z,167478694795000
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:35:47.112Z,167478694711200
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:35:44.246Z,167478694424600
+"""peelic @ c2JqQCu6sT"" bets 40",2023-01-27T02:35:42.806Z,167478694280600
+"Flop:  [3♣, J♥, K♠]",2023-01-27T02:35:39.615Z,167478693961500
+"""peelic @ c2JqQCu6sT"" calls 60",2023-01-27T02:35:38.794Z,167478693879400
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:35:37.876Z,167478693787600
+"""Stevo @ 5Ep7Sc0sJg"" calls 60",2023-01-27T02:35:24.442Z,167478692444200
+"""Jonah @ axh4B_jN0P"" raises to 60",2023-01-27T02:35:22.725Z,167478692272500
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:35:20.191Z,167478692019100
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:35:19.285Z,167478691928500
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:35:17.171Z,167478691717100
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:35:13.598Z,167478691359800
+"""Jonah @ axh4B_jN0P"" posts a big blind of 20",2023-01-27T02:35:11.456Z,167478691145608
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-01-27T02:35:11.456Z,167478691145607
+"Your hand is 2♥, 10♦",2023-01-27T02:35:11.456Z,167478691145603
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (970) | #4 ""arash @ --uhQWY45j"" (2680) | #5 ""peelic @ c2JqQCu6sT"" (400) | #7 ""Jonah @ axh4B_jN0P"" (1000) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1950)",2023-01-27T02:35:11.456Z,167478691145601
+"-- starting hand #30 (id: 4ivsl0xqs4df)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-01-27T02:35:11.456Z,167478691145600
+"""Stevo @ 5Ep7Sc0sJg"" shows a Q♠, 3♠.",2023-01-27T02:35:09.702Z,167478690970200
+"-- ending hand #29 --",2023-01-27T02:35:07.852Z,167478690785202
+"""arash @ --uhQWY45j"" collected 1680 from pot",2023-01-27T02:35:07.852Z,167478690785201
+"Uncalled bet of 1000 returned to ""arash @ --uhQWY45j""",2023-01-27T02:35:07.852Z,167478690785200
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:35:07.011Z,167478690701100
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:35:05.496Z,167478690549600
+"""arash @ --uhQWY45j"" raises to 1400 and go all in",2023-01-27T02:35:04.275Z,167478690427500
+"""Jonah @ axh4B_jN0P"" bets 400",2023-01-27T02:34:56.964Z,167478689696400
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:34:51.207Z,167478689120700
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:34:47.347Z,167478688734700
+"River: 3♥, 6♥, 5♠, 2♦ [Q♥]",2023-01-27T02:34:45.474Z,167478688547400
+"""arash @ --uhQWY45j"" calls 160",2023-01-27T02:34:44.582Z,167478688458200
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:34:42.553Z,167478688255300
+"""Jonah @ axh4B_jN0P"" calls 160",2023-01-27T02:34:41.660Z,167478688166000
+"""peelic @ c2JqQCu6sT"" raises to 160",2023-01-27T02:34:27.532Z,167478686753200
+"""arash @ --uhQWY45j"" bets 60",2023-01-27T02:34:20.584Z,167478686058400
+"Turn: 3♥, 6♥, 5♠ [2♦]",2023-01-27T02:34:16.632Z,167478685663200
+"""Stevo @ 5Ep7Sc0sJg"" calls 60",2023-01-27T02:34:15.817Z,167478685581700
+"""Jonah @ axh4B_jN0P"" calls 60",2023-01-27T02:34:14.859Z,167478685485900
+"""peelic @ c2JqQCu6sT"" calls 60",2023-01-27T02:34:13.936Z,167478685393600
+"""arash @ --uhQWY45j"" bets 60",2023-01-27T02:34:11.265Z,167478685126500
+"Flop:  [3♥, 6♥, 5♠]",2023-01-27T02:34:07.185Z,167478684718500
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:34:06.370Z,167478684637000
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:34:05.436Z,167478684543600
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:34:04.474Z,167478684447400
+"""arash @ --uhQWY45j"" raises to 40",2023-01-27T02:34:03.072Z,167478684307200
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:34:00.435Z,167478684043500
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:33:57.884Z,167478683788400
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:33:56.691Z,167478683669100
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-01-27T02:33:55.052Z,167478683505208
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-01-27T02:33:55.052Z,167478683505207
+"Your hand is 8♥, J♥",2023-01-27T02:33:55.052Z,167478683505203
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (970) | #4 ""arash @ --uhQWY45j"" (1660) | #5 ""peelic @ c2JqQCu6sT"" (660) | #7 ""Jonah @ axh4B_jN0P"" (1660) | #8 ""Stevo @ 5Ep7Sc0sJg"" (2050)",2023-01-27T02:33:55.052Z,167478683505201
+"-- starting hand #29 (id: 2kjegnaey2ju)  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2023-01-27T02:33:55.052Z,167478683505200
+"""Jonah @ axh4B_jN0P"" shows a 9♦, 6♠.",2023-01-27T02:33:52.228Z,167478683222800
+"""Spenny @ cu8vqwqurV"" shows a 6♥, 7♥.",2023-01-27T02:33:52.088Z,167478683208800
+"-- ending hand #28 --",2023-01-27T02:33:50.738Z,167478683073801
+"""Jonah @ axh4B_jN0P"" collected 560 from pot",2023-01-27T02:33:50.738Z,167478683073800
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:33:49.886Z,167478682988600
+"River: 9♠, 6♦, 8♠, K♥ [6♣]",2023-01-27T02:33:41.844Z,167478682184400
+"""arash @ --uhQWY45j"" calls 120",2023-01-27T02:33:40.991Z,167478682099100
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:33:39.365Z,167478681936500
+"""Jonah @ axh4B_jN0P"" raises to 120",2023-01-27T02:33:30.835Z,167478681083500
+"""arash @ --uhQWY45j"" raises to 60",2023-01-27T02:33:23.001Z,167478680300100
+"""Spenny @ cu8vqwqurV"" bets 20",2023-01-27T02:33:16.271Z,167478679627100
+"Turn: 9♠, 6♦, 8♠ [K♥]",2023-01-27T02:33:13.425Z,167478679342500
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:33:12.622Z,167478679262200
+"""arash @ --uhQWY45j"" calls 60",2023-01-27T02:33:11.734Z,167478679173400
+"""Spenny @ cu8vqwqurV"" calls 60",2023-01-27T02:33:09.815Z,167478678981500
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:33:05.966Z,167478678596600
+"""Jonah @ axh4B_jN0P"" raises to 60",2023-01-27T02:33:05.022Z,167478678502200
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:32:57.091Z,167478677709100
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:32:54.708Z,167478677470800
+"""Spenny @ cu8vqwqurV"" bets 20",2023-01-27T02:32:46.599Z,167478676659900
+"Flop:  [9♠, 6♦, 8♠]",2023-01-27T02:32:43.466Z,167478676346600
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:32:42.626Z,167478676262600
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:32:35.721Z,167478675572100
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:32:34.794Z,167478675479400
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:32:33.155Z,167478675315500
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:32:32.142Z,167478675214200
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-01-27T02:32:30.942Z,167478675094208
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2023-01-27T02:32:30.942Z,167478675094207
+"Your hand is J♦, 7♣",2023-01-27T02:32:30.942Z,167478675094203
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1070) | #4 ""arash @ --uhQWY45j"" (1860) | #5 ""peelic @ c2JqQCu6sT"" (700) | #7 ""Jonah @ axh4B_jN0P"" (1300) | #8 ""Stevo @ 5Ep7Sc0sJg"" (2070)",2023-01-27T02:32:30.942Z,167478675094201
+"-- starting hand #28 (id: 2vqw3d0wmane)  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2023-01-27T02:32:30.942Z,167478675094200
+"""Spenny @ cu8vqwqurV"" shows a 10♦, 10♣.",2023-01-27T02:32:26.631Z,167478674663100
+"-- ending hand #27 --",2023-01-27T02:32:24.339Z,167478674433902
+"""Spenny @ cu8vqwqurV"" collected 170 from pot",2023-01-27T02:32:24.339Z,167478674433901
+"Uncalled bet of 40 returned to ""Spenny @ cu8vqwqurV""",2023-01-27T02:32:24.339Z,167478674433900
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:32:23.534Z,167478674353400
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:32:22.596Z,167478674259600
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:32:20.555Z,167478674055500
+"""Spenny @ cu8vqwqurV"" bets 40",2023-01-27T02:32:17.812Z,167478673781200
+"Flop:  [9♥, 4♠, K♦]",2023-01-27T02:32:13.245Z,167478673324500
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:32:12.392Z,167478673239200
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:32:11.527Z,167478673152700
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:32:08.736Z,167478672873600
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:32:07.817Z,167478672781700
+"""arash @ --uhQWY45j"" raises to 40",2023-01-27T02:32:05.889Z,167478672588900
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2023-01-27T02:32:00.049Z,167478672004908
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 10",2023-01-27T02:32:00.049Z,167478672004907
+"Your hand is 6♦, 6♠",2023-01-27T02:32:00.049Z,167478672004903
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (940) | #4 ""arash @ --uhQWY45j"" (1900) | #5 ""peelic @ c2JqQCu6sT"" (740) | #7 ""Jonah @ axh4B_jN0P"" (1340) | #8 ""Stevo @ 5Ep7Sc0sJg"" (2080)",2023-01-27T02:32:00.049Z,167478672004901
+"-- starting hand #27 (id: fuqmsmpoyl3t)  (No Limit Texas Hold'em) (dealer: ""Jonah @ axh4B_jN0P"") --",2023-01-27T02:32:00.049Z,167478672004900
+"Undealt cards: 8♥, A♦, J♦, A♥ [8♣]",2023-01-27T02:31:54.683Z,167478671468300
+"-- ending hand #26 --",2023-01-27T02:31:54.030Z,167478671403002
+"""Jonah @ axh4B_jN0P"" collected 60 from pot",2023-01-27T02:31:54.030Z,167478671403001
+"Uncalled bet of 60 returned to ""Jonah @ axh4B_jN0P""",2023-01-27T02:31:54.030Z,167478671403000
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:31:53.203Z,167478671320300
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:31:52.310Z,167478671231000
+"""Jonah @ axh4B_jN0P"" bets 60",2023-01-27T02:31:51.410Z,167478671141000
+"Turn: 8♥, A♦, J♦ [A♥]",2023-01-27T02:31:45.225Z,167478670522500
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:31:44.393Z,167478670439300
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:31:40.803Z,167478670080300
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:31:39.901Z,167478669990100
+"Flop:  [8♥, A♦, J♦]",2023-01-27T02:31:36.617Z,167478669661700
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:31:35.791Z,167478669579100
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:31:34.902Z,167478669490200
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:31:33.987Z,167478669398700
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:31:33.059Z,167478669305900
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:31:31.927Z,167478669192700
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 20",2023-01-27T02:31:28.215Z,167478668821508
+"""Jonah @ axh4B_jN0P"" posts a small blind of 10",2023-01-27T02:31:28.215Z,167478668821507
+"Your hand is 9♦, 4♥",2023-01-27T02:31:28.215Z,167478668821503
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (940) | #4 ""arash @ --uhQWY45j"" (1920) | #5 ""peelic @ c2JqQCu6sT"" (740) | #7 ""Jonah @ axh4B_jN0P"" (1300) | #8 ""Stevo @ 5Ep7Sc0sJg"" (2100)",2023-01-27T02:31:28.215Z,167478668821501
+"-- starting hand #26 (id: hn4r9krfsfqj)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-01-27T02:31:28.215Z,167478668821500
+"-- ending hand #25 --",2023-01-27T02:31:22.205Z,167478668220503
+"""peelic @ c2JqQCu6sT"" shows a 6♣, 10♣.",2023-01-27T02:31:22.205Z,167478668220502
+"""Spenny @ cu8vqwqurV"" collected 460 from pot with Two Pair, Q's & 9's (combination: Q♦, Q♣, 9♦, 9♥, 10♠)",2023-01-27T02:31:22.205Z,167478668220501
+"""Spenny @ cu8vqwqurV"" shows a Q♦, Q♣.",2023-01-27T02:31:22.205Z,167478668220500
+"""Spenny @ cu8vqwqurV"" calls 100",2023-01-27T02:31:21.392Z,167478668139200
+"""peelic @ c2JqQCu6sT"" bets 100",2023-01-27T02:31:15.314Z,167478667531400
+"River: 10♠, 9♦, 4♣, 9♥ [8♣]",2023-01-27T02:31:11.096Z,167478667109600
+"""Spenny @ cu8vqwqurV"" calls 60",2023-01-27T02:31:10.292Z,167478667029200
+"""peelic @ c2JqQCu6sT"" bets 60",2023-01-27T02:31:05.005Z,167478666500500
+"Turn: 10♠, 9♦, 4♣ [9♥]",2023-01-27T02:31:02.293Z,167478666229300
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:31:01.471Z,167478666147100
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:31:00.569Z,167478666056900
+"""peelic @ c2JqQCu6sT"" bets 40",2023-01-27T02:30:59.618Z,167478665961800
+"Flop:  [10♠, 9♦, 4♣]",2023-01-27T02:30:56.675Z,167478665667500
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:30:55.820Z,167478665582000
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:30:54.886Z,167478665488600
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:30:53.971Z,167478665397100
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:30:46.335Z,167478664633500
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:30:45.457Z,167478664545700
+"""Jonah @ axh4B_jN0P"" posts a big blind of 20",2023-01-27T02:30:43.927Z,167478664392708
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-01-27T02:30:43.927Z,167478664392707
+"Your hand is 9♠, 7♦",2023-01-27T02:30:43.927Z,167478664392703
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (700) | #4 ""arash @ --uhQWY45j"" (1920) | #5 ""peelic @ c2JqQCu6sT"" (960) | #7 ""Jonah @ axh4B_jN0P"" (1320) | #8 ""Stevo @ 5Ep7Sc0sJg"" (2100)",2023-01-27T02:30:43.927Z,167478664392701
+"-- starting hand #25 (id: lpi8eb86pqwt)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-01-27T02:30:43.927Z,167478664392700
+"""Stevo @ 5Ep7Sc0sJg"" shows a 3♥, 10♣.",2023-01-27T02:30:39.823Z,167478663982300
+"Undealt cards: 4♥, 6♥, 4♣ [A♣, K♠]",2023-01-27T02:30:39.784Z,167478663978400
+"""arash @ --uhQWY45j"" shows a 3♣, 5♠.",2023-01-27T02:30:38.280Z,167478663828000
+"-- ending hand #24 --",2023-01-27T02:30:36.591Z,167478663659102
+"""arash @ --uhQWY45j"" collected 100 from pot",2023-01-27T02:30:36.591Z,167478663659101
+"Uncalled bet of 60 returned to ""arash @ --uhQWY45j""",2023-01-27T02:30:36.591Z,167478663659100
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:30:35.724Z,167478663572400
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:30:34.797Z,167478663479700
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:30:33.875Z,167478663387500
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:30:32.976Z,167478663297600
+"""arash @ --uhQWY45j"" bets 60",2023-01-27T02:30:31.741Z,167478663174100
+"Flop:  [4♥, 6♥, 4♣]",2023-01-27T02:30:23.256Z,167478662325600
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:30:22.441Z,167478662244100
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:30:20.529Z,167478662052900
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:30:17.723Z,167478661772300
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:30:11.037Z,167478661103700
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:30:09.397Z,167478660939700
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-01-27T02:30:06.844Z,167478660684408
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-01-27T02:30:06.844Z,167478660684407
+"Your hand is 3♣, 5♠",2023-01-27T02:30:06.844Z,167478660684403
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (720) | #4 ""arash @ --uhQWY45j"" (1840) | #5 ""peelic @ c2JqQCu6sT"" (980) | #7 ""Jonah @ axh4B_jN0P"" (1340) | #8 ""Stevo @ 5Ep7Sc0sJg"" (2120)",2023-01-27T02:30:06.844Z,167478660684401
+"-- starting hand #24 (id: 5kjhrvxxn9ok)  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2023-01-27T02:30:06.844Z,167478660684400
+"-- ending hand #23 --",2023-01-27T02:30:00.836Z,167478660083603
+"""Jonah @ axh4B_jN0P"" shows a K♠, 2♣.",2023-01-27T02:30:00.836Z,167478660083602
+"""Stevo @ 5Ep7Sc0sJg"" collected 520 from pot with Flush, Kd High (combination: K♦, Q♦, J♦, 10♦, 8♦)",2023-01-27T02:30:00.836Z,167478660083601
+"""Stevo @ 5Ep7Sc0sJg"" shows a Q♦, 8♦.",2023-01-27T02:30:00.836Z,167478660083600
+"""Stevo @ 5Ep7Sc0sJg"" calls 60",2023-01-27T02:30:00.020Z,167478660002000
+"""Jonah @ axh4B_jN0P"" bets 60",2023-01-27T02:29:55.377Z,167478659537700
+"River: K♦, J♦, 10♦, Q♠ [J♣]",2023-01-27T02:29:52.157Z,167478659215700
+"""Stevo @ 5Ep7Sc0sJg"" calls 60",2023-01-27T02:29:51.316Z,167478659131600
+"""Jonah @ axh4B_jN0P"" bets 60",2023-01-27T02:29:50.335Z,167478659033500
+"Turn: K♦, J♦, 10♦ [Q♠]",2023-01-27T02:29:46.019Z,167478658601900
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:29:45.202Z,167478658520200
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:29:44.299Z,167478658429900
+"""Stevo @ 5Ep7Sc0sJg"" calls 60",2023-01-27T02:29:42.834Z,167478658283400
+"""Jonah @ axh4B_jN0P"" bets 60",2023-01-27T02:29:41.829Z,167478658182900
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:29:39.345Z,167478657934500
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:29:36.603Z,167478657660300
+"Flop:  [K♦, J♦, 10♦]",2023-01-27T02:29:32.213Z,167478657221300
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:29:31.364Z,167478657136400
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:29:29.909Z,167478656990900
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:29:28.993Z,167478656899300
+"""arash @ --uhQWY45j"" raises to 40",2023-01-27T02:29:27.983Z,167478656798300
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:29:22.670Z,167478656267000
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:29:21.792Z,167478656179200
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:29:20.880Z,167478656088000
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:29:19.952Z,167478655995200
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-01-27T02:29:18.710Z,167478655871008
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2023-01-27T02:29:18.710Z,167478655871007
+"Your hand is 6♦, 6♠",2023-01-27T02:29:18.710Z,167478655871003
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (760) | #4 ""arash @ --uhQWY45j"" (1880) | #5 ""peelic @ c2JqQCu6sT"" (980) | #7 ""Jonah @ axh4B_jN0P"" (1560) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1820)",2023-01-27T02:29:18.710Z,167478655871001
+"-- starting hand #23 (id: riwftjyav8jy)  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2023-01-27T02:29:18.710Z,167478655871000
+"-- ending hand #22 --",2023-01-27T02:29:15.797Z,167478655579702
+"""Jonah @ axh4B_jN0P"" collected 460 from pot",2023-01-27T02:29:15.797Z,167478655579701
+"Uncalled bet of 160 returned to ""Jonah @ axh4B_jN0P""",2023-01-27T02:29:15.797Z,167478655579700
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:29:14.976Z,167478655497600
+"""Jonah @ axh4B_jN0P"" bets 160",2023-01-27T02:29:06.418Z,167478654641800
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:28:59.952Z,167478653995200
+"River: 3♦, J♥, 4♣, J♣ [Q♦]",2023-01-27T02:28:54.295Z,167478653429500
+"""Spenny @ cu8vqwqurV"" calls 80",2023-01-27T02:28:53.447Z,167478653344700
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:28:52.550Z,167478653255000
+"""Jonah @ axh4B_jN0P"" raises to 80",2023-01-27T02:28:51.264Z,167478653126400
+"""Spenny @ cu8vqwqurV"" bets 40",2023-01-27T02:28:46.139Z,167478652613900
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:28:43.216Z,167478652321600
+"Turn: 3♦, J♥, 4♣ [J♣]",2023-01-27T02:28:40.587Z,167478652058700
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:28:39.743Z,167478651974300
+"""Spenny @ cu8vqwqurV"" calls 60",2023-01-27T02:28:32.140Z,167478651214000
+"""Stevo @ 5Ep7Sc0sJg"" calls 60",2023-01-27T02:28:24.449Z,167478650444900
+"""Jonah @ axh4B_jN0P"" raises to 60",2023-01-27T02:28:22.464Z,167478650246400
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:28:19.967Z,167478649996700
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:28:13.529Z,167478649352900
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:28:12.599Z,167478649259900
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2023-01-27T02:28:02.950Z,167478648295000
+"Flop:  [3♦, J♥, 4♣]",2023-01-27T02:28:01.237Z,167478648123700
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:28:00.420Z,167478648042000
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:27:59.479Z,167478647947900
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:27:58.025Z,167478647802500
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:27:57.114Z,167478647711400
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:27:56.216Z,167478647621600
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2023-01-27T02:27:46.334Z,167478646633408
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 10",2023-01-27T02:27:46.334Z,167478646633407
+"Your hand is 7♥, 8♠",2023-01-27T02:27:46.334Z,167478646633403
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (920) | #4 ""arash @ --uhQWY45j"" (1900) | #5 ""peelic @ c2JqQCu6sT"" (1020) | #7 ""Jonah @ axh4B_jN0P"" (1260) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1900)",2023-01-27T02:27:46.334Z,167478646633401
+"-- starting hand #22 (id: cn8tsze0ckj0)  (No Limit Texas Hold'em) (dealer: ""Jonah @ axh4B_jN0P"") --",2023-01-27T02:27:46.334Z,167478646633400
+"-- ending hand #21 --",2023-01-27T02:27:43.423Z,167478646342302
+"""peelic @ c2JqQCu6sT"" collected 480 from pot",2023-01-27T02:27:43.423Z,167478646342301
+"Uncalled bet of 140 returned to ""peelic @ c2JqQCu6sT""",2023-01-27T02:27:43.423Z,167478646342300
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:27:42.616Z,167478646261600
+"""peelic @ c2JqQCu6sT"" bets 140",2023-01-27T02:27:40.541Z,167478646054100
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:27:36.724Z,167478645672400
+"River: 2♠, 10♥, J♦, J♥ [K♥]",2023-01-27T02:27:34.569Z,167478645456900
+"""arash @ --uhQWY45j"" calls 70",2023-01-27T02:27:33.696Z,167478645369600
+"""peelic @ c2JqQCu6sT"" bets 70",2023-01-27T02:27:28.068Z,167478644806800
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:27:25.015Z,167478644501500
+"Turn: 2♠, 10♥, J♦ [J♥]",2023-01-27T02:27:22.764Z,167478644276400
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:27:21.883Z,167478644188300
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:27:15.749Z,167478643574900
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:27:14.851Z,167478643485100
+"""peelic @ c2JqQCu6sT"" calls 70",2023-01-27T02:27:13.946Z,167478643394600
+"""arash @ --uhQWY45j"" bets 70",2023-01-27T02:27:12.904Z,167478643290400
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:27:09.831Z,167478642983100
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:27:06.645Z,167478642664500
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:27:05.722Z,167478642572200
+"Flop:  [2♠, 10♥, J♦]",2023-01-27T02:27:02.451Z,167478642245100
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:27:01.600Z,167478642160000
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:26:59.177Z,167478641917700
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:26:56.476Z,167478641647600
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:26:55.591Z,167478641559100
+"""arash @ --uhQWY45j"" raises to 40",2023-01-27T02:26:52.601Z,167478641260100
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:26:48.935Z,167478640893500
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 20",2023-01-27T02:26:45.189Z,167478640518908
+"""Jonah @ axh4B_jN0P"" posts a small blind of 10",2023-01-27T02:26:45.189Z,167478640518907
+"Your hand is A♣, 9♠",2023-01-27T02:26:45.189Z,167478640518903
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (960) | #4 ""arash @ --uhQWY45j"" (2080) | #5 ""peelic @ c2JqQCu6sT"" (720) | #7 ""Jonah @ axh4B_jN0P"" (1300) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1940)",2023-01-27T02:26:45.189Z,167478640518901
+"-- starting hand #21 (id: 2qqwl9mn4hu2)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-01-27T02:26:45.189Z,167478640518900
+"""Stevo @ 5Ep7Sc0sJg"" shows a 8♠, Q♠.",2023-01-27T02:26:41.974Z,167478640197400
+"-- ending hand #20 --",2023-01-27T02:26:41.549Z,167478640154902
+"""Stevo @ 5Ep7Sc0sJg"" collected 300 from pot",2023-01-27T02:26:41.549Z,167478640154901
+"Uncalled bet of 100 returned to ""Stevo @ 5Ep7Sc0sJg""",2023-01-27T02:26:41.549Z,167478640154900
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:26:40.717Z,167478640071700
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:26:39.802Z,167478639980200
+"""Stevo @ 5Ep7Sc0sJg"" bets 100",2023-01-27T02:26:37.895Z,167478639789500
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:26:33.593Z,167478639359300
+"River: 3♠, 8♣, 8♥, 7♦ [3♥]",2023-01-27T02:26:30.186Z,167478639018600
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:26:29.341Z,167478638934100
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:26:25.955Z,167478638595500
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:26:20.902Z,167478638090200
+"""Stevo @ 5Ep7Sc0sJg"" bets 40",2023-01-27T02:26:08.716Z,167478636871600
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:26:04.846Z,167478636484600
+"Turn: 3♠, 8♣, 8♥ [7♦]",2023-01-27T02:25:57.523Z,167478635752300
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:25:56.695Z,167478635669500
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:25:55.774Z,167478635577400
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:25:43.732Z,167478634373200
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:25:36.595Z,167478633659500
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2023-01-27T02:25:29.353Z,167478632935300
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:25:28.155Z,167478632815500
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:25:27.232Z,167478632723200
+"Flop:  [3♠, 8♣, 8♥]",2023-01-27T02:25:23.192Z,167478632319200
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:25:22.380Z,167478632238000
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:25:21.466Z,167478632146600
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:25:20.538Z,167478632053800
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:25:19.639Z,167478631963900
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:25:17.819Z,167478631781900
+"""Jonah @ axh4B_jN0P"" posts a big blind of 20",2023-01-27T02:25:16.897Z,167478631689709
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-01-27T02:25:16.897Z,167478631689708
+"Your hand is Q♦, A♣",2023-01-27T02:25:16.897Z,167478631689704
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1000) | #4 ""arash @ --uhQWY45j"" (2160) | #5 ""peelic @ c2JqQCu6sT"" (800) | #7 ""Jonah @ axh4B_jN0P"" (1320) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1720)",2023-01-27T02:25:16.897Z,167478631689702
+"-- starting hand #20 (id: 7cruenfhzdb1)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-01-27T02:25:16.897Z,167478631689701
+"The player ""Spenny @ cu8vqwqurV"" joined the game with a stack of 1000.",2023-01-27T02:25:16.897Z,167478631689700
+"-- ending hand #19 --",2023-01-27T02:25:10.893Z,167478631089303
+"""arash @ --uhQWY45j"" shows a 10♠, 10♣.",2023-01-27T02:25:10.893Z,167478631089302
+"""Jonah @ axh4B_jN0P"" collected 560 from pot with Two Pair, A's & 9's (combination: A♠, A♣, 9♥, 9♠, K♠)",2023-01-27T02:25:10.893Z,167478631089301
+"""Jonah @ axh4B_jN0P"" shows a K♠, A♠.",2023-01-27T02:25:10.893Z,167478631089300
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:25:10.076Z,167478631007600
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:25:09.183Z,167478630918300
+"River: A♣, 2♦, 9♥, 8♣ [9♠]",2023-01-27T02:25:05.650Z,167478630565000
+"""arash @ --uhQWY45j"" calls 80",2023-01-27T02:25:04.785Z,167478630478500
+"""Jonah @ axh4B_jN0P"" bets 80",2023-01-27T02:25:03.576Z,167478630357600
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:25:01.234Z,167478630123400
+"Turn: A♣, 2♦, 9♥ [8♣]",2023-01-27T02:24:59.382Z,167478629938200
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:24:58.556Z,167478629855600
+"""arash @ --uhQWY45j"" calls 80",2023-01-27T02:24:57.672Z,167478629767200
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:24:51.053Z,167478629105300
+"""Jonah @ axh4B_jN0P"" bets 80",2023-01-27T02:24:50.104Z,167478629010400
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:24:47.301Z,167478628730100
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:24:46.329Z,167478628632900
+"Flop:  [A♣, 2♦, 9♥]",2023-01-27T02:24:44.061Z,167478628406100
+"""peelic @ c2JqQCu6sT"" calls 60",2023-01-27T02:24:43.248Z,167478628324800
+"""arash @ --uhQWY45j"" calls 60",2023-01-27T02:24:42.273Z,167478628227300
+"""Stevo @ 5Ep7Sc0sJg"" calls 60",2023-01-27T02:24:40.701Z,167478628070100
+"""Jonah @ axh4B_jN0P"" raises to 60",2023-01-27T02:24:38.879Z,167478627887900
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-01-27T02:24:36.260Z,167478627626007
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-01-27T02:24:36.260Z,167478627626006
+"Your hand is 10♠, 10♣",2023-01-27T02:24:36.260Z,167478627626002
+"Player stacks: #4 ""arash @ --uhQWY45j"" (2380) | #5 ""peelic @ c2JqQCu6sT"" (860) | #7 ""Jonah @ axh4B_jN0P"" (980) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1780)",2023-01-27T02:24:36.260Z,167478627626001
+"-- starting hand #19 (id: wxwivcndzqq1)  (No Limit Texas Hold'em) (dead button) --",2023-01-27T02:24:36.260Z,167478627626000
+"""Stevo @ 5Ep7Sc0sJg"" shows a 8♣, 3♠.",2023-01-27T02:24:31.650Z,167478627165000
+"-- ending hand #18 --",2023-01-27T02:24:29.752Z,167478626975202
+"""arash @ --uhQWY45j"" collected 260 from pot with Straight, 9 High (combination: 9♦, 8♦, 7♥, 6♦, 5♦)",2023-01-27T02:24:29.752Z,167478626975201
+"""arash @ --uhQWY45j"" shows a 5♦, 6♦.",2023-01-27T02:24:29.752Z,167478626975200
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:24:28.932Z,167478626893200
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:24:28.027Z,167478626802700
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:24:24.943Z,167478626494300
+"River: 2♠, 8♦, Q♠, 9♦ [7♥]",2023-01-27T02:24:23.538Z,167478626353800
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:24:22.669Z,167478626266900
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:24:13.083Z,167478625308300
+"""peelic @ c2JqQCu6sT"" bets 40",2023-01-27T02:24:11.337Z,167478625133700
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:24:09.344Z,167478624934400
+"Turn: 2♠, 8♦, Q♠ [9♦]",2023-01-27T02:24:07.527Z,167478624752700
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:24:06.618Z,167478624661800
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:24:05.664Z,167478624566400
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:24:04.743Z,167478624474300
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2023-01-27T02:23:58.564Z,167478623856400
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:23:55.655Z,167478623565500
+"The admin approved the player ""Spenny @ cu8vqwqurV"" participation with a stack of 1000.",2023-01-27T02:23:54.876Z,167478623487600
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:23:54.625Z,167478623462500
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:23:53.637Z,167478623363700
+"Flop:  [2♠, 8♦, Q♠]",2023-01-27T02:23:51.902Z,167478623190200
+"The player ""Spenny @ cu8vqwqurV"" requested a seat.",2023-01-27T02:23:51.504Z,167478623150400
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:23:51.068Z,167478623106800
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:23:49.729Z,167478622972900
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:23:48.305Z,167478622830500
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:23:47.197Z,167478622719700
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-01-27T02:23:46.373Z,167478622637308
+"Dead Small Blind",2023-01-27T02:23:46.373Z,167478622637307
+"Your hand is 5♦, 6♦",2023-01-27T02:23:46.373Z,167478622637303
+"Player stacks: #4 ""arash @ --uhQWY45j"" (2200) | #5 ""peelic @ c2JqQCu6sT"" (940) | #7 ""Jonah @ axh4B_jN0P"" (1000) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1860)",2023-01-27T02:23:46.373Z,167478622637302
+"-- starting hand #18 (id: dqaafum0viab)  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2023-01-27T02:23:46.373Z,167478622637301
+"The player ""Spenny @ cu8vqwqurV"" quits the game with a stack of 0.",2023-01-27T02:23:46.373Z,167478622637300
+"-- ending hand #17 --",2023-01-27T02:23:40.297Z,167478622029703
+"""Spenny @ cu8vqwqurV"" shows a Q♣, Q♥.",2023-01-27T02:23:40.297Z,167478622029702
+"""arash @ --uhQWY45j"" collected 1050 from pot with Full House, A's over 6's (combination: A♣, A♦, A♥, 6♠, 6♣)",2023-01-27T02:23:40.297Z,167478622029701
+"""arash @ --uhQWY45j"" shows a 6♠, A♣.",2023-01-27T02:23:40.297Z,167478622029700
+"""Spenny @ cu8vqwqurV"" calls 340 and go all in",2023-01-27T02:23:39.468Z,167478621946800
+"""arash @ --uhQWY45j"" raises to 340",2023-01-27T02:23:24.607Z,167478620460700
+"""Spenny @ cu8vqwqurV"" bets 140",2023-01-27T02:23:21.631Z,167478620163100
+"River: J♥, 6♣, A♦, A♥ [4♠]",2023-01-27T02:23:17.087Z,167478619708700
+"""arash @ --uhQWY45j"" calls 80",2023-01-27T02:23:16.279Z,167478619627900
+"""Spenny @ cu8vqwqurV"" bets 80",2023-01-27T02:23:04.963Z,167478618496300
+"Turn: J♥, 6♣, A♦ [A♥]",2023-01-27T02:23:00.875Z,167478618087500
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:22:59.955Z,167478617995500
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:22:58.995Z,167478617899500
+"""Spenny @ cu8vqwqurV"" bets 40",2023-01-27T02:22:57.119Z,167478617711900
+"Flop:  [J♥, 6♣, A♦]",2023-01-27T02:22:53.670Z,167478617367000
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:22:52.819Z,167478617281900
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:22:50.950Z,167478617095000
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:22:49.970Z,167478616997000
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:22:49.022Z,167478616902200
+"""arash @ --uhQWY45j"" raises to 40",2023-01-27T02:22:48.120Z,167478616812000
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2023-01-27T02:22:44.664Z,167478616466408
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 10",2023-01-27T02:22:44.664Z,167478616466407
+"Your hand is 6♠, A♣",2023-01-27T02:22:44.664Z,167478616466403
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (500) | #4 ""arash @ --uhQWY45j"" (1650) | #5 ""peelic @ c2JqQCu6sT"" (940) | #7 ""Jonah @ axh4B_jN0P"" (1040) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1870)",2023-01-27T02:22:44.664Z,167478616466401
+"-- starting hand #17 (id: 4egrknvsgep8)  (No Limit Texas Hold'em) (dealer: ""Jonah @ axh4B_jN0P"") --",2023-01-27T02:22:44.664Z,167478616466400
+"""Spenny @ cu8vqwqurV"" shows a J♦, 3♦.",2023-01-27T02:22:40.050Z,167478616005000
+"""Stevo @ 5Ep7Sc0sJg"" shows a 6♥, 2♦.",2023-01-27T02:22:39.276Z,167478615927600
+"-- ending hand #16 --",2023-01-27T02:22:37.262Z,167478615726202
+"""peelic @ c2JqQCu6sT"" collected 80 from pot",2023-01-27T02:22:37.262Z,167478615726201
+"Uncalled bet of 40 returned to ""peelic @ c2JqQCu6sT""",2023-01-27T02:22:37.262Z,167478615726200
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:22:36.388Z,167478615638800
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:22:33.938Z,167478615393800
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:22:32.946Z,167478615294600
+"""peelic @ c2JqQCu6sT"" bets 40",2023-01-27T02:22:31.919Z,167478615191900
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:22:29.704Z,167478614970400
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:22:28.794Z,167478614879400
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:22:27.887Z,167478614788700
+"Flop:  [10♥, K♣, 4♣]",2023-01-27T02:22:25.843Z,167478614584300
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:22:24.928Z,167478614492800
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:22:23.924Z,167478614392400
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:22:22.921Z,167478614292100
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:22:21.924Z,167478614192400
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:22:20.983Z,167478614098300
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 20",2023-01-27T02:22:19.041Z,167478613904108
+"""Jonah @ axh4B_jN0P"" posts a small blind of 10",2023-01-27T02:22:19.041Z,167478613904107
+"Your hand is 9♥, 3♠",2023-01-27T02:22:19.041Z,167478613904103
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (520) | #4 ""arash @ --uhQWY45j"" (1650) | #5 ""peelic @ c2JqQCu6sT"" (880) | #7 ""Jonah @ axh4B_jN0P"" (1060) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1890)",2023-01-27T02:22:19.041Z,167478613904101
+"-- starting hand #16 (id: 55tknirb8a9x)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-01-27T02:22:19.041Z,167478613904100
+"-- ending hand #15 --",2023-01-27T02:22:16.039Z,167478613603902
+"""peelic @ c2JqQCu6sT"" collected 180 from pot",2023-01-27T02:22:16.039Z,167478613603901
+"Uncalled bet of 100 returned to ""peelic @ c2JqQCu6sT""",2023-01-27T02:22:16.039Z,167478613603900
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:22:15.144Z,167478613514400
+"""peelic @ c2JqQCu6sT"" bets 100",2023-01-27T02:22:14.261Z,167478613426100
+"River: 8♥, 8♦, 6♣, K♥ [3♥]",2023-01-27T02:22:07.425Z,167478612742500
+"""arash @ --uhQWY45j"" calls 50",2023-01-27T02:22:06.574Z,167478612657400
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:22:03.903Z,167478612390300
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:22:02.916Z,167478612291600
+"""peelic @ c2JqQCu6sT"" bets 50",2023-01-27T02:22:01.952Z,167478612195200
+"Turn: 8♥, 8♦, 6♣ [K♥]",2023-01-27T02:21:57.614Z,167478611761400
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:21:56.680Z,167478611668000
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:21:55.298Z,167478611529800
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:21:54.323Z,167478611432300
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:21:53.395Z,167478611339500
+"Flop:  [8♥, 8♦, 6♣]",2023-01-27T02:21:49.404Z,167478610940400
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:21:48.487Z,167478610848700
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:21:47.490Z,167478610749000
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:21:46.561Z,167478610656100
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:21:45.527Z,167478610552700
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:21:44.643Z,167478610464300
+"""Jonah @ axh4B_jN0P"" posts a big blind of 20",2023-01-27T02:21:43.602Z,167478610360208
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-01-27T02:21:43.602Z,167478610360207
+"Your hand is Q♦, 9♠",2023-01-27T02:21:43.602Z,167478610360203
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (520) | #4 ""arash @ --uhQWY45j"" (1720) | #5 ""peelic @ c2JqQCu6sT"" (770) | #7 ""Jonah @ axh4B_jN0P"" (1080) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1910)",2023-01-27T02:21:43.602Z,167478610360201
+"-- starting hand #15 (id: dsiheip1dmj7)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-01-27T02:21:43.602Z,167478610360200
+"Undealt cards: 4♥, 9♣, 3♠ [7♥, A♥]",2023-01-27T02:21:39.341Z,167478609934100
+"-- ending hand #14 --",2023-01-27T02:21:37.667Z,167478609766702
+"""arash @ --uhQWY45j"" collected 220 from pot",2023-01-27T02:21:37.667Z,167478609766701
+"Uncalled bet of 80 returned to ""arash @ --uhQWY45j""",2023-01-27T02:21:37.667Z,167478609766700
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:21:36.855Z,167478609685500
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:21:35.938Z,167478609593800
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:21:34.386Z,167478609438600
+"""arash @ --uhQWY45j"" bets 80",2023-01-27T02:21:31.506Z,167478609150600
+"Flop:  [4♥, 9♣, 3♠]",2023-01-27T02:21:27.860Z,167478608786000
+"""Spenny @ cu8vqwqurV"" calls 50",2023-01-27T02:21:27.055Z,167478608705500
+"""Stevo @ 5Ep7Sc0sJg"" calls 50",2023-01-27T02:21:18.866Z,167478607886600
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:21:17.868Z,167478607786800
+"""peelic @ c2JqQCu6sT"" calls 50",2023-01-27T02:21:16.945Z,167478607694500
+"""arash @ --uhQWY45j"" raises to 50",2023-01-27T02:21:15.211Z,167478607521100
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:21:12.903Z,167478607290300
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:21:08.662Z,167478606866200
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:21:07.742Z,167478606774200
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-01-27T02:21:04.774Z,167478606477408
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-01-27T02:21:04.774Z,167478606477407
+"Your hand is K♦, K♠",2023-01-27T02:21:04.774Z,167478606477403
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (570) | #4 ""arash @ --uhQWY45j"" (1550) | #5 ""peelic @ c2JqQCu6sT"" (820) | #7 ""Jonah @ axh4B_jN0P"" (1100) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1960)",2023-01-27T02:21:04.774Z,167478606477401
+"-- starting hand #14 (id: avfvplsmupcj)  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2023-01-27T02:21:04.774Z,167478606477400
+"""Spenny @ cu8vqwqurV"" shows a J♣, J♠.",2023-01-27T02:20:59.055Z,167478605905500
+"-- ending hand #13 --",2023-01-27T02:20:58.172Z,167478605817202
+"""Stevo @ 5Ep7Sc0sJg"" collected 720 from pot with Straight, K High (combination: K♦, Q♥, J♥, 10♥, 9♦)",2023-01-27T02:20:58.172Z,167478605817201
+"""Stevo @ 5Ep7Sc0sJg"" shows a Q♥, 9♦.",2023-01-27T02:20:58.172Z,167478605817200
+"""Jonah @ axh4B_jN0P"" calls 100",2023-01-27T02:20:57.251Z,167478605725100
+"""Stevo @ 5Ep7Sc0sJg"" bets 100",2023-01-27T02:20:53.677Z,167478605367700
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:20:51.400Z,167478605140000
+"River: K♦, 9♣, 9♠, 10♥ [J♥]",2023-01-27T02:20:45.751Z,167478604575100
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:20:44.911Z,167478604491100
+"""Stevo @ 5Ep7Sc0sJg"" calls 100",2023-01-27T02:20:42.234Z,167478604223400
+"""Jonah @ axh4B_jN0P"" bets 100",2023-01-27T02:20:41.261Z,167478604126100
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:20:38.611Z,167478603861100
+"Turn: K♦, 9♣, 9♠ [10♥]",2023-01-27T02:20:35.629Z,167478603562900
+"""Spenny @ cu8vqwqurV"" calls 60",2023-01-27T02:20:34.800Z,167478603480000
+"""Stevo @ 5Ep7Sc0sJg"" calls 60",2023-01-27T02:20:32.485Z,167478603248500
+"""Jonah @ axh4B_jN0P"" raises to 60",2023-01-27T02:20:31.248Z,167478603124800
+"""Spenny @ cu8vqwqurV"" bets 20",2023-01-27T02:20:28.943Z,167478602894300
+"Flop:  [K♦, 9♣, 9♠]",2023-01-27T02:20:25.736Z,167478602573600
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:20:24.871Z,167478602487100
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:20:22.835Z,167478602283500
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:20:21.470Z,167478602147000
+"""Spenny @ cu8vqwqurV"" raises to 40",2023-01-27T02:20:20.189Z,167478602018900
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:20:15.518Z,167478601551800
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:20:14.341Z,167478601434100
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:20:13.383Z,167478601338300
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-01-27T02:20:11.119Z,167478601111908
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2023-01-27T02:20:11.119Z,167478601111907
+"Your hand is 2♣, 4♥",2023-01-27T02:20:11.119Z,167478601111903
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (670) | #4 ""arash @ --uhQWY45j"" (1570) | #5 ""peelic @ c2JqQCu6sT"" (820) | #7 ""Jonah @ axh4B_jN0P"" (1400) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1540)",2023-01-27T02:20:11.119Z,167478601111901
+"-- starting hand #13 (id: fvedjfvhv7zq)  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2023-01-27T02:20:11.119Z,167478601111900
+"""peelic @ c2JqQCu6sT"" shows a Q♠, 8♣.",2023-01-27T02:20:06.412Z,167478600641200
+"-- ending hand #12 --",2023-01-27T02:20:04.597Z,167478600459702
+"""Stevo @ 5Ep7Sc0sJg"" collected 400 from pot with Pair, 10's (combination: 10♠, 10♦, Q♦, J♠, 9♥)",2023-01-27T02:20:04.597Z,167478600459701
+"""Stevo @ 5Ep7Sc0sJg"" shows a 10♠, 10♦.",2023-01-27T02:20:04.597Z,167478600459700
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:20:03.763Z,167478600376300
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:20:02.616Z,167478600261600
+"River: 2♣, 9♥, Q♦, J♠ [3♣]",2023-01-27T02:20:01.755Z,167478600175500
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:20:00.875Z,167478600087500
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:19:59.368Z,167478599936800
+"Turn: 2♣, 9♥, Q♦ [J♠]",2023-01-27T02:19:57.334Z,167478599733400
+"""Stevo @ 5Ep7Sc0sJg"" calls 100",2023-01-27T02:19:56.517Z,167478599651700
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:19:55.047Z,167478599504700
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:19:54.152Z,167478599415200
+"""arash @ --uhQWY45j"" raises to 100",2023-01-27T02:19:48.993Z,167478598899300
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:19:46.158Z,167478598615800
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2023-01-27T02:19:39.116Z,167478597911600
+"Flop:  [2♣, 9♥, Q♦]",2023-01-27T02:19:36.908Z,167478597690800
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:19:36.084Z,167478597608400
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:19:32.829Z,167478597282900
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:19:31.927Z,167478597192700
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:19:30.566Z,167478597056600
+"""arash @ --uhQWY45j"" raises to 40",2023-01-27T02:19:29.364Z,167478596936400
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2023-01-27T02:19:26.660Z,167478596666008
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 10",2023-01-27T02:19:26.660Z,167478596666007
+"Your hand is 9♠, A♣",2023-01-27T02:19:26.660Z,167478596666003
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (710) | #4 ""arash @ --uhQWY45j"" (1710) | #5 ""peelic @ c2JqQCu6sT"" (860) | #7 ""Jonah @ axh4B_jN0P"" (1440) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1280)",2023-01-27T02:19:26.660Z,167478596666001
+"-- starting hand #12 (id: q0ienz663yed)  (No Limit Texas Hold'em) (dealer: ""Jonah @ axh4B_jN0P"") --",2023-01-27T02:19:26.660Z,167478596666000
+"""peelic @ c2JqQCu6sT"" shows a 5♣, 2♥.",2023-01-27T02:19:21.277Z,167478596127700
+"-- ending hand #11 --",2023-01-27T02:19:20.057Z,167478596005702
+"""Jonah @ axh4B_jN0P"" collected 340 from pot with Two Pair, J's & 4's (combination: J♦, J♣, 4♣, 4♥, 6♣)",2023-01-27T02:19:20.057Z,167478596005701
+"""Jonah @ axh4B_jN0P"" shows a 3♣, J♦.",2023-01-27T02:19:20.057Z,167478596005700
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:19:19.118Z,167478595911800
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:19:17.682Z,167478595768200
+"River: 4♣, 3♥, 6♣, J♣ [4♥]",2023-01-27T02:19:11.844Z,167478595184400
+"""arash @ --uhQWY45j"" calls 100",2023-01-27T02:19:10.997Z,167478595099700
+"""Jonah @ axh4B_jN0P"" bets 100",2023-01-27T02:19:08.970Z,167478594897000
+"Turn: 4♣, 3♥, 6♣ [J♣]",2023-01-27T02:19:05.091Z,167478594509100
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:19:04.280Z,167478594428000
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:19:02.097Z,167478594209700
+"""Jonah @ axh4B_jN0P"" bets 40",2023-01-27T02:18:59.099Z,167478593909900
+"Flop:  [4♣, 3♥, 6♣]",2023-01-27T02:18:54.028Z,167478593402800
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:18:53.120Z,167478593312000
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:18:52.107Z,167478593210700
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:18:51.104Z,167478593110400
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:18:50.091Z,167478593009100
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:18:37.471Z,167478591747100
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 20",2023-01-27T02:18:26.002Z,167478590600208
+"""Jonah @ axh4B_jN0P"" posts a small blind of 10",2023-01-27T02:18:26.002Z,167478590600207
+"Your hand is K♠, 6♠",2023-01-27T02:18:26.002Z,167478590600203
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (710) | #4 ""arash @ --uhQWY45j"" (1870) | #5 ""peelic @ c2JqQCu6sT"" (860) | #7 ""Jonah @ axh4B_jN0P"" (1260) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1300)",2023-01-27T02:18:26.002Z,167478590600201
+"-- starting hand #11 (id: sg96sjvelsbi)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-01-27T02:18:26.002Z,167478590600200
+"""Spenny @ cu8vqwqurV"" shows a 10♠, 6♦.",2023-01-27T02:18:20.478Z,167478590047800
+"-- ending hand #10 --",2023-01-27T02:18:19.390Z,167478589939002
+"""Jonah @ axh4B_jN0P"" collected 560 from pot with Straight, J High (combination: J♥, 10♣, 9♥, 8♥, 7♥)",2023-01-27T02:18:19.390Z,167478589939001
+"""Jonah @ axh4B_jN0P"" shows a J♥, 7♥.",2023-01-27T02:18:19.390Z,167478589939000
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:18:18.535Z,167478589853500
+"""Spenny @ cu8vqwqurV"" calls 90",2023-01-27T02:18:17.651Z,167478589765100
+"""Jonah @ axh4B_jN0P"" bets 90",2023-01-27T02:18:15.690Z,167478589569000
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:18:12.451Z,167478589245100
+"River: 10♣, 8♥, 9♥, 10♦ [4♠]",2023-01-27T02:18:09.187Z,167478588918700
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:18:08.275Z,167478588827500
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:18:07.378Z,167478588737800
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:18:06.426Z,167478588642600
+"""Jonah @ axh4B_jN0P"" bets 40",2023-01-27T02:18:04.116Z,167478588411600
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:17:59.124Z,167478587912400
+"Turn: 10♣, 8♥, 9♥ [10♦]",2023-01-27T02:17:57.552Z,167478587755200
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:17:56.643Z,167478587664300
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:17:55.762Z,167478587576200
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:17:52.515Z,167478587251500
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:17:50.912Z,167478587091200
+"""Jonah @ axh4B_jN0P"" bets 40",2023-01-27T02:17:50.002Z,167478587000200
+"""peelic @ c2JqQCu6sT"" checks",2023-01-27T02:17:47.346Z,167478586734600
+"Flop:  [10♣, 8♥, 9♥]",2023-01-27T02:17:44.622Z,167478586462200
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:17:43.795Z,167478586379500
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:17:42.897Z,167478586289700
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:17:41.983Z,167478586198300
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:17:41.088Z,167478586108800
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:17:38.919Z,167478585891900
+"""Jonah @ axh4B_jN0P"" posts a big blind of 20",2023-01-27T02:17:37.704Z,167478585770408
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-01-27T02:17:37.704Z,167478585770407
+"Your hand is 5♠, J♠",2023-01-27T02:17:37.704Z,167478585770403
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (900) | #4 ""arash @ --uhQWY45j"" (1890) | #5 ""peelic @ c2JqQCu6sT"" (960) | #7 ""Jonah @ axh4B_jN0P"" (890) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1360)",2023-01-27T02:17:37.704Z,167478585770401
+"-- starting hand #10 (id: vuvxrqzoixq7)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-01-27T02:17:37.704Z,167478585770400
+"""Stevo @ 5Ep7Sc0sJg"" shows a 4♦, Q♠.",2023-01-27T02:17:34.808Z,167478585480800
+"-- ending hand #9 --",2023-01-27T02:17:34.099Z,167478585409902
+"""arash @ --uhQWY45j"" collected 280 from pot",2023-01-27T02:17:34.099Z,167478585409901
+"Uncalled bet of 100 returned to ""arash @ --uhQWY45j""",2023-01-27T02:17:34.099Z,167478585409900
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:17:33.265Z,167478585326500
+"""arash @ --uhQWY45j"" bets 100",2023-01-27T02:17:29.656Z,167478584965600
+"River: A♥, A♠, 10♠, Q♦ [Q♥]",2023-01-27T02:17:25.331Z,167478584533100
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:17:24.498Z,167478584449800
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:17:23.259Z,167478584325900
+"Turn: A♥, A♠, 10♠ [Q♦]",2023-01-27T02:17:16.007Z,167478583600700
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:17:15.177Z,167478583517700
+"""Jonah @ axh4B_jN0P"" calls 60",2023-01-27T02:17:14.207Z,167478583420700
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:17:09.393Z,167478582939300
+"""arash @ --uhQWY45j"" bets 60",2023-01-27T02:17:08.256Z,167478582825600
+"Flop:  [A♥, A♠, 10♠]",2023-01-27T02:17:01.499Z,167478582149900
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:17:00.688Z,167478582068800
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:16:59.716Z,167478581971600
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:16:53.331Z,167478581333100
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:16:45.343Z,167478580534300
+"""Jonah @ axh4B_jN0P"" raises to 40",2023-01-27T02:16:44.400Z,167478580440000
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-01-27T02:16:41.586Z,167478580158608
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-01-27T02:16:41.586Z,167478580158607
+"Your hand is 5♠, K♥",2023-01-27T02:16:41.586Z,167478580158603
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (900) | #4 ""arash @ --uhQWY45j"" (1710) | #5 ""peelic @ c2JqQCu6sT"" (1000) | #7 ""Jonah @ axh4B_jN0P"" (990) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1400)",2023-01-27T02:16:41.586Z,167478580158601
+"-- starting hand #9 (id: orf4kogmxrsu)  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2023-01-27T02:16:41.586Z,167478580158600
+"-- ending hand #8 --",2023-01-27T02:16:35.583Z,167478579558302
+"""Jonah @ axh4B_jN0P"" collected 120 from pot",2023-01-27T02:16:35.583Z,167478579558301
+"Uncalled bet of 40 returned to ""Jonah @ axh4B_jN0P""",2023-01-27T02:16:35.583Z,167478579558300
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:16:34.699Z,167478579469900
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:16:32.415Z,167478579241500
+"""Jonah @ axh4B_jN0P"" bets 40",2023-01-27T02:16:28.200Z,167478578820000
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:16:24.653Z,167478578465300
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:16:18.851Z,167478577885100
+"Flop:  [K♠, Q♠, 10♦]",2023-01-27T02:16:12.837Z,167478577283700
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:16:11.992Z,167478577199200
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:16:04.103Z,167478576410300
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:15:50.899Z,167478575089900
+"""Jonah @ axh4B_jN0P"" raises to 40",2023-01-27T02:15:50.010Z,167478575001000
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:15:47.191Z,167478574719100
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-01-27T02:15:35.015Z,167478573501508
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2023-01-27T02:15:35.015Z,167478573501507
+"Your hand is 8♣, 2♠",2023-01-27T02:15:35.015Z,167478573501503
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (940) | #4 ""arash @ --uhQWY45j"" (1750) | #5 ""peelic @ c2JqQCu6sT"" (1000) | #7 ""Jonah @ axh4B_jN0P"" (910) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1400)",2023-01-27T02:15:35.015Z,167478573501501
+"-- starting hand #8 (id: 684nmgkhxjmg)  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2023-01-27T02:15:35.015Z,167478573501500
+"""Stevo @ 5Ep7Sc0sJg"" shows a 6♥, A♥.",2023-01-27T02:15:32.575Z,167478573257500
+"-- ending hand #7 --",2023-01-27T02:15:31.333Z,167478573133302
+"""Spenny @ cu8vqwqurV"" collected 160 from pot",2023-01-27T02:15:31.333Z,167478573133301
+"Uncalled bet of 60 returned to ""Spenny @ cu8vqwqurV""",2023-01-27T02:15:31.333Z,167478573133300
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:15:30.504Z,167478573050400
+"""Spenny @ cu8vqwqurV"" bets 60",2023-01-27T02:15:29.315Z,167478572931500
+"River: 8♦, 9♦, 3♦, 6♠ [6♦]",2023-01-27T02:15:26.133Z,167478572613300
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:15:25.269Z,167478572526900
+"""Spenny @ cu8vqwqurV"" bets 20",2023-01-27T02:15:24.061Z,167478572406100
+"Turn: 8♦, 9♦, 3♦ [6♠]",2023-01-27T02:15:21.026Z,167478572102600
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:15:20.211Z,167478572021100
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:15:19.283Z,167478571928300
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:15:17.246Z,167478571724600
+"""Spenny @ cu8vqwqurV"" bets 20",2023-01-27T02:15:15.395Z,167478571539500
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:15:09.665Z,167478570966500
+"Flop:  [8♦, 9♦, 3♦]",2023-01-27T02:15:07.522Z,167478570752200
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:15:06.712Z,167478570671200
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:15:03.005Z,167478570300500
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:15:02.100Z,167478570210000
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:15:00.818Z,167478570081800
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:14:58.499Z,167478569849900
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2023-01-27T02:14:54.706Z,167478569470609
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 10",2023-01-27T02:14:54.706Z,167478569470608
+"Your hand is 4♥, 7♥",2023-01-27T02:14:54.706Z,167478569470604
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (840) | #4 ""arash @ --uhQWY45j"" (1810) | #5 ""peelic @ c2JqQCu6sT"" (1000) | #7 ""Jonah @ axh4B_jN0P"" (930) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1420)",2023-01-27T02:14:54.706Z,167478569470602
+"-- starting hand #7 (id: cf8samexqtfz)  (No Limit Texas Hold'em) (dealer: ""Jonah @ axh4B_jN0P"") --",2023-01-27T02:14:54.706Z,167478569470601
+"The player ""peelic @ c2JqQCu6sT"" joined the game with a stack of 1000.",2023-01-27T02:14:54.706Z,167478569470600
+"-- ending hand #6 --",2023-01-27T02:14:48.702Z,167478568870203
+"""Jonah @ axh4B_jN0P"" shows a 7♣, Q♥.",2023-01-27T02:14:48.702Z,167478568870202
+"""Stevo @ 5Ep7Sc0sJg"" collected 520 from pot with Two Pair, A's & 2's (combination: A♦, A♥, 2♣, 2♦, Q♣)",2023-01-27T02:14:48.702Z,167478568870201
+"""Stevo @ 5Ep7Sc0sJg"" shows a A♦, A♥.",2023-01-27T02:14:48.702Z,167478568870200
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:14:47.881Z,167478568788100
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:14:46.658Z,167478568665800
+"River: 7♥, 2♣, 2♦, Q♣ [J♠]",2023-01-27T02:14:44.395Z,167478568439500
+"""Jonah @ axh4B_jN0P"" calls 140",2023-01-27T02:14:43.582Z,167478568358200
+"""Stevo @ 5Ep7Sc0sJg"" raises to 140",2023-01-27T02:14:19.900Z,167478565990000
+"""Jonah @ axh4B_jN0P"" bets 70",2023-01-27T02:14:17.504Z,167478565750400
+"Turn: 7♥, 2♣, 2♦ [Q♣]",2023-01-27T02:14:13.882Z,167478565388200
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:14:12.989Z,167478565298900
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:14:12.089Z,167478565208900
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:14:04.555Z,167478564455500
+"""Jonah @ axh4B_jN0P"" bets 40",2023-01-27T02:14:03.589Z,167478564358900
+"Flop:  [7♥, 2♣, 2♦]",2023-01-27T02:13:57.852Z,167478563785200
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:13:56.976Z,167478563697600
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:13:52.735Z,167478563273500
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:13:50.357Z,167478563035700
+"""Stevo @ 5Ep7Sc0sJg"" raises to 40",2023-01-27T02:13:46.613Z,167478562661300
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:13:44.450Z,167478562445000
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:13:43.515Z,167478562351500
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:13:40.727Z,167478562072700
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 20",2023-01-27T02:13:25.557Z,167478560555707
+"""Jonah @ axh4B_jN0P"" posts a small blind of 10",2023-01-27T02:13:25.557Z,167478560555706
+"Your hand is 9♣, J♣",2023-01-27T02:13:25.557Z,167478560555703
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (880) | #4 ""arash @ --uhQWY45j"" (1850) | #7 ""Jonah @ axh4B_jN0P"" (1150) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1120)",2023-01-27T02:13:25.557Z,167478560555701
+"-- starting hand #6 (id: preupzrcy67i)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-01-27T02:13:25.557Z,167478560555700
+"""Stevo @ 5Ep7Sc0sJg"" shows a 7♥, J♦.",2023-01-27T02:13:20.208Z,167478560020800
+"""Spenny @ cu8vqwqurV"" shows a 4♠, A♠.",2023-01-27T02:13:20.032Z,167478560003200
+"-- ending hand #5 --",2023-01-27T02:13:18.467Z,167478559846702
+"""Jonah @ axh4B_jN0P"" collected 350 from pot with Three of a Kind, 2's (combination: 2♦, 2♣, 2♠, K♦, Q♥)",2023-01-27T02:13:18.467Z,167478559846701
+"""Jonah @ axh4B_jN0P"" shows a 10♦, 2♦.",2023-01-27T02:13:18.467Z,167478559846700
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:13:17.656Z,167478559765600
+"""Stevo @ 5Ep7Sc0sJg"" calls 80",2023-01-27T02:12:59.091Z,167478557909100
+"""Jonah @ axh4B_jN0P"" bets 80",2023-01-27T02:12:57.509Z,167478557750900
+"River: J♥, Q♥, K♦, 2♣ [2♠]",2023-01-27T02:12:53.601Z,167478557360100
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:12:52.787Z,167478557278700
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:12:51.881Z,167478557188100
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:12:50.974Z,167478557097400
+"Turn: J♥, Q♥, K♦ [2♣]",2023-01-27T02:12:48.725Z,167478556872500
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:12:47.872Z,167478556787200
+"""Spenny @ cu8vqwqurV"" calls 20",2023-01-27T02:12:46.924Z,167478556692400
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2023-01-27T02:12:44.458Z,167478556445800
+"""Jonah @ axh4B_jN0P"" checks",2023-01-27T02:12:41.878Z,167478556187800
+"Flop:  [J♥, Q♥, K♦]",2023-01-27T02:12:38.792Z,167478555879200
+"""Stevo @ 5Ep7Sc0sJg"" calls 40",2023-01-27T02:12:37.973Z,167478555797300
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:12:35.071Z,167478555507100
+"The admin approved the player ""peelic @ c2JqQCu6sT"" participation with a stack of 1000.",2023-01-27T02:12:34.232Z,167478555423200
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:12:34.165Z,167478555416500
+"""Spenny @ cu8vqwqurV"" raises to 40",2023-01-27T02:12:31.524Z,167478555152400
+"The player ""peelic @ c2JqQCu6sT"" requested a seat.",2023-01-27T02:12:31.037Z,167478555103700
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:12:27.411Z,167478554741100
+"""Jonah @ axh4B_jN0P"" posts a big blind of 20",2023-01-27T02:12:26.295Z,167478554629508
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-01-27T02:12:26.295Z,167478554629507
+"Your hand is 4♥, 10♠",2023-01-27T02:12:26.295Z,167478554629504
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (940) | #4 ""arash @ --uhQWY45j"" (1860) | #7 ""Jonah @ axh4B_jN0P"" (940) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1260)",2023-01-27T02:12:26.295Z,167478554629502
+"-- starting hand #5 (id: rv1z22hjkiro)  (No Limit Texas Hold'em) (dead button) --",2023-01-27T02:12:26.295Z,167478554629501
+"The player ""peelic @ c2JqQCu6sT"" quits the game with a stack of 0.",2023-01-27T02:12:26.295Z,167478554629500
+"-- ending hand #4 --",2023-01-27T02:12:20.287Z,167478554028701
+"""arash @ --uhQWY45j"" collected 1710 from pot with Two Pair, A's & J's (combination: A♠, A♦, J♣, J♠, 10♥)",2023-01-27T02:12:20.287Z,167478554028700
+"River: 2♦, J♣, 4♦, 10♥ [J♠]",2023-01-27T02:12:16.239Z,167478553623900
+"""arash @ --uhQWY45j"" shows a A♠, A♦.",2023-01-27T02:12:12.233Z,167478553223301
+"""peelic @ c2JqQCu6sT"" shows a 4♣, 5♦.",2023-01-27T02:12:12.233Z,167478553223300
+"""peelic @ c2JqQCu6sT"" calls 580 and go all in",2023-01-27T02:12:11.392Z,167478553139200
+"""arash @ --uhQWY45j"" raises to 580",2023-01-27T02:12:05.089Z,167478552508900
+"""peelic @ c2JqQCu6sT"" bets 80",2023-01-27T02:12:02.589Z,167478552258900
+"Turn: 2♦, J♣, 4♦ [10♥]",2023-01-27T02:11:59.654Z,167478551965400
+"""peelic @ c2JqQCu6sT"" calls 200",2023-01-27T02:11:58.827Z,167478551882700
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:11:57.887Z,167478551788700
+"""arash @ --uhQWY45j"" raises to 200",2023-01-27T02:11:56.978Z,167478551697800
+"""peelic @ c2JqQCu6sT"" bets 80",2023-01-27T02:11:53.416Z,167478551341600
+"Flop:  [2♦, J♣, 4♦]",2023-01-27T02:11:48.406Z,167478550840600
+"""peelic @ c2JqQCu6sT"" calls 50",2023-01-27T02:11:47.581Z,167478550758100
+"""Stevo @ 5Ep7Sc0sJg"" calls 50",2023-01-27T02:11:46.683Z,167478550668300
+"""arash @ --uhQWY45j"" raises to 50",2023-01-27T02:11:45.766Z,167478550576600
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:11:42.579Z,167478550257900
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:11:41.657Z,167478550165700
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:11:40.791Z,167478550079100
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:11:39.891Z,167478549989100
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-01-27T02:11:38.904Z,167478549890408
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-01-27T02:11:38.904Z,167478549890407
+"Your hand is A♠, A♦",2023-01-27T02:11:38.904Z,167478549890404
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (940) | #2 ""peelic @ c2JqQCu6sT"" (830) | #4 ""arash @ --uhQWY45j"" (980) | #7 ""Jonah @ axh4B_jN0P"" (940) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1310)",2023-01-27T02:11:38.904Z,167478549890401
+"-- starting hand #4 (id: wqvfoy3rormk)  (No Limit Texas Hold'em) (dealer: ""Spenny @ cu8vqwqurV"") --",2023-01-27T02:11:38.904Z,167478549890400
+"Undealt cards: K♣, 8♥, 8♠ [7♣, 9♥]",2023-01-27T02:11:37.844Z,167478549784400
+"-- ending hand #3 --",2023-01-27T02:11:32.994Z,167478549299402
+"""arash @ --uhQWY45j"" collected 240 from pot",2023-01-27T02:11:32.994Z,167478549299401
+"Uncalled bet of 60 returned to ""arash @ --uhQWY45j""",2023-01-27T02:11:32.994Z,167478549299400
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:11:32.100Z,167478549210000
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:11:31.204Z,167478549120400
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:11:27.220Z,167478548722000
+"""arash @ --uhQWY45j"" raises to 100",2023-01-27T02:11:25.881Z,167478548588100
+"""peelic @ c2JqQCu6sT"" bets 40",2023-01-27T02:11:21.693Z,167478548169300
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:11:19.112Z,167478547911200
+"Flop:  [K♣, 8♥, 8♠]",2023-01-27T02:11:16.208Z,167478547620800
+"""peelic @ c2JqQCu6sT"" calls 40",2023-01-27T02:11:15.375Z,167478547537500
+"""Spenny @ cu8vqwqurV"" calls 40",2023-01-27T02:11:14.467Z,167478547446700
+"""Stevo @ 5Ep7Sc0sJg"" folds",2023-01-27T02:11:10.479Z,167478547047900
+"""Jonah @ axh4B_jN0P"" calls 40",2023-01-27T02:11:09.586Z,167478546958600
+"""arash @ --uhQWY45j"" raises to 40",2023-01-27T02:11:08.356Z,167478546835600
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-01-27T02:11:05.763Z,167478546576308
+"""Spenny @ cu8vqwqurV"" posts a small blind of 10",2023-01-27T02:11:05.763Z,167478546576307
+"Your hand is 10♦, K♠",2023-01-27T02:11:05.763Z,167478546576304
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (980) | #2 ""peelic @ c2JqQCu6sT"" (910) | #4 ""arash @ --uhQWY45j"" (820) | #7 ""Jonah @ axh4B_jN0P"" (980) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1310)",2023-01-27T02:11:05.763Z,167478546576301
+"-- starting hand #3 (id: rbpszefmmivi)  (No Limit Texas Hold'em) (dealer: ""Stevo @ 5Ep7Sc0sJg"") --",2023-01-27T02:11:05.763Z,167478546576300
+"-- ending hand #2 --",2023-01-27T02:11:02.793Z,167478546279302
+"""Stevo @ 5Ep7Sc0sJg"" collected 290 from pot",2023-01-27T02:11:02.793Z,167478546279301
+"Uncalled bet of 100 returned to ""Stevo @ 5Ep7Sc0sJg""",2023-01-27T02:11:02.793Z,167478546279300
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:11:01.984Z,167478546198400
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:11:01.079Z,167478546107900
+"""Stevo @ 5Ep7Sc0sJg"" bets 100",2023-01-27T02:11:00.024Z,167478546002400
+"River: Q♦, 9♠, 5♣, 7♦ [3♠]",2023-01-27T02:10:57.082Z,167478545708200
+"""arash @ --uhQWY45j"" calls 50",2023-01-27T02:10:56.199Z,167478545619900
+"""peelic @ c2JqQCu6sT"" calls 50",2023-01-27T02:10:54.768Z,167478545476800
+"""Stevo @ 5Ep7Sc0sJg"" bets 50",2023-01-27T02:10:53.804Z,167478545380400
+"Turn: Q♦, 9♠, 5♣ [7♦]",2023-01-27T02:10:51.482Z,167478545148200
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:10:50.607Z,167478545060700
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:10:46.867Z,167478544686700
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:10:45.395Z,167478544539500
+"""Stevo @ 5Ep7Sc0sJg"" bets 20",2023-01-27T02:10:36.966Z,167478543696600
+"Flop:  [Q♦, 9♠, 5♣]",2023-01-27T02:10:35.476Z,167478543547600
+"""Spenny @ cu8vqwqurV"" checks",2023-01-27T02:10:34.592Z,167478543459200
+"""Stevo @ 5Ep7Sc0sJg"" calls 20",2023-01-27T02:10:33.717Z,167478543371700
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:10:32.484Z,167478543248400
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:10:31.550Z,167478543155000
+"""peelic @ c2JqQCu6sT"" calls 20",2023-01-27T02:10:29.857Z,167478542985700
+"""Spenny @ cu8vqwqurV"" posts a big blind of 20",2023-01-27T02:10:29.075Z,167478542907508
+"""Stevo @ 5Ep7Sc0sJg"" posts a small blind of 10",2023-01-27T02:10:29.075Z,167478542907507
+"Your hand is 8♣, J♥",2023-01-27T02:10:29.075Z,167478542907504
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1000) | #2 ""peelic @ c2JqQCu6sT"" (1000) | #4 ""arash @ --uhQWY45j"" (910) | #7 ""Jonah @ axh4B_jN0P"" (980) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1110)",2023-01-27T02:10:29.075Z,167478542907501
+"-- starting hand #2 (id: zjgcngdtzqbk)  (No Limit Texas Hold'em) (dealer: ""Jonah @ axh4B_jN0P"") --",2023-01-27T02:10:29.075Z,167478542907500
+"""Stevo @ 5Ep7Sc0sJg"" shows a 10♦, Q♠.",2023-01-27T02:10:26.515Z,167478542651500
+"""arash @ --uhQWY45j"" shows a 6♥, 9♣.",2023-01-27T02:10:25.478Z,167478542547800
+"-- ending hand #1 --",2023-01-27T02:10:24.675Z,167478542467502
+"""Stevo @ 5Ep7Sc0sJg"" collected 200 from pot",2023-01-27T02:10:24.675Z,167478542467501
+"Uncalled bet of 100 returned to ""Stevo @ 5Ep7Sc0sJg""",2023-01-27T02:10:24.675Z,167478542467500
+"""arash @ --uhQWY45j"" folds",2023-01-27T02:10:23.749Z,167478542374900
+"""Stevo @ 5Ep7Sc0sJg"" bets 100",2023-01-27T02:10:22.592Z,167478542259200
+"River: 8♦, Q♦, 6♣, A♦ [7♦]",2023-01-27T02:10:20.126Z,167478542012600
+"""arash @ --uhQWY45j"" checks",2023-01-27T02:10:19.289Z,167478541928900
+"""Stevo @ 5Ep7Sc0sJg"" checks",2023-01-27T02:10:18.067Z,167478541806700
+"Turn: 8♦, Q♦, 6♣ [A♦]",2023-01-27T02:10:16.544Z,167478541654400
+"""arash @ --uhQWY45j"" calls 50",2023-01-27T02:10:15.729Z,167478541572900
+"""Stevo @ 5Ep7Sc0sJg"" bets 50",2023-01-27T02:10:13.864Z,167478541386400
+"Flop:  [8♦, Q♦, 6♣]",2023-01-27T02:10:11.661Z,167478541166100
+"""Jonah @ axh4B_jN0P"" folds",2023-01-27T02:10:10.776Z,167478541077600
+"""arash @ --uhQWY45j"" calls 40",2023-01-27T02:10:09.843Z,167478540984300
+"""Stevo @ 5Ep7Sc0sJg"" raises to 40",2023-01-27T02:10:06.764Z,167478540676400
+"""Jonah @ axh4B_jN0P"" calls 20",2023-01-27T02:09:52.762Z,167478539276200
+"""arash @ --uhQWY45j"" calls 20",2023-01-27T02:09:51.875Z,167478539187500
+"""peelic @ c2JqQCu6sT"" folds",2023-01-27T02:09:49.171Z,167478538917100
+"""Spenny @ cu8vqwqurV"" folds",2023-01-27T02:09:44.912Z,167478538491200
+"""Stevo @ 5Ep7Sc0sJg"" posts a big blind of 20",2023-01-27T02:09:41.966Z,167478538196613
+"""Jonah @ axh4B_jN0P"" posts a small blind of 10",2023-01-27T02:09:41.966Z,167478538196612
+"Your hand is 6♥, 9♣",2023-01-27T02:09:41.966Z,167478538196609
+"Player stacks: #1 ""Spenny @ cu8vqwqurV"" (1000) | #2 ""peelic @ c2JqQCu6sT"" (1000) | #4 ""arash @ --uhQWY45j"" (1000) | #7 ""Jonah @ axh4B_jN0P"" (1000) | #8 ""Stevo @ 5Ep7Sc0sJg"" (1000)",2023-01-27T02:09:41.966Z,167478538196606
+"The player ""Stevo @ 5Ep7Sc0sJg"" joined the game with a stack of 1000.",2023-01-27T02:09:41.966Z,167478538196605
+"The player ""Jonah @ axh4B_jN0P"" joined the game with a stack of 1000.",2023-01-27T02:09:41.966Z,167478538196604
+"The player ""arash @ --uhQWY45j"" joined the game with a stack of 1000.",2023-01-27T02:09:41.966Z,167478538196603
+"The player ""peelic @ c2JqQCu6sT"" joined the game with a stack of 1000.",2023-01-27T02:09:41.966Z,167478538196602
+"The player ""Spenny @ cu8vqwqurV"" joined the game with a stack of 1000.",2023-01-27T02:09:41.966Z,167478538196601
+"-- starting hand #1 (id: tvbq1iphtlsh)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-01-27T02:09:41.966Z,167478538196600
+"The admin approved the player ""Spenny @ cu8vqwqurV"" participation with a stack of 1000.",2023-01-27T02:09:02.015Z,167478534201500
+"The player ""Spenny @ cu8vqwqurV"" requested a seat.",2023-01-27T02:08:56.054Z,167478533605400
+"The admin approved the player ""Jonah @ axh4B_jN0P"" participation with a stack of 1000.",2023-01-27T02:05:52.673Z,167478515267300
+"The player ""Jonah @ axh4B_jN0P"" requested a seat.",2023-01-27T02:05:48.830Z,167478514883000
+"The admin approved the player ""arash @ --uhQWY45j"" participation with a stack of 1000.",2023-01-27T02:04:09.586Z,167478504958600
+"The player ""arash @ --uhQWY45j"" requested a seat.",2023-01-27T02:04:05.050Z,167478504505000
+"The admin approved the player ""peelic @ c2JqQCu6sT"" participation with a stack of 1000.",2023-01-27T02:00:34.278Z,167478483427800
+"The player ""peelic @ c2JqQCu6sT"" requested a seat.",2023-01-27T02:00:29.974Z,167478482997400
+"The admin approved the player ""Stevo @ 5Ep7Sc0sJg"" participation with a stack of 1000.",2023-01-27T01:54:04.745Z,167478444474501
+"The player ""Stevo @ 5Ep7Sc0sJg"" requested a seat.",2023-01-27T01:54:04.745Z,167478444474500
