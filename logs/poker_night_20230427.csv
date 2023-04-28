@@ -1,0 +1,1800 @@
+entry,at,order
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-04-28T02:01:25.898Z,168264728589808
+"""geego @ WJ-HPcQ09S"" posts a small blind of 10",2023-04-28T02:01:25.898Z,168264728589807
+"Your hand is 5♣, 10♦",2023-04-28T02:01:25.898Z,168264728589805
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (350) | #2 ""Jonah Dlin @ axh4B_jN0P"" (1105) | #5 ""arash @ --uhQWY45j"" (1600) | #7 ""geego @ WJ-HPcQ09S"" (4595) | #9 ""peelic @ c2JqQCu6sT"" (2350)",2023-04-28T02:01:25.898Z,168264728589801
+"-- starting hand #71 (id: kojydu3fg05w)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-04-28T02:01:25.898Z,168264728589800
+"-- ending hand #70 --",2023-04-28T02:01:19.890Z,168264727989001
+"""arash @ --uhQWY45j"" collected 1600 from pot with Two Pair, 10's & 9's (combination: 10♦, 10♣, 9♥, 9♣, J♥)",2023-04-28T02:01:19.890Z,168264727989000
+"River: 10♣, 9♥, 3♦, 9♣ [6♥]",2023-04-28T02:01:15.822Z,168264727582200
+"""arash @ --uhQWY45j"" shows a J♥, 10♦.",2023-04-28T02:01:11.734Z,168264727173401
+"""daveed @ -dAQjOVxm7"" shows a A♦, 3♠.",2023-04-28T02:01:11.734Z,168264727173400
+"""daveed @ -dAQjOVxm7"" calls 600",2023-04-28T02:01:10.913Z,168264727091300
+"""arash @ --uhQWY45j"" bets 600 and go all in",2023-04-28T02:00:46.222Z,168264724622200
+"Turn: 10♣, 9♥, 3♦ [9♣]",2023-04-28T02:00:42.112Z,168264724211200
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T02:00:41.295Z,168264724129500
+"""daveed @ -dAQjOVxm7"" calls 100",2023-04-28T02:00:40.409Z,168264724040900
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T02:00:38.708Z,168264723870800
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T02:00:37.269Z,168264723726900
+"""arash @ --uhQWY45j"" bets 100",2023-04-28T02:00:36.289Z,168264723628900
+"Flop:  [10♣, 9♥, 3♦]",2023-04-28T02:00:31.748Z,168264723174800
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T02:00:30.893Z,168264723089300
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T02:00:29.998Z,168264722999800
+"""arash @ --uhQWY45j"" calls 40",2023-04-28T02:00:28.976Z,168264722897600
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T02:00:27.263Z,168264722726300
+"""daveed @ -dAQjOVxm7"" raises to 40",2023-04-28T02:00:26.133Z,168264722613300
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T02:00:23.857Z,168264722385700
+"""geego @ WJ-HPcQ09S"" posts a big blind of 20",2023-04-28T02:00:19.273Z,168264721927308
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-04-28T02:00:19.273Z,168264721927307
+"Your hand is 7♥, Q♦",2023-04-28T02:00:19.273Z,168264721927305
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1090) | #2 ""Jonah Dlin @ axh4B_jN0P"" (1145) | #5 ""arash @ --uhQWY45j"" (740) | #7 ""geego @ WJ-HPcQ09S"" (4635) | #9 ""peelic @ c2JqQCu6sT"" (2390)",2023-04-28T02:00:19.273Z,168264721927301
+"-- starting hand #70 (id: l7uv17smobwf)  (No Limit Texas Hold'em) (dealer: ""Jonah Dlin @ axh4B_jN0P"") --",2023-04-28T02:00:19.273Z,168264721927300
+"Undealt cards: J♥, J♣, Q♥ [6♣, 5♦]",2023-04-28T02:00:13.569Z,168264721356900
+"-- ending hand #69 --",2023-04-28T02:00:13.329Z,168264721332902
+"""Jonah Dlin @ axh4B_jN0P"" collected 225 from pot",2023-04-28T02:00:13.329Z,168264721332901
+"Uncalled bet of 120 returned to ""Jonah Dlin @ axh4B_jN0P""",2023-04-28T02:00:13.329Z,168264721332900
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T02:00:12.504Z,168264721250400
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T02:00:11.601Z,168264721160100
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T02:00:10.678Z,168264721067800
+"""arash @ --uhQWY45j"" folds",2023-04-28T02:00:09.816Z,168264720981600
+"""Jonah Dlin @ axh4B_jN0P"" bets 120",2023-04-28T01:59:56.811Z,168264719681100
+"Flop:  [J♥, J♣, Q♥]",2023-04-28T01:59:52.744Z,168264719274400
+"""daveed @ -dAQjOVxm7"" calls 45",2023-04-28T01:59:51.912Z,168264719191200
+"""peelic @ c2JqQCu6sT"" calls 45",2023-04-28T01:59:51.022Z,168264719102200
+"""geego @ WJ-HPcQ09S"" calls 45",2023-04-28T01:59:50.111Z,168264719011100
+"""arash @ --uhQWY45j"" calls 45",2023-04-28T01:59:48.720Z,168264718872000
+"""Jonah Dlin @ axh4B_jN0P"" raises to 45",2023-04-28T01:59:47.066Z,168264718706600
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:59:44.332Z,168264718433200
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:59:43.453Z,168264718345300
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:59:40.733Z,168264718073300
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-04-28T01:59:39.293Z,168264717929308
+"""Jonah Dlin @ axh4B_jN0P"" posts a small blind of 10",2023-04-28T01:59:39.293Z,168264717929307
+"Your hand is K♠, 9♣",2023-04-28T01:59:39.293Z,168264717929305
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1135) | #2 ""Jonah Dlin @ axh4B_jN0P"" (965) | #5 ""arash @ --uhQWY45j"" (785) | #7 ""geego @ WJ-HPcQ09S"" (4680) | #9 ""peelic @ c2JqQCu6sT"" (2435)",2023-04-28T01:59:39.293Z,168264717929301
+"-- starting hand #69 (id: dnzwk5donura)  (No Limit Texas Hold'em) (dealer: ""daveed @ -dAQjOVxm7"") --",2023-04-28T01:59:39.293Z,168264717929300
+"Undealt cards: 8♣, 3♣, K♣ [5♥, 9♥]",2023-04-28T01:59:34.183Z,168264717418300
+"-- ending hand #68 --",2023-04-28T01:59:33.348Z,168264717334802
+"""arash @ --uhQWY45j"" collected 195 from pot",2023-04-28T01:59:33.348Z,168264717334801
+"Uncalled bet of 250 returned to ""arash @ --uhQWY45j""",2023-04-28T01:59:33.348Z,168264717334800
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:59:32.490Z,168264717249000
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:59:30.471Z,168264717047100
+"""arash @ --uhQWY45j"" bets 250",2023-04-28T01:59:29.551Z,168264716955100
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:59:23.902Z,168264716390200
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:59:22.957Z,168264716295700
+"Flop:  [8♣, 3♣, K♣]",2023-04-28T01:59:15.815Z,168264715581500
+"""arash @ --uhQWY45j"" calls 65",2023-04-28T01:59:14.969Z,168264715496900
+"""Jonah Dlin @ axh4B_jN0P"" calls 65",2023-04-28T01:59:13.317Z,168264715331700
+"""daveed @ -dAQjOVxm7"" raises to 65",2023-04-28T01:59:11.806Z,168264715180600
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:59:09.104Z,168264714910400
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:59:06.575Z,168264714657500
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:59:05.701Z,168264714570100
+"""Jonah Dlin @ axh4B_jN0P"" posts a big blind of 20",2023-04-28T01:59:04.062Z,168264714406208
+"""daveed @ -dAQjOVxm7"" posts a small blind of 10",2023-04-28T01:59:04.062Z,168264714406207
+"Your hand is 8♥, 5♠",2023-04-28T01:59:04.062Z,168264714406205
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1200) | #2 ""Jonah Dlin @ axh4B_jN0P"" (1030) | #5 ""arash @ --uhQWY45j"" (655) | #7 ""geego @ WJ-HPcQ09S"" (4680) | #9 ""peelic @ c2JqQCu6sT"" (2435)",2023-04-28T01:59:04.062Z,168264714406201
+"-- starting hand #68 (id: i9ujiorj0lnl)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-04-28T01:59:04.062Z,168264714406200
+"-- ending hand #67 --",2023-04-28T01:59:01.121Z,168264714112102
+"""peelic @ c2JqQCu6sT"" collected 340 from pot",2023-04-28T01:59:01.121Z,168264714112101
+"Uncalled bet of 25 returned to ""peelic @ c2JqQCu6sT""",2023-04-28T01:59:01.121Z,168264714112100
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:59:00.265Z,168264714026500
+"""peelic @ c2JqQCu6sT"" bets 25",2023-04-28T01:58:57.723Z,168264713772300
+"River: 3♦, 9♠, 7♥, K♣ [6♦]",2023-04-28T01:58:53.051Z,168264713305100
+"""peelic @ c2JqQCu6sT"" calls 85",2023-04-28T01:58:52.242Z,168264713224200
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:58:47.122Z,168264712712200
+"""daveed @ -dAQjOVxm7"" bets 85",2023-04-28T01:58:46.199Z,168264712619900
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:58:43.226Z,168264712322600
+"Turn: 3♦, 9♠, 7♥ [K♣]",2023-04-28T01:58:41.704Z,168264712170400
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:58:40.835Z,168264712083500
+"""Jonah Dlin @ axh4B_jN0P"" calls 30",2023-04-28T01:58:39.912Z,168264711991200
+"""daveed @ -dAQjOVxm7"" calls 30",2023-04-28T01:58:37.521Z,168264711752100
+"""peelic @ c2JqQCu6sT"" bets 30",2023-04-28T01:58:36.459Z,168264711645900
+"Flop:  [3♦, 9♠, 7♥]",2023-04-28T01:58:29.203Z,168264710920300
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:58:28.386Z,168264710838600
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:58:27.538Z,168264710753800
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:58:26.648Z,168264710664800
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:58:25.747Z,168264710574700
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:58:24.665Z,168264710466500
+"""daveed @ -dAQjOVxm7"" posts a big blind of 20",2023-04-28T01:58:23.527Z,168264710352708
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-04-28T01:58:23.527Z,168264710352707
+"Your hand is 2♥, 6♠",2023-04-28T01:58:23.527Z,168264710352705
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1335) | #2 ""Jonah Dlin @ axh4B_jN0P"" (1080) | #5 ""arash @ --uhQWY45j"" (675) | #7 ""geego @ WJ-HPcQ09S"" (4680) | #9 ""peelic @ c2JqQCu6sT"" (2230)",2023-04-28T01:58:23.527Z,168264710352701
+"-- starting hand #67 (id: qbfjgbxkg5ll)  (No Limit Texas Hold'em) (dealer: ""geego @ WJ-HPcQ09S"") --",2023-04-28T01:58:23.527Z,168264710352700
+"Undealt cards: 6♥, A♥, 4♥, K♥ [5♠]",2023-04-28T01:58:18.349Z,168264709834900
+"-- ending hand #66 --",2023-04-28T01:58:17.583Z,168264709758302
+"""Jonah Dlin @ axh4B_jN0P"" collected 160 from pot",2023-04-28T01:58:17.583Z,168264709758301
+"Uncalled bet of 160 returned to ""Jonah Dlin @ axh4B_jN0P""",2023-04-28T01:58:17.583Z,168264709758300
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:58:16.759Z,168264709675900
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:58:15.851Z,168264709585100
+"""Jonah Dlin @ axh4B_jN0P"" bets 160",2023-04-28T01:58:14.605Z,168264709460500
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:58:08.636Z,168264708863600
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:58:07.557Z,168264708755700
+"Turn: 6♥, A♥, 4♥ [K♥]",2023-04-28T01:58:05.758Z,168264708575800
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:58:04.922Z,168264708492200
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:58:04.032Z,168264708403200
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:58:01.535Z,168264708153500
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:58:00.584Z,168264708058400
+"""daveed @ -dAQjOVxm7"" bets 20",2023-04-28T01:57:59.641Z,168264707964100
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:57:57.509Z,168264707750900
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:57:55.994Z,168264707599400
+"Flop:  [6♥, A♥, 4♥]",2023-04-28T01:57:54.230Z,168264707423000
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:57:53.367Z,168264707336700
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:57:52.462Z,168264707246200
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:57:51.626Z,168264707162600
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:57:50.705Z,168264707070500
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:57:49.787Z,168264706978700
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-04-28T01:57:48.144Z,168264706814408
+"""geego @ WJ-HPcQ09S"" posts a small blind of 10",2023-04-28T01:57:48.144Z,168264706814407
+"Your hand is J♦, 10♣",2023-04-28T01:57:48.144Z,168264706814405
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1375) | #2 ""Jonah Dlin @ axh4B_jN0P"" (960) | #5 ""arash @ --uhQWY45j"" (695) | #7 ""geego @ WJ-HPcQ09S"" (4700) | #9 ""peelic @ c2JqQCu6sT"" (2270)",2023-04-28T01:57:48.144Z,168264706814401
+"-- starting hand #66 (id: pejtwcsvadvq)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-04-28T01:57:48.144Z,168264706814400
+"Undealt cards: A♣, A♠, 3♠ [8♦, 9♣]",2023-04-28T01:57:42.394Z,168264706239400
+"-- ending hand #65 --",2023-04-28T01:57:42.223Z,168264706222302
+"""arash @ --uhQWY45j"" collected 120 from pot",2023-04-28T01:57:42.223Z,168264706222301
+"Uncalled bet of 60 returned to ""arash @ --uhQWY45j""",2023-04-28T01:57:42.223Z,168264706222300
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:57:41.409Z,168264706140900
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:57:40.526Z,168264706052600
+"""arash @ --uhQWY45j"" bets 60",2023-04-28T01:57:38.955Z,168264705895500
+"Flop:  [A♣, A♠, 3♠]",2023-04-28T01:57:35.336Z,168264705533600
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:57:34.503Z,168264705450300
+"""arash @ --uhQWY45j"" calls 40",2023-04-28T01:57:33.663Z,168264705366300
+"""Jonah Dlin @ axh4B_jN0P"" raises to 40",2023-04-28T01:57:32.335Z,168264705233500
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:57:28.869Z,168264704886900
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:57:24.622Z,168264704462200
+"""geego @ WJ-HPcQ09S"" posts a big blind of 20",2023-04-28T01:57:22.462Z,168264704246208
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-04-28T01:57:22.462Z,168264704246207
+"Your hand is 2♣, J♣",2023-04-28T01:57:22.462Z,168264704246205
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1375) | #2 ""Jonah Dlin @ axh4B_jN0P"" (1000) | #5 ""arash @ --uhQWY45j"" (615) | #7 ""geego @ WJ-HPcQ09S"" (4740) | #9 ""peelic @ c2JqQCu6sT"" (2270)",2023-04-28T01:57:22.462Z,168264704246201
+"-- starting hand #65 (id: re5djctgllbl)  (No Limit Texas Hold'em) (dealer: ""Jonah Dlin @ axh4B_jN0P"") --",2023-04-28T01:57:22.462Z,168264704246200
+"-- ending hand #64 --",2023-04-28T01:57:16.458Z,168264703645803
+"""Jonah Dlin @ axh4B_jN0P"" shows a 2♣, 2♠.",2023-04-28T01:57:16.458Z,168264703645802
+"""daveed @ -dAQjOVxm7"" collected 480 from pot with Two Pair, A's & 6's (combination: A♥, A♦, 6♠, 6♦, K♣)",2023-04-28T01:57:16.458Z,168264703645801
+"""daveed @ -dAQjOVxm7"" shows a A♥, 5♦.",2023-04-28T01:57:16.458Z,168264703645800
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:57:15.562Z,168264703556200
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:57:11.845Z,168264703184500
+"River: A♦, K♣, 8♥, 6♠ [6♦]",2023-04-28T01:57:09.853Z,168264702985300
+"""daveed @ -dAQjOVxm7"" calls 100",2023-04-28T01:57:09.001Z,168264702900100
+"""Jonah Dlin @ axh4B_jN0P"" bets 100",2023-04-28T01:57:07.859Z,168264702785900
+"Turn: A♦, K♣, 8♥ [6♠]",2023-04-28T01:57:04.303Z,168264702430300
+"""daveed @ -dAQjOVxm7"" calls 60",2023-04-28T01:57:03.492Z,168264702349200
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:57:02.067Z,168264702206700
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:57:01.160Z,168264702116000
+"""Jonah Dlin @ axh4B_jN0P"" bets 60",2023-04-28T01:56:55.273Z,168264701527300
+"Flop:  [A♦, K♣, 8♥]",2023-04-28T01:56:52.472Z,168264701247200
+"""daveed @ -dAQjOVxm7"" calls 40",2023-04-28T01:56:51.661Z,168264701166100
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:56:50.705Z,168264701070500
+"""arash @ --uhQWY45j"" calls 40",2023-04-28T01:56:49.861Z,168264700986100
+"""Jonah Dlin @ axh4B_jN0P"" raises to 40",2023-04-28T01:56:48.486Z,168264700848600
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:56:46.800Z,168264700680000
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:56:45.296Z,168264700529600
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:56:44.306Z,168264700430600
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-04-28T01:56:41.628Z,168264700162808
+"""Jonah Dlin @ axh4B_jN0P"" posts a small blind of 10",2023-04-28T01:56:41.628Z,168264700162807
+"Your hand is J♥, 5♥",2023-04-28T01:56:41.628Z,168264700162805
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1095) | #2 ""Jonah Dlin @ axh4B_jN0P"" (1200) | #5 ""arash @ --uhQWY45j"" (655) | #7 ""geego @ WJ-HPcQ09S"" (4780) | #9 ""peelic @ c2JqQCu6sT"" (2270)",2023-04-28T01:56:41.628Z,168264700162801
+"-- starting hand #64 (id: wsltjzxnk59e)  (No Limit Texas Hold'em) (dealer: ""daveed @ -dAQjOVxm7"") --",2023-04-28T01:56:41.628Z,168264700162800
+"-- ending hand #63 --",2023-04-28T01:56:35.611Z,168264699561102
+"""geego @ WJ-HPcQ09S"" collected 910 from pot with Flush, Ac High (combination: A♣, K♣, Q♣, 4♣, 3♣)",2023-04-28T01:56:35.611Z,168264699561101
+"""geego @ WJ-HPcQ09S"" shows a Q♣, K♣.",2023-04-28T01:56:35.611Z,168264699561100
+"""peelic @ c2JqQCu6sT"" calls 200",2023-04-28T01:56:34.720Z,168264699472000
+"""geego @ WJ-HPcQ09S"" bets 200",2023-04-28T01:56:31.392Z,168264699139200
+"River: 3♣, 3♦, 4♣, A♣ [7♥]",2023-04-28T01:56:26.799Z,168264698679900
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:56:25.928Z,168264698592800
+"""peelic @ c2JqQCu6sT"" calls 80",2023-04-28T01:56:24.200Z,168264698420000
+"""geego @ WJ-HPcQ09S"" bets 80",2023-04-28T01:56:22.939Z,168264698293900
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:56:16.140Z,168264697614000
+"Turn: 3♣, 3♦, 4♣ [A♣]",2023-04-28T01:56:09.592Z,168264696959200
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:56:08.715Z,168264696871500
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:56:07.817Z,168264696781700
+"""peelic @ c2JqQCu6sT"" calls 50",2023-04-28T01:56:06.844Z,168264696684400
+"""geego @ WJ-HPcQ09S"" calls 50",2023-04-28T01:56:05.805Z,168264696580500
+"""arash @ --uhQWY45j"" bets 50",2023-04-28T01:56:04.860Z,168264696486000
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:56:01.824Z,168264696182400
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:56:00.827Z,168264696082700
+"Flop:  [3♣, 3♦, 4♣]",2023-04-28T01:55:58.944Z,168264695894400
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:55:58.094Z,168264695809400
+"""daveed @ -dAQjOVxm7"" calls 40",2023-04-28T01:55:56.665Z,168264695666500
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:55:54.239Z,168264695423900
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:55:52.766Z,168264695276600
+"""arash @ --uhQWY45j"" raises to 40",2023-04-28T01:55:51.925Z,168264695192500
+"""Jonah Dlin @ axh4B_jN0P"" posts a big blind of 20",2023-04-28T01:55:49.734Z,168264694973408
+"""daveed @ -dAQjOVxm7"" posts a small blind of 10",2023-04-28T01:55:49.734Z,168264694973407
+"Your hand is Q♣, K♣",2023-04-28T01:55:49.734Z,168264694973405
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1135) | #2 ""Jonah Dlin @ axh4B_jN0P"" (1240) | #5 ""arash @ --uhQWY45j"" (745) | #7 ""geego @ WJ-HPcQ09S"" (4240) | #9 ""peelic @ c2JqQCu6sT"" (2640)",2023-04-28T01:55:49.734Z,168264694973401
+"-- starting hand #63 (id: ml7ledxfyzjx)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-04-28T01:55:49.734Z,168264694973400
+"""geego @ WJ-HPcQ09S"" shows a 3♠, 4♣.",2023-04-28T01:55:45.442Z,168264694544200
+"Undealt cards: 6♥, 10♠, J♠, 3♦ [4♦]",2023-04-28T01:55:44.362Z,168264694436200
+"-- ending hand #62 --",2023-04-28T01:55:43.123Z,168264694312302
+"""daveed @ -dAQjOVxm7"" collected 220 from pot",2023-04-28T01:55:43.123Z,168264694312301
+"Uncalled bet of 90 returned to ""daveed @ -dAQjOVxm7""",2023-04-28T01:55:43.123Z,168264694312300
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:55:42.237Z,168264694223700
+"""daveed @ -dAQjOVxm7"" bets 90",2023-04-28T01:55:36.499Z,168264693649900
+"Turn: 6♥, 10♠, J♠ [3♦]",2023-04-28T01:55:31.983Z,168264693198300
+"""arash @ --uhQWY45j"" calls 45",2023-04-28T01:55:31.173Z,168264693117300
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:55:30.028Z,168264693002800
+"""daveed @ -dAQjOVxm7"" bets 45",2023-04-28T01:55:28.999Z,168264692899900
+"Flop:  [6♥, 10♠, J♠]",2023-04-28T01:55:22.109Z,168264692210900
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:55:21.248Z,168264692124800
+"""daveed @ -dAQjOVxm7"" calls 40",2023-04-28T01:55:20.319Z,168264692031900
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:55:18.402Z,168264691840200
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:55:15.007Z,168264691500700
+"""arash @ --uhQWY45j"" raises to 40",2023-04-28T01:55:14.135Z,168264691413500
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:55:12.229Z,168264691222900
+"""daveed @ -dAQjOVxm7"" posts a big blind of 20",2023-04-28T01:55:11.176Z,168264691117608
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-04-28T01:55:11.176Z,168264691117607
+"Your hand is 3♠, 4♣",2023-04-28T01:55:11.176Z,168264691117605
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1000) | #2 ""Jonah Dlin @ axh4B_jN0P"" (1280) | #5 ""arash @ --uhQWY45j"" (830) | #7 ""geego @ WJ-HPcQ09S"" (4240) | #9 ""peelic @ c2JqQCu6sT"" (2650)",2023-04-28T01:55:11.176Z,168264691117601
+"-- starting hand #62 (id: eumef4246ezb)  (No Limit Texas Hold'em) (dealer: ""geego @ WJ-HPcQ09S"") --",2023-04-28T01:55:11.176Z,168264691117600
+"""geego @ WJ-HPcQ09S"" shows a J♦, Q♠.",2023-04-28T01:55:06.005Z,168264690600500
+"-- ending hand #61 --",2023-04-28T01:55:04.667Z,168264690466702
+"""Jonah Dlin @ axh4B_jN0P"" collected 480 from pot with Flush, Qd High (combination: Q♦, 9♦, 8♦, 4♦, 2♦)",2023-04-28T01:55:04.667Z,168264690466701
+"""Jonah Dlin @ axh4B_jN0P"" shows a Q♦, 6♥.",2023-04-28T01:55:04.667Z,168264690466700
+"""geego @ WJ-HPcQ09S"" calls 160",2023-04-28T01:55:03.802Z,168264690380200
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:55:02.972Z,168264690297200
+"""Jonah Dlin @ axh4B_jN0P"" raises to 160",2023-04-28T01:55:02.035Z,168264690203500
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:54:43.545Z,168264688354500
+"""geego @ WJ-HPcQ09S"" bets 80",2023-04-28T01:54:40.392Z,168264688039200
+"River: K♠, 9♦, 8♦, 4♦ [2♦]",2023-04-28T01:54:37.276Z,168264687727600
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:54:36.437Z,168264687643700
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:54:34.835Z,168264687483500
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:54:33.906Z,168264687390600
+"""geego @ WJ-HPcQ09S"" bets 20",2023-04-28T01:54:26.964Z,168264686696400
+"Turn: K♠, 9♦, 8♦ [4♦]",2023-04-28T01:54:25.819Z,168264686581900
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:54:24.982Z,168264686498200
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:54:23.824Z,168264686382400
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:54:22.880Z,168264686288000
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:54:21.009Z,168264686100900
+"Flop:  [K♠, 9♦, 8♦]",2023-04-28T01:54:18.860Z,168264685886000
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:54:18.023Z,168264685802300
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:54:17.097Z,168264685709700
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:54:16.215Z,168264685621500
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:54:15.277Z,168264685527700
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:54:14.382Z,168264685438200
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-04-28T01:54:12.134Z,168264685213410
+"""geego @ WJ-HPcQ09S"" posts a small blind of 10",2023-04-28T01:54:12.134Z,168264685213409
+"Your hand is J♦, Q♠",2023-04-28T01:54:12.134Z,168264685213407
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1000) | #2 ""Jonah Dlin @ axh4B_jN0P"" (1000) | #5 ""arash @ --uhQWY45j"" (870) | #7 ""geego @ WJ-HPcQ09S"" (4440) | #9 ""peelic @ c2JqQCu6sT"" (2690)",2023-04-28T01:54:12.134Z,168264685213403
+"-- starting hand #61 (id: 6trap1to1bpr)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-04-28T01:54:12.134Z,168264685213402
+"The player ""daveed @ -dAQjOVxm7"" joined the game with a stack of 1000.",2023-04-28T01:54:12.134Z,168264685213401
+"The player ""Jonah Dlin @ axh4B_jN0P"" joined the game with a stack of 1000.",2023-04-28T01:54:12.134Z,168264685213400
+"""geego @ WJ-HPcQ09S"" shows a 3♦, 10♣.",2023-04-28T01:54:07.839Z,168264684783900
+"Undealt cards: 4♥, 8♠, 10♦ [9♦, A♣]",2023-04-28T01:54:06.341Z,168264684634100
+"-- ending hand #60 --",2023-04-28T01:54:05.458Z,168264684545802
+"""arash @ --uhQWY45j"" collected 100 from pot",2023-04-28T01:54:05.458Z,168264684545801
+"Uncalled bet of 50 returned to ""arash @ --uhQWY45j""",2023-04-28T01:54:05.458Z,168264684545800
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:54:04.637Z,168264684463700
+"""arash @ --uhQWY45j"" bets 50",2023-04-28T01:54:00.816Z,168264684081600
+"Flop:  [4♥, 8♠, 10♦]",2023-04-28T01:53:56.232Z,168264683623200
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:53:55.366Z,168264683536600
+"The admin approved the player ""Jonah Dlin @ axh4B_jN0P"" participation with a stack of 1000.",2023-04-28T01:53:52.941Z,168264683294100
+"The admin approved the player ""daveed @ -dAQjOVxm7"" participation with a stack of 1000.",2023-04-28T01:53:50.623Z,168264683062300
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:53:49.078Z,168264682907800
+"The player ""daveed @ -dAQjOVxm7"" requested a seat.",2023-04-28T01:53:48.249Z,168264682824900
+"""arash @ --uhQWY45j"" raises to 40",2023-04-28T01:53:48.216Z,168264682821600
+"The player ""Jonah Dlin @ axh4B_jN0P"" requested a seat.",2023-04-28T01:53:47.483Z,168264682748300
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:53:46.402Z,168264682640200
+"""geego @ WJ-HPcQ09S"" posts a big blind of 20",2023-04-28T01:53:43.653Z,168264682365307
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-04-28T01:53:43.653Z,168264682365306
+"Your hand is 3♦, 10♣",2023-04-28T01:53:43.653Z,168264682365304
+"Player stacks: #5 ""arash @ --uhQWY45j"" (810) | #7 ""geego @ WJ-HPcQ09S"" (4460) | #9 ""peelic @ c2JqQCu6sT"" (2730)",2023-04-28T01:53:43.653Z,168264682365302
+"-- starting hand #60 (id: jnekvc7zcbrp)  (No Limit Texas Hold'em) (dead button) --",2023-04-28T01:53:43.653Z,168264682365301
+"The player ""Jonah Dlin @ axh4B_jN0P"" quits the game with a stack of 0.",2023-04-28T01:53:43.653Z,168264682365300
+"-- ending hand #59 --",2023-04-28T01:53:37.632Z,168264681763201
+"""geego @ WJ-HPcQ09S"" collected 670 from pot with Pair, A's (combination: A♣, A♥, K♥, Q♠, J♦)",2023-04-28T01:53:37.632Z,168264681763200
+"River: K♥, A♥, 6♣, Q♠ [9♠]",2023-04-28T01:53:33.625Z,168264681362500
+"Turn: K♥, A♥, 6♣ [Q♠]",2023-04-28T01:53:29.620Z,168264680962000
+"""geego @ WJ-HPcQ09S"" shows a J♦, A♣.",2023-04-28T01:53:25.618Z,168264680561801
+"""Jonah Dlin @ axh4B_jN0P"" shows a 2♦, A♦.",2023-04-28T01:53:25.618Z,168264680561800
+"""geego @ WJ-HPcQ09S"" calls 230",2023-04-28T01:53:24.810Z,168264680481000
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:53:23.914Z,168264680391400
+"""Jonah Dlin @ axh4B_jN0P"" raises to 230 and go all in",2023-04-28T01:53:21.265Z,168264680126500
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:53:19.530Z,168264679953000
+"""geego @ WJ-HPcQ09S"" calls 50",2023-04-28T01:53:16.206Z,168264679620600
+"""arash @ --uhQWY45j"" bets 50",2023-04-28T01:53:15.345Z,168264679534500
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:53:10.601Z,168264679060100
+"Flop:  [K♥, A♥, 6♣]",2023-04-28T01:53:04.955Z,168264678495500
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:53:04.125Z,168264678412500
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:53:02.513Z,168264678251300
+"""arash @ --uhQWY45j"" calls 40",2023-04-28T01:53:01.613Z,168264678161300
+"""Jonah Dlin @ axh4B_jN0P"" raises to 40",2023-04-28T01:53:00.213Z,168264678021300
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:52:55.254Z,168264677525400
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:52:54.343Z,168264677434300
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-04-28T01:52:51.576Z,168264677157607
+"""Jonah Dlin @ axh4B_jN0P"" posts a small blind of 10",2023-04-28T01:52:51.576Z,168264677157606
+"Your hand is J♦, A♣",2023-04-28T01:52:51.576Z,168264677157604
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (270) | #5 ""arash @ --uhQWY45j"" (900) | #7 ""geego @ WJ-HPcQ09S"" (4060) | #9 ""peelic @ c2JqQCu6sT"" (2770)",2023-04-28T01:52:51.576Z,168264677157601
+"-- starting hand #59 (id: wluhsvpjxhnp)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-04-28T01:52:51.576Z,168264677157600
+"-- ending hand #58 --",2023-04-28T01:52:45.522Z,168264676552203
+"""Jonah Dlin @ axh4B_jN0P"" shows a 9♣, 7♥.",2023-04-28T01:52:45.522Z,168264676552202
+"""geego @ WJ-HPcQ09S"" collected 720 from pot with Pair, K's (combination: K♦, K♠, 8♥, 7♣, 6♦)",2023-04-28T01:52:45.522Z,168264676552201
+"""geego @ WJ-HPcQ09S"" shows a K♦, K♠.",2023-04-28T01:52:45.522Z,168264676552200
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:52:44.702Z,168264676470200
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:52:43.155Z,168264676315500
+"River: 8♥, 7♣, 3♣, 6♦ [2♥]",2023-04-28T01:52:40.824Z,168264676082400
+"""Jonah Dlin @ axh4B_jN0P"" calls 200",2023-04-28T01:52:39.957Z,168264675995700
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:52:33.060Z,168264675306000
+"""geego @ WJ-HPcQ09S"" raises to 200",2023-04-28T01:52:31.025Z,168264675102500
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:52:27.210Z,168264674721000
+"""Jonah Dlin @ axh4B_jN0P"" bets 30",2023-04-28T01:52:25.761Z,168264674576100
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:52:20.408Z,168264674040800
+"Turn: 8♥, 7♣, 3♣ [6♦]",2023-04-28T01:52:16.898Z,168264673689800
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:52:15.998Z,168264673599800
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:52:15.059Z,168264673505900
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:52:14.138Z,168264673413800
+"""arash @ --uhQWY45j"" bets 40",2023-04-28T01:52:13.075Z,168264673307500
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:52:10.438Z,168264673043800
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:52:08.731Z,168264672873100
+"Flop:  [8♥, 7♣, 3♣]",2023-04-28T01:52:07.097Z,168264672709700
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:52:06.259Z,168264672625900
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:52:05.374Z,168264672537400
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:52:04.422Z,168264672442200
+"""arash @ --uhQWY45j"" raises to 40",2023-04-28T01:52:03.512Z,168264672351200
+"""Jonah Dlin @ axh4B_jN0P"" posts a big blind of 20",2023-04-28T01:52:01.373Z,168264672137307
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-04-28T01:52:01.373Z,168264672137306
+"Your hand is K♦, K♠",2023-04-28T01:52:01.373Z,168264672137304
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (550) | #5 ""arash @ --uhQWY45j"" (980) | #7 ""geego @ WJ-HPcQ09S"" (3620) | #9 ""peelic @ c2JqQCu6sT"" (2850)",2023-04-28T01:52:01.373Z,168264672137301
+"-- starting hand #58 (id: xzbkmkjfmv8i)  (No Limit Texas Hold'em) (dealer: ""geego @ WJ-HPcQ09S"") --",2023-04-28T01:52:01.373Z,168264672137300
+"Undealt cards: J♣, 2♦, 3♣, 3♦ [8♥]",2023-04-28T01:51:56.313Z,168264671631300
+"-- ending hand #57 --",2023-04-28T01:51:55.435Z,168264671543502
+"""Jonah Dlin @ axh4B_jN0P"" collected 80 from pot",2023-04-28T01:51:55.435Z,168264671543501
+"Uncalled bet of 40 returned to ""Jonah Dlin @ axh4B_jN0P""",2023-04-28T01:51:55.435Z,168264671543500
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:51:54.560Z,168264671456000
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:51:53.498Z,168264671349800
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:51:52.647Z,168264671264700
+"""Jonah Dlin @ axh4B_jN0P"" bets 40",2023-04-28T01:51:48.334Z,168264670833400
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:51:46.130Z,168264670613000
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:51:45.202Z,168264670520200
+"Turn: J♣, 2♦, 3♣ [3♦]",2023-04-28T01:51:43.333Z,168264670333300
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:51:42.457Z,168264670245700
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:51:41.490Z,168264670149000
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:51:39.011Z,168264669901100
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:51:38.109Z,168264669810900
+"Flop:  [J♣, 2♦, 3♣]",2023-04-28T01:51:36.530Z,168264669653000
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:51:35.630Z,168264669563000
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:51:34.742Z,168264669474200
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:51:33.889Z,168264669388900
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:51:32.549Z,168264669254900
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-04-28T01:51:31.698Z,168264669169807
+"""geego @ WJ-HPcQ09S"" posts a small blind of 10",2023-04-28T01:51:31.698Z,168264669169806
+"Your hand is 4♥, 9♠",2023-04-28T01:51:31.698Z,168264669169804
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (490) | #5 ""arash @ --uhQWY45j"" (1000) | #7 ""geego @ WJ-HPcQ09S"" (3640) | #9 ""peelic @ c2JqQCu6sT"" (2870)",2023-04-28T01:51:31.698Z,168264669169801
+"-- starting hand #57 (id: kcnwr4i9xotx)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-04-28T01:51:31.698Z,168264669169800
+"""peelic @ c2JqQCu6sT"" shows a 6♠, 7♥.",2023-04-28T01:51:25.761Z,168264668576100
+"-- ending hand #56 --",2023-04-28T01:51:25.189Z,168264668518902
+"""arash @ --uhQWY45j"" collected 300 from pot with Pair, 10's (combination: 10♦, 10♠, A♣, 8♥, 6♥)",2023-04-28T01:51:25.189Z,168264668518901
+"""arash @ --uhQWY45j"" shows a 6♥, 10♦.",2023-04-28T01:51:25.189Z,168264668518900
+"""Jonah Dlin @ axh4B_jN0P"" calls 60",2023-04-28T01:51:24.374Z,168264668437400
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:51:23.475Z,168264668347500
+"""arash @ --uhQWY45j"" bets 60",2023-04-28T01:51:22.382Z,168264668238200
+"River: 4♣, 5♣, 8♥, A♣ [10♠]",2023-04-28T01:51:18.686Z,168264667868600
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:51:17.767Z,168264667776700
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:51:16.851Z,168264667685100
+"""arash @ --uhQWY45j"" bets 20",2023-04-28T01:51:15.960Z,168264667596000
+"Turn: 4♣, 5♣, 8♥ [A♣]",2023-04-28T01:51:14.364Z,168264667436400
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:51:13.558Z,168264667355800
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:51:12.575Z,168264667257500
+"""geego @ WJ-HPcQ09S"" bets 20",2023-04-28T01:51:11.453Z,168264667145300
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:51:09.554Z,168264666955400
+"Flop:  [4♣, 5♣, 8♥]",2023-04-28T01:51:08.161Z,168264666816100
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:51:07.347Z,168264666734700
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:51:05.578Z,168264666557800
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:51:03.036Z,168264666303600
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:51:02.131Z,168264666213100
+"""geego @ WJ-HPcQ09S"" posts a big blind of 20",2023-04-28T01:51:00.705Z,168264666070507
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-04-28T01:51:00.705Z,168264666070506
+"Your hand is 9♣, 7♠",2023-04-28T01:51:00.705Z,168264666070504
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (610) | #5 ""arash @ --uhQWY45j"" (820) | #7 ""geego @ WJ-HPcQ09S"" (3700) | #9 ""peelic @ c2JqQCu6sT"" (2870)",2023-04-28T01:51:00.705Z,168264666070501
+"-- starting hand #56 (id: lndmcqcqeozk)  (No Limit Texas Hold'em) (dealer: ""Jonah Dlin @ axh4B_jN0P"") --",2023-04-28T01:51:00.705Z,168264666070500
+"-- ending hand #55 --",2023-04-28T01:50:54.672Z,168264665467203
+"""arash @ --uhQWY45j"" shows a 9♠, A♠.",2023-04-28T01:50:54.672Z,168264665467202
+"""geego @ WJ-HPcQ09S"" collected 860 from pot with Two Pair, 10's & 4's (combination: 10♣, 10♠, 4♠, 4♦, K♦)",2023-04-28T01:50:54.672Z,168264665467201
+"""geego @ WJ-HPcQ09S"" shows a 10♣, 10♠.",2023-04-28T01:50:54.672Z,168264665467200
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:50:53.801Z,168264665380100
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:50:51.957Z,168264665195700
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:50:51.019Z,168264665101900
+"River: 2♥, 4♠, 7♠, 4♦ [K♦]",2023-04-28T01:50:47.949Z,168264664794900
+"""geego @ WJ-HPcQ09S"" calls 140",2023-04-28T01:50:47.101Z,168264664710100
+"""arash @ --uhQWY45j"" calls 140",2023-04-28T01:50:46.187Z,168264664618700
+"""Jonah Dlin @ axh4B_jN0P"" bets 140",2023-04-28T01:50:41.513Z,168264664151300
+"Turn: 2♥, 4♠, 7♠ [4♦]",2023-04-28T01:50:34.659Z,168264663465900
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:50:33.790Z,168264663379000
+"""geego @ WJ-HPcQ09S"" calls 80",2023-04-28T01:50:32.877Z,168264663287700
+"""arash @ --uhQWY45j"" calls 80",2023-04-28T01:50:31.922Z,168264663192200
+"""Jonah Dlin @ axh4B_jN0P"" bets 80",2023-04-28T01:50:29.375Z,168264662937500
+"Flop:  [2♥, 4♠, 7♠]",2023-04-28T01:50:21.827Z,168264662182700
+"""Jonah Dlin @ axh4B_jN0P"" calls 50",2023-04-28T01:50:20.920Z,168264662092000
+"""peelic @ c2JqQCu6sT"" calls 50",2023-04-28T01:50:19.579Z,168264661957900
+"""geego @ WJ-HPcQ09S"" calls 50",2023-04-28T01:50:18.661Z,168264661866100
+"""arash @ --uhQWY45j"" raises to 50",2023-04-28T01:50:17.568Z,168264661756800
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:50:14.102Z,168264661410200
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:50:13.101Z,168264661310100
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:50:12.104Z,168264661210400
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-04-28T01:50:10.819Z,168264661081907
+"""Jonah Dlin @ axh4B_jN0P"" posts a small blind of 10",2023-04-28T01:50:10.819Z,168264661081906
+"Your hand is 10♣, 10♠",2023-04-28T01:50:10.819Z,168264661081904
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (880) | #5 ""arash @ --uhQWY45j"" (1090) | #7 ""geego @ WJ-HPcQ09S"" (3110) | #9 ""peelic @ c2JqQCu6sT"" (2920)",2023-04-28T01:50:10.819Z,168264661081901
+"-- starting hand #55 (id: q6p8tgcvarvm)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-04-28T01:50:10.819Z,168264661081900
+"-- ending hand #54 --",2023-04-28T01:50:04.811Z,168264660481103
+"""Jonah Dlin @ axh4B_jN0P"" shows a 4♥, 7♦.",2023-04-28T01:50:04.811Z,168264660481102
+"""arash @ --uhQWY45j"" collected 320 from pot with Pair, 6's (combination: 6♠, 6♥, K♥, Q♥, 8♠)",2023-04-28T01:50:04.811Z,168264660481101
+"""arash @ --uhQWY45j"" shows a Q♥, 6♠.",2023-04-28T01:50:04.811Z,168264660481100
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:50:03.905Z,168264660390500
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:50:02.791Z,168264660279100
+"River: 2♣, 8♠, 6♥, K♥ [4♠]",2023-04-28T01:50:00.675Z,168264660067500
+"""Jonah Dlin @ axh4B_jN0P"" calls 60",2023-04-28T01:49:59.865Z,168264659986500
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:49:57.457Z,168264659745700
+"""arash @ --uhQWY45j"" bets 60",2023-04-28T01:49:54.413Z,168264659441300
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:49:50.399Z,168264659039900
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:49:49.463Z,168264658946300
+"Turn: 2♣, 8♠, 6♥ [K♥]",2023-04-28T01:49:47.262Z,168264658726200
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:49:46.396Z,168264658639600
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:49:45.463Z,168264658546300
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:49:44.521Z,168264658452100
+"""arash @ --uhQWY45j"" bets 40",2023-04-28T01:49:35.897Z,168264657589700
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:49:33.337Z,168264657333700
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:49:32.445Z,168264657244500
+"Flop:  [2♣, 8♠, 6♥]",2023-04-28T01:49:25.490Z,168264656549000
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:49:24.648Z,168264656464800
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:49:23.721Z,168264656372100
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:49:22.797Z,168264656279700
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:49:21.005Z,168264656100500
+"""Jonah Dlin @ axh4B_jN0P"" posts a big blind of 20",2023-04-28T01:49:19.879Z,168264655987907
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-04-28T01:49:19.879Z,168264655987906
+"Your hand is J♠, 7♥",2023-04-28T01:49:19.879Z,168264655987904
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1000) | #5 ""arash @ --uhQWY45j"" (890) | #7 ""geego @ WJ-HPcQ09S"" (3130) | #9 ""peelic @ c2JqQCu6sT"" (2980)",2023-04-28T01:49:19.879Z,168264655987901
+"-- starting hand #54 (id: akuw1bnwjuyn)  (No Limit Texas Hold'em) (dealer: ""geego @ WJ-HPcQ09S"") --",2023-04-28T01:49:19.879Z,168264655987900
+"-- ending hand #53 --",2023-04-28T01:49:13.844Z,168264655384402
+"""geego @ WJ-HPcQ09S"" collected 420 from pot with Three of a Kind, 9's (combination: 9♥, 9♠, 9♦, A♣, Q♦)",2023-04-28T01:49:13.844Z,168264655384401
+"""geego @ WJ-HPcQ09S"" shows a 9♥, 9♠.",2023-04-28T01:49:13.844Z,168264655384400
+"""arash @ --uhQWY45j"" calls 100",2023-04-28T01:49:13.031Z,168264655303100
+"""geego @ WJ-HPcQ09S"" bets 100",2023-04-28T01:49:05.536Z,168264654553600
+"River: A♣, 9♦, Q♦, 5♥ [10♥]",2023-04-28T01:49:01.346Z,168264654134600
+"""arash @ --uhQWY45j"" calls 40",2023-04-28T01:49:00.502Z,168264654050200
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:48:59.582Z,168264653958200
+"""geego @ WJ-HPcQ09S"" bets 40",2023-04-28T01:48:56.908Z,168264653690800
+"Turn: A♣, 9♦, Q♦ [5♥]",2023-04-28T01:48:54.858Z,168264653485800
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:48:54.031Z,168264653403100
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:48:53.131Z,168264653313100
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:48:52.225Z,168264653222500
+"""geego @ WJ-HPcQ09S"" bets 20",2023-04-28T01:48:50.667Z,168264653066700
+"Flop:  [A♣, 9♦, Q♦]",2023-04-28T01:48:48.132Z,168264652813200
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:48:47.327Z,168264652732700
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:48:46.386Z,168264652638600
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:48:45.229Z,168264652522900
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:48:43.368Z,168264652336800
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-04-28T01:48:42.456Z,168264652245607
+"""geego @ WJ-HPcQ09S"" posts a small blind of 10",2023-04-28T01:48:42.456Z,168264652245606
+"Your hand is 9♥, 9♠",2023-04-28T01:48:42.456Z,168264652245604
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1040) | #5 ""arash @ --uhQWY45j"" (1070) | #7 ""geego @ WJ-HPcQ09S"" (2890) | #9 ""peelic @ c2JqQCu6sT"" (3000)",2023-04-28T01:48:42.456Z,168264652245601
+"-- starting hand #53 (id: b6bsfkmzaimz)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-04-28T01:48:42.456Z,168264652245600
+"-- ending hand #52 --",2023-04-28T01:48:36.448Z,168264651644802
+"""geego @ WJ-HPcQ09S"" collected 400 from pot with Flush, Ah High (combination: A♥, K♥, J♥, 3♥, 2♥)",2023-04-28T01:48:36.448Z,168264651644801
+"""geego @ WJ-HPcQ09S"" shows a 3♥, J♥.",2023-04-28T01:48:36.448Z,168264651644800
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:48:35.540Z,168264651554000
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:48:32.916Z,168264651291600
+"River: A♥, 7♠, K♥, 7♣ [2♥]",2023-04-28T01:48:16.497Z,168264649649700
+"""geego @ WJ-HPcQ09S"" calls 60",2023-04-28T01:48:15.684Z,168264649568400
+"""Jonah Dlin @ axh4B_jN0P"" bets 60",2023-04-28T01:48:12.608Z,168264649260800
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:48:05.651Z,168264648565100
+"Turn: A♥, 7♠, K♥ [7♣]",2023-04-28T01:48:03.479Z,168264648347900
+"""geego @ WJ-HPcQ09S"" calls 100",2023-04-28T01:48:02.633Z,168264648263300
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:48:01.722Z,168264648172200
+"""Jonah Dlin @ axh4B_jN0P"" raises to 100",2023-04-28T01:48:00.816Z,168264648081600
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:47:58.476Z,168264647847600
+"""geego @ WJ-HPcQ09S"" bets 40",2023-04-28T01:47:57.578Z,168264647757800
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:47:55.144Z,168264647514400
+"Flop:  [A♥, 7♠, K♥]",2023-04-28T01:47:53.584Z,168264647358400
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:47:52.693Z,168264647269300
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:47:51.849Z,168264647184900
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:47:50.789Z,168264647078900
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:47:49.490Z,168264646949000
+"""geego @ WJ-HPcQ09S"" posts a big blind of 20",2023-04-28T01:47:48.407Z,168264646840707
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-04-28T01:47:48.407Z,168264646840706
+"Your hand is 3♥, J♥",2023-04-28T01:47:48.407Z,168264646840704
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1220) | #5 ""arash @ --uhQWY45j"" (1090) | #7 ""geego @ WJ-HPcQ09S"" (2670) | #9 ""peelic @ c2JqQCu6sT"" (3020)",2023-04-28T01:47:48.407Z,168264646840701
+"-- starting hand #52 (id: ofebvafkchre)  (No Limit Texas Hold'em) (dealer: ""Jonah Dlin @ axh4B_jN0P"") --",2023-04-28T01:47:48.407Z,168264646840700
+"""peelic @ c2JqQCu6sT"" shows a 3♥, 9♣.",2023-04-28T01:47:44.113Z,168264646411300
+"Undealt cards: 5♣, K♥, 9♥ [9♦, K♠]",2023-04-28T01:47:41.927Z,168264646192700
+"-- ending hand #51 --",2023-04-28T01:47:41.802Z,168264646180202
+"""Jonah Dlin @ axh4B_jN0P"" collected 60 from pot",2023-04-28T01:47:41.802Z,168264646180201
+"Uncalled bet of 60 returned to ""Jonah Dlin @ axh4B_jN0P""",2023-04-28T01:47:41.802Z,168264646180200
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:47:40.990Z,168264646099000
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:47:40.110Z,168264646011000
+"""Jonah Dlin @ axh4B_jN0P"" bets 60",2023-04-28T01:47:38.966Z,168264645896600
+"Flop:  [5♣, K♥, 9♥]",2023-04-28T01:47:35.941Z,168264645594100
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:47:35.099Z,168264645509900
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:47:34.022Z,168264645402200
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:47:33.117Z,168264645311700
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:47:31.811Z,168264645181100
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-04-28T01:47:30.530Z,168264645053007
+"""Jonah Dlin @ axh4B_jN0P"" posts a small blind of 10",2023-04-28T01:47:30.530Z,168264645053006
+"Your hand is A♣, 3♣",2023-04-28T01:47:30.530Z,168264645053004
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1180) | #5 ""arash @ --uhQWY45j"" (1110) | #7 ""geego @ WJ-HPcQ09S"" (2690) | #9 ""peelic @ c2JqQCu6sT"" (3020)",2023-04-28T01:47:30.530Z,168264645053001
+"-- starting hand #51 (id: xoooe2jkbghr)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-04-28T01:47:30.530Z,168264645053000
+"-- ending hand #50 --",2023-04-28T01:47:27.593Z,168264644759302
+"""peelic @ c2JqQCu6sT"" collected 200 from pot",2023-04-28T01:47:27.593Z,168264644759301
+"Uncalled bet of 60 returned to ""peelic @ c2JqQCu6sT""",2023-04-28T01:47:27.593Z,168264644759300
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:47:26.745Z,168264644674500
+"""peelic @ c2JqQCu6sT"" bets 60",2023-04-28T01:47:21.900Z,168264644190000
+"River: 9♦, 10♥, K♣, J♦ [J♠]",2023-04-28T01:47:16.683Z,168264643668300
+"""peelic @ c2JqQCu6sT"" calls 50",2023-04-28T01:47:15.842Z,168264643584200
+"""arash @ --uhQWY45j"" bets 50",2023-04-28T01:47:13.481Z,168264643348100
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:47:10.533Z,168264643053300
+"Turn: 9♦, 10♥, K♣ [J♦]",2023-04-28T01:47:07.476Z,168264642747600
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:47:06.650Z,168264642665000
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:47:05.720Z,168264642572000
+"""arash @ --uhQWY45j"" bets 20",2023-04-28T01:47:04.574Z,168264642457400
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:47:03.362Z,168264642336200
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:47:02.454Z,168264642245400
+"Flop:  [9♦, 10♥, K♣]",2023-04-28T01:47:00.272Z,168264642027200
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:46:59.425Z,168264641942500
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:46:58.540Z,168264641854000
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:46:57.637Z,168264641763700
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:46:56.778Z,168264641677800
+"""Jonah Dlin @ axh4B_jN0P"" posts a big blind of 20",2023-04-28T01:46:55.666Z,168264641566607
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-04-28T01:46:55.666Z,168264641566606
+"Your hand is 4♦, 8♥",2023-04-28T01:46:55.666Z,168264641566604
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1200) | #5 ""arash @ --uhQWY45j"" (1200) | #7 ""geego @ WJ-HPcQ09S"" (2690) | #9 ""peelic @ c2JqQCu6sT"" (2910)",2023-04-28T01:46:55.666Z,168264641566601
+"-- starting hand #50 (id: vddprrv6gtmo)  (No Limit Texas Hold'em) (dealer: ""geego @ WJ-HPcQ09S"") --",2023-04-28T01:46:55.666Z,168264641566600
+"Undealt cards: 8♦, K♦, 2♠ [7♥, 10♥]",2023-04-28T01:46:50.089Z,168264641008900
+"-- ending hand #49 --",2023-04-28T01:46:49.737Z,168264640973702
+"""Jonah Dlin @ axh4B_jN0P"" collected 60 from pot",2023-04-28T01:46:49.737Z,168264640973701
+"Uncalled bet of 40 returned to ""Jonah Dlin @ axh4B_jN0P""",2023-04-28T01:46:49.737Z,168264640973700
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:46:48.869Z,168264640886900
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:46:47.959Z,168264640795900
+"""Jonah Dlin @ axh4B_jN0P"" bets 40",2023-04-28T01:46:47.039Z,168264640703900
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:46:42.056Z,168264640205600
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:46:40.704Z,168264640070400
+"Flop:  [8♦, K♦, 2♠]",2023-04-28T01:46:38.432Z,168264639843200
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:46:37.596Z,168264639759600
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:46:36.657Z,168264639665700
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:46:35.827Z,168264639582700
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:46:34.575Z,168264639457500
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-04-28T01:46:33.583Z,168264639358307
+"""geego @ WJ-HPcQ09S"" posts a small blind of 10",2023-04-28T01:46:33.583Z,168264639358306
+"Your hand is 4♠, Q♠",2023-04-28T01:46:33.583Z,168264639358304
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1160) | #5 ""arash @ --uhQWY45j"" (1200) | #7 ""geego @ WJ-HPcQ09S"" (2710) | #9 ""peelic @ c2JqQCu6sT"" (2930)",2023-04-28T01:46:33.583Z,168264639358301
+"-- starting hand #49 (id: hvad51ktn7rg)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-04-28T01:46:33.583Z,168264639358300
+"-- ending hand #48 --",2023-04-28T01:46:27.579Z,168264638757902
+"""peelic @ c2JqQCu6sT"" collected 580 from pot with Full House, K's over Q's (combination: K♣, K♠, K♦, Q♠, Q♦)",2023-04-28T01:46:27.579Z,168264638757901
+"""peelic @ c2JqQCu6sT"" shows a 4♦, Q♠.",2023-04-28T01:46:27.579Z,168264638757900
+"""arash @ --uhQWY45j"" calls 100",2023-04-28T01:46:26.756Z,168264638675600
+"""peelic @ c2JqQCu6sT"" raises to 100",2023-04-28T01:46:07.764Z,168264636776400
+"""arash @ --uhQWY45j"" bets 20",2023-04-28T01:46:05.124Z,168264636512400
+"River: K♣, K♠, Q♦, K♦ [8♥]",2023-04-28T01:46:01.586Z,168264636158600
+"""peelic @ c2JqQCu6sT"" calls 60",2023-04-28T01:46:00.660Z,168264636066000
+"""arash @ --uhQWY45j"" bets 60",2023-04-28T01:45:59.662Z,168264635966200
+"Turn: K♣, K♠, Q♦ [K♦]",2023-04-28T01:45:55.392Z,168264635539200
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:45:54.529Z,168264635452900
+"""peelic @ c2JqQCu6sT"" calls 60",2023-04-28T01:45:53.634Z,168264635363400
+"""arash @ --uhQWY45j"" bets 60",2023-04-28T01:45:52.663Z,168264635266300
+"Flop:  [K♣, K♠, Q♦]",2023-04-28T01:45:49.157Z,168264634915700
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:45:48.284Z,168264634828400
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:45:47.378Z,168264634737800
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:45:45.093Z,168264634509300
+"""arash @ --uhQWY45j"" raises to 40",2023-04-28T01:45:44.204Z,168264634420400
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:45:42.436Z,168264634243600
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:45:41.479Z,168264634147900
+"""geego @ WJ-HPcQ09S"" posts a big blind of 20",2023-04-28T01:45:35.713Z,168264633571307
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-04-28T01:45:35.713Z,168264633571306
+"Your hand is 5♠, 9♣",2023-04-28T01:45:35.713Z,168264633571304
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1200) | #5 ""arash @ --uhQWY45j"" (1460) | #7 ""geego @ WJ-HPcQ09S"" (2730) | #9 ""peelic @ c2JqQCu6sT"" (2610)",2023-04-28T01:45:35.713Z,168264633571301
+"-- starting hand #48 (id: hjsvx368rw5u)  (No Limit Texas Hold'em) (dealer: ""Jonah Dlin @ axh4B_jN0P"") --",2023-04-28T01:45:35.713Z,168264633571300
+"""geego @ WJ-HPcQ09S"" shows a 5♠, 5♣.",2023-04-28T01:45:30.344Z,168264633034400
+"Undealt cards: Q♠, 9♠, 9♥ [9♦, 10♥]",2023-04-28T01:45:29.448Z,168264632944800
+"-- ending hand #47 --",2023-04-28T01:45:29.103Z,168264632910302
+"""geego @ WJ-HPcQ09S"" collected 120 from pot",2023-04-28T01:45:29.103Z,168264632910301
+"Uncalled bet of 60 returned to ""geego @ WJ-HPcQ09S""",2023-04-28T01:45:29.103Z,168264632910300
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:45:28.256Z,168264632825600
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:45:27.365Z,168264632736500
+"""geego @ WJ-HPcQ09S"" bets 60",2023-04-28T01:45:25.798Z,168264632579800
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:45:23.267Z,168264632326700
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:45:22.292Z,168264632229200
+"Flop:  [Q♠, 9♠, 9♥]",2023-04-28T01:45:17.688Z,168264631768800
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:45:16.852Z,168264631685200
+"""arash @ --uhQWY45j"" calls 40",2023-04-28T01:45:15.468Z,168264631546800
+"""Jonah Dlin @ axh4B_jN0P"" raises to 40",2023-04-28T01:45:14.352Z,168264631435200
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:45:12.444Z,168264631244400
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:45:11.559Z,168264631155900
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-04-28T01:45:09.500Z,168264630950007
+"""Jonah Dlin @ axh4B_jN0P"" posts a small blind of 10",2023-04-28T01:45:09.500Z,168264630950006
+"Your hand is 5♠, 5♣",2023-04-28T01:45:09.500Z,168264630950004
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1240) | #5 ""arash @ --uhQWY45j"" (1500) | #7 ""geego @ WJ-HPcQ09S"" (2650) | #9 ""peelic @ c2JqQCu6sT"" (2610)",2023-04-28T01:45:09.500Z,168264630950001
+"-- starting hand #47 (id: 812k2twhiedy)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-04-28T01:45:09.500Z,168264630950000
+"""peelic @ c2JqQCu6sT"" shows a 5♠, 7♥.",2023-04-28T01:45:05.155Z,168264630515500
+"-- ending hand #46 --",2023-04-28T01:45:02.959Z,168264630295903
+"""Jonah Dlin @ axh4B_jN0P"" shows a 2♣, K♠.",2023-04-28T01:45:02.959Z,168264630295902
+"""geego @ WJ-HPcQ09S"" collected 200 from pot with A High (combination: A♦, Q♥, J♦, 9♥, 7♣)",2023-04-28T01:45:02.959Z,168264630295901
+"""geego @ WJ-HPcQ09S"" shows a 2♦, A♦.",2023-04-28T01:45:02.959Z,168264630295900
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:45:02.148Z,168264630214800
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:45:00.325Z,168264630032500
+"River: Q♥, J♦, 4♦, 9♥ [7♣]",2023-04-28T01:44:57.855Z,168264629785500
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:44:57.027Z,168264629702700
+"""geego @ WJ-HPcQ09S"" bets 40",2023-04-28T01:44:55.859Z,168264629585900
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:44:53.544Z,168264629354400
+"Turn: Q♥, J♦, 4♦ [9♥]",2023-04-28T01:44:51.645Z,168264629164500
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:44:50.733Z,168264629073300
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:44:49.833Z,168264628983300
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:44:48.558Z,168264628855800
+"""geego @ WJ-HPcQ09S"" bets 20",2023-04-28T01:44:47.650Z,168264628765000
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:44:46.161Z,168264628616100
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:44:45.238Z,168264628523800
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:44:42.049Z,168264628204900
+"Flop:  [Q♥, J♦, 4♦]",2023-04-28T01:44:40.634Z,168264628063400
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:44:39.792Z,168264627979200
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:44:38.905Z,168264627890500
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:44:37.918Z,168264627791800
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:44:37.067Z,168264627706700
+"""Jonah Dlin @ axh4B_jN0P"" posts a big blind of 20",2023-04-28T01:44:35.826Z,168264627582607
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-04-28T01:44:35.826Z,168264627582606
+"Your hand is 2♦, A♦",2023-04-28T01:44:35.826Z,168264627582604
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1320) | #5 ""arash @ --uhQWY45j"" (1520) | #7 ""geego @ WJ-HPcQ09S"" (2530) | #9 ""peelic @ c2JqQCu6sT"" (2630)",2023-04-28T01:44:35.826Z,168264627582601
+"-- starting hand #46 (id: n85pdoovppdv)  (No Limit Texas Hold'em) (dealer: ""geego @ WJ-HPcQ09S"") --",2023-04-28T01:44:35.826Z,168264627582600
+"""geego @ WJ-HPcQ09S"" shows a 4♦, 10♣.",2023-04-28T01:44:29.564Z,168264626956400
+"-- ending hand #45 --",2023-04-28T01:44:29.220Z,168264626922002
+"""peelic @ c2JqQCu6sT"" collected 450 from pot with Straight, K High (combination: K♠, Q♦, J♦, 10♦, 9♠)",2023-04-28T01:44:29.220Z,168264626922001
+"""peelic @ c2JqQCu6sT"" shows a 7♣, 10♦.",2023-04-28T01:44:29.220Z,168264626922000
+"""Jonah Dlin @ axh4B_jN0P"" calls 120",2023-04-28T01:44:28.339Z,168264626833900
+"""peelic @ c2JqQCu6sT"" bets 120",2023-04-28T01:44:25.305Z,168264626530500
+"River: 4♠, 9♠, J♦, K♠ [Q♦]",2023-04-28T01:44:19.403Z,168264625940300
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:44:18.555Z,168264625855500
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:44:16.995Z,168264625699500
+"Turn: 4♠, 9♠, J♦ [K♠]",2023-04-28T01:44:15.033Z,168264625503300
+"""peelic @ c2JqQCu6sT"" calls 60",2023-04-28T01:44:14.230Z,168264625423000
+"""Jonah Dlin @ axh4B_jN0P"" bets 60",2023-04-28T01:44:12.046Z,168264625204600
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:44:10.098Z,168264625009800
+"Flop:  [4♠, 9♠, J♦]",2023-04-28T01:44:06.876Z,168264624687600
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:44:06.053Z,168264624605300
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:44:05.107Z,168264624510700
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:44:04.260Z,168264624426000
+"""Jonah Dlin @ axh4B_jN0P"" raises to 40",2023-04-28T01:44:03.302Z,168264624330200
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-04-28T01:44:01.017Z,168264624101707
+"""geego @ WJ-HPcQ09S"" posts a small blind of 10",2023-04-28T01:44:01.017Z,168264624101706
+"Your hand is 4♦, 10♣",2023-04-28T01:44:01.017Z,168264624101704
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1540) | #5 ""arash @ --uhQWY45j"" (1520) | #7 ""geego @ WJ-HPcQ09S"" (2540) | #9 ""peelic @ c2JqQCu6sT"" (2400)",2023-04-28T01:44:01.017Z,168264624101701
+"-- starting hand #45 (id: eg3ss453gpiy)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-04-28T01:44:01.017Z,168264624101700
+"-- ending hand #44 --",2023-04-28T01:43:58.068Z,168264623806802
+"""Jonah Dlin @ axh4B_jN0P"" collected 180 from pot",2023-04-28T01:43:58.068Z,168264623806801
+"Uncalled bet of 60 returned to ""Jonah Dlin @ axh4B_jN0P""",2023-04-28T01:43:58.068Z,168264623806800
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:43:57.247Z,168264623724700
+"""Jonah Dlin @ axh4B_jN0P"" bets 60",2023-04-28T01:43:55.875Z,168264623587500
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:43:53.100Z,168264623310000
+"River: Q♣, 5♦, 8♦, J♥ [5♥]",2023-04-28T01:43:49.347Z,168264622934700
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:43:48.505Z,168264622850500
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:43:37.680Z,168264621768000
+"Turn: Q♣, 5♦, 8♦ [J♥]",2023-04-28T01:43:35.528Z,168264621552800
+"""arash @ --uhQWY45j"" calls 40",2023-04-28T01:43:34.647Z,168264621464700
+"""Jonah Dlin @ axh4B_jN0P"" bets 40",2023-04-28T01:43:30.953Z,168264621095300
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:43:25.195Z,168264620519500
+"Flop:  [Q♣, 5♦, 8♦]",2023-04-28T01:43:22.818Z,168264620281800
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:43:21.983Z,168264620198300
+"""arash @ --uhQWY45j"" calls 40",2023-04-28T01:43:21.102Z,168264620110200
+"""Jonah Dlin @ axh4B_jN0P"" raises to 40",2023-04-28T01:43:18.785Z,168264619878500
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:43:16.648Z,168264619664800
+"""geego @ WJ-HPcQ09S"" posts a big blind of 20",2023-04-28T01:43:15.213Z,168264619521307
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-04-28T01:43:15.213Z,168264619521306
+"Your hand is 6♦, 3♠",2023-04-28T01:43:15.213Z,168264619521304
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1440) | #5 ""arash @ --uhQWY45j"" (1600) | #7 ""geego @ WJ-HPcQ09S"" (2560) | #9 ""peelic @ c2JqQCu6sT"" (2400)",2023-04-28T01:43:15.213Z,168264619521301
+"-- starting hand #44 (id: 2ir5gktpeyxt)  (No Limit Texas Hold'em) (dealer: ""Jonah Dlin @ axh4B_jN0P"") --",2023-04-28T01:43:15.213Z,168264619521300
+"-- ending hand #43 --",2023-04-28T01:43:09.203Z,168264618920302
+"""Jonah Dlin @ axh4B_jN0P"" collected 680 from pot with Flush, Ac High (combination: A♣, K♣, J♣, 7♣, 3♣)",2023-04-28T01:43:09.203Z,168264618920301
+"""Jonah Dlin @ axh4B_jN0P"" shows a J♣, 3♣.",2023-04-28T01:43:09.203Z,168264618920300
+"""peelic @ c2JqQCu6sT"" calls 140",2023-04-28T01:43:08.338Z,168264618833800
+"""Jonah Dlin @ axh4B_jN0P"" bets 140",2023-04-28T01:43:06.544Z,168264618654400
+"River: K♣, A♣, J♥, J♠ [7♣]",2023-04-28T01:42:48.057Z,168264616805700
+"""Jonah Dlin @ axh4B_jN0P"" calls 100",2023-04-28T01:42:47.204Z,168264616720400
+"""peelic @ c2JqQCu6sT"" raises to 100",2023-04-28T01:42:44.579Z,168264616457900
+"""Jonah Dlin @ axh4B_jN0P"" bets 40",2023-04-28T01:42:39.826Z,168264615982600
+"Turn: K♣, A♣, J♥ [J♠]",2023-04-28T01:42:32.471Z,168264615247100
+"""peelic @ c2JqQCu6sT"" calls 70",2023-04-28T01:42:31.613Z,168264615161300
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:42:27.544Z,168264614754400
+"""Jonah Dlin @ axh4B_jN0P"" bets 70",2023-04-28T01:42:26.473Z,168264614647300
+"Flop:  [K♣, A♣, J♥]",2023-04-28T01:42:19.950Z,168264613995000
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:42:19.142Z,168264613914200
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:42:18.026Z,168264613802600
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:42:17.126Z,168264613712600
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:42:16.204Z,168264613620400
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-04-28T01:42:14.953Z,168264613495307
+"""Jonah Dlin @ axh4B_jN0P"" posts a small blind of 10",2023-04-28T01:42:14.953Z,168264613495306
+"Your hand is 2♦, 4♥",2023-04-28T01:42:14.953Z,168264613495304
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1090) | #5 ""arash @ --uhQWY45j"" (1620) | #7 ""geego @ WJ-HPcQ09S"" (2560) | #9 ""peelic @ c2JqQCu6sT"" (2730)",2023-04-28T01:42:14.953Z,168264613495301
+"-- starting hand #43 (id: ew8v8sufpoh2)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-04-28T01:42:14.953Z,168264613495300
+"-- ending hand #42 --",2023-04-28T01:42:12.045Z,168264613204502
+"""arash @ --uhQWY45j"" collected 380 from pot",2023-04-28T01:42:12.045Z,168264613204501
+"Uncalled bet of 250 returned to ""arash @ --uhQWY45j""",2023-04-28T01:42:12.045Z,168264613204500
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:42:11.170Z,168264613117000
+"""arash @ --uhQWY45j"" bets 250",2023-04-28T01:42:09.891Z,168264612989100
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:42:06.264Z,168264612626400
+"River: 2♣, 8♣, 6♥, 6♠ [8♥]",2023-04-28T01:41:55.099Z,168264611509900
+"""Jonah Dlin @ axh4B_jN0P"" calls 70",2023-04-28T01:41:54.292Z,168264611429200
+"""arash @ --uhQWY45j"" bets 70",2023-04-28T01:41:50.159Z,168264611015900
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:41:46.893Z,168264610689300
+"Turn: 2♣, 8♣, 6♥ [6♠]",2023-04-28T01:41:45.091Z,168264610509100
+"""Jonah Dlin @ axh4B_jN0P"" calls 60",2023-04-28T01:41:44.234Z,168264610423400
+"""arash @ --uhQWY45j"" bets 60",2023-04-28T01:41:42.417Z,168264610241700
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:41:39.255Z,168264609925500
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:41:36.848Z,168264609684800
+"Flop:  [2♣, 8♣, 6♥]",2023-04-28T01:41:34.500Z,168264609450000
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:41:33.669Z,168264609366900
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:41:32.701Z,168264609270100
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:41:28.097Z,168264608809700
+"""arash @ --uhQWY45j"" raises to 40",2023-04-28T01:41:27.189Z,168264608718900
+"""Jonah Dlin @ axh4B_jN0P"" posts a big blind of 20",2023-04-28T01:41:25.462Z,168264608546207
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-04-28T01:41:25.462Z,168264608546206
+"Your hand is 10♦, 5♠",2023-04-28T01:41:25.462Z,168264608546204
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1260) | #5 ""arash @ --uhQWY45j"" (1410) | #7 ""geego @ WJ-HPcQ09S"" (2560) | #9 ""peelic @ c2JqQCu6sT"" (2770)",2023-04-28T01:41:25.462Z,168264608546201
+"-- starting hand #42 (id: d4yeywsfhuco)  (No Limit Texas Hold'em) (dealer: ""geego @ WJ-HPcQ09S"") --",2023-04-28T01:41:25.462Z,168264608546200
+"""peelic @ c2JqQCu6sT"" shows a J♠, 3♠.",2023-04-28T01:41:21.353Z,168264608135300
+"Undealt cards: J♣, Q♥, A♥, A♠ [J♦]",2023-04-28T01:41:19.557Z,168264607955700
+"-- ending hand #41 --",2023-04-28T01:41:18.854Z,168264607885402
+"""peelic @ c2JqQCu6sT"" collected 250 from pot",2023-04-28T01:41:18.854Z,168264607885401
+"Uncalled bet of 60 returned to ""peelic @ c2JqQCu6sT""",2023-04-28T01:41:18.854Z,168264607885400
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:41:17.960Z,168264607796000
+"""peelic @ c2JqQCu6sT"" bets 60",2023-04-28T01:41:09.772Z,168264606977200
+"Turn: J♣, Q♥, A♥ [A♠]",2023-04-28T01:41:06.239Z,168264606623900
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:41:05.342Z,168264606534200
+"""peelic @ c2JqQCu6sT"" calls 60",2023-04-28T01:41:04.444Z,168264606444400
+"""arash @ --uhQWY45j"" bets 60",2023-04-28T01:41:03.507Z,168264606350700
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:41:00.447Z,168264606044700
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:40:59.450Z,168264605945000
+"Flop:  [J♣, Q♥, A♥]",2023-04-28T01:40:56.222Z,168264605622200
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:40:55.326Z,168264605532600
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:40:53.928Z,168264605392800
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:40:51.941Z,168264605194100
+"""arash @ --uhQWY45j"" raises to 40",2023-04-28T01:40:50.913Z,168264605091300
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:40:44.227Z,168264604422700
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-04-28T01:40:42.892Z,168264604289207
+"""geego @ WJ-HPcQ09S"" posts a small blind of 10",2023-04-28T01:40:42.892Z,168264604289206
+"Your hand is 7♣, 8♠",2023-04-28T01:40:42.892Z,168264604289204
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1300) | #5 ""arash @ --uhQWY45j"" (1510) | #7 ""geego @ WJ-HPcQ09S"" (2570) | #9 ""peelic @ c2JqQCu6sT"" (2620)",2023-04-28T01:40:42.892Z,168264604289201
+"-- starting hand #41 (id: clvfymq6olek)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-04-28T01:40:42.892Z,168264604289200
+"""geego @ WJ-HPcQ09S"" shows a A♦, 6♣.",2023-04-28T01:40:37.972Z,168264603797200
+"Undealt cards:  [3♦, A♠, 6♥, J♦, 3♣]",2023-04-28T01:40:36.592Z,168264603659200
+"-- ending hand #40 --",2023-04-28T01:40:36.287Z,168264603628702
+"""Jonah Dlin @ axh4B_jN0P"" collected 50 from pot",2023-04-28T01:40:36.287Z,168264603628701
+"Uncalled bet of 40 returned to ""Jonah Dlin @ axh4B_jN0P""",2023-04-28T01:40:36.287Z,168264603628700
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:40:35.426Z,168264603542600
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:40:25.836Z,168264602583600
+"""Jonah Dlin @ axh4B_jN0P"" raises to 60",2023-04-28T01:40:24.424Z,168264602442400
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:40:22.170Z,168264602217000
+"""geego @ WJ-HPcQ09S"" posts a big blind of 20",2023-04-28T01:40:21.183Z,168264602118307
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-04-28T01:40:21.183Z,168264602118306
+"Your hand is A♦, 6♣",2023-04-28T01:40:21.183Z,168264602118304
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1270) | #5 ""arash @ --uhQWY45j"" (1520) | #7 ""geego @ WJ-HPcQ09S"" (2590) | #9 ""peelic @ c2JqQCu6sT"" (2620)",2023-04-28T01:40:21.183Z,168264602118301
+"-- starting hand #40 (id: ajychghupz0j)  (No Limit Texas Hold'em) (dealer: ""Jonah Dlin @ axh4B_jN0P"") --",2023-04-28T01:40:21.183Z,168264602118300
+"""geego @ WJ-HPcQ09S"" shows a 9♥, 6♣.",2023-04-28T01:40:16.914Z,168264601691400
+"Undealt cards: 2♠, K♠, 9♦ [K♥, K♣]",2023-04-28T01:40:15.084Z,168264601508400
+"-- ending hand #39 --",2023-04-28T01:40:14.567Z,168264601456702
+"""arash @ --uhQWY45j"" collected 100 from pot",2023-04-28T01:40:14.567Z,168264601456701
+"Uncalled bet of 60 returned to ""arash @ --uhQWY45j""",2023-04-28T01:40:14.567Z,168264601456700
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:40:13.699Z,168264601369900
+"""arash @ --uhQWY45j"" bets 60",2023-04-28T01:40:12.306Z,168264601230600
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:40:09.489Z,168264600948900
+"Flop:  [2♠, K♠, 9♦]",2023-04-28T01:40:01.513Z,168264600151300
+"""Jonah Dlin @ axh4B_jN0P"" calls 50",2023-04-28T01:40:00.671Z,168264600067100
+"""arash @ --uhQWY45j"" raises to 50",2023-04-28T01:39:54.711Z,168264599471100
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:39:51.898Z,168264599189800
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:39:51.010Z,168264599101000
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:39:50.026Z,168264599002600
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-04-28T01:39:48.938Z,168264598893807
+"""Jonah Dlin @ axh4B_jN0P"" posts a small blind of 10",2023-04-28T01:39:48.938Z,168264598893806
+"Your hand is 9♥, 6♣",2023-04-28T01:39:48.938Z,168264598893804
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1320) | #5 ""arash @ --uhQWY45j"" (1470) | #7 ""geego @ WJ-HPcQ09S"" (2590) | #9 ""peelic @ c2JqQCu6sT"" (2620)",2023-04-28T01:39:48.938Z,168264598893801
+"-- starting hand #39 (id: ciwidonryyzc)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-04-28T01:39:48.938Z,168264598893800
+"Undealt cards: 10♠, 9♠, 8♥ [J♥, 8♠]",2023-04-28T01:39:43.188Z,168264598318800
+"-- ending hand #38 --",2023-04-28T01:39:43.006Z,168264598300602
+"""Jonah Dlin @ axh4B_jN0P"" collected 160 from pot",2023-04-28T01:39:43.006Z,168264598300601
+"Uncalled bet of 40 returned to ""Jonah Dlin @ axh4B_jN0P""",2023-04-28T01:39:43.006Z,168264598300600
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:39:42.173Z,168264598217300
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:39:40.882Z,168264598088200
+"""Jonah Dlin @ axh4B_jN0P"" bets 40",2023-04-28T01:39:39.519Z,168264597951900
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:39:34.938Z,168264597493800
+"Flop:  [10♠, 9♠, 8♥]",2023-04-28T01:39:32.599Z,168264597259900
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:39:31.760Z,168264597176000
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:39:30.485Z,168264597048500
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:39:29.571Z,168264596957100
+"""arash @ --uhQWY45j"" raises to 40",2023-04-28T01:39:28.601Z,168264596860100
+"""Jonah Dlin @ axh4B_jN0P"" posts a big blind of 20",2023-04-28T01:39:26.785Z,168264596678507
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-04-28T01:39:26.785Z,168264596678506
+"Your hand is 6♣, A♥",2023-04-28T01:39:26.785Z,168264596678504
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1200) | #5 ""arash @ --uhQWY45j"" (1510) | #7 ""geego @ WJ-HPcQ09S"" (2630) | #9 ""peelic @ c2JqQCu6sT"" (2660)",2023-04-28T01:39:26.785Z,168264596678501
+"-- starting hand #38 (id: kwodupjkei1f)  (No Limit Texas Hold'em) (dealer: ""geego @ WJ-HPcQ09S"") --",2023-04-28T01:39:26.785Z,168264596678500
+"Undealt cards: 9♠, 9♣, 5♦ [6♣, 3♣]",2023-04-28T01:39:21.285Z,168264596128500
+"""arash @ --uhQWY45j"" shows a 10♥, 4♥.",2023-04-28T01:39:21.052Z,168264596105200
+"-- ending hand #37 --",2023-04-28T01:39:20.179Z,168264596017902
+"""arash @ --uhQWY45j"" collected 160 from pot",2023-04-28T01:39:20.179Z,168264596017901
+"Uncalled bet of 50 returned to ""arash @ --uhQWY45j""",2023-04-28T01:39:20.179Z,168264596017900
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:39:19.359Z,168264595935900
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:39:18.431Z,168264595843100
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:39:12.985Z,168264595298500
+"""arash @ --uhQWY45j"" bets 50",2023-04-28T01:39:11.748Z,168264595174800
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:39:08.538Z,168264594853800
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:39:07.433Z,168264594743300
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:39:05.861Z,168264594586100
+"Flop:  [9♠, 9♣, 5♦]",2023-04-28T01:39:03.964Z,168264594396400
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:39:03.135Z,168264594313500
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:39:02.242Z,168264594224200
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:39:01.267Z,168264594126700
+"""arash @ --uhQWY45j"" raises to 40",2023-04-28T01:38:59.947Z,168264593994700
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:38:58.079Z,168264593807900
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-04-28T01:38:57.047Z,168264593704707
+"""geego @ WJ-HPcQ09S"" posts a small blind of 10",2023-04-28T01:38:57.047Z,168264593704706
+"Your hand is A♦, 7♥",2023-04-28T01:38:57.047Z,168264593704704
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1240) | #5 ""arash @ --uhQWY45j"" (1390) | #7 ""geego @ WJ-HPcQ09S"" (2670) | #9 ""peelic @ c2JqQCu6sT"" (2700)",2023-04-28T01:38:57.047Z,168264593704701
+"-- starting hand #37 (id: cii7h2zhpkkm)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-04-28T01:38:57.047Z,168264593704700
+"-- ending hand #36 --",2023-04-28T01:38:51.041Z,168264593104103
+"""geego @ WJ-HPcQ09S"" shows a K♠, 10♠.",2023-04-28T01:38:51.041Z,168264593104102
+"""Jonah Dlin @ axh4B_jN0P"" collected 400 from pot with Straight, K High (combination: K♦, Q♦, J♠, 10♥, 9♦)",2023-04-28T01:38:51.041Z,168264593104101
+"""Jonah Dlin @ axh4B_jN0P"" shows a J♠, 10♥.",2023-04-28T01:38:51.041Z,168264593104100
+"""Jonah Dlin @ axh4B_jN0P"" calls 60",2023-04-28T01:38:50.128Z,168264593012800
+"""geego @ WJ-HPcQ09S"" bets 60",2023-04-28T01:38:49.179Z,168264592917900
+"River: K♦, 9♦, 4♣, 2♦ [Q♦]",2023-04-28T01:38:46.725Z,168264592672500
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:38:45.896Z,168264592589600
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:38:44.566Z,168264592456600
+"Turn: K♦, 9♦, 4♣ [2♦]",2023-04-28T01:38:40.626Z,168264592062600
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:38:39.729Z,168264591972900
+"""Jonah Dlin @ axh4B_jN0P"" calls 60",2023-04-28T01:38:37.677Z,168264591767700
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:38:36.585Z,168264591658500
+"""geego @ WJ-HPcQ09S"" bets 60",2023-04-28T01:38:35.660Z,168264591566000
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:38:32.962Z,168264591296200
+"Flop:  [K♦, 9♦, 4♣]",2023-04-28T01:38:31.416Z,168264591141600
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:38:30.548Z,168264591054800
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:38:28.933Z,168264590893300
+"""arash @ --uhQWY45j"" calls 40",2023-04-28T01:38:28.032Z,168264590803200
+"""Jonah Dlin @ axh4B_jN0P"" raises to 40",2023-04-28T01:38:25.953Z,168264590595300
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:38:24.186Z,168264590418600
+"""geego @ WJ-HPcQ09S"" posts a big blind of 20",2023-04-28T01:38:20.888Z,168264590088808
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-04-28T01:38:20.888Z,168264590088807
+"Your hand is K♠, 10♠",2023-04-28T01:38:20.888Z,168264590088805
+"Player stacks: #2 ""Jonah Dlin @ axh4B_jN0P"" (1000) | #5 ""arash @ --uhQWY45j"" (1430) | #7 ""geego @ WJ-HPcQ09S"" (2830) | #9 ""peelic @ c2JqQCu6sT"" (2740)",2023-04-28T01:38:20.888Z,168264590088802
+"-- starting hand #36 (id: wvtkyb5nmyio)  (No Limit Texas Hold'em) (dead button) --",2023-04-28T01:38:20.888Z,168264590088801
+"The player ""Jonah Dlin @ axh4B_jN0P"" joined the game with a stack of 1000.",2023-04-28T01:38:20.888Z,168264590088800
+"""geego @ WJ-HPcQ09S"" shows a 4♠, 5♥.",2023-04-28T01:38:16.824Z,168264589682400
+"Undealt cards: 2♥, 4♣, J♦ [9♥, Q♦]",2023-04-28T01:38:14.973Z,168264589497300
+"-- ending hand #35 --",2023-04-28T01:38:14.281Z,168264589428102
+"""arash @ --uhQWY45j"" collected 100 from pot",2023-04-28T01:38:14.281Z,168264589428101
+"Uncalled bet of 50 returned to ""arash @ --uhQWY45j""",2023-04-28T01:38:14.281Z,168264589428100
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:38:13.402Z,168264589340200
+"""arash @ --uhQWY45j"" bets 50",2023-04-28T01:38:10.487Z,168264589048700
+"Flop:  [2♥, 4♣, J♦]",2023-04-28T01:38:07.075Z,168264588707500
+"""peelic @ c2JqQCu6sT"" calls 50",2023-04-28T01:38:06.184Z,168264588618400
+"""arash @ --uhQWY45j"" raises to 50",2023-04-28T01:38:03.939Z,168264588393900
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:37:59.428Z,168264587942800
+"The admin approved the player ""Jonah Dlin @ axh4B_jN0P"" participation with a stack of 1000.",2023-04-28T01:37:56.523Z,168264587652300
+"The player ""Jonah Dlin @ axh4B_jN0P"" requested a seat.",2023-04-28T01:37:53.638Z,168264587363800
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:37:50.867Z,168264587086700
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-04-28T01:37:48.652Z,168264586865208
+"Dead Small Blind",2023-04-28T01:37:48.652Z,168264586865207
+"Your hand is 4♠, 5♥",2023-04-28T01:37:48.652Z,168264586865205
+"Player stacks: #5 ""arash @ --uhQWY45j"" (1380) | #7 ""geego @ WJ-HPcQ09S"" (2830) | #9 ""peelic @ c2JqQCu6sT"" (2790)",2023-04-28T01:37:48.652Z,168264586865203
+"-- starting hand #35 (id: jtyrcgv1vo13)  (No Limit Texas Hold'em) (dead button) --",2023-04-28T01:37:48.652Z,168264586865202
+"The player ""daveed @ -dAQjOVxm7"" quits the game with a stack of 0.",2023-04-28T01:37:48.652Z,168264586865201
+"The player ""Jonah Dlin @ axh4B_jN0P"" quits the game with a stack of 0.",2023-04-28T01:37:48.652Z,168264586865200
+"-- ending hand #34 --",2023-04-28T01:37:42.551Z,168264586255102
+"""geego @ WJ-HPcQ09S"" collected 660 from pot with Three of a Kind, J's (combination: J♣, J♦, J♠, Q♠, 4♥)",2023-04-28T01:37:42.551Z,168264586255101
+"""geego @ WJ-HPcQ09S"" collected 1800 from pot with Three of a Kind, J's (combination: J♣, J♦, J♠, Q♠, 4♥)",2023-04-28T01:37:42.551Z,168264586255100
+"River: J♠, 3♦, Q♠, 4♥ [2♥]",2023-04-28T01:37:38.485Z,168264585848500
+"Turn: J♠, 3♦, Q♠ [4♥]",2023-04-28T01:37:34.480Z,168264585448000
+"""geego @ WJ-HPcQ09S"" shows a J♣, J♦.",2023-04-28T01:37:30.476Z,168264585047602
+"""Jonah Dlin @ axh4B_jN0P"" shows a 5♠, Q♣.",2023-04-28T01:37:30.476Z,168264585047601
+"""daveed @ -dAQjOVxm7"" shows a K♦, Q♥.",2023-04-28T01:37:30.476Z,168264585047600
+"""geego @ WJ-HPcQ09S"" raises to 850",2023-04-28T01:37:29.633Z,168264584963300
+"""Jonah Dlin @ axh4B_jN0P"" calls 520 and go all in",2023-04-28T01:37:26.724Z,168264584672400
+"""daveed @ -dAQjOVxm7"" raises to 850 and go all in",2023-04-28T01:37:23.809Z,168264584380900
+"""geego @ WJ-HPcQ09S"" raises to 360",2023-04-28T01:37:20.786Z,168264584078600
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:37:16.297Z,168264583629700
+"""Jonah Dlin @ axh4B_jN0P"" calls 180",2023-04-28T01:37:15.373Z,168264583537300
+"""daveed @ -dAQjOVxm7"" bets 180",2023-04-28T01:37:13.376Z,168264583337600
+"Flop:  [J♠, 3♦, Q♠]",2023-04-28T01:37:09.703Z,168264582970300
+"""geego @ WJ-HPcQ09S"" calls 60",2023-04-28T01:37:08.876Z,168264582887600
+"""arash @ --uhQWY45j"" calls 60",2023-04-28T01:37:07.991Z,168264582799100
+"""Jonah Dlin @ axh4B_jN0P"" calls 60",2023-04-28T01:37:05.880Z,168264582588000
+"""daveed @ -dAQjOVxm7"" raises to 60",2023-04-28T01:37:04.392Z,168264582439200
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:37:02.060Z,168264582206000
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:37:01.119Z,168264582111900
+"""arash @ --uhQWY45j"" raises to 40",2023-04-28T01:36:57.241Z,168264581724100
+"""Jonah Dlin @ axh4B_jN0P"" posts a big blind of 20",2023-04-28T01:36:54.566Z,168264581456608
+"""daveed @ -dAQjOVxm7"" posts a small blind of 10",2023-04-28T01:36:54.566Z,168264581456607
+"Your hand is J♣, J♦",2023-04-28T01:36:54.566Z,168264581456605
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (910) | #4 ""Jonah Dlin @ axh4B_jN0P"" (580) | #5 ""arash @ --uhQWY45j"" (1440) | #7 ""geego @ WJ-HPcQ09S"" (1280) | #9 ""peelic @ c2JqQCu6sT"" (2790)",2023-04-28T01:36:54.566Z,168264581456601
+"-- starting hand #34 (id: gzafgidtsey5)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-04-28T01:36:54.566Z,168264581456600
+"""daveed @ -dAQjOVxm7"" shows a Q♠, 9♥.",2023-04-28T01:36:52.808Z,168264581280800
+"-- ending hand #33 --",2023-04-28T01:36:48.024Z,168264580802402
+"""peelic @ c2JqQCu6sT"" collected 490 from pot with Pair, 10's (combination: 10♠, 10♣, A♣, 9♦, 6♠)",2023-04-28T01:36:48.024Z,168264580802401
+"""peelic @ c2JqQCu6sT"" shows a 10♠, 6♠.",2023-04-28T01:36:48.024Z,168264580802400
+"""arash @ --uhQWY45j"" calls 100",2023-04-28T01:36:47.156Z,168264580715600
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:36:25.135Z,168264578513500
+"""peelic @ c2JqQCu6sT"" bets 100",2023-04-28T01:36:23.573Z,168264578357300
+"River: 4♥, 10♣, 9♦, A♣ [2♠]",2023-04-28T01:36:14.994Z,168264577499400
+"""arash @ --uhQWY45j"" calls 30",2023-04-28T01:36:14.174Z,168264577417400
+"""daveed @ -dAQjOVxm7"" calls 30",2023-04-28T01:36:12.161Z,168264577216100
+"""peelic @ c2JqQCu6sT"" bets 30",2023-04-28T01:36:09.902Z,168264576990200
+"Turn: 4♥, 10♣, 9♦ [A♣]",2023-04-28T01:35:50.531Z,168264575053100
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:35:49.677Z,168264574967700
+"""arash @ --uhQWY45j"" calls 40",2023-04-28T01:35:48.274Z,168264574827400
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:35:47.311Z,168264574731100
+"""daveed @ -dAQjOVxm7"" raises to 40",2023-04-28T01:35:44.016Z,168264574401600
+"""peelic @ c2JqQCu6sT"" bets 20",2023-04-28T01:35:41.879Z,168264574187900
+"Flop:  [4♥, 10♣, 9♦]",2023-04-28T01:35:33.048Z,168264573304800
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:35:32.194Z,168264573219400
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:35:28.254Z,168264572825400
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:35:27.253Z,168264572725300
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:35:25.173Z,168264572517300
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:35:23.264Z,168264572326400
+"""daveed @ -dAQjOVxm7"" posts a big blind of 20",2023-04-28T01:35:22.035Z,168264572203509
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-04-28T01:35:22.035Z,168264572203508
+"Your hand is 3♥, 4♣",2023-04-28T01:35:22.035Z,168264572203506
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1000) | #4 ""Jonah Dlin @ axh4B_jN0P"" (600) | #5 ""arash @ --uhQWY45j"" (1630) | #7 ""geego @ WJ-HPcQ09S"" (1280) | #9 ""peelic @ c2JqQCu6sT"" (2490)",2023-04-28T01:35:22.035Z,168264572203502
+"-- starting hand #33 (id: nru5vlonewyi)  (No Limit Texas Hold'em) (dealer: ""geego @ WJ-HPcQ09S"") --",2023-04-28T01:35:22.035Z,168264572203501
+"The player ""daveed @ -dAQjOVxm7"" joined the game with a stack of 1000.",2023-04-28T01:35:22.035Z,168264572203500
+"-- ending hand #32 --",2023-04-28T01:35:16.027Z,168264571602702
+"""geego @ WJ-HPcQ09S"" collected 80 from pot with Two Pair, A's & 7's (combination: A♣, A♥, 7♦, 7♠, J♠)",2023-04-28T01:35:16.027Z,168264571602701
+"""geego @ WJ-HPcQ09S"" shows a 10♥, J♠.",2023-04-28T01:35:16.027Z,168264571602700
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:35:15.169Z,168264571516900
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:35:04.841Z,168264570484100
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:35:03.943Z,168264570394300
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:34:52.242Z,168264569224200
+"River: 7♦, A♣, 7♠, 2♠ [A♥]",2023-04-28T01:34:49.257Z,168264568925700
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:34:48.416Z,168264568841600
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:34:47.334Z,168264568733400
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:34:46.440Z,168264568644000
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:34:44.506Z,168264568450600
+"The admin approved the player ""daveed @ -dAQjOVxm7"" participation with a stack of 1000.",2023-04-28T01:34:43.295Z,168264568329500
+"Turn: 7♦, A♣, 7♠ [2♠]",2023-04-28T01:34:41.873Z,168264568187300
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:34:41.069Z,168264568106900
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:34:38.634Z,168264567863400
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:34:36.774Z,168264567677400
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:34:30.764Z,168264567076400
+"Flop:  [7♦, A♣, 7♠]",2023-04-28T01:34:23.103Z,168264566310300
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:34:22.274Z,168264566227400
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:34:12.061Z,168264565206100
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:34:11.103Z,168264565110300
+"The player ""daveed @ -dAQjOVxm7"" requested a seat.",2023-04-28T01:34:11.074Z,168264565107400
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:34:09.620Z,168264564962000
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-04-28T01:34:07.612Z,168264564761208
+"""geego @ WJ-HPcQ09S"" posts a small blind of 10",2023-04-28T01:34:07.612Z,168264564761207
+"Your hand is 10♥, J♠",2023-04-28T01:34:07.612Z,168264564761205
+"Player stacks: #4 ""Jonah Dlin @ axh4B_jN0P"" (620) | #5 ""arash @ --uhQWY45j"" (1650) | #7 ""geego @ WJ-HPcQ09S"" (1220) | #9 ""peelic @ c2JqQCu6sT"" (2510)",2023-04-28T01:34:07.612Z,168264564761202
+"-- starting hand #32 (id: 26tt5wn38yhl)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-04-28T01:34:07.612Z,168264564761201
+"The player ""daveed @ -dAQjOVxm7"" quits the game with a stack of 0.",2023-04-28T01:34:07.612Z,168264564761200
+"-- ending hand #31 --",2023-04-28T01:34:01.602Z,168264564160201
+"""geego @ WJ-HPcQ09S"" collected 700 from pot with Pair, J's (combination: J♥, J♦, Q♣, 9♣, 8♠)",2023-04-28T01:34:01.602Z,168264564160200
+"River: 3♥, 8♠, J♦, 9♣ [4♦]",2023-04-28T01:33:57.487Z,168264563748700
+"Turn: 3♥, 8♠, J♦ [9♣]",2023-04-28T01:33:53.472Z,168264563347200
+"Flop:  [3♥, 8♠, J♦]",2023-04-28T01:33:49.411Z,168264562941100
+"""geego @ WJ-HPcQ09S"" shows a Q♣, J♥.",2023-04-28T01:33:45.359Z,168264562535901
+"""daveed @ -dAQjOVxm7"" shows a 10♦, 6♥.",2023-04-28T01:33:45.359Z,168264562535900
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:33:44.512Z,168264562451200
+"""geego @ WJ-HPcQ09S"" calls 310",2023-04-28T01:33:43.554Z,168264562355400
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:33:34.247Z,168264561424700
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:33:32.594Z,168264561259400
+"""daveed @ -dAQjOVxm7"" raises to 310 and go all in",2023-04-28T01:33:30.984Z,168264561098400
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:33:28.041Z,168264560804100
+"""geego @ WJ-HPcQ09S"" raises to 40",2023-04-28T01:33:23.715Z,168264560371500
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:33:21.079Z,168264560107900
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:33:19.377Z,168264559937700
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:33:18.401Z,168264559840100
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:33:17.509Z,168264559750900
+"""geego @ WJ-HPcQ09S"" posts a big blind of 20",2023-04-28T01:33:15.022Z,168264559502208
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-04-28T01:33:15.022Z,168264559502207
+"Your hand is Q♣, J♥",2023-04-28T01:33:15.022Z,168264559502205
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (310) | #4 ""Jonah Dlin @ axh4B_jN0P"" (640) | #5 ""arash @ --uhQWY45j"" (1670) | #7 ""geego @ WJ-HPcQ09S"" (830) | #9 ""peelic @ c2JqQCu6sT"" (2550)",2023-04-28T01:33:15.022Z,168264559502201
+"-- starting hand #31 (id: qhyeyvzfpjud)  (No Limit Texas Hold'em) (dealer: ""Jonah Dlin @ axh4B_jN0P"") --",2023-04-28T01:33:15.022Z,168264559502200
+"-- ending hand #30 --",2023-04-28T01:33:12.095Z,168264559209502
+"""arash @ --uhQWY45j"" collected 440 from pot",2023-04-28T01:33:12.095Z,168264559209501
+"Uncalled bet of 250 returned to ""arash @ --uhQWY45j""",2023-04-28T01:33:12.095Z,168264559209500
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:33:11.223Z,168264559122300
+"""arash @ --uhQWY45j"" bets 250",2023-04-28T01:33:07.159Z,168264558715900
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:33:03.990Z,168264558399000
+"River: J♠, 6♣, 10♦, 3♠ [10♥]",2023-04-28T01:32:58.271Z,168264557827100
+"""arash @ --uhQWY45j"" calls 80",2023-04-28T01:32:57.400Z,168264557740000
+"""Jonah Dlin @ axh4B_jN0P"" bets 80",2023-04-28T01:32:55.716Z,168264557571600
+"Turn: J♠, 6♣, 10♦ [3♠]",2023-04-28T01:32:51.671Z,168264557167100
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:32:50.861Z,168264557086100
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:32:49.923Z,168264556992300
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:32:48.889Z,168264556888900
+"""arash @ --uhQWY45j"" calls 40",2023-04-28T01:32:48.026Z,168264556802600
+"""Jonah Dlin @ axh4B_jN0P"" bets 40",2023-04-28T01:32:41.413Z,168264556141300
+"Flop:  [J♠, 6♣, 10♦]",2023-04-28T01:32:35.652Z,168264555565200
+"""daveed @ -dAQjOVxm7"" calls 40",2023-04-28T01:32:34.813Z,168264555481300
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:32:26.733Z,168264554673300
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:32:14.982Z,168264553498200
+"""arash @ --uhQWY45j"" calls 40",2023-04-28T01:32:14.090Z,168264553409000
+"""Jonah Dlin @ axh4B_jN0P"" raises to 40",2023-04-28T01:32:13.002Z,168264553300200
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:32:11.088Z,168264553108800
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:32:10.236Z,168264553023600
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:32:05.478Z,168264552547800
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-04-28T01:32:03.797Z,168264552379708
+"""Jonah Dlin @ axh4B_jN0P"" posts a small blind of 10",2023-04-28T01:32:03.797Z,168264552379707
+"Your hand is 2♠, K♣",2023-04-28T01:32:03.797Z,168264552379705
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (350) | #4 ""Jonah Dlin @ axh4B_jN0P"" (800) | #5 ""arash @ --uhQWY45j"" (1390) | #7 ""geego @ WJ-HPcQ09S"" (870) | #9 ""peelic @ c2JqQCu6sT"" (2590)",2023-04-28T01:32:03.797Z,168264552379701
+"-- starting hand #30 (id: t3ry5hgrt5ad)  (No Limit Texas Hold'em) (dealer: ""daveed @ -dAQjOVxm7"") --",2023-04-28T01:32:03.797Z,168264552379700
+"-- ending hand #29 --",2023-04-28T01:31:57.786Z,168264551778603
+"""daveed @ -dAQjOVxm7"" shows a 7♠, A♣.",2023-04-28T01:31:57.786Z,168264551778602
+"""arash @ --uhQWY45j"" collected 600 from pot with Two Pair, A's & 9's (combination: A♦, A♥, 9♥, 9♠, J♠)",2023-04-28T01:31:57.786Z,168264551778601
+"""arash @ --uhQWY45j"" shows a 9♥, A♦.",2023-04-28T01:31:57.786Z,168264551778600
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:31:56.942Z,168264551694200
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:31:55.063Z,168264551506300
+"River: 9♠, A♥, 3♣, 6♦ [J♠]",2023-04-28T01:31:52.016Z,168264551201600
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:31:51.193Z,168264551119300
+"""daveed @ -dAQjOVxm7"" calls 140",2023-04-28T01:31:38.451Z,168264549845100
+"""arash @ --uhQWY45j"" raises to 140",2023-04-28T01:31:32.209Z,168264549220900
+"""Jonah Dlin @ axh4B_jN0P"" bets 40",2023-04-28T01:31:28.609Z,168264548860900
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:31:21.295Z,168264548129500
+"Turn: 9♠, A♥, 3♣ [6♦]",2023-04-28T01:31:19.772Z,168264547977200
+"""daveed @ -dAQjOVxm7"" calls 40",2023-04-28T01:31:18.929Z,168264547892900
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:31:17.202Z,168264547720200
+"""arash @ --uhQWY45j"" calls 40",2023-04-28T01:31:16.340Z,168264547634000
+"""Jonah Dlin @ axh4B_jN0P"" bets 40",2023-04-28T01:31:12.784Z,168264547278400
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:31:10.714Z,168264547071400
+"Flop:  [9♠, A♥, 3♣]",2023-04-28T01:31:08.308Z,168264546830800
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:31:07.454Z,168264546745400
+"""daveed @ -dAQjOVxm7"" calls 40",2023-04-28T01:31:06.546Z,168264546654600
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:31:03.699Z,168264546369900
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:31:01.804Z,168264546180400
+"""arash @ --uhQWY45j"" raises to 40",2023-04-28T01:30:59.806Z,168264545980600
+"""Jonah Dlin @ axh4B_jN0P"" posts a big blind of 20",2023-04-28T01:30:57.945Z,168264545794508
+"""daveed @ -dAQjOVxm7"" posts a small blind of 10",2023-04-28T01:30:57.945Z,168264545794507
+"Your hand is J♦, 7♦",2023-04-28T01:30:57.945Z,168264545794505
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (570) | #4 ""Jonah Dlin @ axh4B_jN0P"" (920) | #5 ""arash @ --uhQWY45j"" (1010) | #7 ""geego @ WJ-HPcQ09S"" (910) | #9 ""peelic @ c2JqQCu6sT"" (2590)",2023-04-28T01:30:57.945Z,168264545794501
+"-- starting hand #29 (id: npkpo8i0ig2y)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-04-28T01:30:57.945Z,168264545794500
+"""peelic @ c2JqQCu6sT"" shows a 2♦, 7♥.",2023-04-28T01:30:53.321Z,168264545332100
+"Undealt cards: 2♠, J♦, 3♠, 3♣ [A♠]",2023-04-28T01:30:51.448Z,168264545144800
+"-- ending hand #28 --",2023-04-28T01:30:51.343Z,168264545134302
+"""peelic @ c2JqQCu6sT"" collected 100 from pot",2023-04-28T01:30:51.343Z,168264545134301
+"Uncalled bet of 20 returned to ""peelic @ c2JqQCu6sT""",2023-04-28T01:30:51.343Z,168264545134300
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:30:50.527Z,168264545052700
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:30:48.167Z,168264544816700
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:30:47.222Z,168264544722200
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:30:41.236Z,168264544123600
+"""peelic @ c2JqQCu6sT"" bets 20",2023-04-28T01:30:40.387Z,168264544038700
+"Turn: 2♠, J♦, 3♠ [3♣]",2023-04-28T01:30:28.055Z,168264542805500
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:30:27.212Z,168264542721200
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:30:26.343Z,168264542634300
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:30:25.406Z,168264542540600
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:30:24.501Z,168264542450100
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:30:23.575Z,168264542357500
+"Flop:  [2♠, J♦, 3♠]",2023-04-28T01:30:20.050Z,168264542005000
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:30:19.228Z,168264541922800
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:30:13.837Z,168264541383700
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:30:12.854Z,168264541285400
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:30:11.967Z,168264541196700
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:30:04.143Z,168264540414300
+"""daveed @ -dAQjOVxm7"" posts a big blind of 20",2023-04-28T01:29:57.290Z,168264539729008
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-04-28T01:29:57.290Z,168264539729007
+"Your hand is 10♣, K♦",2023-04-28T01:29:57.290Z,168264539729005
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (590) | #4 ""Jonah Dlin @ axh4B_jN0P"" (940) | #5 ""arash @ --uhQWY45j"" (1030) | #7 ""geego @ WJ-HPcQ09S"" (930) | #9 ""peelic @ c2JqQCu6sT"" (2510)",2023-04-28T01:29:57.290Z,168264539729001
+"-- starting hand #28 (id: kntkkjbwckof)  (No Limit Texas Hold'em) (dealer: ""geego @ WJ-HPcQ09S"") --",2023-04-28T01:29:57.290Z,168264539729000
+"""geego @ WJ-HPcQ09S"" shows a Q♠, 9♦.",2023-04-28T01:29:52.446Z,168264539244600
+"Undealt cards: 8♥, 9♥, 6♦, 7♠ [3♦]",2023-04-28T01:29:50.815Z,168264539081500
+"-- ending hand #27 --",2023-04-28T01:29:50.678Z,168264539067802
+"""Jonah Dlin @ axh4B_jN0P"" collected 280 from pot",2023-04-28T01:29:50.678Z,168264539067801
+"Uncalled bet of 80 returned to ""Jonah Dlin @ axh4B_jN0P""",2023-04-28T01:29:50.678Z,168264539067800
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:29:49.836Z,168264538983600
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:29:47.766Z,168264538776600
+"""Jonah Dlin @ axh4B_jN0P"" bets 80",2023-04-28T01:29:46.019Z,168264538601900
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:29:38.832Z,168264537883200
+"Turn: 8♥, 9♥, 6♦ [7♠]",2023-04-28T01:29:36.336Z,168264537633600
+"""arash @ --uhQWY45j"" calls 40",2023-04-28T01:29:35.474Z,168264537547400
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:29:34.551Z,168264537455100
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:29:33.599Z,168264537359900
+"""geego @ WJ-HPcQ09S"" bets 40",2023-04-28T01:29:30.441Z,168264537044100
+"Flop:  [8♥, 9♥, 6♦]",2023-04-28T01:29:26.261Z,168264536626100
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:29:25.408Z,168264536540800
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:29:24.485Z,168264536448500
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:29:19.726Z,168264535972600
+"""arash @ --uhQWY45j"" raises to 40",2023-04-28T01:29:15.830Z,168264535583000
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:29:04.129Z,168264534412900
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:29:03.225Z,168264534322500
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-04-28T01:29:01.350Z,168264534135008
+"""geego @ WJ-HPcQ09S"" posts a small blind of 10",2023-04-28T01:29:01.350Z,168264534135007
+"Your hand is Q♠, 9♦",2023-04-28T01:29:01.350Z,168264534135005
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (590) | #4 ""Jonah Dlin @ axh4B_jN0P"" (740) | #5 ""arash @ --uhQWY45j"" (1110) | #7 ""geego @ WJ-HPcQ09S"" (1010) | #9 ""peelic @ c2JqQCu6sT"" (2550)",2023-04-28T01:29:01.350Z,168264534135001
+"-- starting hand #27 (id: zpp9iyavxctl)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-04-28T01:29:01.350Z,168264534135000
+"-- ending hand #26 --",2023-04-28T01:28:55.336Z,168264533533603
+"""daveed @ -dAQjOVxm7"" shows a 8♠, J♦.",2023-04-28T01:28:55.336Z,168264533533602
+"""Jonah Dlin @ axh4B_jN0P"" collected 740 from pot with Straight, 9 High (combination: 9♣, 8♦, 7♦, 6♥, 5♦)",2023-04-28T01:28:55.336Z,168264533533601
+"""Jonah Dlin @ axh4B_jN0P"" shows a 5♦, 7♦.",2023-04-28T01:28:55.336Z,168264533533600
+"""daveed @ -dAQjOVxm7"" calls 130",2023-04-28T01:28:54.522Z,168264533452200
+"""Jonah Dlin @ axh4B_jN0P"" bets 130 and go all in",2023-04-28T01:28:53.536Z,168264533353600
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:28:50.554Z,168264533055400
+"River: 9♣, 8♦, 2♦, 8♥ [6♥]",2023-04-28T01:28:49.093Z,168264532909300
+"""Jonah Dlin @ axh4B_jN0P"" calls 140",2023-04-28T01:28:48.210Z,168264532821000
+"""daveed @ -dAQjOVxm7"" raises to 140",2023-04-28T01:28:45.311Z,168264532531100
+"""Jonah Dlin @ axh4B_jN0P"" bets 70",2023-04-28T01:28:42.298Z,168264532229800
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:28:36.268Z,168264531626800
+"Turn: 9♣, 8♦, 2♦ [8♥]",2023-04-28T01:28:34.588Z,168264531458800
+"""daveed @ -dAQjOVxm7"" calls 60",2023-04-28T01:28:33.713Z,168264531371300
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:28:32.847Z,168264531284700
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:28:29.645Z,168264530964500
+"""Jonah Dlin @ axh4B_jN0P"" raises to 60",2023-04-28T01:28:28.122Z,168264530812200
+"""daveed @ -dAQjOVxm7"" bets 20",2023-04-28T01:28:22.155Z,168264530215500
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:28:18.946Z,168264529894600
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:28:16.412Z,168264529641200
+"Flop:  [9♣, 8♦, 2♦]",2023-04-28T01:28:12.977Z,168264529297700
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:28:12.127Z,168264529212700
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:28:11.278Z,168264529127800
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:28:10.058Z,168264529005800
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:28:09.089Z,168264528908900
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:28:07.916Z,168264528791600
+"""geego @ WJ-HPcQ09S"" posts a big blind of 20",2023-04-28T01:27:57.592Z,168264527759208
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-04-28T01:27:57.592Z,168264527759207
+"Your hand is 10♥, K♥",2023-04-28T01:27:57.592Z,168264527759205
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (940) | #4 ""Jonah Dlin @ axh4B_jN0P"" (350) | #5 ""arash @ --uhQWY45j"" (1130) | #7 ""geego @ WJ-HPcQ09S"" (1030) | #9 ""peelic @ c2JqQCu6sT"" (2550)",2023-04-28T01:27:57.592Z,168264527759201
+"-- starting hand #26 (id: uffck0q0wzxy)  (No Limit Texas Hold'em) (dealer: ""Jonah Dlin @ axh4B_jN0P"") --",2023-04-28T01:27:57.592Z,168264527759200
+"-- ending hand #25 --",2023-04-28T01:27:51.678Z,168264527167802
+"""Jonah Dlin @ axh4B_jN0P"" collected 80 from pot",2023-04-28T01:27:51.678Z,168264527167801
+"Uncalled bet of 60 returned to ""Jonah Dlin @ axh4B_jN0P""",2023-04-28T01:27:51.678Z,168264527167800
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:27:50.820Z,168264527082000
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:27:49.908Z,168264526990800
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:27:45.880Z,168264526588000
+"""Jonah Dlin @ axh4B_jN0P"" bets 60",2023-04-28T01:27:43.884Z,168264526388400
+"Turn: K♦, 10♠, A♣ [10♦]",2023-04-28T01:27:38.559Z,168264525855900
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:27:37.722Z,168264525772200
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:27:36.630Z,168264525663000
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:27:35.408Z,168264525540800
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:27:34.392Z,168264525439200
+"Flop:  [K♦, 10♠, A♣]",2023-04-28T01:27:32.353Z,168264525235300
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:27:31.536Z,168264525153600
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:27:30.635Z,168264525063500
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:27:29.682Z,168264524968200
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:27:28.832Z,168264524883200
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:27:27.860Z,168264524786000
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-04-28T01:27:26.555Z,168264524655508
+"""Jonah Dlin @ axh4B_jN0P"" posts a small blind of 10",2023-04-28T01:27:26.555Z,168264524655507
+"Your hand is 2♦, 6♥",2023-04-28T01:27:26.555Z,168264524655505
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (960) | #4 ""Jonah Dlin @ axh4B_jN0P"" (290) | #5 ""arash @ --uhQWY45j"" (1150) | #7 ""geego @ WJ-HPcQ09S"" (1030) | #9 ""peelic @ c2JqQCu6sT"" (2570)",2023-04-28T01:27:26.555Z,168264524655501
+"-- starting hand #25 (id: y5rx64hz4wmw)  (No Limit Texas Hold'em) (dealer: ""daveed @ -dAQjOVxm7"") --",2023-04-28T01:27:26.555Z,168264524655500
+"""geego @ WJ-HPcQ09S"" shows a 7♠, Q♠.",2023-04-28T01:27:23.116Z,168264524311600
+"Undealt cards: K♦, 4♦, 5♠ [10♣, 7♥]",2023-04-28T01:27:20.587Z,168264524058700
+"-- ending hand #24 --",2023-04-28T01:27:19.842Z,168264523984202
+"""daveed @ -dAQjOVxm7"" collected 200 from pot",2023-04-28T01:27:19.842Z,168264523984201
+"Uncalled bet of 100 returned to ""daveed @ -dAQjOVxm7""",2023-04-28T01:27:19.842Z,168264523984200
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:27:19.012Z,168264523901200
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:27:18.070Z,168264523807000
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:27:17.211Z,168264523721100
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:27:16.252Z,168264523625200
+"""daveed @ -dAQjOVxm7"" bets 100",2023-04-28T01:27:11.520Z,168264523152000
+"Flop:  [K♦, 4♦, 5♠]",2023-04-28T01:27:08.310Z,168264522831000
+"""daveed @ -dAQjOVxm7"" calls 40",2023-04-28T01:27:07.433Z,168264522743300
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:27:05.029Z,168264522502900
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:27:04.132Z,168264522413200
+"""arash @ --uhQWY45j"" calls 40",2023-04-28T01:27:03.278Z,168264522327800
+"""Jonah Dlin @ axh4B_jN0P"" raises to 40",2023-04-28T01:27:02.271Z,168264522227100
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:26:59.386Z,168264521938600
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:26:53.699Z,168264521369900
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:26:52.763Z,168264521276300
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:26:51.907Z,168264521190700
+"""Jonah Dlin @ axh4B_jN0P"" posts a big blind of 20",2023-04-28T01:26:50.729Z,168264521072908
+"""daveed @ -dAQjOVxm7"" posts a small blind of 10",2023-04-28T01:26:50.729Z,168264521072907
+"Your hand is 7♠, Q♠",2023-04-28T01:26:50.729Z,168264521072905
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (800) | #4 ""Jonah Dlin @ axh4B_jN0P"" (330) | #5 ""arash @ --uhQWY45j"" (1190) | #7 ""geego @ WJ-HPcQ09S"" (1070) | #9 ""peelic @ c2JqQCu6sT"" (2610)",2023-04-28T01:26:50.729Z,168264521072901
+"-- starting hand #24 (id: zdckbxq059ag)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-04-28T01:26:50.729Z,168264521072900
+"""geego @ WJ-HPcQ09S"" shows a 4♠, 4♦.",2023-04-28T01:26:47.642Z,168264520764200
+"Undealt cards: 10♠, 6♠, 7♥, A♠ [5♣]",2023-04-28T01:26:45.428Z,168264520542800
+"-- ending hand #23 --",2023-04-28T01:26:44.092Z,168264520409202
+"""arash @ --uhQWY45j"" collected 290 from pot",2023-04-28T01:26:44.092Z,168264520409201
+"Uncalled bet of 120 returned to ""arash @ --uhQWY45j""",2023-04-28T01:26:44.092Z,168264520409200
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:26:43.226Z,168264520322600
+"""arash @ --uhQWY45j"" bets 120",2023-04-28T01:26:36.629Z,168264519662900
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:26:33.513Z,168264519351300
+"Turn: 10♠, 6♠, 7♥ [A♠]",2023-04-28T01:26:31.876Z,168264519187600
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:26:31.052Z,168264519105200
+"""daveed @ -dAQjOVxm7"" calls 60",2023-04-28T01:26:30.132Z,168264519013200
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:26:27.638Z,168264518763800
+"""arash @ --uhQWY45j"" bets 60",2023-04-28T01:26:26.724Z,168264518672400
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:26:23.168Z,168264518316800
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:26:22.281Z,168264518228100
+"Flop:  [10♠, 6♠, 7♥]",2023-04-28T01:26:20.270Z,168264518027000
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:26:19.401Z,168264517940100
+"""daveed @ -dAQjOVxm7"" calls 40",2023-04-28T01:26:18.115Z,168264517811500
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:26:17.235Z,168264517723500
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:26:11.113Z,168264517111300
+"""arash @ --uhQWY45j"" raises to 40",2023-04-28T01:26:10.272Z,168264517027200
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:26:08.286Z,168264516828600
+"""daveed @ -dAQjOVxm7"" posts a big blind of 20",2023-04-28T01:26:05.722Z,168264516572208
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-04-28T01:26:05.722Z,168264516572207
+"Your hand is 4♠, 4♦",2023-04-28T01:26:05.722Z,168264516572205
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (900) | #4 ""Jonah Dlin @ axh4B_jN0P"" (370) | #5 ""arash @ --uhQWY45j"" (1000) | #7 ""geego @ WJ-HPcQ09S"" (1110) | #9 ""peelic @ c2JqQCu6sT"" (2620)",2023-04-28T01:26:05.722Z,168264516572201
+"-- starting hand #23 (id: 4rm8wccj0mw8)  (No Limit Texas Hold'em) (dealer: ""geego @ WJ-HPcQ09S"") --",2023-04-28T01:26:05.722Z,168264516572200
+"-- ending hand #22 --",2023-04-28T01:25:59.714Z,168264515971403
+"""peelic @ c2JqQCu6sT"" shows a 6♠, K♣.",2023-04-28T01:25:59.714Z,168264515971402
+"""daveed @ -dAQjOVxm7"" collected 90 from pot with Pair, A's (combination: A♦, A♣, K♠, Q♠, 10♦)",2023-04-28T01:25:59.714Z,168264515971401
+"""daveed @ -dAQjOVxm7"" shows a 10♦, K♠.",2023-04-28T01:25:59.714Z,168264515971400
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:25:58.868Z,168264515886800
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:25:56.759Z,168264515675900
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:25:55.053Z,168264515505300
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:25:54.170Z,168264515417000
+"River: 8♥, A♦, 2♠, A♣ [Q♠]",2023-04-28T01:25:49.612Z,168264514961200
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:25:48.727Z,168264514872700
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:25:47.743Z,168264514774300
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:25:46.585Z,168264514658500
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:25:45.609Z,168264514560900
+"Turn: 8♥, A♦, 2♠ [A♣]",2023-04-28T01:25:41.424Z,168264514142400
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:25:40.568Z,168264514056800
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:25:39.643Z,168264513964300
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:25:38.649Z,168264513864900
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:25:37.438Z,168264513743800
+"Flop:  [8♥, A♦, 2♠]",2023-04-28T01:25:35.162Z,168264513516200
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:25:34.298Z,168264513429800
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:25:33.399Z,168264513339900
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:25:26.189Z,168264512618900
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:25:24.519Z,168264512451900
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:25:23.562Z,168264512356200
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-04-28T01:25:21.931Z,168264512193108
+"""geego @ WJ-HPcQ09S"" posts a small blind of 10",2023-04-28T01:25:21.931Z,168264512193107
+"Your hand is 8♠, 6♥",2023-04-28T01:25:21.931Z,168264512193105
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (830) | #4 ""Jonah Dlin @ axh4B_jN0P"" (390) | #5 ""arash @ --uhQWY45j"" (1020) | #7 ""geego @ WJ-HPcQ09S"" (1120) | #9 ""peelic @ c2JqQCu6sT"" (2640)",2023-04-28T01:25:21.931Z,168264512193101
+"-- starting hand #22 (id: uuotibiasv34)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-04-28T01:25:21.931Z,168264512193100
+"""arash @ --uhQWY45j"" shows a 5♣, A♣.",2023-04-28T01:25:16.116Z,168264511611600
+"-- ending hand #21 --",2023-04-28T01:25:15.374Z,168264511537401
+"""geego @ WJ-HPcQ09S"" collected 1120 from pot with Flush, Kc High (combination: K♣, Q♣, 8♣, 7♣, 6♣)",2023-04-28T01:25:15.374Z,168264511537400
+"River: 8♣, Q♣, 4♥, 7♣ [6♣]",2023-04-28T01:25:11.321Z,168264511132100
+"Turn: 8♣, Q♣, 4♥ [7♣]",2023-04-28T01:25:07.313Z,168264510731300
+"""geego @ WJ-HPcQ09S"" shows a A♥, K♣.",2023-04-28T01:25:03.263Z,168264510326301
+"""daveed @ -dAQjOVxm7"" shows a 10♦, 10♥.",2023-04-28T01:25:03.263Z,168264510326300
+"""geego @ WJ-HPcQ09S"" calls 200 and go all in",2023-04-28T01:25:02.421Z,168264510242100
+"""daveed @ -dAQjOVxm7"" bets 200",2023-04-28T01:24:58.729Z,168264509872900
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:24:54.252Z,168264509425200
+"Flop:  [8♣, Q♣, 4♥]",2023-04-28T01:24:52.211Z,168264509221100
+"""geego @ WJ-HPcQ09S"" calls 320",2023-04-28T01:24:51.388Z,168264509138800
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:24:50.431Z,168264509043100
+"""daveed @ -dAQjOVxm7"" raises to 320",2023-04-28T01:24:46.544Z,168264508654400
+"""geego @ WJ-HPcQ09S"" calls 80",2023-04-28T01:24:42.875Z,168264508287500
+"""arash @ --uhQWY45j"" raises to 80",2023-04-28T01:24:41.019Z,168264508101900
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:24:38.430Z,168264507843000
+"""daveed @ -dAQjOVxm7"" raises to 40",2023-04-28T01:24:34.362Z,168264507436200
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:24:32.105Z,168264507210500
+"""geego @ WJ-HPcQ09S"" posts a big blind of 20",2023-04-28T01:24:30.937Z,168264507093708
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-04-28T01:24:30.937Z,168264507093707
+"Your hand is A♥, K♣",2023-04-28T01:24:30.937Z,168264507093705
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1350) | #4 ""Jonah Dlin @ axh4B_jN0P"" (390) | #5 ""arash @ --uhQWY45j"" (1100) | #7 ""geego @ WJ-HPcQ09S"" (520) | #9 ""peelic @ c2JqQCu6sT"" (2640)",2023-04-28T01:24:30.937Z,168264507093701
+"-- starting hand #21 (id: sdtev4kngopv)  (No Limit Texas Hold'em) (dealer: ""Jonah Dlin @ axh4B_jN0P"") --",2023-04-28T01:24:30.937Z,168264507093700
+"-- ending hand #20 --",2023-04-28T01:24:24.864Z,168264506486402
+"""arash @ --uhQWY45j"" collected 220 from pot with Pair, 10's (combination: 10♦, 10♥, A♣, Q♠, 8♦)",2023-04-28T01:24:24.864Z,168264506486401
+"""arash @ --uhQWY45j"" shows a 10♦, 8♦.",2023-04-28T01:24:24.864Z,168264506486400
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:24:24.047Z,168264506404700
+"""arash @ --uhQWY45j"" bets 20",2023-04-28T01:24:22.382Z,168264506238200
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:24:20.619Z,168264506061900
+"River: A♣, 4♠, 10♥, 7♠ [Q♠]",2023-04-28T01:24:17.650Z,168264505765000
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:24:16.816Z,168264505681600
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:24:15.530Z,168264505553000
+"""Jonah Dlin @ axh4B_jN0P"" bets 20",2023-04-28T01:24:14.633Z,168264505463300
+"Turn: A♣, 4♠, 10♥ [7♠]",2023-04-28T01:24:13.125Z,168264505312500
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:24:12.322Z,168264505232200
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:24:11.413Z,168264505141300
+"""arash @ --uhQWY45j"" bets 20",2023-04-28T01:24:10.196Z,168264505019600
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:24:08.129Z,168264504812900
+"Flop:  [A♣, 4♠, 10♥]",2023-04-28T01:24:05.612Z,168264504561200
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:24:04.791Z,168264504479100
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:24:03.900Z,168264504390000
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:24:02.994Z,168264504299400
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:24:00.956Z,168264504095600
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:24:00.051Z,168264504005100
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-04-28T01:23:58.800Z,168264503880008
+"""Jonah Dlin @ axh4B_jN0P"" posts a small blind of 10",2023-04-28T01:23:58.800Z,168264503880007
+"Your hand is 5♦, 5♠",2023-04-28T01:23:58.800Z,168264503880005
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1350) | #4 ""Jonah Dlin @ axh4B_jN0P"" (450) | #5 ""arash @ --uhQWY45j"" (960) | #7 ""geego @ WJ-HPcQ09S"" (600) | #9 ""peelic @ c2JqQCu6sT"" (2640)",2023-04-28T01:23:58.800Z,168264503880001
+"-- starting hand #20 (id: 5mmttffnolba)  (No Limit Texas Hold'em) (dealer: ""daveed @ -dAQjOVxm7"") --",2023-04-28T01:23:58.800Z,168264503880000
+"-- ending hand #19 --",2023-04-28T01:23:55.795Z,168264503579502
+"""peelic @ c2JqQCu6sT"" collected 340 from pot",2023-04-28T01:23:55.795Z,168264503579501
+"Uncalled bet of 200 returned to ""peelic @ c2JqQCu6sT""",2023-04-28T01:23:55.795Z,168264503579500
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:23:54.927Z,168264503492700
+"""peelic @ c2JqQCu6sT"" bets 200",2023-04-28T01:23:49.275Z,168264502927500
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:23:39.399Z,168264501939900
+"River: 10♦, 10♠, 4♦, A♠ [4♠]",2023-04-28T01:23:29.612Z,168264500961200
+"""peelic @ c2JqQCu6sT"" calls 45",2023-04-28T01:23:28.738Z,168264500873800
+"""geego @ WJ-HPcQ09S"" bets 45",2023-04-28T01:23:26.413Z,168264500641300
+"Turn: 10♦, 10♠, 4♦ [A♠]",2023-04-28T01:23:13.403Z,168264499340300
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:23:12.530Z,168264499253000
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:23:11.627Z,168264499162700
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:23:09.718Z,168264498971800
+"""peelic @ c2JqQCu6sT"" calls 75",2023-04-28T01:23:08.871Z,168264498887100
+"""geego @ WJ-HPcQ09S"" bets 75",2023-04-28T01:23:07.949Z,168264498794900
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:23:04.075Z,168264498407500
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:23:03.154Z,168264498315400
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:23:02.258Z,168264498225800
+"Flop:  [10♦, 10♠, 4♦]",2023-04-28T01:23:00.179Z,168264498017900
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:22:59.332Z,168264497933200
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:22:58.425Z,168264497842500
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:22:57.531Z,168264497753100
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:22:56.616Z,168264497661600
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:22:55.709Z,168264497570900
+"""Jonah Dlin @ axh4B_jN0P"" posts a big blind of 20",2023-04-28T01:22:54.374Z,168264497437408
+"""daveed @ -dAQjOVxm7"" posts a small blind of 10",2023-04-28T01:22:54.374Z,168264497437407
+"Your hand is Q♥, A♥",2023-04-28T01:22:54.374Z,168264497437405
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1370) | #4 ""Jonah Dlin @ axh4B_jN0P"" (470) | #5 ""arash @ --uhQWY45j"" (980) | #7 ""geego @ WJ-HPcQ09S"" (740) | #9 ""peelic @ c2JqQCu6sT"" (2440)",2023-04-28T01:22:54.374Z,168264497437401
+"-- starting hand #19 (id: 3nb4xlw86kqt)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-04-28T01:22:54.374Z,168264497437400
+"""peelic @ c2JqQCu6sT"" shows a 2♠, 4♣.",2023-04-28T01:22:49.950Z,168264496995000
+"Undealt cards: 3♠, 3♦, A♣ [J♥, 5♥]",2023-04-28T01:22:48.257Z,168264496825700
+"-- ending hand #18 --",2023-04-28T01:22:47.739Z,168264496773902
+"""arash @ --uhQWY45j"" collected 170 from pot",2023-04-28T01:22:47.739Z,168264496773901
+"Uncalled bet of 60 returned to ""arash @ --uhQWY45j""",2023-04-28T01:22:47.739Z,168264496773900
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:22:46.872Z,168264496687200
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:22:45.977Z,168264496597700
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:22:45.061Z,168264496506100
+"""arash @ --uhQWY45j"" bets 60",2023-04-28T01:22:43.858Z,168264496385800
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:22:40.798Z,168264496079800
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:22:39.107Z,168264495910700
+"Flop:  [3♠, 3♦, A♣]",2023-04-28T01:22:33.322Z,168264495332200
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:22:32.470Z,168264495247000
+"""daveed @ -dAQjOVxm7"" calls 40",2023-04-28T01:22:31.558Z,168264495155800
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:22:28.652Z,168264494865200
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:22:27.759Z,168264494775900
+"""arash @ --uhQWY45j"" raises to 40",2023-04-28T01:22:26.845Z,168264494684500
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:22:24.961Z,168264494496100
+"""daveed @ -dAQjOVxm7"" posts a big blind of 20",2023-04-28T01:22:23.711Z,168264494371108
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-04-28T01:22:23.711Z,168264494371107
+"Your hand is K♠, Q♦",2023-04-28T01:22:23.711Z,168264494371105
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1410) | #4 ""Jonah Dlin @ axh4B_jN0P"" (510) | #5 ""arash @ --uhQWY45j"" (850) | #7 ""geego @ WJ-HPcQ09S"" (780) | #9 ""peelic @ c2JqQCu6sT"" (2450)",2023-04-28T01:22:23.711Z,168264494371101
+"-- starting hand #18 (id: 0nqqhez4r1pb)  (No Limit Texas Hold'em) (dealer: ""geego @ WJ-HPcQ09S"") --",2023-04-28T01:22:23.711Z,168264494371100
+"""daveed @ -dAQjOVxm7"" shows a A♠, 7♠.",2023-04-28T01:22:19.064Z,168264493906400
+"""geego @ WJ-HPcQ09S"" shows a 8♥, K♣.",2023-04-28T01:22:18.863Z,168264493886300
+"Undealt cards: Q♣, 5♦, A♣ [K♥, 6♠]",2023-04-28T01:22:16.588Z,168264493658800
+"-- ending hand #17 --",2023-04-28T01:22:16.294Z,168264493629402
+"""daveed @ -dAQjOVxm7"" collected 260 from pot",2023-04-28T01:22:16.294Z,168264493629401
+"Uncalled bet of 75 returned to ""daveed @ -dAQjOVxm7""",2023-04-28T01:22:16.294Z,168264493629400
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:22:15.331Z,168264493533100
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:22:14.382Z,168264493438200
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:22:13.425Z,168264493342500
+"""daveed @ -dAQjOVxm7"" bets 75",2023-04-28T01:22:04.691Z,168264492469100
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:21:56.822Z,168264491682200
+"Flop:  [Q♣, 5♦, A♣]",2023-04-28T01:21:50.472Z,168264491047200
+"""Jonah Dlin @ axh4B_jN0P"" calls 60",2023-04-28T01:21:49.623Z,168264490962300
+"""daveed @ -dAQjOVxm7"" calls 60",2023-04-28T01:21:48.724Z,168264490872400
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:21:47.011Z,168264490701100
+"""geego @ WJ-HPcQ09S"" calls 60",2023-04-28T01:21:44.379Z,168264490437900
+"""arash @ --uhQWY45j"" raises to 60",2023-04-28T01:21:42.997Z,168264490299700
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:21:39.203Z,168264489920300
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:21:38.287Z,168264489828700
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-04-28T01:21:35.719Z,168264489571908
+"""geego @ WJ-HPcQ09S"" posts a small blind of 10",2023-04-28T01:21:35.719Z,168264489571907
+"Your hand is 8♥, K♣",2023-04-28T01:21:35.719Z,168264489571905
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1210) | #4 ""Jonah Dlin @ axh4B_jN0P"" (570) | #5 ""arash @ --uhQWY45j"" (910) | #7 ""geego @ WJ-HPcQ09S"" (840) | #9 ""peelic @ c2JqQCu6sT"" (2470)",2023-04-28T01:21:35.719Z,168264489571901
+"-- starting hand #17 (id: c2rbvwsnqqkj)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-04-28T01:21:35.719Z,168264489571900
+"-- ending hand #16 --",2023-04-28T01:21:29.711Z,168264488971102
+"""geego @ WJ-HPcQ09S"" collected 340 from pot with Pair, K's (combination: K♠, K♥, Q♣, 10♥, 9♠)",2023-04-28T01:21:29.711Z,168264488971101
+"""geego @ WJ-HPcQ09S"" shows a 6♥, K♠.",2023-04-28T01:21:29.711Z,168264488971100
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:21:28.851Z,168264488885100
+"""geego @ WJ-HPcQ09S"" bets 40",2023-04-28T01:21:27.966Z,168264488796600
+"River: 10♥, K♥, Q♣, 5♥ [9♠]",2023-04-28T01:21:24.970Z,168264488497000
+"""peelic @ c2JqQCu6sT"" calls 60",2023-04-28T01:21:24.154Z,168264488415400
+"""geego @ WJ-HPcQ09S"" bets 60",2023-04-28T01:21:22.929Z,168264488292900
+"Turn: 10♥, K♥, Q♣ [5♥]",2023-04-28T01:21:20.768Z,168264488076800
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:21:19.958Z,168264487995800
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:21:19.050Z,168264487905000
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:21:18.113Z,168264487811300
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:21:17.258Z,168264487725800
+"""geego @ WJ-HPcQ09S"" bets 20",2023-04-28T01:21:15.037Z,168264487503700
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:21:13.576Z,168264487357600
+"Flop:  [10♥, K♥, Q♣]",2023-04-28T01:21:12.072Z,168264487207200
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:21:11.263Z,168264487126300
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:21:10.353Z,168264487035300
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:21:09.421Z,168264486942100
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:21:08.470Z,168264486847000
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:21:04.597Z,168264486459700
+"""geego @ WJ-HPcQ09S"" posts a big blind of 20",2023-04-28T01:21:03.324Z,168264486332408
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-04-28T01:21:03.324Z,168264486332407
+"Your hand is 6♥, K♠",2023-04-28T01:21:03.324Z,168264486332405
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1230) | #4 ""Jonah Dlin @ axh4B_jN0P"" (590) | #5 ""arash @ --uhQWY45j"" (930) | #7 ""geego @ WJ-HPcQ09S"" (640) | #9 ""peelic @ c2JqQCu6sT"" (2610)",2023-04-28T01:21:03.324Z,168264486332401
+"-- starting hand #16 (id: ad0rk74zwxs2)  (No Limit Texas Hold'em) (dealer: ""Jonah Dlin @ axh4B_jN0P"") --",2023-04-28T01:21:03.324Z,168264486332400
+"Undealt cards: J♠, 6♠, K♦, 10♥ [9♣]",2023-04-28T01:20:58.190Z,168264485819000
+"-- ending hand #15 --",2023-04-28T01:20:57.403Z,168264485740302
+"""daveed @ -dAQjOVxm7"" collected 410 from pot",2023-04-28T01:20:57.403Z,168264485740301
+"Uncalled bet of 200 returned to ""daveed @ -dAQjOVxm7""",2023-04-28T01:20:57.403Z,168264485740300
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:20:56.588Z,168264485658800
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:20:55.668Z,168264485566800
+"""daveed @ -dAQjOVxm7"" bets 200",2023-04-28T01:20:54.304Z,168264485430400
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:20:51.007Z,168264485100700
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:20:48.351Z,168264484835100
+"Turn: J♠, 6♠, K♦ [10♥]",2023-04-28T01:20:45.975Z,168264484597500
+"""peelic @ c2JqQCu6sT"" calls 80",2023-04-28T01:20:45.123Z,168264484512300
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:20:41.172Z,168264484117200
+"""arash @ --uhQWY45j"" calls 80",2023-04-28T01:20:37.867Z,168264483786700
+"""daveed @ -dAQjOVxm7"" bets 80",2023-04-28T01:20:33.437Z,168264483343700
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:20:27.376Z,168264482737600
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:20:24.040Z,168264482404000
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:20:22.040Z,168264482204000
+"Flop:  [J♠, 6♠, K♦]",2023-04-28T01:20:17.963Z,168264481796300
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:20:17.156Z,168264481715600
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:20:16.267Z,168264481626700
+"""arash @ --uhQWY45j"" calls 40",2023-04-28T01:20:14.649Z,168264481464900
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:20:08.863Z,168264480886300
+"""daveed @ -dAQjOVxm7"" raises to 40",2023-04-28T01:19:54.966Z,168264479496600
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:19:51.685Z,168264479168500
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:19:50.730Z,168264479073000
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-04-28T01:19:49.122Z,168264478912208
+"""Jonah Dlin @ axh4B_jN0P"" posts a small blind of 10",2023-04-28T01:19:49.122Z,168264478912207
+"Your hand is A♣, 2♠",2023-04-28T01:19:49.122Z,168264478912205
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (940) | #4 ""Jonah Dlin @ axh4B_jN0P"" (600) | #5 ""arash @ --uhQWY45j"" (1050) | #7 ""geego @ WJ-HPcQ09S"" (680) | #9 ""peelic @ c2JqQCu6sT"" (2730)",2023-04-28T01:19:49.122Z,168264478912201
+"-- starting hand #15 (id: 8vmabnzwwxv5)  (No Limit Texas Hold'em) (dealer: ""daveed @ -dAQjOVxm7"") --",2023-04-28T01:19:49.122Z,168264478912200
+"Undealt cards: A♣, 6♥, 4♥, 6♠ [5♥]",2023-04-28T01:19:45.057Z,168264478505700
+"-- ending hand #14 --",2023-04-28T01:19:43.204Z,168264478320402
+"""peelic @ c2JqQCu6sT"" collected 120 from pot",2023-04-28T01:19:43.204Z,168264478320401
+"Uncalled bet of 50 returned to ""peelic @ c2JqQCu6sT""",2023-04-28T01:19:43.204Z,168264478320400
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:19:42.374Z,168264478237400
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:19:40.443Z,168264478044300
+"""peelic @ c2JqQCu6sT"" bets 50",2023-04-28T01:19:39.536Z,168264477953600
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:19:36.682Z,168264477668200
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:19:35.783Z,168264477578300
+"Turn: A♣, 6♥, 4♥ [6♠]",2023-04-28T01:19:32.302Z,168264477230200
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:19:31.472Z,168264477147200
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:19:28.182Z,168264476818200
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:19:27.267Z,168264476726700
+"Flop:  [A♣, 6♥, 4♥]",2023-04-28T01:19:24.187Z,168264476418700
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:19:23.329Z,168264476332900
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:19:21.511Z,168264476151100
+"""daveed @ -dAQjOVxm7"" raises to 40",2023-04-28T01:19:19.165Z,168264475916500
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:19:15.962Z,168264475596200
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:19:15.079Z,168264475507900
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:19:14.229Z,168264475422900
+"""Jonah Dlin @ axh4B_jN0P"" posts a big blind of 20",2023-04-28T01:19:12.644Z,168264475264408
+"""daveed @ -dAQjOVxm7"" posts a small blind of 10",2023-04-28T01:19:12.644Z,168264475264407
+"Your hand is 7♠, 9♦",2023-04-28T01:19:12.644Z,168264475264405
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (980) | #4 ""Jonah Dlin @ axh4B_jN0P"" (640) | #5 ""arash @ --uhQWY45j"" (1050) | #7 ""geego @ WJ-HPcQ09S"" (680) | #9 ""peelic @ c2JqQCu6sT"" (2650)",2023-04-28T01:19:12.644Z,168264475264401
+"-- starting hand #14 (id: anhjwt06ufnf)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-04-28T01:19:12.644Z,168264475264400
+"-- ending hand #13 --",2023-04-28T01:19:06.640Z,168264474664004
+"""Jonah Dlin @ axh4B_jN0P"" shows a K♥, 7♣.",2023-04-28T01:19:06.640Z,168264474664003
+"""peelic @ c2JqQCu6sT"" shows a J♦, 9♥.",2023-04-28T01:19:06.640Z,168264474664002
+"""arash @ --uhQWY45j"" collected 100 from pot with Two Pair, 6's & 4's (combination: 6♣, 6♦, 4♦, 4♥, A♣)",2023-04-28T01:19:06.640Z,168264474664001
+"""arash @ --uhQWY45j"" shows a 6♣, J♥.",2023-04-28T01:19:06.640Z,168264474664000
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:19:05.792Z,168264474579200
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:19:03.849Z,168264474384900
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:19:02.450Z,168264474245000
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:19:01.507Z,168264474150700
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:18:58.429Z,168264473842900
+"River: A♣, 6♦, 4♦, 4♥ [10♣]",2023-04-28T01:18:57.223Z,168264473722300
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:18:56.394Z,168264473639400
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:18:55.442Z,168264473544200
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:18:54.504Z,168264473450400
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:18:53.614Z,168264473361400
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:18:49.767Z,168264472976700
+"Turn: A♣, 6♦, 4♦ [4♥]",2023-04-28T01:18:47.913Z,168264472791300
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:18:47.034Z,168264472703400
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:18:46.144Z,168264472614400
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:18:44.265Z,168264472426500
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:18:43.318Z,168264472331800
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:18:40.672Z,168264472067200
+"Flop:  [A♣, 6♦, 4♦]",2023-04-28T01:18:37.701Z,168264471770100
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:18:36.823Z,168264471682300
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:18:35.969Z,168264471596900
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:18:35.060Z,168264471506000
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:18:30.801Z,168264471080100
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:18:29.470Z,168264470947000
+"""daveed @ -dAQjOVxm7"" posts a big blind of 20",2023-04-28T01:18:27.681Z,168264470768109
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-04-28T01:18:27.681Z,168264470768108
+"Your hand is J♣, 2♣",2023-04-28T01:18:27.681Z,168264470768106
+"Player stacks: #1 ""daveed @ -dAQjOVxm7"" (1000) | #4 ""Jonah Dlin @ axh4B_jN0P"" (660) | #5 ""arash @ --uhQWY45j"" (970) | #7 ""geego @ WJ-HPcQ09S"" (700) | #9 ""peelic @ c2JqQCu6sT"" (2670)",2023-04-28T01:18:27.681Z,168264470768102
+"-- starting hand #13 (id: 99sygwfjwhbs)  (No Limit Texas Hold'em) (dealer: ""geego @ WJ-HPcQ09S"") --",2023-04-28T01:18:27.681Z,168264470768101
+"The player ""daveed @ -dAQjOVxm7"" joined the game with a stack of 1000.",2023-04-28T01:18:27.681Z,168264470768100
+"-- ending hand #12 --",2023-04-28T01:18:24.754Z,168264470475402
+"""peelic @ c2JqQCu6sT"" collected 240 from pot",2023-04-28T01:18:24.754Z,168264470475401
+"Uncalled bet of 60 returned to ""peelic @ c2JqQCu6sT""",2023-04-28T01:18:24.754Z,168264470475400
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:18:23.927Z,168264470392700
+"""peelic @ c2JqQCu6sT"" bets 60",2023-04-28T01:18:22.455Z,168264470245500
+"River: Q♥, 9♠, 10♥, 7♥ [7♦]",2023-04-28T01:18:18.866Z,168264469886600
+"""arash @ --uhQWY45j"" calls 50",2023-04-28T01:18:17.993Z,168264469799300
+"""peelic @ c2JqQCu6sT"" bets 50",2023-04-28T01:18:16.527Z,168264469652700
+"Turn: Q♥, 9♠, 10♥ [7♥]",2023-04-28T01:18:11.859Z,168264469185900
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:18:11.006Z,168264469100600
+"""arash @ --uhQWY45j"" calls 30",2023-04-28T01:18:10.143Z,168264469014300
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:18:09.238Z,168264468923800
+"""peelic @ c2JqQCu6sT"" bets 30",2023-04-28T01:18:08.271Z,168264468827100
+"The admin approved the player ""daveed @ -dAQjOVxm7"" participation with a stack of 1000.",2023-04-28T01:18:00.349Z,168264468034900
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:17:59.986Z,168264467998600
+"Flop:  [Q♥, 9♠, 10♥]",2023-04-28T01:17:58.137Z,168264467813700
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:17:57.335Z,168264467733500
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:17:53.947Z,168264467394700
+"The player ""daveed @ -dAQjOVxm7"" requested a seat.",2023-04-28T01:17:53.861Z,168264467386100
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:17:52.294Z,168264467229400
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:17:51.274Z,168264467127400
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-04-28T01:17:48.236Z,168264466823608
+"""geego @ WJ-HPcQ09S"" posts a small blind of 10",2023-04-28T01:17:48.236Z,168264466823607
+"Your hand is 2♥, 4♣",2023-04-28T01:17:48.236Z,168264466823605
+"Player stacks: #4 ""Jonah Dlin @ axh4B_jN0P"" (680) | #5 ""arash @ --uhQWY45j"" (1070) | #7 ""geego @ WJ-HPcQ09S"" (720) | #9 ""peelic @ c2JqQCu6sT"" (2530)",2023-04-28T01:17:48.236Z,168264466823602
+"-- starting hand #12 (id: tvawxycroo8d)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-04-28T01:17:48.236Z,168264466823601
+"The player ""daveed @ -dAQjOVxm7"" quits the game with a stack of 0.",2023-04-28T01:17:48.236Z,168264466823600
+"-- ending hand #11 --",2023-04-28T01:17:42.225Z,168264466222503
+"""daveed @ -dAQjOVxm7"" shows a 10♠, J♠.",2023-04-28T01:17:42.225Z,168264466222502
+"""peelic @ c2JqQCu6sT"" collected 990 from pot with Full House, Q's over A's (combination: Q♠, Q♦, Q♣, A♦, A♣)",2023-04-28T01:17:42.225Z,168264466222501
+"""peelic @ c2JqQCu6sT"" shows a 10♥, Q♠.",2023-04-28T01:17:42.225Z,168264466222500
+"""peelic @ c2JqQCu6sT"" calls 260",2023-04-28T01:17:41.358Z,168264466135800
+"""daveed @ -dAQjOVxm7"" raises to 260 and go all in",2023-04-28T01:17:40.230Z,168264466023000
+"""peelic @ c2JqQCu6sT"" bets 100",2023-04-28T01:17:37.103Z,168264465710300
+"River: A♦, Q♦, Q♣, 5♥ [A♣]",2023-04-28T01:17:27.516Z,168264464751600
+"""daveed @ -dAQjOVxm7"" calls 140",2023-04-28T01:17:26.662Z,168264464666200
+"""peelic @ c2JqQCu6sT"" bets 140",2023-04-28T01:17:24.733Z,168264464473300
+"Turn: A♦, Q♦, Q♣ [5♥]",2023-04-28T01:17:22.388Z,168264464238800
+"""daveed @ -dAQjOVxm7"" calls 25",2023-04-28T01:17:21.527Z,168264464152700
+"""peelic @ c2JqQCu6sT"" bets 25",2023-04-28T01:17:20.120Z,168264464012000
+"Flop:  [A♦, Q♦, Q♣]",2023-04-28T01:17:16.469Z,168264463646900
+"""peelic @ c2JqQCu6sT"" calls 55",2023-04-28T01:17:15.665Z,168264463566500
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:17:14.714Z,168264463471400
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:17:13.859Z,168264463385900
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:17:12.915Z,168264463291500
+"""daveed @ -dAQjOVxm7"" raises to 55",2023-04-28T01:17:07.484Z,168264462748400
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:17:04.688Z,168264462468800
+"""geego @ WJ-HPcQ09S"" posts a big blind of 20",2023-04-28T01:16:49.399Z,168264460939908
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-04-28T01:16:49.399Z,168264460939907
+"Your hand is 2♣, 4♣",2023-04-28T01:16:49.399Z,168264460939905
+"Player stacks: #3 ""daveed @ -dAQjOVxm7"" (480) | #4 ""Jonah Dlin @ axh4B_jN0P"" (680) | #5 ""arash @ --uhQWY45j"" (1080) | #7 ""geego @ WJ-HPcQ09S"" (740) | #9 ""peelic @ c2JqQCu6sT"" (2020)",2023-04-28T01:16:49.399Z,168264460939901
+"-- starting hand #11 (id: dqzn0a9wihry)  (No Limit Texas Hold'em) (dealer: ""Jonah Dlin @ axh4B_jN0P"") --",2023-04-28T01:16:49.399Z,168264460939900
+"Undealt cards: 5♠, K♦, 4♠, 6♠ [5♥]",2023-04-28T01:16:44.586Z,168264460458600
+"-- ending hand #10 --",2023-04-28T01:16:43.446Z,168264460344602
+"""peelic @ c2JqQCu6sT"" collected 320 from pot",2023-04-28T01:16:43.446Z,168264460344601
+"Uncalled bet of 80 returned to ""peelic @ c2JqQCu6sT""",2023-04-28T01:16:43.446Z,168264460344600
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:16:42.605Z,168264460260500
+"""peelic @ c2JqQCu6sT"" raises to 100",2023-04-28T01:16:41.038Z,168264460103800
+"""arash @ --uhQWY45j"" bets 20",2023-04-28T01:16:38.474Z,168264459847400
+"Turn: 5♠, K♦, 4♠ [6♠]",2023-04-28T01:16:35.717Z,168264459571700
+"""peelic @ c2JqQCu6sT"" calls 70",2023-04-28T01:16:34.889Z,168264459488900
+"""arash @ --uhQWY45j"" bets 70",2023-04-28T01:16:28.164Z,168264458816400
+"Flop:  [5♠, K♦, 4♠]",2023-04-28T01:16:24.298Z,168264458429800
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:16:23.464Z,168264458346400
+"""peelic @ c2JqQCu6sT"" calls 60",2023-04-28T01:16:22.526Z,168264458252600
+"""arash @ --uhQWY45j"" raises to 60",2023-04-28T01:16:20.268Z,168264458026800
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:16:16.306Z,168264457630600
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:16:15.411Z,168264457541100
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:16:14.512Z,168264457451200
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:16:13.594Z,168264457359400
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-04-28T01:16:11.963Z,168264457196308
+"""Jonah Dlin @ axh4B_jN0P"" posts a small blind of 10",2023-04-28T01:16:11.963Z,168264457196307
+"Your hand is 2♠, Q♣",2023-04-28T01:16:11.963Z,168264457196305
+"Player stacks: #3 ""daveed @ -dAQjOVxm7"" (480) | #4 ""Jonah Dlin @ axh4B_jN0P"" (700) | #5 ""arash @ --uhQWY45j"" (1230) | #7 ""geego @ WJ-HPcQ09S"" (740) | #9 ""peelic @ c2JqQCu6sT"" (1850)",2023-04-28T01:16:11.963Z,168264457196301
+"-- starting hand #10 (id: g41ihucwx4xi)  (No Limit Texas Hold'em) (dealer: ""daveed @ -dAQjOVxm7"") --",2023-04-28T01:16:11.963Z,168264457196300
+"""geego @ WJ-HPcQ09S"" shows a 6♥, Q♠.",2023-04-28T01:16:07.992Z,168264456799200
+"Undealt cards: Q♦, 4♦, A♠, J♥ [5♣]",2023-04-28T01:16:06.482Z,168264456648200
+"""arash @ --uhQWY45j"" shows a 3♦, 10♦.",2023-04-28T01:16:05.954Z,168264456595400
+"-- ending hand #9 --",2023-04-28T01:16:04.618Z,168264456461802
+"""arash @ --uhQWY45j"" collected 100 from pot",2023-04-28T01:16:04.618Z,168264456461801
+"Uncalled bet of 50 returned to ""arash @ --uhQWY45j""",2023-04-28T01:16:04.618Z,168264456461800
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:16:03.750Z,168264456375000
+"""arash @ --uhQWY45j"" bets 50",2023-04-28T01:15:56.799Z,168264455679900
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:15:47.708Z,168264454770800
+"Turn: Q♦, 4♦, A♠ [J♥]",2023-04-28T01:15:45.599Z,168264454559900
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:15:44.787Z,168264454478700
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:15:43.813Z,168264454381300
+"""arash @ --uhQWY45j"" bets 20",2023-04-28T01:15:39.984Z,168264453998400
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:15:37.590Z,168264453759000
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:15:34.841Z,168264453484100
+"Flop:  [Q♦, 4♦, A♠]",2023-04-28T01:15:32.885Z,168264453288500
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:15:32.022Z,168264453202200
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:15:31.094Z,168264453109400
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:15:29.166Z,168264452916600
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:15:28.212Z,168264452821200
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:15:27.341Z,168264452734100
+"""Jonah Dlin @ axh4B_jN0P"" posts a big blind of 20",2023-04-28T01:15:23.275Z,168264452327508
+"""daveed @ -dAQjOVxm7"" posts a small blind of 10",2023-04-28T01:15:23.275Z,168264452327507
+"Your hand is 6♥, Q♠",2023-04-28T01:15:23.275Z,168264452327505
+"Player stacks: #3 ""daveed @ -dAQjOVxm7"" (500) | #4 ""Jonah Dlin @ axh4B_jN0P"" (740) | #5 ""arash @ --uhQWY45j"" (1170) | #7 ""geego @ WJ-HPcQ09S"" (740) | #9 ""peelic @ c2JqQCu6sT"" (1850)",2023-04-28T01:15:23.275Z,168264452327501
+"-- starting hand #9 (id: rmdx1yrziu4q)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-04-28T01:15:23.275Z,168264452327500
+"Undealt cards: K♥, 2♦, 6♣, 4♠ [J♦]",2023-04-28T01:15:17.694Z,168264451769400
+"-- ending hand #8 --",2023-04-28T01:15:17.323Z,168264451732302
+"""peelic @ c2JqQCu6sT"" collected 80 from pot",2023-04-28T01:15:17.323Z,168264451732301
+"Uncalled bet of 70 returned to ""peelic @ c2JqQCu6sT""",2023-04-28T01:15:17.323Z,168264451732300
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:15:16.465Z,168264451646500
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:15:13.009Z,168264451300900
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:15:10.523Z,168264451052300
+"""peelic @ c2JqQCu6sT"" bets 70",2023-04-28T01:15:09.288Z,168264450928800
+"Turn: K♥, 2♦, 6♣ [4♠]",2023-04-28T01:15:06.428Z,168264450642800
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:15:05.552Z,168264450555200
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:15:04.705Z,168264450470500
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:15:03.755Z,168264450375500
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:15:01.398Z,168264450139800
+"Flop:  [K♥, 2♦, 6♣]",2023-04-28T01:14:58.053Z,168264449805300
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:14:57.215Z,168264449721500
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:14:54.650Z,168264449465000
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:14:53.737Z,168264449373700
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:14:52.853Z,168264449285300
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:14:48.866Z,168264448886600
+"""daveed @ -dAQjOVxm7"" posts a big blind of 20",2023-04-28T01:14:46.603Z,168264448660308
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-04-28T01:14:46.603Z,168264448660307
+"Your hand is 8♦, 5♦",2023-04-28T01:14:46.603Z,168264448660305
+"Player stacks: #3 ""daveed @ -dAQjOVxm7"" (520) | #4 ""Jonah Dlin @ axh4B_jN0P"" (760) | #5 ""arash @ --uhQWY45j"" (1170) | #7 ""geego @ WJ-HPcQ09S"" (760) | #9 ""peelic @ c2JqQCu6sT"" (1790)",2023-04-28T01:14:46.603Z,168264448660301
+"-- starting hand #8 (id: mshniiwyoedw)  (No Limit Texas Hold'em) (dealer: ""geego @ WJ-HPcQ09S"") --",2023-04-28T01:14:46.603Z,168264448660300
+"""geego @ WJ-HPcQ09S"" shows a 6♠, 10♣.",2023-04-28T01:14:43.553Z,168264448355300
+"-- ending hand #7 --",2023-04-28T01:14:42.955Z,168264448295502
+"""arash @ --uhQWY45j"" collected 200 from pot",2023-04-28T01:14:42.955Z,168264448295501
+"Uncalled bet of 150 returned to ""arash @ --uhQWY45j""",2023-04-28T01:14:42.955Z,168264448295500
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:14:42.147Z,168264448214700
+"""arash @ --uhQWY45j"" bets 150",2023-04-28T01:14:38.579Z,168264447857900
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:14:34.343Z,168264447434300
+"River: 8♦, Q♦, J♦, 10♥ [J♣]",2023-04-28T01:14:31.183Z,168264447118300
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:14:30.360Z,168264447036000
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:14:29.422Z,168264446942200
+"""peelic @ c2JqQCu6sT"" calls 50",2023-04-28T01:14:28.577Z,168264446857700
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:14:27.632Z,168264446763200
+"""arash @ --uhQWY45j"" bets 50",2023-04-28T01:14:22.053Z,168264446205300
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:14:18.552Z,168264445855200
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:14:17.656Z,168264445765600
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:14:13.269Z,168264445326900
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:14:11.672Z,168264445167200
+"Turn: 8♦, Q♦, J♦ [10♥]",2023-04-28T01:14:09.975Z,168264444997500
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:14:09.151Z,168264444915100
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:14:08.200Z,168264444820000
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:14:07.306Z,168264444730600
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:14:05.553Z,168264444555300
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:14:03.582Z,168264444358200
+"Flop:  [8♦, Q♦, J♦]",2023-04-28T01:14:01.847Z,168264444184700
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:14:01.028Z,168264444102800
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:14:00.113Z,168264444011300
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:13:59.034Z,168264443903400
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:13:58.124Z,168264443812400
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:13:57.189Z,168264443718900
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-04-28T01:13:55.638Z,168264443563808
+"""geego @ WJ-HPcQ09S"" posts a small blind of 10",2023-04-28T01:13:55.638Z,168264443563807
+"Your hand is 6♠, 10♣",2023-04-28T01:13:55.638Z,168264443563805
+"Player stacks: #3 ""daveed @ -dAQjOVxm7"" (540) | #4 ""Jonah Dlin @ axh4B_jN0P"" (780) | #5 ""arash @ --uhQWY45j"" (1040) | #7 ""geego @ WJ-HPcQ09S"" (780) | #9 ""peelic @ c2JqQCu6sT"" (1860)",2023-04-28T01:13:55.638Z,168264443563801
+"-- starting hand #7 (id: 56ncvannbcbx)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-04-28T01:13:55.638Z,168264443563800
+"""geego @ WJ-HPcQ09S"" shows a 9♦, 7♣.",2023-04-28T01:13:52.162Z,168264443216200
+"-- ending hand #6 --",2023-04-28T01:13:51.936Z,168264443193602
+"""peelic @ c2JqQCu6sT"" collected 340 from pot",2023-04-28T01:13:51.936Z,168264443193601
+"Uncalled bet of 140 returned to ""peelic @ c2JqQCu6sT""",2023-04-28T01:13:51.936Z,168264443193600
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:13:51.106Z,168264443110600
+"""peelic @ c2JqQCu6sT"" bets 140",2023-04-28T01:13:48.816Z,168264442881600
+"River: 9♥, A♣, K♥, Q♦ [7♦]",2023-04-28T01:13:42.798Z,168264442279800
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:13:41.918Z,168264442191800
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:13:41.075Z,168264442107500
+"""daveed @ -dAQjOVxm7"" calls 80",2023-04-28T01:13:40.019Z,168264442001900
+"""peelic @ c2JqQCu6sT"" bets 80",2023-04-28T01:13:37.128Z,168264441712800
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:13:33.599Z,168264441359900
+"Turn: 9♥, A♣, K♥ [Q♦]",2023-04-28T01:13:32.393Z,168264441239300
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:13:31.564Z,168264441156400
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:13:30.444Z,168264441044400
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:13:29.146Z,168264440914600
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:13:28.085Z,168264440808500
+"""peelic @ c2JqQCu6sT"" bets 20",2023-04-28T01:13:26.805Z,168264440680500
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:13:23.727Z,168264440372700
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:13:22.860Z,168264440286000
+"Flop:  [9♥, A♣, K♥]",2023-04-28T01:13:20.973Z,168264440097300
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:13:20.108Z,168264440010800
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:13:19.251Z,168264439925100
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:13:18.272Z,168264439827200
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:13:17.384Z,168264439738400
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:13:11.339Z,168264439133900
+"""geego @ WJ-HPcQ09S"" posts a big blind of 20",2023-04-28T01:13:10.196Z,168264439019608
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-04-28T01:13:10.196Z,168264439019607
+"Your hand is 9♦, 7♣",2023-04-28T01:13:10.196Z,168264439019605
+"Player stacks: #3 ""daveed @ -dAQjOVxm7"" (660) | #4 ""Jonah Dlin @ axh4B_jN0P"" (820) | #5 ""arash @ --uhQWY45j"" (1060) | #7 ""geego @ WJ-HPcQ09S"" (820) | #9 ""peelic @ c2JqQCu6sT"" (1640)",2023-04-28T01:13:10.196Z,168264439019601
+"-- starting hand #6 (id: vyc15or6x1e4)  (No Limit Texas Hold'em) (dealer: ""Jonah Dlin @ axh4B_jN0P"") --",2023-04-28T01:13:10.196Z,168264439019600
+"-- ending hand #5 --",2023-04-28T01:13:07.245Z,168264438724502
+"""Jonah Dlin @ axh4B_jN0P"" collected 80 from pot",2023-04-28T01:13:07.245Z,168264438724501
+"Uncalled bet of 40 returned to ""Jonah Dlin @ axh4B_jN0P""",2023-04-28T01:13:07.245Z,168264438724500
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:13:06.406Z,168264438640600
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:12:57.547Z,168264437754700
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:12:54.591Z,168264437459100
+"""Jonah Dlin @ axh4B_jN0P"" bets 40",2023-04-28T01:12:52.507Z,168264437250700
+"Turn: J♠, A♦, 4♠ [3♣]",2023-04-28T01:12:48.863Z,168264436886300
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:12:48.003Z,168264436800300
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:12:46.498Z,168264436649800
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:12:45.628Z,168264436562800
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:12:44.420Z,168264436442000
+"Flop:  [J♠, A♦, 4♠]",2023-04-28T01:12:41.756Z,168264436175600
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:12:40.933Z,168264436093300
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:12:40.017Z,168264436001700
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:12:39.075Z,168264435907500
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:12:38.206Z,168264435820600
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:12:37.259Z,168264435725900
+"""arash @ --uhQWY45j"" posts a big blind of 20",2023-04-28T01:12:23.826Z,168264434382608
+"""Jonah Dlin @ axh4B_jN0P"" posts a small blind of 10",2023-04-28T01:12:23.826Z,168264434382607
+"Your hand is 8♥, 9♥",2023-04-28T01:12:23.826Z,168264434382605
+"Player stacks: #3 ""daveed @ -dAQjOVxm7"" (660) | #4 ""Jonah Dlin @ axh4B_jN0P"" (760) | #5 ""arash @ --uhQWY45j"" (1080) | #7 ""geego @ WJ-HPcQ09S"" (840) | #9 ""peelic @ c2JqQCu6sT"" (1660)",2023-04-28T01:12:23.826Z,168264434382601
+"-- starting hand #5 (id: hdqxw9jzagas)  (No Limit Texas Hold'em) (dealer: ""daveed @ -dAQjOVxm7"") --",2023-04-28T01:12:23.826Z,168264434382600
+"-- ending hand #4 --",2023-04-28T01:12:20.908Z,168264434090802
+"""arash @ --uhQWY45j"" collected 200 from pot",2023-04-28T01:12:20.908Z,168264434090801
+"Uncalled bet of 70 returned to ""arash @ --uhQWY45j""",2023-04-28T01:12:20.908Z,168264434090800
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:12:20.064Z,168264434006400
+"""peelic @ c2JqQCu6sT"" folds",2023-04-28T01:12:19.212Z,168264433921200
+"""arash @ --uhQWY45j"" bets 70",2023-04-28T01:12:16.486Z,168264433648600
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:12:12.934Z,168264433293400
+"Flop:  [7♣, Q♠, 9♥]",2023-04-28T01:12:08.809Z,168264432880900
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:12:07.966Z,168264432796600
+"""daveed @ -dAQjOVxm7"" calls 60",2023-04-28T01:12:07.052Z,168264432705200
+"""peelic @ c2JqQCu6sT"" calls 60",2023-04-28T01:12:04.162Z,168264432416200
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:12:02.784Z,168264432278400
+"""arash @ --uhQWY45j"" raises to 60",2023-04-28T01:12:01.212Z,168264432121200
+"""Jonah Dlin @ axh4B_jN0P"" posts a big blind of 20",2023-04-28T01:11:57.466Z,168264431746608
+"""daveed @ -dAQjOVxm7"" posts a small blind of 10",2023-04-28T01:11:57.466Z,168264431746607
+"Your hand is Q♦, 6♣",2023-04-28T01:11:57.466Z,168264431746605
+"Player stacks: #3 ""daveed @ -dAQjOVxm7"" (720) | #4 ""Jonah Dlin @ axh4B_jN0P"" (780) | #5 ""arash @ --uhQWY45j"" (940) | #7 ""geego @ WJ-HPcQ09S"" (840) | #9 ""peelic @ c2JqQCu6sT"" (1720)",2023-04-28T01:11:57.466Z,168264431746601
+"-- starting hand #4 (id: 4zdkm1bkytn9)  (No Limit Texas Hold'em) (dealer: ""peelic @ c2JqQCu6sT"") --",2023-04-28T01:11:57.466Z,168264431746600
+"-- ending hand #3 --",2023-04-28T01:11:51.397Z,168264431139702
+"""peelic @ c2JqQCu6sT"" collected 220 from pot with Two Pair, 6's & 5's (combination: 6♣, 6♦, 5♥, 5♣, A♥)",2023-04-28T01:11:51.397Z,168264431139701
+"""peelic @ c2JqQCu6sT"" shows a 5♥, 6♣.",2023-04-28T01:11:51.397Z,168264431139700
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:11:50.557Z,168264431055700
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:11:49.651Z,168264430965100
+"River: A♥, 5♣, 10♥, 6♦ [7♦]",2023-04-28T01:11:42.030Z,168264430203000
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:11:41.222Z,168264430122200
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:11:40.319Z,168264430031900
+"""Jonah Dlin @ axh4B_jN0P"" calls 60",2023-04-28T01:11:39.417Z,168264429941700
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:11:34.498Z,168264429449800
+"""peelic @ c2JqQCu6sT"" bets 60",2023-04-28T01:11:31.880Z,168264429188000
+"Turn: A♥, 5♣, 10♥ [6♦]",2023-04-28T01:11:27.962Z,168264428796200
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:11:27.083Z,168264428708300
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:11:26.246Z,168264428624600
+"""Jonah Dlin @ axh4B_jN0P"" checks",2023-04-28T01:11:25.319Z,168264428531900
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:11:23.249Z,168264428324900
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:11:20.872Z,168264428087200
+"Flop:  [A♥, 5♣, 10♥]",2023-04-28T01:11:17.951Z,168264427795100
+"""daveed @ -dAQjOVxm7"" checks",2023-04-28T01:11:17.048Z,168264427704800
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:11:16.031Z,168264427603100
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:11:15.084Z,168264427508400
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:11:14.233Z,168264427423300
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:11:13.288Z,168264427328800
+"""daveed @ -dAQjOVxm7"" posts a big blind of 20",2023-04-28T01:11:10.018Z,168264427001808
+"""peelic @ c2JqQCu6sT"" posts a small blind of 10",2023-04-28T01:11:10.018Z,168264427001807
+"Your hand is 4♠, K♦",2023-04-28T01:11:10.018Z,168264427001805
+"Player stacks: #3 ""daveed @ -dAQjOVxm7"" (740) | #4 ""Jonah Dlin @ axh4B_jN0P"" (860) | #5 ""arash @ --uhQWY45j"" (960) | #7 ""geego @ WJ-HPcQ09S"" (860) | #9 ""peelic @ c2JqQCu6sT"" (1580)",2023-04-28T01:11:10.018Z,168264427001801
+"-- starting hand #3 (id: kcgbs47xdpcj)  (No Limit Texas Hold'em) (dealer: ""geego @ WJ-HPcQ09S"") --",2023-04-28T01:11:10.018Z,168264427001800
+"-- ending hand #2 --",2023-04-28T01:11:03.990Z,168264426399002
+"""peelic @ c2JqQCu6sT"" collected 580 from pot with Straight, J High (combination: J♥, 10♣, 9♥, 8♥, 7♦)",2023-04-28T01:11:03.990Z,168264426399001
+"""peelic @ c2JqQCu6sT"" shows a 10♣, 8♥.",2023-04-28T01:11:03.990Z,168264426399000
+"""daveed @ -dAQjOVxm7"" calls 130",2023-04-28T01:11:03.165Z,168264426316500
+"""peelic @ c2JqQCu6sT"" bets 130",2023-04-28T01:10:51.361Z,168264425136100
+"River: J♥, 7♦, A♠, 9♥ [A♣]",2023-04-28T01:10:46.576Z,168264424657600
+"""daveed @ -dAQjOVxm7"" calls 60",2023-04-28T01:10:45.731Z,168264424573100
+"""peelic @ c2JqQCu6sT"" bets 60",2023-04-28T01:10:44.499Z,168264424449900
+"Turn: J♥, 7♦, A♠ [9♥]",2023-04-28T01:10:41.576Z,168264424157600
+"""peelic @ c2JqQCu6sT"" calls 50",2023-04-28T01:10:40.697Z,168264424069700
+"""geego @ WJ-HPcQ09S"" folds",2023-04-28T01:10:36.389Z,168264423638900
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:10:35.449Z,168264423544900
+"""Jonah Dlin @ axh4B_jN0P"" folds",2023-04-28T01:10:32.913Z,168264423291300
+"""daveed @ -dAQjOVxm7"" bets 50",2023-04-28T01:10:32.010Z,168264423201000
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:10:28.684Z,168264422868400
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:10:26.799Z,168264422679900
+"Flop:  [J♥, 7♦, A♠]",2023-04-28T01:10:24.149Z,168264422414900
+"""peelic @ c2JqQCu6sT"" checks",2023-04-28T01:10:23.266Z,168264422326600
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:10:22.372Z,168264422237200
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:10:21.427Z,168264422142700
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:10:20.434Z,168264422043400
+"""daveed @ -dAQjOVxm7"" calls 20",2023-04-28T01:10:19.514Z,168264421951400
+"""peelic @ c2JqQCu6sT"" posts a big blind of 20",2023-04-28T01:10:17.730Z,168264421773008
+"""geego @ WJ-HPcQ09S"" posts a small blind of 10",2023-04-28T01:10:17.730Z,168264421773007
+"Your hand is 7♣, Q♣",2023-04-28T01:10:17.730Z,168264421773005
+"Player stacks: #3 ""daveed @ -dAQjOVxm7"" (1000) | #4 ""Jonah Dlin @ axh4B_jN0P"" (880) | #5 ""arash @ --uhQWY45j"" (980) | #7 ""geego @ WJ-HPcQ09S"" (880) | #9 ""peelic @ c2JqQCu6sT"" (1260)",2023-04-28T01:10:17.730Z,168264421773001
+"-- starting hand #2 (id: mu01f0n6ubra)  (No Limit Texas Hold'em) (dealer: ""arash @ --uhQWY45j"") --",2023-04-28T01:10:17.730Z,168264421773000
+"-- ending hand #1 --",2023-04-28T01:10:11.646Z,168264421164602
+"""peelic @ c2JqQCu6sT"" collected 380 from pot with Two Pair, A's & 10's (combination: A♣, A♠, 10♥, 10♦, 9♣)",2023-04-28T01:10:11.646Z,168264421164601
+"""peelic @ c2JqQCu6sT"" shows a A♣, 5♥.",2023-04-28T01:10:11.646Z,168264421164600
+"""geego @ WJ-HPcQ09S"" calls 20",2023-04-28T01:10:10.742Z,168264421074200
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:10:09.463Z,168264420946300
+"""peelic @ c2JqQCu6sT"" bets 20",2023-04-28T01:10:08.350Z,168264420835000
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:10:03.831Z,168264420383100
+"River: 3♠, A♠, 9♣, 10♥ [10♦]",2023-04-28T01:09:59.043Z,168264419904300
+"""Jonah Dlin @ axh4B_jN0P"" calls 40",2023-04-28T01:09:58.173Z,168264419817300
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:09:56.921Z,168264419692100
+"""geego @ WJ-HPcQ09S"" bets 40",2023-04-28T01:09:54.799Z,168264419479900
+"Turn: 3♠, A♠, 9♣ [10♥]",2023-04-28T01:09:48.427Z,168264418842700
+"""peelic @ c2JqQCu6sT"" calls 40",2023-04-28T01:09:47.614Z,168264418761400
+"""geego @ WJ-HPcQ09S"" calls 40",2023-04-28T01:09:46.722Z,168264418672200
+"""arash @ --uhQWY45j"" folds",2023-04-28T01:09:44.185Z,168264418418500
+"""Jonah Dlin @ axh4B_jN0P"" raises to 40",2023-04-28T01:09:40.279Z,168264418027900
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:09:36.008Z,168264417600800
+"""geego @ WJ-HPcQ09S"" bets 20",2023-04-28T01:09:33.818Z,168264417381800
+"""arash @ --uhQWY45j"" checks",2023-04-28T01:09:30.781Z,168264417078100
+"Flop:  [3♠, A♠, 9♣]",2023-04-28T01:09:29.247Z,168264416924700
+"""geego @ WJ-HPcQ09S"" checks",2023-04-28T01:09:28.438Z,168264416843800
+"""arash @ --uhQWY45j"" calls 20",2023-04-28T01:09:27.532Z,168264416753200
+"""Jonah Dlin @ axh4B_jN0P"" calls 20",2023-04-28T01:09:21.474Z,168264416147400
+"""daveed @ -dAQjOVxm7"" folds",2023-04-28T01:09:20.578Z,168264416057800
+"""peelic @ c2JqQCu6sT"" calls 20",2023-04-28T01:09:16.555Z,168264415655500
+"""geego @ WJ-HPcQ09S"" posts a big blind of 20",2023-04-28T01:09:15.200Z,168264415520013
+"""arash @ --uhQWY45j"" posts a small blind of 10",2023-04-28T01:09:15.200Z,168264415520012
+"Your hand is Q♠, J♠",2023-04-28T01:09:15.200Z,168264415520010
+"Player stacks: #3 ""daveed @ -dAQjOVxm7"" (1000) | #4 ""Jonah Dlin @ axh4B_jN0P"" (1000) | #5 ""arash @ --uhQWY45j"" (1000) | #7 ""geego @ WJ-HPcQ09S"" (1000) | #9 ""peelic @ c2JqQCu6sT"" (1000)",2023-04-28T01:09:15.200Z,168264415520006
+"The player ""peelic @ c2JqQCu6sT"" joined the game with a stack of 1000.",2023-04-28T01:09:15.200Z,168264415520005
+"The player ""geego @ WJ-HPcQ09S"" joined the game with a stack of 1000.",2023-04-28T01:09:15.200Z,168264415520004
+"The player ""arash @ --uhQWY45j"" joined the game with a stack of 1000.",2023-04-28T01:09:15.200Z,168264415520003
+"The player ""Jonah Dlin @ axh4B_jN0P"" joined the game with a stack of 1000.",2023-04-28T01:09:15.200Z,168264415520002
+"The player ""daveed @ -dAQjOVxm7"" joined the game with a stack of 1000.",2023-04-28T01:09:15.200Z,168264415520001
+"-- starting hand #1 (id: oun0binq3xh8)  (No Limit Texas Hold'em) (dealer: ""Jonah Dlin @ axh4B_jN0P"") --",2023-04-28T01:09:15.200Z,168264415520000
+"The admin approved the player ""arash @ --uhQWY45j"" participation with a stack of 1000.",2023-04-28T01:08:23.301Z,168264410330100
+"The player ""arash @ --uhQWY45j"" requested a seat.",2023-04-28T01:08:12.194Z,168264409219400
+"The admin approved the player ""Jonah Dlin @ axh4B_jN0P"" participation with a stack of 1000.",2023-04-28T01:04:39.888Z,168264387988800
+"The player ""Jonah Dlin @ axh4B_jN0P"" requested a seat.",2023-04-28T01:04:31.548Z,168264387154800
+"The player ""daveed @ -dAQjOVxm7"" passed the room ownership to ""peelic @ c2JqQCu6sT"".",2023-04-28T01:01:43.301Z,168264370330100
+"The admin approved the player ""geego @ WJ-HPcQ09S"" participation with a stack of 1000.",2023-04-28T01:01:33.550Z,168264369355000
+"The player ""geego @ WJ-HPcQ09S"" requested a seat.",2023-04-28T01:01:31.309Z,168264369130900
+"The admin approved the player ""peelic @ c2JqQCu6sT"" participation with a stack of 1000.",2023-04-28T01:01:28.773Z,168264368877300
+"The player ""peelic @ c2JqQCu6sT"" requested a seat.",2023-04-28T01:01:24.604Z,168264368460400
+"The admin approved the player ""daveed @ -dAQjOVxm7"" participation with a stack of 1000.",2023-04-28T00:59:32.001Z,168264357200101
+"The player ""daveed @ -dAQjOVxm7"" requested a seat.",2023-04-28T00:59:32.001Z,168264357200100
