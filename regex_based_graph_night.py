@@ -412,7 +412,7 @@ def graph_stack_history(player_history, title, last_file, show_event_points=Fals
 
     plt.legend()
     plt.title(title)
-    plt.ylabel("Profit in cents (CAD)")
+    plt.ylabel("Profit in cents (USD)")
 
     if show_event_points:
         file_name = last_file.split(".")[0] + "_all_time_profit_graph.png"
