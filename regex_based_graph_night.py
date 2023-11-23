@@ -69,6 +69,7 @@ KNOWN_NAME_FIX_UPS = {
         "daveeeeeeed": "David",
         "dave": "David",
         "dave-eed": "David",
+        "daveod" : "David",
         "stevo-tesla": "Stephen",
 }
 
