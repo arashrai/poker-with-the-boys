@@ -423,6 +423,40 @@ def graph_stack_history(player_history, title, last_file, show_event_points=Fals
     plt.savefig(file_name)
     plt.show()
 
+def print_splitwise_instructions(player_history):
+    splitwise_sum = 0
+    checksum = 0 # should be zero sum game
+    for player, entry in player_history.items():
+        last_profit_amount = entry[-1][0]
+        checksum += last_profit_amount
+        if last_profit_amount > 0:
+            splitwise_sum += last_profit_amount
+
+
+    print("=" * 20)
+    print ("=== Splitwise Instructions ===")
+    if checksum != 0:
+        print(f'Uh oh! We summed the profits, expected zero, but got {checksum}. This means the script has a bug and parsed the records wrong. You should calculate the profits from a screenshot of the last hand for player chip counts.')
+        print("=" * 20)
+        return
+    print("1. Open Splitwise to the current seaosn groups and create a new expense.")
+    print("2. For the title add the current date")
+    print(f'3. For the total, enter {splitwise_sum/100}')
+    print("4. For the Paid By Section, select multiple people and enter per person:")
+
+    for player, entry in player_history.items():
+        last_profit_amount = entry[-1][0]
+        if last_profit_amount > 0:
+            print(f' {player}: {last_profit_amount/100.0}')
+
+    print("5. For the Split By / Owes Section, enter per person:")
+
+    for player, entry in player_history.items():
+        last_profit_amount = entry[-1][0]
+        if last_profit_amount < 0:
+            print(f' {player}: {-last_profit_amount/100.0}')
+
+    print("=" * 20)
 ### Stats methods
 
 # helper method to get the poker round from a timestamp
@@ -731,6 +765,9 @@ else:
 
         # Print some stats out
         print_core_stats(event.rounds)
+
+        # Print out Splitwise instructions
+        print_splitwise_instructions(player_history)
 
         graph_stack_history(player_history, "Profit for " + event_date, csv_file)
 
