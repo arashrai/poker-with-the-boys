@@ -440,7 +440,7 @@ def print_splitwise_instructions(player_history):
         print(f'Uh oh! We summed the profits, expected zero, but got {checksum}. This means the script has a bug and parsed the records wrong. You should calculate the profits from a screenshot of the last hand for player chip counts.')
         print("=" * 20)
         return
-    print("1. Open Splitwise to the current seaosn groups and create a new expense.")
+    print("1. Open Splitwise to the current season groups and create a new expense.")
     print("2. For the title add the current date")
     print(f'3. For the total, enter {splitwise_sum/100}')
     print("4. For the Paid By Section, select multiple people and enter per person:")
