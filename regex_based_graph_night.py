@@ -41,6 +41,7 @@ KNOWN_NAME_FIX_UPS = {
         "arash": "Arash",
         "susan": "Arash", #?
         "annie": "Annie",
+        "spencer": "Spencer",
         "spenner": "Spencer",
         "spenny": "Spencer",
         "spenny2": "Spencer",
