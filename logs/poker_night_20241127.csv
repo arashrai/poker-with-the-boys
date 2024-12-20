@@ -1892,7 +1892,6 @@ entry,at,order
 "Player stacks: #1 ""Jonah @ xrBY5OZYCv"" (1230) | #2 ""arash @ 64p9VZyiug"" (2360) | #3 ""greogoeg @ WJ-HPcQ09S"" (750) | #4 ""peelic @ vOeqrOXpLT"" (500) | #7 ""Spenny @ S8ENkJ8OQS"" (1000) | #10 ""Stevo @ GBEr6xd4D5"" (2160)",2024-11-28T01:59:35.807Z,173275917580703
 "-- starting hand #49 (id: 84nyo8kwhlwq)  (No Limit Texas Hold'em) (dealer: ""arash @ 64p9VZyiug"") --",2024-11-28T01:59:35.807Z,173275917580702
 "The player ""Spenny @ S8ENkJ8OQS"" joined the game with a stack of 1000.",2024-11-28T01:59:35.807Z,173275917580701
-"The admin updated the player ""Spenny @ S8ENkJ8OQS"" stack from 10000 to 1000.",2024-11-28T01:59:35.807Z,173275917580700
 """peelic @ vOeqrOXpLT"" shows a 10♠.",2024-11-28T01:59:34.655Z,173275917465500
 "-- ending hand #48 --",2024-11-28T01:59:32.196Z,173275917219602
 """arash @ 64p9VZyiug"" collected 200 from pot",2024-11-28T01:59:32.196Z,173275917219601
@@ -1909,12 +1908,11 @@ entry,at,order
 """peelic @ vOeqrOXpLT"" checks",2024-11-28T01:59:10.306Z,173275915030600
 """greogoeg @ WJ-HPcQ09S"" checks",2024-11-28T01:59:05.089Z,173275914508900
 """arash @ 64p9VZyiug"" checks",2024-11-28T01:59:02.095Z,173275914209500
-"WARNING: the admin queued the stack change for the player ""Spenny @ S8ENkJ8OQS"" reseting to 1000 chips in the next hand.",2024-11-28T01:58:58.274Z,173275913827400
 "Flop:  [6♦, K♦, J♥]",2024-11-28T01:58:54.034Z,173275913403400
 """greogoeg @ WJ-HPcQ09S"" checks",2024-11-28T01:58:53.210Z,173275913321000
 """arash @ 64p9VZyiug"" calls 20",2024-11-28T01:58:52.329Z,173275913232900
 """Jonah @ xrBY5OZYCv"" folds",2024-11-28T01:58:51.374Z,173275913137400
-"The admin approved the player ""Spenny @ S8ENkJ8OQS"" participation with a stack of 10000.",2024-11-28T01:58:49.981Z,173275912998100
+"The admin approved the player ""Spenny @ S8ENkJ8OQS"" participation with a stack of 1000.",2024-11-28T01:58:49.981Z,173275912998100
 """Stevo @ GBEr6xd4D5"" calls 20",2024-11-28T01:58:47.065Z,173275912706500
 "The player ""Spenny @ S8ENkJ8OQS"" requested a seat.",2024-11-28T01:58:45.666Z,173275912566600
 """peelic @ vOeqrOXpLT"" calls 20",2024-11-28T01:58:43.927Z,173275912392700
