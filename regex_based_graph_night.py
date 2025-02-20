@@ -145,6 +145,8 @@ class PokerNightEvent():
                 for join in joins_array:
                     if join.time < poker_round.start_time:
                         player_buyin_amount[player] = join.amount + player_buyin_amount.get(player, 0)
+                        if previous_exit := player_exit.get(player):
+                            player_buyin_amount[player] -= previous_exit.amount # if they had exited before, keep track of what they left with in new buyin
                         player_sitting_at_table[player] = True
                         player_exit.pop(player, None)
 
@@ -182,6 +184,8 @@ class PokerNightEvent():
                     if join.time >= poker_round.start_time and not player_sitting_at_table.get(player, False):
                         player_sitting_at_table[player] = True
                         player_buyin_amount[player] = join.amount + player_buyin_amount.get(player, 0)
+                        if previous_exit := player_exit.get(player):
+                            player_buyin_amount[player] -= previous_exit.amount # if they had exited before, keep track of what they left with in new buyin
                         player_exit.pop(player, None)
 
 
@@ -415,7 +419,7 @@ def graph_stack_history(player_history, title, last_file, show_event_points=Fals
 
     plt.legend()
     plt.title(title)
-    plt.ylabel("Profit in cents (USD)")
+    plt.ylabel("Profit in cents")
 
     if show_event_points:
         file_name = last_file.split(".")[0] + "_all_time_profit_graph.png"
