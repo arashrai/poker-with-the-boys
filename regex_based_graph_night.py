@@ -579,7 +579,7 @@ def winning_hand_types_by_player(rounds):
 
     hand_display_sort_order = {"High Card": 0, "Pair": 1, "Two Pair": 2, "Three of a Kind": 3, "Straight": 4, "Flush": 5, "Full House": 6, "Four of a Kind": 7, "Straight Flush": 8, "Royal Flush": 9}
     for player, winning_hands_counts in player_to_hand_type_to_wins.items():
-        sorted_winning_hands_counts = sorted(winning_hands_counts.items(), key=lambda i:hand_display_sort_order[i[0]])
+        sorted_winning_hands_counts = sorted(winning_hands_counts.items(), key=lambda i:hand_display_sort_order[i[0].rstrip()])
         print(f'{player}:')
         for hand, count in sorted_winning_hands_counts:
             print(f'  {hand}: {count}/{hands_with_known_win} ({count / hands_with_known_win * 100.0:.2f}%)')
