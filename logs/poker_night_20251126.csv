@@ -1832,9 +1832,6 @@ entry,at,order
 "Your hand is 10♠, K♥",2025-11-27T02:09:28.917Z,176420936891704
 "Player stacks: #3 ""Jonah @ xrBY5OZYCv"" (880) | #5 ""arash @ 21jHaBYWIi"" (1070) | #8 ""Stevo @ GBEr6xd4D5"" (1060) | #10 ""Spenny @ tDnYEvSdfx"" (990)",2025-11-27T02:09:28.917Z,176420936891702
 "-- starting hand #7 (id: iuypbsy1gsfy)  (No Limit Texas Hold'em) (dealer: ""arash @ 21jHaBYWIi"") --",2025-11-27T02:09:28.917Z,176420936891701
-"Game Config Changes
-* Decision Limit Time: 9s » 15s
-* Restart Blind Schedule at Level: none » 1",2025-11-27T02:09:28.917Z,176420936891700
 "-- ending hand #6 --",2025-11-27T02:09:22.911Z,176420936291104
 """Spenny @ tDnYEvSdfx"" collected 130 from pot with Straight, Q High (combination: Q♦, J♠, 10♣, 9♠, 8♠)",2025-11-27T02:09:22.911Z,176420936291103
 """arash @ 21jHaBYWIi"" collected 130 from pot with Straight, Q High (combination: Q♥, J♣, 10♣, 9♠, 8♠)",2025-11-27T02:09:22.911Z,176420936291102
