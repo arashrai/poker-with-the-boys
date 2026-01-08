@@ -374,7 +374,20 @@ class PokerRound(): # multiple rounds in a poker night event
         return list(filter(lambda action: action.time >= self.river_time, self.player_actions))
 
 def date_of_csv(csv_name):
-    return datetime.strptime(csv_name.split(".")[0].split("_")[2], "%Y%m%d").date()
+    base_name = os.path.basename(csv_name)
+    date_match = re.search(r"(\d{8})", base_name)
+    if not date_match:
+        raise ValueError(f"Could not find YYYYMMDD date in csv filename: {base_name}")
+    return datetime.strptime(date_match.group(1), "%Y%m%d").date()
+
+def normalize_csv_path(date_arg):
+    if date_arg.endswith(".csv"):
+        return date_arg
+    if date_arg.startswith("logs/"):
+        return date_arg + ".csv"
+    if date_arg.startswith("poker_night_"):
+        return "logs/" + date_arg + ".csv"
+    return "logs/poker_night_" + date_arg + ".csv"
 
 def fix_up_player_names(log_lines):
     normalized_name_log_lines = []
@@ -758,7 +771,7 @@ if args.all:
     graph_stack_history(all_player_history, "All-time profit history as of " + event_date, csv_files[-1], show_event_points=True)
 
 else:
-    csv_file = "logs/poker_night_" + args.date + ".csv"
+    csv_file = normalize_csv_path(args.date)
     print("Graphing single csv", csv_file)
     event_date = date_of_csv(csv_file).strftime("%Y/%m/%d")
     with open(csv_file) as file:
@@ -776,4 +789,3 @@ else:
         print_splitwise_instructions(player_history)
 
         graph_stack_history(player_history, "Profit for " + event_date, csv_file)
-
