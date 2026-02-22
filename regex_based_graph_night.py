@@ -440,7 +440,7 @@ def graph_stack_history(player_history, title, last_file, show_event_points=Fals
         file_name = last_file.split(".")[0] + "_profit_graph.png"
     file_name = file_name.replace("logs", "graphs")
     plt.savefig(file_name)
-    plt.show()
+    plt.close()
 
 def print_splitwise_instructions(player_history):
     splitwise_sum = 0
