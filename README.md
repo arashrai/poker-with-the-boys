@@ -6,3 +6,6 @@ How to add a graph:
 2. Run `python3 regex_based_graph_night.py --date 20230413`.
 3. Push everything.
 
+
+Or use the rust version:
+2. Run `cargo run -- --date 20230413`.
