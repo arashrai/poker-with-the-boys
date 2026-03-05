@@ -118,7 +118,7 @@ def graph_stack_history(logs):
     file_name = CSV_FILE.split(".")[0] + "_profit_graph.png"
     file_name = file_name.replace("logs", "graphs")
     plt.savefig(file_name)
-    plt.show()
+    plt.close()
 
 
 graph_stack_history(logs)
