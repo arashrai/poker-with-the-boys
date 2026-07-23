@@ -1,19 +1,24 @@
-import csv, os
+import csv, json, os
 import matplotlib.pyplot as plt
 import pandas as pd
 from datetime import datetime
 from matplotlib.dates import DateFormatter
 import argparse
 import re
+import warnings
 from pprint import pprint
 from collections import defaultdict
 from enum import Enum
 from functools import reduce
+from urllib.parse import urlencode
+from urllib.error import HTTPError
+from urllib.request import Request, urlopen
 
 CSV_FILE = "logs/poker_night_20220707.csv"
 START_HAND_REGEX = re.compile('\"-- starting hand \#(\d+).*,(\d+)')
 ADMIN_ADJUSTMENT_REGEX = re.compile('"The admin updated the player ""(.*?) @ \S+ stack from (\d+) to (\d+)')
 BUY_IN_REGEX = re.compile('"The player ""(.*?) @ .* joined the game with a stack of (\d+).",[^,]+,(\d+)')
+REBUY_REGEX = re.compile('"The player ""(.*?) @ .* rebought\. New stack (\d+).",[^,]+,(\d+)')
 SIT_DOWN_REGEX = re.compile('"The player ""(.*?) @ \S+ sit back with the stack of (\d+).",[^,]+,(\d+)')
 EXIT_REGEX = re.compile('"The player ""(.*?) @ \S+ quits the game with a stack of (\d+).",[^,]+,(\d+)')
 STANDUP_REGEX = re.compile('"The player ""(.*?) @ \S+ stand up with the stack of (\d+).",[^,]+,(\d+)')
@@ -75,6 +80,15 @@ KNOWN_NAME_FIX_UPS = {
         "stevo-tesla": "Stephen",
 }
 
+SPLITWISE_EMAIL_BY_PLAYER = {
+    "Arash": "arashrai17@gmail.com",
+    "Prilik": "danielprilik@gmail.com",
+    "George": "georgeutsin@gmail.com",
+    "Jonah": "jonahdlin@gmail.com",
+    "Spencer": "dobrik.spencera@gmail.com",
+    "Stephen": "stephen.melinyshyn@gmail.com",
+}
+
 class RoundAction(Enum):
     posts_small_blind = "small blind"
     posts_big_blind = "big blind"
@@ -101,6 +115,7 @@ TYPE_STAND = 1
 TYPE_SIT = 2
 TYPE_JOIN = 3
 TYPE_EXIT = 4
+TYPE_REBUY = 5
 
 class PlayerMovement():
     def __init__(self, amount, unix_time, movement_type):
@@ -181,7 +196,10 @@ class PokerNightEvent():
             for player, joins_array in joins.items():
                 for join in joins_array:
                     # Check that the player didn't just sit down as we don't want to double count thier money in play
-                    if join.time >= poker_round.start_time and not player_sitting_at_table.get(player, False):
+                    if join.time >= poker_round.start_time and (
+                        not player_sitting_at_table.get(player, False)
+                        or join.movement_type == TYPE_REBUY
+                    ):
                         player_sitting_at_table[player] = True
                         player_buyin_amount[player] = join.amount + player_buyin_amount.get(player, 0)
                         if previous_exit := player_exit.get(player):
@@ -252,6 +270,12 @@ class PokerRound(): # multiple rounds in a poker night event
                 buy_in = PlayerMovement(amount, unix_time, TYPE_JOIN)
                 existing_joins = self.player_game_joins.get(player, [])
                 existing_joins.append(buy_in)
+                self.player_game_joins[player] = existing_joins
+            elif re.match(REBUY_REGEX, row):
+                player, amount, unix_time = re.findall(REBUY_REGEX, row)[0]
+                rebuy = PlayerMovement(amount, unix_time, TYPE_REBUY)
+                existing_joins = self.player_game_joins.get(player, [])
+                existing_joins.append(rebuy)
                 self.player_game_joins[player] = existing_joins
             elif re.match(SIT_DOWN_REGEX, row): # sit down
                 player, amount, unix_time = re.findall(SIT_DOWN_REGEX, row)[0]
@@ -476,6 +500,190 @@ def print_splitwise_instructions(player_history):
             print(f' {player}: {-last_profit_amount/100.0}')
 
     print("=" * 20)
+
+
+SPLITWISE_API_URL = "https://secure.splitwise.com/api/v3.0"
+
+
+def _splitwise_request(method, path, token, data=None, opener=urlopen):
+    url = SPLITWISE_API_URL + path
+    body = urlencode(data).encode() if data is not None else None
+    request = Request(
+        url,
+        data=body,
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/json",
+            "User-Agent": "poker-with-the-boys/1.0",
+        },
+        method=method,
+    )
+    try:
+        with opener(request, timeout=30) as response:
+            payload = json.load(response)
+    except HTTPError as error:
+        response_body = error.read().decode("utf-8", errors="replace").strip()
+        detail = f": {response_body}" if response_body else ""
+        raise RuntimeError(
+            f"Splitwise API request failed ({error.code} {error.reason}){detail}. "
+            "Verify that SPLITWISE_API_TOKEN is the personal API key from the app details page."
+        ) from error
+
+    if payload.get("errors"):
+        raise RuntimeError(f"Splitwise API error: {payload['errors']}")
+    return payload
+
+
+def _choose_poker_night_group(groups, input_fn=input, output_fn=print):
+    matching_groups = [
+        group for group in groups
+        if (group.get("name") or "").startswith("Poker Night")
+    ]
+    if not matching_groups:
+        raise ValueError('Could not find a Splitwise group whose name starts with "Poker Night"')
+
+    output_fn("Available Splitwise groups:")
+    for index, group in enumerate(matching_groups, start=1):
+        output_fn(f"{index}. {group.get('name')} (id {group.get('id')})")
+
+    while True:
+        try:
+            selection = input_fn("Choose a group number: ").strip()
+        except (EOFError, KeyboardInterrupt) as error:
+            raise ValueError("No Splitwise group was selected") from error
+        try:
+            index = int(selection) - 1
+        except ValueError:
+            index = -1
+        if 0 <= index < len(matching_groups):
+            return matching_groups[index]
+        output_fn(f"Please enter a number from 1 to {len(matching_groups)}.")
+
+
+def _map_players_to_group_members(
+    players,
+    members,
+    input_fn=input,
+    output_fn=print,
+    email_by_player=SPLITWISE_EMAIL_BY_PLAYER,
+):
+    members_by_email = {}
+    for member in members:
+        email = str(member.get("email") or "").strip()
+        if not email:
+            continue
+        members_by_email[email.casefold()] = member
+
+    if not members_by_email:
+        raise ValueError("The selected Splitwise group has no members with email addresses")
+
+    if any(player not in email_by_player for player in players):
+        output_fn("Users in the selected Splitwise group:")
+        for email, member in members_by_email.items():
+            output_fn(f"- {email} (id {member.get('id')})")
+
+    mapped_members = {}
+    used_member_ids = set()
+    for player in players:
+        mapped_email = email_by_player.get(player)
+
+        while True:
+            if mapped_email:
+                email = mapped_email.casefold()
+            else:
+                try:
+                    email = input_fn(f"Splitwise email for {player}: ").strip().casefold()
+                except (EOFError, KeyboardInterrupt) as error:
+                    raise ValueError(f"No Splitwise member was selected for {player}") from error
+            member = members_by_email.get(email)
+            if member is None:
+                if mapped_email:
+                    raise ValueError(
+                        f"Mapped Splitwise email {mapped_email} for {player} "
+                        "is not in the selected group"
+                    )
+                output_fn("That email is not in the selected group. Choose one from the list.")
+                continue
+            member_id = str(member["id"])
+            if member_id in used_member_ids:
+                raise ValueError(
+                    f"Splitwise member {email} was selected more than once; "
+                    "each poker player must map to a different group member"
+                )
+            mapped_members[player] = member
+            used_member_ids.add(member_id)
+            break
+
+    return mapped_members
+
+
+def add_splitwise_expense(
+    player_history, event_date, token, opener=urlopen, input_fn=input
+):
+    """Create the poker-night expense using cents from the parsed stack history."""
+    profits = {
+        player: entries[-1][0]
+        for player, entries in player_history.items()
+        if entries
+    }
+    checksum = sum(profits.values())
+    if checksum != 0:
+        raise ValueError(f"Cannot post non-zero-sum poker night balances ({checksum} cents)")
+
+    positive_total = sum(amount for amount in profits.values() if amount > 0)
+    if positive_total <= 0:
+        raise ValueError("Cannot post a poker night with no positive balance")
+
+    groups_response = _splitwise_request("GET", "/get_groups", token, opener=opener)
+    group = _choose_poker_night_group(groups_response.get("groups", []), input_fn=input_fn)
+
+    description = f"Poker Night {event_date}"
+    existing_expenses = _splitwise_request(
+        "GET",
+        f"/get_expenses?group_id={group['id']}",
+        token,
+        opener=opener,
+    ).get("expenses", [])
+    if any(
+        expense.get("description") == description
+        and expense.get("date", "")[:10] == event_date.isoformat()
+        for expense in existing_expenses
+    ):
+        warnings.warn(
+            f'Splitwise expense "{description}" already exists; skipping creation',
+            RuntimeWarning,
+        )
+        return None
+
+    mapped_members = _map_players_to_group_members(
+        profits,
+        group.get("members", []),
+        input_fn=input_fn,
+    )
+
+    expense_data = {
+        "cost": f"{positive_total / 100:.2f}",
+        "description": description,
+        "details": "Generated by the poker-with-the-boys script",
+        "date": event_date.isoformat(),
+        "group_id": group["id"],
+        "currency_code": "CAD",
+    }
+    for index, (player, amount) in enumerate(profits.items()):
+        user_id = mapped_members[player]["id"]
+        expense_data[f"users__{index}__user_id"] = str(user_id)
+        expense_data[f"users__{index}__paid_share"] = f"{max(amount, 0) / 100:.2f}"
+        expense_data[f"users__{index}__owed_share"] = f"{max(-amount, 0) / 100:.2f}"
+
+    response = _splitwise_request(
+        "POST", "/create_expense", token, data=expense_data, opener=opener
+    )
+    expense = response.get("expenses", [{}])[0]
+    print(
+        f"Added Splitwise expense {expense.get('id', '(unknown id)')} "
+        f"to group {group['id']} for {event_date}"
+    )
+    return expense
 ### Stats methods
 
 # helper method to get the poker round from a timestamp
@@ -727,65 +935,98 @@ def print_core_stats(rounds):
 
 ### Main execution
 
-parser = argparse.ArgumentParser(description="Just an example",
-                                 formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-parser.add_argument("-a", "--all", action="store_true", help="graph all csvs in one chart")
-parser.add_argument("-d", "--date", help="graph the logs/poker_night_YYYYMMDD.csv on a chart", default=CSV_FILE)
+def main():
+    parser = argparse.ArgumentParser(
+        description="Graph poker night statistics",
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+    )
+    parser.add_argument("-a", "--all", action="store_true", help="graph all csvs in one chart")
+    parser.add_argument("-d", "--date", help="graph the logs/poker_night_YYYYMMDD.csv on a chart", default=CSV_FILE)
+    parser.add_argument(
+        "--splitwise",
+        action="store_true",
+        help="append this single game night as an expense in Splitwise",
+    )
 
-args = parser.parse_args()
+    args = parser.parse_args()
 
-if args.all:
-    print("Graphing all csvs in single chart")
-    csv_files = [f for f in os.listdir('logs/') if os.path.isfile('logs/' + f) and f.endswith(".csv")]
-    csv_files.sort()
+    if args.splitwise and args.all:
+        parser.error("--splitwise cannot be used with --all; choose one game-night date")
+    if args.splitwise and not os.environ.get("SPLITWISE_API_TOKEN"):
+        parser.error(
+            "--splitwise requires a Splitwise API key. Obtain one at "
+            "https://secure.splitwise.com/apps/new, then run `export "
+            "SPLITWISE_API_TOKEN=<your-api-key>` and try again."
+        )
 
-    event_date = date_of_csv(csv_files[-1]).strftime("%Y/%m/%d")
-    all_player_history = {}
-    all_poker_rounds = []
-    for filename in csv_files:
-        filename = 'logs/' + filename
-        with open(filename) as file:
+    if args.all:
+        print("Graphing all csvs in single chart")
+        csv_files = [f for f in os.listdir('logs/') if os.path.isfile('logs/' + f) and f.endswith(".csv")]
+        csv_files.sort()
+
+        event_date = date_of_csv(csv_files[-1]).strftime("%Y/%m/%d")
+        all_player_history = {}
+        all_poker_rounds = []
+        for filename in csv_files:
+            filename = 'logs/' + filename
+            with open(filename) as file:
+                logs = fix_up_player_names(file.readlines())
+                if logs[0] == "entry,at,order\n":
+                    logs.pop(0) # drop csv header
+                logs.reverse()
+                curr_event_date = date_of_csv(filename).strftime("%Y/%m/%d")
+                event = PokerNightEvent(curr_event_date, logs)
+                all_poker_rounds += event.rounds
+                player_history = event.player_stack_history()
+
+                # now merge the latest event with the on-going logs that only store the final profits each week
+                for player, current_event_stack in player_history.items():
+                    if player not in all_player_history:
+                        # they're new this game, just add them cause they start at zero
+                        all_player_history[player] = [current_event_stack[-1]]
+                    else:
+                        # need to update the current event's profit to account for profit before this game
+                        last_profit = all_player_history[player][-1][0]
+                        updated_event_stack = [(current_event_stack[-1][0] + last_profit, current_event_stack[-1][1])]
+                        all_player_history[player] += updated_event_stack
+
+        # Print some stats out
+        print_core_stats(all_poker_rounds)
+
+        graph_stack_history(all_player_history, "All-time profit history as of " + event_date, csv_files[-1], show_event_points=True)
+
+    else:
+        csv_file = normalize_csv_path(args.date)
+        print("Graphing single csv", csv_file)
+        game_date = date_of_csv(csv_file)
+        event_date = game_date.strftime("%Y/%m/%d")
+        with open(csv_file) as file:
             logs = fix_up_player_names(file.readlines())
             if logs[0] == "entry,at,order\n":
                 logs.pop(0) # drop csv header
             logs.reverse()
-            curr_event_date = date_of_csv(filename).strftime("%Y/%m/%d")
-            event = PokerNightEvent(curr_event_date, logs)
-            all_poker_rounds += event.rounds
+            event = PokerNightEvent(event_date, logs)
             player_history = event.player_stack_history()
 
-            # now merge the latest event with the on-going logs that only store the final profits each week
-            for player, current_event_stack in player_history.items():
-                if player not in all_player_history:
-                    # they're new this game, just add them in cause they start at zero
-                    all_player_history[player] = [current_event_stack[-1]]
-                else:
-                    # need to update the current event's profit to account for profit before this game
-                    last_profit = all_player_history[player][-1][0]
-                    updated_event_stack = [(current_event_stack[-1][0] + last_profit, current_event_stack[-1][1])]
-                    all_player_history[player] += updated_event_stack
+            # Print some stats out
+            print_core_stats(event.rounds)
 
-    # Print some stats out
-    print_core_stats(all_poker_rounds)
+            # Print out Splitwise instructions or post the expense when explicitly requested.
+            if args.splitwise:
+                try:
+                    add_splitwise_expense(
+                        player_history,
+                        game_date,
+                        os.environ["SPLITWISE_API_TOKEN"],
+                        input_fn=input,
+                    )
+                except (RuntimeError, ValueError) as error:
+                    parser.error(str(error))
+            else:
+                print_splitwise_instructions(player_history)
 
-    graph_stack_history(all_player_history, "All-time profit history as of " + event_date, csv_files[-1], show_event_points=True)
+            graph_stack_history(player_history, "Profit for " + event_date, csv_file)
 
-else:
-    csv_file = normalize_csv_path(args.date)
-    print("Graphing single csv", csv_file)
-    event_date = date_of_csv(csv_file).strftime("%Y/%m/%d")
-    with open(csv_file) as file:
-        logs = fix_up_player_names(file.readlines())
-        if logs[0] == "entry,at,order\n":
-            logs.pop(0) # drop csv header
-        logs.reverse()
-        event = PokerNightEvent(event_date, logs)
-        player_history = event.player_stack_history()
 
-        # Print some stats out
-        print_core_stats(event.rounds)
-
-        # Print out Splitwise instructions
-        print_splitwise_instructions(player_history)
-
-        graph_stack_history(player_history, "Profit for " + event_date, csv_file)
+if __name__ == "__main__":
+    main()
