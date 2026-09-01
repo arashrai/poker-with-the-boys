@@ -1891,4 +1891,299 @@ mod tests {
             Some("dobrik.spencera@gmail.com")
         );
     }
+
+    // ---- Pure parsing/formatting helpers ----
+
+    #[test]
+    fn clean_player_name_strips_quotes() {
+        assert_eq!(clean_player_name("\"Arash\""), "Arash");
+        assert_eq!(clean_player_name("Arash"), "Arash");
+    }
+
+    #[test]
+    fn from_unix_time_parses_fractional_seconds() {
+        // Real "order" value from logs/poker_night_20220707.csv, which decodes to
+        // 2022-07-07T22:48:17.581Z.
+        let dt = from_unix_time("165723409758100").unwrap();
+        assert_eq!(dt.timestamp(), 1_657_234_097);
+        assert_eq!(dt.timestamp_subsec_nanos(), 581_000_000);
+    }
+
+    #[test]
+    fn from_unix_time_rejects_non_numeric_input() {
+        assert!(from_unix_time("not-a-number").is_err());
+    }
+
+    #[test]
+    fn date_of_csv_extracts_date_and_errors_without_one() {
+        assert_eq!(
+            date_of_csv("logs/poker_night_20220707.csv").unwrap(),
+            NaiveDate::from_ymd_opt(2022, 7, 7).unwrap()
+        );
+        assert_eq!(
+            date_of_csv("logs/poker_night_20220106_tourney.csv").unwrap(),
+            NaiveDate::from_ymd_opt(2022, 1, 6).unwrap()
+        );
+        assert!(date_of_csv("logs/no_date_here.csv").is_err());
+    }
+
+    #[test]
+    fn normalize_csv_path_covers_all_input_forms() {
+        assert_eq!(normalize_csv_path("20220707.csv"), "20220707.csv");
+        assert_eq!(
+            normalize_csv_path("logs/poker_night_20220707"),
+            "logs/poker_night_20220707.csv"
+        );
+        assert_eq!(
+            normalize_csv_path("poker_night_20220707"),
+            "logs/poker_night_20220707.csv"
+        );
+        assert_eq!(
+            normalize_csv_path("20220707"),
+            "logs/poker_night_20220707.csv"
+        );
+    }
+
+    #[test]
+    fn py_money_formats_cents_as_dollar_strings() {
+        assert_eq!(py_money(150), "1.5");
+        assert_eq!(py_money(100), "1.0");
+        assert_eq!(py_money(1234), "12.34");
+        assert_eq!(py_money(-150), "-1.5");
+        assert_eq!(py_money(0), "0.0");
+    }
+
+    #[test]
+    fn floor_and_ceil_to_multiple_handle_exact_and_negative_values() {
+        assert_eq!(floor_to_multiple(7, 5), 5);
+        assert_eq!(floor_to_multiple(-7, 5), -10);
+        assert_eq!(floor_to_multiple(10, 5), 10);
+        assert_eq!(ceil_to_multiple(7, 5), 10);
+        assert_eq!(ceil_to_multiple(-7, 5), -5);
+        assert_eq!(ceil_to_multiple(10, 5), 10);
+    }
+
+    #[test]
+    fn is_elusive_greg_only_matches_subsets_of_george_letters() {
+        assert!(is_elusive_greg("george"));
+        assert!(is_elusive_greg("goero"));
+        assert!(is_elusive_greg("groeegeoeg"));
+        assert!(is_elusive_greg("greg"));
+        assert!(!is_elusive_greg("arash"));
+        assert!(!is_elusive_greg("bob"));
+    }
+
+    #[test]
+    fn fix_up_player_names_normalizes_known_aliases_case_insensitively() {
+        let lines = vec![
+            "\"\"\"STEVO-IPAD @ abc\"\" folds\",2022-01-01T00:00:00.000Z,100".to_string(),
+            "\"The admin updated the player \"\"spange @ xyz\"\" stack from 100 to 200.\",2022-01-01T00:00:00.000Z,101".to_string(),
+        ];
+        let fixed = fix_up_player_names(lines).unwrap();
+        assert!(fixed[0].contains("\"\"\"Stephen @ abc\"\""));
+        assert!(fixed[1].contains("\"\"Ethan @ xyz\"\""));
+    }
+
+    #[test]
+    fn fix_up_player_names_bails_on_unrecognized_player_name() {
+        let lines =
+            vec!["\"\"\"Xavier @ abc\"\" folds\",2022-01-01T00:00:00.000Z,100".to_string()];
+        assert!(fix_up_player_names(lines).is_err());
+    }
+
+    #[test]
+    fn splitwise_email_for_player_known_and_unknown_players() {
+        assert_eq!(
+            splitwise_email_for_player("Prilik"),
+            Some("danielprilik@gmail.com")
+        );
+        assert_eq!(
+            splitwise_email_for_player("George"),
+            Some("georgeutsin@gmail.com")
+        );
+        assert_eq!(splitwise_email_for_player("Bob"), None);
+    }
+
+    // ---- CSV parsing pipeline, exercised against real logs/ files ----
+
+    #[test]
+    fn read_and_prepare_logs_strips_header_and_reverses_to_chronological_order() {
+        let logs = read_and_prepare_logs("logs/poker_night_20220707.csv").unwrap();
+
+        assert!(!logs.iter().any(|l| l == "entry,at,order"));
+        assert!(logs[0].contains("requested a seat"));
+
+        let order_of = |line: &str| -> i64 { line.split(',').last().unwrap().parse().unwrap() };
+        for pair in logs.windows(2) {
+            assert!(
+                order_of(&pair[0]) <= order_of(&pair[1]),
+                "logs must be reordered oldest-first: {} then {}",
+                pair[0],
+                pair[1]
+            );
+        }
+    }
+
+    #[test]
+    fn poker_night_event_splits_rounds_with_sequential_hand_numbers() {
+        let logs = read_and_prepare_logs("logs/poker_night_20220707.csv").unwrap();
+        let event = PokerNightEvent::new(logs).unwrap();
+
+        assert_eq!(event.rounds.len(), 87);
+        assert_eq!(event.rounds.first().unwrap().round_number, 1);
+        assert_eq!(event.rounds.last().unwrap().round_number, 87);
+        for pair in event.rounds.windows(2) {
+            assert_eq!(pair[1].round_number, pair[0].round_number + 1);
+        }
+    }
+
+    #[test]
+    fn admin_stack_adjustment_is_backed_out_of_player_profit() {
+        // logs/poker_night_20210520.csv records: "The admin updated the player
+        // ""spange @ ..."" stack from 173 to 1173." (spange normalizes to Ethan).
+        let logs = read_and_prepare_logs("logs/poker_night_20210520.csv").unwrap();
+        let event = PokerNightEvent::new(logs).unwrap();
+
+        let adjustment_round = event
+            .rounds
+            .iter()
+            .find(|r| r.admin_adjustments.contains_key("Ethan"))
+            .expect("a round with Ethan's admin adjustment");
+        assert_eq!(adjustment_round.admin_adjustments["Ethan"], 1000);
+
+        let history = event.player_stack_history();
+        let checksum: i64 = history.values().map(|e| e.last().unwrap().0).sum();
+        assert_eq!(
+            checksum, 0,
+            "an admin adjustment that isn't backed out of profit breaks the zero-sum invariant"
+        );
+    }
+
+    #[test]
+    fn rebuy_regex_is_distinguished_from_initial_buy_in() {
+        // logs/poker_night_20260722.csv: georgoergo (-> George) joins once and
+        // rebuys twice ("rebought. New stack 1000.").
+        let logs = read_and_prepare_logs("logs/poker_night_20260722.csv").unwrap();
+        let event = PokerNightEvent::new(logs).unwrap();
+
+        let mut george_joins: Vec<&PlayerMovement> = Vec::new();
+        for round in &event.rounds {
+            if let Some(joins) = round.player_game_joins.get("George") {
+                george_joins.extend(joins.iter());
+            }
+        }
+
+        assert_eq!(george_joins.len(), 3, "one initial buy-in plus two rebuys");
+        assert!(
+            !george_joins[0].is_rebuy,
+            "the first join is the initial buy-in, not a rebuy"
+        );
+        assert!(george_joins[1..].iter().all(|m| m.is_rebuy));
+        assert!(george_joins.iter().all(|m| m.amount == 1000));
+    }
+
+    #[test]
+    fn exit_regex_records_zero_stack_quits_correctly() {
+        let logs = read_and_prepare_logs("logs/poker_night_20220707.csv").unwrap();
+        let event = PokerNightEvent::new(logs).unwrap();
+
+        let exit_round = event
+            .rounds
+            .iter()
+            .find(|r| r.round_number == 26)
+            .expect("round 26 exists");
+        let exit = exit_round
+            .players_exited
+            .get("Jonah")
+            .expect("Jonah quit the game in round 26");
+        assert_eq!(exit.amount, 0);
+        assert!(!exit.is_rebuy);
+    }
+
+    #[test]
+    fn winner_without_shown_hand_still_records_win_with_empty_hand() {
+        let logs = read_and_prepare_logs("logs/poker_night_20220707.csv").unwrap();
+        let event = PokerNightEvent::new(logs).unwrap();
+
+        let round = event
+            .rounds
+            .iter()
+            .find(|r| r.round_number == 8)
+            .expect("round 8 exists");
+        assert_eq!(round.winning_players, vec!["Jonah".to_string()]);
+        assert_eq!(round.winning_amounts, vec![340]);
+        assert!(
+            round.winning_hands.is_empty(),
+            "winning without a showdown should not fabricate a hand"
+        );
+    }
+
+    #[test]
+    fn flop_turn_river_cards_parsed_in_chronological_order() {
+        let logs = read_and_prepare_logs("logs/poker_night_20220707.csv").unwrap();
+        let event = PokerNightEvent::new(logs).unwrap();
+
+        let round = event
+            .rounds
+            .iter()
+            .find(|r| r.round_number == 1)
+            .expect("round 1 exists");
+        assert_eq!(round.table_cards.len(), 5, "flop (3) + turn (1) + river (1)");
+
+        let flop = round.flop_time.expect("flop dealt");
+        let turn = round.turn_time.expect("turn dealt");
+        let river = round.river_time.expect("river dealt");
+        assert!(round.start_time <= flop);
+        assert!(flop < turn);
+        assert!(turn < river);
+        assert!(river <= round.end_time);
+    }
+
+    #[test]
+    fn round_action_time_buckets_partition_all_player_actions() {
+        let logs = read_and_prepare_logs("logs/poker_night_20220707.csv").unwrap();
+        let event = PokerNightEvent::new(logs).unwrap();
+
+        let round = event
+            .rounds
+            .iter()
+            .find(|r| r.round_number == 1)
+            .expect("round 1 exists");
+
+        let pre_flop = round.pre_flop_actions().len();
+        let pre_turn = round.pre_turn_actions().len();
+        let pre_river = round.pre_river_actions().len();
+        let post_river = round.post_river_actions().len();
+
+        assert_eq!(pre_flop, 8);
+        assert_eq!(pre_turn, 3);
+        assert_eq!(pre_river, 5);
+        assert_eq!(post_river, 3);
+        assert_eq!(
+            pre_flop + pre_turn + pre_river + post_river,
+            round.player_actions.len(),
+            "every action must fall into exactly one street bucket"
+        );
+    }
+
+    #[test]
+    fn player_stack_history_checksum_is_zero_across_varied_logs() {
+        // Covers a regular night with folds/exits, a night with an admin
+        // adjustment, a night with rebuys, and a tournament-format night.
+        let files = [
+            "logs/poker_night_20220707.csv",
+            "logs/poker_night_20210520.csv",
+            "logs/poker_night_20260722.csv",
+            "logs/poker_night_20260715.csv",
+            "logs/poker_night_20220106_tourney.csv",
+        ];
+
+        for file in files {
+            let logs = read_and_prepare_logs(file).unwrap();
+            let event = PokerNightEvent::new(logs).unwrap();
+            let history = event.player_stack_history();
+            let checksum: i64 = history.values().map(|entries| entries.last().unwrap().0).sum();
+            assert_eq!(checksum, 0, "{file} should have zero-sum player profits");
+        }
+    }
 }
