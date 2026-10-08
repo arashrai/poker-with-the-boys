@@ -7,9 +7,7 @@ import regex_based_graph_night as poker
 class CsvParsingTests(unittest.TestCase):
     def _load_event(self, path):
         with open(path) as file:
-            logs = poker.fix_up_player_names(file.readlines())
-        if logs[0] == "entry,at,order\n":
-            logs.pop(0)
+            logs = poker.fix_up_player_names(poker.read_log_lines(file))
         logs.reverse()
         return poker.PokerNightEvent(poker.date_of_csv(path), logs)
 
@@ -93,12 +91,10 @@ class CsvParsingTests(unittest.TestCase):
 
     def test_read_logs_strips_header_and_reverses_to_chronological_order(self):
         with open("logs/poker_night_20220707.csv") as file:
-            logs = poker.fix_up_player_names(file.readlines())
-        self.assertEqual(logs[0], "entry,at,order\n")
-        logs.pop(0)
+            logs = poker.fix_up_player_names(poker.read_log_lines(file))
         logs.reverse()
 
-        self.assertNotIn("entry,at,order\n", logs)
+        self.assertNotIn("entry,at,order", logs)
         self.assertIn("requested a seat", logs[0])
 
         order_of = lambda line: int(line.strip().split(",")[-1])
@@ -108,6 +104,21 @@ class CsvParsingTests(unittest.TestCase):
                 order_of(current),
                 msg="logs must be reordered oldest-first",
             )
+
+    def test_read_logs_keeps_multiline_game_config_as_one_record(self):
+        with open("logs/poker_night_20260429.csv") as file:
+            logs = poker.read_log_lines(file)
+
+        config_logs = [log for log in logs if log.startswith('"Game Config Changes')]
+        self.assertEqual(len(config_logs), 1)
+        self.assertIn("* Allow Straddle: off", config_logs[0])
+        self.assertTrue(config_logs[0].endswith(",177751079140600"))
+
+        split_fragments = [
+            log for log in logs
+            if log.startswith("* Allow Straddle") or log.startswith("* Decision Limit Time")
+        ]
+        self.assertEqual(split_fragments, [])
 
     def test_poker_night_event_splits_rounds_with_sequential_hand_numbers(self):
         event = self._load_event("logs/poker_night_20220707.csv")

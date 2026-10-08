@@ -413,6 +413,18 @@ def normalize_csv_path(date_arg):
         return "logs/" + date_arg + ".csv"
     return "logs/poker_night_" + date_arg + ".csv"
 
+def read_log_lines(file):
+    log_lines = []
+    for row in csv.reader(file):
+        if row == ["entry", "at", "order"]:
+            continue
+
+        entry, at, order = row
+        escaped_entry = entry.replace('"', '""')
+        log_lines.append(f'"{escaped_entry}",{at},{order}')
+
+    return log_lines
+
 def fix_up_player_names(log_lines):
     normalized_name_log_lines = []
     for line in log_lines:
@@ -970,9 +982,7 @@ def main():
         for filename in csv_files:
             filename = 'logs/' + filename
             with open(filename) as file:
-                logs = fix_up_player_names(file.readlines())
-                if logs[0] == "entry,at,order\n":
-                    logs.pop(0) # drop csv header
+                logs = fix_up_player_names(read_log_lines(file))
                 logs.reverse()
                 curr_event_date = date_of_csv(filename).strftime("%Y/%m/%d")
                 event = PokerNightEvent(curr_event_date, logs)
@@ -1001,9 +1011,7 @@ def main():
         game_date = date_of_csv(csv_file)
         event_date = game_date.strftime("%Y/%m/%d")
         with open(csv_file) as file:
-            logs = fix_up_player_names(file.readlines())
-            if logs[0] == "entry,at,order\n":
-                logs.pop(0) # drop csv header
+            logs = fix_up_player_names(read_log_lines(file))
             logs.reverse()
             event = PokerNightEvent(event_date, logs)
             player_history = event.player_stack_history()
