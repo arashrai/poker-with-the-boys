@@ -7,6 +7,21 @@ How to add a graph:
 3. Push everything.
 
 
+For a PokerLater game (instead of PokerNow):
+
+1. At the end of the session, click **Download JSON log** on the results screen.
+2. Save it to `logs/` as `poker_night_YYYYMMDD.json` (or pass PokerLater's own file name,
+   `pokerlater-2026-10-21-<slug>-log.json`, straight to `--date`).
+3. Run the same commands: `python3 regex_based_graph_night.py --date 20261021` or
+   `cargo run -- --date 20261021`. `--all` picks up `.json` nights alongside the `.csv` ones.
+
+`pokerlater_log.py` (and its Rust twin, `src/pokerlater.rs`) turns the PokerLater log into
+PokerNow-style lines, so the stats, graphs and Splitwise steps are unchanged. Buy-ins and
+rebuys are inferred from stacks between hands. Each player's final result for the night
+comes from PokerLater's balanced ledger, in cents: it uses the host's chip value when one
+was set, otherwise 1 chip = 1 cent, as on PokerNow. Names still go through
+`KNOWN_NAME_FIX_UPS`.
+
 Or use the rust version:
 2. Run `cargo run -- --date 20230413`.
 3. For Splitwise, export `SPLITWISE_API_TOKEN` and run

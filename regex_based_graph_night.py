@@ -14,6 +14,8 @@ from urllib.parse import urlencode
 from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 
+import pokerlater_log
+
 CSV_FILE = "logs/poker_night_20220707.csv"
 START_HAND_REGEX = re.compile('\"-- starting hand \#(\d+).*,(\d+)')
 ADMIN_ADJUSTMENT_REGEX = re.compile('"The admin updated the player ""(.*?) @ \S+ stack from (\d+) to (\d+)')
@@ -124,8 +126,11 @@ class PlayerMovement():
         self.time = datetime.fromtimestamp(int(unix_time) / 100000)
 
 class PokerNightEvent():
-    def __init__(self, date, event_logs):
+    def __init__(self, date, event_logs, pokerlater=None):
         self.date = date
+        # A PokerLater night (see pokerlater_log.py): chips-to-cents rate,
+        # the ledger's final cents per player, and when the night ended.
+        self.pokerlater = pokerlater
 
         round_logs = []
         log_idx = 0
@@ -224,7 +229,26 @@ class PokerNightEvent():
 
 #            print("ROUND:", poker_round.round_number, "\nSTACK:", player_to_stack_history, "\nBUY INS:", player_buyin_amount)
 
+        if self.pokerlater:
+            player_to_stack_history = self.pokerlater_profit_history(player_to_stack_history)
+
         return player_to_stack_history
+
+    def pokerlater_profit_history(self, chip_history):
+        """Chip profits in cents, ending on the ledger's result for the night.
+
+        PokerLater logs no cash-outs, so the hand-by-hand history stops at each
+        player's last hand; the ledger's balanced net is the final point.
+        """
+        rate = self.pokerlater["cents_per_chip"]
+        end_time = self.pokerlater["end_time"]
+        history = {
+            player: [(round(chips * rate), time) for chips, time in points]
+            for player, points in chip_history.items()
+        }
+        for player, cents in self.pokerlater["final_profits"].items():
+            history.setdefault(player, []).append((cents, end_time))
+        return history
 
 class PokerRound(): # multiple rounds in a poker night event
     def __init__(self, round_logs):
@@ -319,6 +343,7 @@ class PokerRound(): # multiple rounds in a poker night event
                 self.winning_amounts.append(int(winning_info[1]))
 
     def extract_table_cards(self, round_logs):
+        self.table_cards = [] # a hand won before the flop has no board
         for row in round_logs:
             if re.match(FLOP_CARDS_REGEX, row):
                 table_cards, unix_time = re.findall(FLOP_CARDS_REGEX, row)[0]
@@ -400,18 +425,50 @@ class PokerRound(): # multiple rounds in a poker night event
 def date_of_csv(csv_name):
     base_name = os.path.basename(csv_name)
     date_match = re.search(r"(\d{8})", base_name)
-    if not date_match:
-        raise ValueError(f"Could not find YYYYMMDD date in csv filename: {base_name}")
-    return datetime.strptime(date_match.group(1), "%Y%m%d").date()
+    if date_match:
+        return datetime.strptime(date_match.group(1), "%Y%m%d").date()
+    # PokerLater's own download name: pokerlater-2026-10-21-<slug>-log.json
+    date_match = re.search(r"(\d{4}-\d{2}-\d{2})", base_name)
+    if date_match:
+        return datetime.strptime(date_match.group(1), "%Y-%m-%d").date()
+    raise ValueError(f"Could not find YYYYMMDD date in csv filename: {base_name}")
+
+LOG_EXTENSIONS = (".csv", ".json")
 
 def normalize_csv_path(date_arg):
-    if date_arg.endswith(".csv"):
+    if date_arg.endswith(LOG_EXTENSIONS):
         return date_arg
     if date_arg.startswith("logs/"):
-        return date_arg + ".csv"
-    if date_arg.startswith("poker_night_"):
-        return "logs/" + date_arg + ".csv"
-    return "logs/poker_night_" + date_arg + ".csv"
+        path = date_arg + ".csv"
+    elif date_arg.startswith("poker_night_"):
+        path = "logs/" + date_arg + ".csv"
+    else:
+        path = "logs/poker_night_" + date_arg + ".csv"
+    # A PokerLater night is saved as poker_night_YYYYMMDD.json
+    json_path = path[: -len(".csv")] + ".json"
+    if not os.path.exists(path) and os.path.exists(json_path):
+        return json_path
+    return path
+
+def load_event(path):
+    """A PokerNightEvent from a PokerNow CSV or a PokerLater JSON log."""
+    event_date = date_of_csv(path).strftime("%Y/%m/%d")
+    with open(path) as file:
+        if not path.endswith(".json"):
+            logs = fix_up_player_names(read_log_lines(file))
+            logs.reverse()
+            return PokerNightEvent(event_date, logs)
+        export = pokerlater_log.load_export(file)
+    if not export["ledger"].get("balanced", True):
+        print(f"Warning: the PokerLater ledger in {path} does not balance (off by {export['ledger'].get('offBy')} chips)")
+    logs = fix_up_player_names(pokerlater_log.pokerlater_log_lines(export, normalize_player_name))
+    logs.reverse()
+    pokerlater = {
+        "cents_per_chip": pokerlater_log.cents_per_chip(export),
+        "final_profits": pokerlater_log.pokerlater_final_profits(export, normalize_player_name),
+        "end_time": datetime.fromtimestamp(pokerlater_log.session_end_ms(export) / 1000),
+    }
+    return PokerNightEvent(event_date, logs, pokerlater)
 
 def read_log_lines(file):
     log_lines = []
@@ -425,22 +482,22 @@ def read_log_lines(file):
 
     return log_lines
 
+def normalize_player_name(name):
+    if name.lower() in KNOWN_NAME_FIX_UPS:
+        return KNOWN_NAME_FIX_UPS[name.lower()]
+    if all(char in set('george') for char in name.lower()): # is it greg?
+        return "George"
+    print("Not sure if this person is already normalized", name)
+    print("If this is a new player, add them to KNOWN_NAME_FIX_UPS and run again")
+    exit(-1)
+
 def fix_up_player_names(log_lines):
     normalized_name_log_lines = []
     for line in log_lines:
         name_matches = re.findall(PLAYER_NAME_REGEX, line)
         if name_matches:
             for name in name_matches:
-                if name.lower() in KNOWN_NAME_FIX_UPS:
-                    normalized_name = KNOWN_NAME_FIX_UPS[name.lower()]
-                    #print("Fixing name", name, "to", normalized_name)
-                elif all(char in set('george') for char in name.lower()): # is it greg?
-                    #print("Found an elusive greg", name)
-                    normalized_name = "George"
-                else:
-                    print("Not sure if this person is already normalized", name)
-                    print("If this is a new player, add them to KNOWN_NAME_FIX_UPS and run again")
-                    exit(-1)
+                normalized_name = normalize_player_name(name)
 
                 existing_player_name_format= '""%s @ ' % name
                 replacement_player_name_format = '""%s @ ' % normalized_name
@@ -973,7 +1030,7 @@ def main():
 
     if args.all:
         print("Graphing all csvs in single chart")
-        csv_files = [f for f in os.listdir('logs/') if os.path.isfile('logs/' + f) and f.endswith(".csv")]
+        csv_files = [f for f in os.listdir('logs/') if os.path.isfile('logs/' + f) and f.endswith(LOG_EXTENSIONS)]
         csv_files.sort()
 
         event_date = date_of_csv(csv_files[-1]).strftime("%Y/%m/%d")
@@ -981,24 +1038,20 @@ def main():
         all_poker_rounds = []
         for filename in csv_files:
             filename = 'logs/' + filename
-            with open(filename) as file:
-                logs = fix_up_player_names(read_log_lines(file))
-                logs.reverse()
-                curr_event_date = date_of_csv(filename).strftime("%Y/%m/%d")
-                event = PokerNightEvent(curr_event_date, logs)
-                all_poker_rounds += event.rounds
-                player_history = event.player_stack_history()
+            event = load_event(filename)
+            all_poker_rounds += event.rounds
+            player_history = event.player_stack_history()
 
-                # now merge the latest event with the on-going logs that only store the final profits each week
-                for player, current_event_stack in player_history.items():
-                    if player not in all_player_history:
-                        # they're new this game, just add them cause they start at zero
-                        all_player_history[player] = [current_event_stack[-1]]
-                    else:
-                        # need to update the current event's profit to account for profit before this game
-                        last_profit = all_player_history[player][-1][0]
-                        updated_event_stack = [(current_event_stack[-1][0] + last_profit, current_event_stack[-1][1])]
-                        all_player_history[player] += updated_event_stack
+            # now merge the latest event with the on-going logs that only store the final profits each week
+            for player, current_event_stack in player_history.items():
+                if player not in all_player_history:
+                    # they're new this game, just add them cause they start at zero
+                    all_player_history[player] = [current_event_stack[-1]]
+                else:
+                    # need to update the current event's profit to account for profit before this game
+                    last_profit = all_player_history[player][-1][0]
+                    updated_event_stack = [(current_event_stack[-1][0] + last_profit, current_event_stack[-1][1])]
+                    all_player_history[player] += updated_event_stack
 
         # Print some stats out
         print_core_stats(all_poker_rounds)
@@ -1010,30 +1063,27 @@ def main():
         print("Graphing single csv", csv_file)
         game_date = date_of_csv(csv_file)
         event_date = game_date.strftime("%Y/%m/%d")
-        with open(csv_file) as file:
-            logs = fix_up_player_names(read_log_lines(file))
-            logs.reverse()
-            event = PokerNightEvent(event_date, logs)
-            player_history = event.player_stack_history()
+        event = load_event(csv_file)
+        player_history = event.player_stack_history()
 
-            # Print some stats out
-            print_core_stats(event.rounds)
+        # Print some stats out
+        print_core_stats(event.rounds)
 
-            # Print out Splitwise instructions or post the expense when explicitly requested.
-            if args.splitwise:
-                try:
-                    add_splitwise_expense(
-                        player_history,
-                        game_date,
-                        os.environ["SPLITWISE_API_TOKEN"],
-                        input_fn=input,
-                    )
-                except (RuntimeError, ValueError) as error:
-                    parser.error(str(error))
-            else:
-                print_splitwise_instructions(player_history)
+        # Print out Splitwise instructions or post the expense when explicitly requested.
+        if args.splitwise:
+            try:
+                add_splitwise_expense(
+                    player_history,
+                    game_date,
+                    os.environ["SPLITWISE_API_TOKEN"],
+                    input_fn=input,
+                )
+            except (RuntimeError, ValueError) as error:
+                parser.error(str(error))
+        else:
+            print_splitwise_instructions(player_history)
 
-            graph_stack_history(player_history, "Profit for " + event_date, csv_file)
+        graph_stack_history(player_history, "Profit for " + event_date, csv_file)
 
 
 if __name__ == "__main__":

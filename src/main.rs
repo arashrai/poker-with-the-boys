@@ -13,6 +13,8 @@ use std::fs;
 use std::io::{self, Write};
 use std::path::Path;
 
+mod pokerlater;
+
 const CSV_FILE: &str = "logs/poker_night_20220707.csv";
 
 static START_HAND_REGEX: Lazy<Regex> =
@@ -508,6 +510,16 @@ impl PokerRound {
 #[derive(Debug)]
 struct PokerNightEvent {
     rounds: Vec<PokerRound>,
+    pokerlater: Option<PokerLaterNight>,
+}
+
+/// What a PokerLater night adds (see src/pokerlater.rs): the chips-to-cents
+/// rate, the ledger's final cents per player, and when the night ended.
+#[derive(Debug)]
+struct PokerLaterNight {
+    cents_per_chip: f64,
+    final_profits: Vec<(String, i64)>,
+    end_time: DateTime<Local>,
 }
 
 impl PokerNightEvent {
@@ -533,7 +545,10 @@ impl PokerNightEvent {
         for logs in round_logs {
             rounds.push(PokerRound::new(&logs)?);
         }
-        Ok(Self { rounds })
+        Ok(Self {
+            rounds,
+            pokerlater: None,
+        })
     }
 
     fn player_stack_history(&self) -> IndexMap<String, Vec<(i64, DateTime<Local>)>> {
@@ -631,8 +646,37 @@ impl PokerNightEvent {
             }
         }
 
-        player_to_stack_history
+        match &self.pokerlater {
+            Some(night) => pokerlater_profit_history(player_to_stack_history, night),
+            None => player_to_stack_history,
+        }
     }
+}
+
+/// Chip profits in cents, ending on the ledger's result for the night.
+/// PokerLater logs no cash-outs, so the hand-by-hand history stops at each
+/// player's last hand; the ledger's balanced net is the final point.
+fn pokerlater_profit_history(
+    chip_history: IndexMap<String, Vec<(i64, DateTime<Local>)>>,
+    night: &PokerLaterNight,
+) -> IndexMap<String, Vec<(i64, DateTime<Local>)>> {
+    let mut history: IndexMap<String, Vec<(i64, DateTime<Local>)>> = chip_history
+        .into_iter()
+        .map(|(player, points)| {
+            let cents = points
+                .into_iter()
+                .map(|(chips, time)| ((chips as f64 * night.cents_per_chip).round() as i64, time))
+                .collect();
+            (player, cents)
+        })
+        .collect();
+    for (player, cents) in &night.final_profits {
+        history
+            .entry(player.clone())
+            .or_default()
+            .push((*cents, night.end_time));
+    }
+    history
 }
 
 fn from_unix_time(unix_time: &str) -> Result<DateTime<Local>> {
@@ -715,28 +759,56 @@ fn date_of_csv(csv_name: &str) -> Result<NaiveDate> {
         .and_then(|s| s.to_str())
         .ok_or_else(|| anyhow!("could not parse file name"))?;
     let date_regex = Regex::new(r"(\d{8})").unwrap();
-    let caps = date_regex
+    if let Some(caps) = date_regex.captures(base_name) {
+        return Ok(NaiveDate::parse_from_str(&caps[1], "%Y%m%d")?);
+    }
+    // PokerLater's own download name: pokerlater-2026-10-21-<slug>-log.json
+    let dashed_regex = Regex::new(r"(\d{4}-\d{2}-\d{2})").unwrap();
+    let caps = dashed_regex
         .captures(base_name)
         .ok_or_else(|| anyhow!("Could not find YYYYMMDD date in csv filename: {base_name}"))?;
-    Ok(NaiveDate::parse_from_str(&caps[1], "%Y%m%d")?)
+    Ok(NaiveDate::parse_from_str(&caps[1], "%Y-%m-%d")?)
+}
+
+fn is_log_file(name: &str) -> bool {
+    name.ends_with(".csv") || name.ends_with(".json")
 }
 
 fn normalize_csv_path(date_arg: &str) -> String {
-    if date_arg.ends_with(".csv") {
+    if is_log_file(date_arg) {
         return date_arg.to_string();
     }
-    if date_arg.starts_with("logs/") {
-        return format!("{date_arg}.csv");
+    let path = if date_arg.starts_with("logs/") {
+        format!("{date_arg}.csv")
+    } else if date_arg.starts_with("poker_night_") {
+        format!("logs/{date_arg}.csv")
+    } else {
+        format!("logs/poker_night_{date_arg}.csv")
+    };
+    // A PokerLater night is saved as poker_night_YYYYMMDD.json
+    let json_path = format!("{}.json", path.trim_end_matches(".csv"));
+    if !Path::new(&path).exists() && Path::new(&json_path).exists() {
+        return json_path;
     }
-    if date_arg.starts_with("poker_night_") {
-        return format!("logs/{date_arg}.csv");
-    }
-    format!("logs/poker_night_{date_arg}.csv")
+    path
 }
 
 fn is_elusive_greg(name: &str) -> bool {
     let allowed = "george";
     name.to_lowercase().chars().all(|c| allowed.contains(c))
+}
+
+fn normalize_player_name(name: &str) -> Result<String> {
+    let key = name.to_lowercase();
+    if let Some(mapped) = KNOWN_NAME_FIX_UPS.get(key.as_str()) {
+        Ok((*mapped).to_string())
+    } else if is_elusive_greg(name) {
+        Ok("George".to_string())
+    } else {
+        bail!(
+            "Not sure if this person is already normalized: {name}. Add them to KNOWN_NAME_FIX_UPS and run again"
+        );
+    }
 }
 
 fn fix_up_player_names(log_lines: Vec<String>) -> Result<Vec<String>> {
@@ -749,16 +821,7 @@ fn fix_up_player_names(log_lines: Vec<String>) -> Result<Vec<String>> {
             .collect();
 
         for name in names {
-            let key = name.to_lowercase();
-            let normalized_name = if let Some(mapped) = KNOWN_NAME_FIX_UPS.get(key.as_str()) {
-                (*mapped).to_string()
-            } else if is_elusive_greg(&name) {
-                "George".to_string()
-            } else {
-                bail!(
-                    "Not sure if this person is already normalized: {name}. Add them to KNOWN_NAME_FIX_UPS and run again"
-                );
-            };
+            let normalized_name = normalize_player_name(&name)?;
 
             let existing_double = format!("\"\"{} @ ", name);
             let replacement_double = format!("\"\"{} @ ", normalized_name);
@@ -772,6 +835,34 @@ fn fix_up_player_names(log_lines: Vec<String>) -> Result<Vec<String>> {
     }
 
     Ok(normalized)
+}
+
+/// A PokerNightEvent from a PokerNow CSV or a PokerLater JSON log.
+fn load_event(path: &str) -> Result<PokerNightEvent> {
+    if !path.ends_with(".json") {
+        return PokerNightEvent::new(read_and_prepare_logs(path)?);
+    }
+    let content = fs::read_to_string(path).with_context(|| format!("failed reading {path}"))?;
+    let export = pokerlater::parse_export(&content).with_context(|| format!("reading {path}"))?;
+    if export["ledger"]["balanced"].as_bool() == Some(false) {
+        println!(
+            "Warning: the PokerLater ledger in {path} does not balance (off by {} chips)",
+            export["ledger"]["offBy"]
+        );
+    }
+    let mut logs = fix_up_player_names(pokerlater::log_lines(&export, &normalize_player_name)?)?;
+    logs.reverse();
+    let mut event = PokerNightEvent::new(logs)?;
+    let end_ms = pokerlater::session_end_ms(&export);
+    event.pokerlater = Some(PokerLaterNight {
+        cents_per_chip: pokerlater::cents_per_chip(&export),
+        final_profits: pokerlater::final_profits(&export, &normalize_player_name)?,
+        end_time: Local
+            .timestamp_millis_opt(end_ms)
+            .single()
+            .ok_or_else(|| anyhow!("invalid PokerLater end time {end_ms}"))?,
+    });
+    Ok(event)
 }
 
 fn read_and_prepare_logs(path: &str) -> Result<Vec<String>> {
@@ -1780,7 +1871,12 @@ fn run() -> Result<()> {
             .filter_map(|entry| entry.ok())
             .filter_map(|entry| {
                 let path = entry.path();
-                if path.is_file() && path.extension().and_then(|x| x.to_str()) == Some("csv") {
+                let is_log = path
+                    .file_name()
+                    .and_then(|n| n.to_str())
+                    .map(is_log_file)
+                    .unwrap_or(false);
+                if path.is_file() && is_log {
                     path.file_name()
                         .and_then(|n| n.to_str())
                         .map(ToString::to_string)
@@ -1801,8 +1897,7 @@ fn run() -> Result<()> {
 
         for filename in &csv_files {
             let full_path = format!("logs/{filename}");
-            let logs = read_and_prepare_logs(&full_path)?;
-            let event = PokerNightEvent::new(logs)?;
+            let event = load_event(&full_path)?;
             all_poker_rounds.extend(event.rounds.clone());
 
             let player_history = event.player_stack_history();
@@ -1832,8 +1927,7 @@ fn run() -> Result<()> {
         println!("Graphing single csv {csv_file}");
         let event_date = date_of_csv(&csv_file)?.format("%Y/%m/%d").to_string();
 
-        let logs = read_and_prepare_logs(&csv_file)?;
-        let event = PokerNightEvent::new(logs)?;
+        let event = load_event(&csv_file)?;
         let player_history = event.player_stack_history();
 
         print_core_stats(&event.rounds);
@@ -1882,6 +1976,144 @@ mod tests {
                 .sum::<i64>(),
             0
         );
+    }
+
+    // ---- PokerLater session logs (src/pokerlater.rs) ----
+
+    const POKERLATER_FIXTURE: &str = "tests/fixtures/poker_night_20261021_pokerlater.json";
+
+    fn pokerlater_export() -> Value {
+        pokerlater::parse_export(&fs::read_to_string(POKERLATER_FIXTURE).unwrap()).unwrap()
+    }
+
+    fn card(text: &str) -> pokerlater::Card {
+        let (rank, suit) = text.split_at(text.len() - 1);
+        let rank = match rank {
+            "J" => 11,
+            "Q" => 12,
+            "K" => 13,
+            "A" => 14,
+            r => r.parse().unwrap(),
+        };
+        let suit = match suit {
+            "c" => 0,
+            "d" => 1,
+            "h" => 2,
+            _ => 3,
+        };
+        pokerlater::Card { rank, suit }
+    }
+
+    fn seven(texts: &[&str]) -> Vec<pokerlater::Card> {
+        texts.iter().map(|t| card(t)).collect()
+    }
+
+    #[test]
+    fn pokerlater_paths_and_dates() {
+        assert_eq!(
+            date_of_csv("pokerlater-2026-10-21-V1StGXR8_Z5jdHi6B-log.json").unwrap(),
+            NaiveDate::from_ymd_opt(2026, 10, 21).unwrap()
+        );
+        assert_eq!(normalize_csv_path(POKERLATER_FIXTURE), POKERLATER_FIXTURE);
+        assert!(pokerlater::parse_export(r#"{"format":"something-else"}"#).is_err());
+    }
+
+    #[test]
+    fn pokerlater_every_completed_hand_is_a_round_with_the_exported_stacks() {
+        let export = pokerlater_export();
+        let event = load_event(POKERLATER_FIXTURE).unwrap();
+        let hands: Vec<&Value> = export["hands"]
+            .as_array()
+            .unwrap()
+            .iter()
+            .filter(|h| h["final"]["phase"] == "complete")
+            .collect();
+        assert_eq!(event.rounds.len(), hands.len());
+        for (round, hand) in event.rounds.iter().zip(hands) {
+            assert_eq!(round.round_number as i64, hand["handNo"].as_i64().unwrap());
+            for seat in hand["seats"].as_array().unwrap() {
+                let name = seat["name"].as_str().unwrap();
+                assert_eq!(round.player_balances[name], seat["startingStack"].as_i64().unwrap());
+            }
+        }
+    }
+
+    #[test]
+    fn pokerlater_inferred_buy_ins_equal_the_ledger() {
+        let export = pokerlater_export();
+        let lines = pokerlater::log_lines(&export, &normalize_player_name).unwrap();
+        let added_regex = Regex::new(
+            r#"The player ""(.*?) @ \S+ (?:joined the game with a stack of|rebought\. New stack) (\d+)"#,
+        )
+        .unwrap();
+        let mut added: HashMap<String, i64> = HashMap::new();
+        for line in &lines {
+            if let Some(caps) = added_regex.captures(line) {
+                *added.entry(caps[1].to_string()).or_insert(0) += caps[2].parse::<i64>().unwrap();
+            }
+        }
+        for line in export["ledger"]["lines"].as_array().unwrap() {
+            assert_eq!(
+                added[line["name"].as_str().unwrap()],
+                line["boughtIn"].as_i64().unwrap()
+            );
+        }
+    }
+
+    #[test]
+    fn pokerlater_profit_history_is_in_cents_and_ends_on_the_ledger() {
+        let event = load_event(POKERLATER_FIXTURE).unwrap();
+        let history = event.player_stack_history();
+        assert_eq!(history["Stephen"].last().unwrap().0, -750);
+        assert_eq!(history["Arash"].last().unwrap().0, 1300);
+        assert_eq!(history["Spencer"].last().unwrap().0, -550);
+        assert_eq!(history["Stephen"][1].0, -5);
+    }
+
+    #[test]
+    fn pokerlater_lines_start_at_hand_one_and_skip_marker_entries() {
+        let lines = pokerlater::log_lines(&pokerlater_export(), &normalize_player_name).unwrap();
+        assert!(lines.last().unwrap().starts_with("\"-- starting hand #1 (id: drv-20261012-1)"));
+        assert!(lines.iter().all(|l| l.split(',').last().unwrap().parse::<i64>().is_ok()));
+        let timeouts_or_force_folds = lines.iter().filter(|l| l.contains("timeout")).count();
+        assert_eq!(timeouts_or_force_folds, 0);
+    }
+
+    #[test]
+    fn pokerlater_hand_descriptions() {
+        let cases = [
+            (["As", "Kd", "9c", "7h", "4s", "3d", "2c"], "A High"),
+            (["Ks", "Kd", "9c", "7h", "4s", "3d", "2c"], "Pair"),
+            (["Ks", "Kd", "9c", "9h", "4s", "3d", "2c"], "Two Pair"),
+            (["Ks", "Kd", "Kc", "9h", "4s", "3d", "2c"], "Three of a Kind"),
+            (["As", "2d", "3c", "4h", "5s", "Kd", "Kc"], "Straight"),
+            (["As", "Ks", "9s", "7s", "4s", "3d", "2c"], "Flush"),
+            (["Ks", "Kd", "Kc", "9h", "9s", "3d", "2c"], "Full House"),
+            (["Ks", "Kd", "Kc", "Kh", "9s", "3d", "2c"], "Four of a Kind"),
+            (["9s", "8s", "7s", "6s", "5s", "Kd", "Kc"], "Straight Flush"),
+            (["As", "Ks", "Qs", "Js", "10s", "Kd", "Kc"], "Royal Flush"),
+        ];
+        for (cards, name) in cases {
+            let description = pokerlater::hand_description(&seven(&cards));
+            assert!(
+                description.starts_with(&format!("{name} (combination: ")),
+                "{cards:?} -> {description}"
+            );
+        }
+        assert_eq!(
+            pokerlater::hand_description(&seven(&["Ah", "2h", "3h", "4c", "5d", "9h", "Jh"])),
+            "Flush (combination: A♥, J♥, 9♥, 3♥, 2♥)"
+        );
+    }
+
+    #[test]
+    fn pokerlater_lines_match_the_golden_file_shared_with_python() {
+        // tests/test_pokerlater.py checks the Python converter against the
+        // same file, so the two converters cannot drift apart.
+        let lines = pokerlater::log_lines(&pokerlater_export(), &normalize_player_name).unwrap();
+        let golden =
+            fs::read_to_string("tests/fixtures/poker_night_20261021_pokerlater.lines.csv").unwrap();
+        assert_eq!(lines.join("\n"), golden);
     }
 
     #[test]
